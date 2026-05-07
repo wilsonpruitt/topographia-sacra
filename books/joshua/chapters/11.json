@@ -1,0 +1,132 @@
+{
+  "title": "The Northern Campaign",
+  "places": [
+    "hazor", "madon", "shimron", "achshaph", "chinneroth", "dor", "mount-hermon",
+    "merom", "sidon", "misrephoth-maim", "mount-halak", "baal-gad",
+    "gibeon", "goshen-of-judah", "hebron", "debir", "anab", "gaza", "gath", "ashdod"
+  ],
+  "view": {
+    "center": [32.0, 35.3],
+    "zoom": 7
+  },
+  "verses": [
+    {
+      "n": 1,
+      "html": "When Jabin king of <span class=\"place\" data-key=\"hazor\">Hazor</span> heard of it, he sent to Jobab king of <span class=\"place\" data-key=\"madon\">Madon</span><sup class=\"footnote-marker\">1</sup>, to the king of <span class=\"place\" data-key=\"shimron\">Shimron</span>, to the king of <span class=\"place\" data-key=\"achshaph\">Achshaph</span><sup class=\"footnote-marker\">2</sup>,"
+    },
+    {
+      "n": 2,
+      "html": "and to the kings who were on the north, in the hill country, in the Arabah south of <span class=\"place\" data-key=\"chinneroth\">Chinneroth</span>, in the lowland, and in the heights of <span class=\"place\" data-key=\"dor\">Dor</span> on the west,"
+    },
+    {
+      "n": 3,
+      "html": "to the Canaanite on the east and on the west, and the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the hill country, and the Hivite under <span class=\"place\" data-key=\"mount-hermon\">Hermon</span> in the land of Mizpah."
+    },
+    {
+      "n": 4,
+      "html": "They went out, they and all their armies with them, many people, even as the sand that is on the seashore in multitude, with very many horses and chariots."
+    },
+    {
+      "n": 5,
+      "html": "All these kings met together; and they came and encamped together at the <span class=\"place\" data-key=\"merom\">waters of Merom</span><sup class=\"footnote-marker\">3</sup>, to fight with Israel."
+    },
+    {
+      "n": 6,
+      "html": "Yahweh said to Joshua, “Don’t be afraid because of them; for tomorrow at this time, I will deliver them up all slain before Israel. You shall hamstring their horses and burn their chariots with fire.”"
+    },
+    {
+      "n": 7,
+      "html": "So Joshua came, and all the people of war with him, against them by the <span class=\"place\" data-key=\"merom\">waters of Merom</span> suddenly, and fell on them."
+    },
+    {
+      "n": 8,
+      "html": "Yahweh delivered them into the hand of Israel, and they struck them, and chased them to great <span class=\"place\" data-key=\"sidon\">Sidon</span>, and to <span class=\"place\" data-key=\"misrephoth-maim\">Misrephoth Maim</span><sup class=\"footnote-marker\">4</sup>, and to the valley of Mizpeh eastward. They struck them until they left them no one remaining."
+    },
+    {
+      "n": 9,
+      "html": "Joshua did to them as Yahweh told him. He hamstrung their horses and burned their chariots with fire."
+    },
+    {
+      "n": 10,
+      "html": "Joshua turned back at that time, and took <span class=\"place\" data-key=\"hazor\">Hazor</span>, and struck its king with the sword: for <span class=\"place\" data-key=\"hazor\">Hazor</span> used to be the head of all those kingdoms."
+    },
+    {
+      "n": 11,
+      "html": "They struck all the souls who were in it with the edge of the sword, utterly destroying them. There was no one left who breathed. He burnt <span class=\"place\" data-key=\"hazor\">Hazor</span> with fire."
+    },
+    {
+      "n": 12,
+      "html": "Joshua captured all the cities of those kings, with all their kings, and he struck them with the edge of the sword, and utterly destroyed them; as Moses the servant of Yahweh commanded."
+    },
+    {
+      "n": 13,
+      "html": "But as for the cities that stood on their mounds, Israel burned none of them, except <span class=\"place\" data-key=\"hazor\">Hazor</span> only. Joshua burned that."
+    },
+    {
+      "n": 14,
+      "html": "The children of Israel took all the plunder of these cities, with the livestock, as plunder for themselves; but every man they struck with the edge of the sword, until they had destroyed them. They didn’t leave any who breathed."
+    },
+    {
+      "n": 15,
+      "html": "As Yahweh commanded Moses his servant, so Moses commanded Joshua. Joshua did so. He left nothing undone of all that Yahweh commanded Moses."
+    },
+    {
+      "n": 16,
+      "html": "So Joshua captured all that land, the hill country, all the South, all the land of <span class=\"place\" data-key=\"goshen-of-judah\">Goshen</span>, the lowland, the Arabah, the hill country of Israel, and the lowland of the same;"
+    },
+    {
+      "n": 17,
+      "html": "from <span class=\"place\" data-key=\"mount-halak\">Mount Halak</span><sup class=\"footnote-marker\">5</sup>, that goes up to Seir, even to <span class=\"place\" data-key=\"baal-gad\">Baal Gad</span><sup class=\"footnote-marker\">6</sup> in the valley of Lebanon under <span class=\"place\" data-key=\"mount-hermon\">Mount Hermon</span>. He took all their kings, struck them, and put them to death."
+    },
+    {
+      "n": 18,
+      "html": "Joshua made war a long time with all those kings."
+    },
+    {
+      "n": 19,
+      "html": "There was not a city that made peace with the children of Israel, except the Hivites, the inhabitants of <span class=\"place\" data-key=\"gibeon\">Gibeon</span>. They took all in battle."
+    },
+    {
+      "n": 20,
+      "html": "For it was of Yahweh to harden their hearts, to come against Israel in battle, that he might utterly destroy them, that they might have no favor, but that he might destroy them, as Yahweh commanded Moses."
+    },
+    {
+      "n": 21,
+      "html": "Joshua came at that time, and cut off the Anakim from the hill country, from <span class=\"place\" data-key=\"hebron\">Hebron</span>, from <span class=\"place\" data-key=\"debir\">Debir</span>, from <span class=\"place\" data-key=\"anab\">Anab</span>, and from all the hill country of Judah, and from all the hill country of Israel: Joshua utterly destroyed them with their cities."
+    },
+    {
+      "n": 22,
+      "html": "There were none of the Anakim left in the land of the children of Israel. Only in <span class=\"place\" data-key=\"gaza\">Gaza</span>, in <span class=\"place\" data-key=\"gath\">Gath</span>, and in <span class=\"place\" data-key=\"ashdod\">Ashdod</span>, did some remain."
+    },
+    {
+      "n": 23,
+      "html": "So Joshua took the whole land, according to all that Yahweh spoke to Moses; and Joshua gave it for an inheritance to Israel according to their divisions by their tribes. The land had rest from war."
+    }
+  ],
+  "footnotes": [
+    {
+      "marker": "1",
+      "html": "<em>Madon.</em> Identification disputed. Qarn Hattin (the Horns of Hattin) is the traditional candidate; Tel Madin and other sites in lower Galilee have been proposed. The pin marks Qarn Hattin. <em>ABD</em> 4:469."
+    },
+    {
+      "marker": "2",
+      "html": "<em>Achshaph.</em> Identification disputed. Tell Keisan in the Acco plain is the leading current candidate, with Tell el-Harbaj its principal rival. The pin marks Tell Keisan. <em>ABD</em> 1:55."
+    },
+    {
+      "marker": "3",
+      "html": "<em>The waters of Merom.</em> Identification debated. The traditional view places the waters at Lake Hula in the upper Jordan valley; more recent scholarship identifies Merom with Tell Meron in upper Galilee, the “waters” being a nearby spring. The pin marks the traditional Hula location. <em>ABD</em> 4:706."
+    },
+    {
+      "marker": "4",
+      "html": "<em>Misrephoth Maim.</em> Identification uncertain. Khirbet el-Mishrefeh on the coast S of Tyre is the leading candidate; the Hebrew name (“burnings of waters”) may refer to hot springs in the area. The pin marks the candidate site. <em>ABD</em> 4:881."
+    },
+    {
+      "marker": "5",
+      "html": "<em>Mount Halak.</em> The “Smooth Mountain,” named as the southern boundary of conquest. Identification not settled; Jebel Halaq in the Negev highlands is the traditional candidate, but the broad description in the verse — “that goes up to Seir” — leaves the precise locus open. <em>ABD</em> 3:25."
+    },
+    {
+      "marker": "6",
+      "html": "<em>Baal Gad.</em> Named as the northern boundary, “in the valley of Lebanon under Mount Hermon.” Candidates cluster in the upper Beqa valley and around the foot of Hermon, with Hasbaya and the area around Banias most often proposed; no site is certain. <em>ABD</em> 1:545."
+    }
+  ]
+}
