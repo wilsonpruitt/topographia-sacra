@@ -104,6 +104,13 @@
           28,
           30
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          9
+        ]
       }
     ]
   },
@@ -272,6 +279,14 @@
         "verses": [
           1,
           10
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          1,
+          7
         ]
       }
     ]
@@ -611,6 +626,13 @@
         "verses": [
           16
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          3
+        ]
       }
     ]
   },
@@ -805,6 +827,13 @@
           5,
           23
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          10
+        ]
       }
     ]
   },
@@ -833,6 +862,20 @@
           37,
           39
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          21
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          10
+        ]
       }
     ]
   },
@@ -857,6 +900,13 @@
           3,
           5,
           23
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          11
         ]
       }
     ]
@@ -886,6 +936,13 @@
           32,
           33,
           34
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          11
         ]
       }
     ]
@@ -924,6 +981,13 @@
           34,
           36,
           37
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          12
         ]
       }
     ]
@@ -1011,6 +1075,13 @@
           28,
           29
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          16
+        ]
       }
     ]
   },
@@ -1071,6 +1142,13 @@
           32,
           39
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          15
+        ]
       }
     ]
   },
@@ -1093,6 +1171,13 @@
         "chapter": 10,
         "verses": [
           33
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          12
         ]
       }
     ]
@@ -1128,6 +1213,20 @@
         "verses": [
           38,
           39
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          21
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          13
         ]
       }
     ]
@@ -1175,6 +1274,13 @@
         "verses": [
           41
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          22
+        ]
       }
     ]
   },
@@ -1196,6 +1302,951 @@
         "chapter": 10,
         "verses": [
           41
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          16
+        ]
+      }
+    ]
+  },
+  "hazor": {
+    "name": "Hazor",
+    "name_alt": [
+      "Tell el-Qedah",
+      "Tel Hazor"
+    ],
+    "coords": [
+      32.989,
+      35.567
+    ],
+    "tier": "identified",
+    "id": "Tell el-Qedah, the largest mound in the southern Levant (c. 200 acres), in the Huleh basin of upper Galilee. The Bronze Age regional capital, named in Egyptian execration texts and the Mari archives; identified by Garstang and excavated by Yadin and Ben-Tor.",
+    "abd": "3:87",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          1,
+          10,
+          11,
+          13
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          19
+        ]
+      }
+    ]
+  },
+  "madon": {
+    "name": "Madon",
+    "name_alt": [
+      "Khirbet Madin",
+      "Qarn Hattin"
+    ],
+    "coords": [
+      32.811,
+      35.43
+    ],
+    "tier": "conjectural",
+    "id": "Identification disputed. Qarn Hattin / Khirbet Madin (the Horns of Hattin) is the traditional candidate; Tel Madin and other sites in lower Galilee have been proposed.",
+    "abd": "4:469",
+    "alternatives": [
+      {
+        "site": "Qarn Hattin",
+        "source": "traditional"
+      },
+      {
+        "site": "Tel Madin",
+        "source": "modern proposals"
+      }
+    ],
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          1
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          19
+        ]
+      }
+    ]
+  },
+  "shimron": {
+    "name": "Shimron",
+    "name_alt": [
+      "Khirbet Sammuniyeh",
+      "Tell Shimron"
+    ],
+    "coords": [
+      32.704,
+      35.224
+    ],
+    "tier": "identified",
+    "id": "Tell Shimron (Khirbet Sammuniyeh), c. 8 km W of Nazareth on the southern edge of the Beth Netofa valley. A major Late Bronze and Iron Age fortified site.",
+    "abd": "5:1219",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          1
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          20
+        ]
+      }
+    ]
+  },
+  "achshaph": {
+    "name": "Achshaph",
+    "name_alt": [
+      "Tell Keisan",
+      "Tell el-Harbaj"
+    ],
+    "coords": [
+      32.815,
+      35.156
+    ],
+    "tier": "conjectural",
+    "id": "Identification disputed. Tell Keisan in the Acco plain is the leading current candidate; Tell el-Harbaj and other sites have been proposed.",
+    "abd": "1:55",
+    "alternatives": [
+      {
+        "site": "Tell Keisan",
+        "source": "Aharoni; current consensus"
+      },
+      {
+        "site": "Tell el-Harbaj",
+        "source": "older proposals"
+      }
+    ],
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          1
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          20
+        ]
+      }
+    ]
+  },
+  "chinneroth": {
+    "name": "Chinneroth",
+    "name_alt": [
+      "Tel Kinrot",
+      "Tell el-Oreimeh",
+      "Sea of Chinneroth (= Sea of Galilee)"
+    ],
+    "coords": [
+      32.89,
+      35.566
+    ],
+    "tier": "identified",
+    "id": "Tel Kinrot (Tell el-Oreimeh) on the NW shore of the Sea of Galilee. The name also designates the lake itself in the Hebrew Bible (the Sea of Chinneroth, later Lake Gennesaret).",
+    "abd": "1:909",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          2
+        ]
+      }
+    ]
+  },
+  "dor": {
+    "name": "Dor",
+    "name_alt": [
+      "Tel Dor",
+      "Khirbet el-Burj"
+    ],
+    "coords": [
+      32.617,
+      34.918
+    ],
+    "tier": "identified",
+    "id": "Tel Dor on the Mediterranean coast, c. 30 km S of Haifa. A major harbor town through the Bronze and Iron Ages; identified securely by name continuity and confirmed by excavation.",
+    "abd": "2:223",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          2
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          23
+        ]
+      }
+    ]
+  },
+  "mount-hermon": {
+    "name": "Mount Hermon",
+    "name_alt": [
+      "Jebel esh-Sheikh",
+      "Har Hermon"
+    ],
+    "coords": [
+      33.42,
+      35.85
+    ],
+    "tier": "identified",
+    "id": "The southern peak of the anti-Lebanon range, 2,814 m above sea level — the highest point in the region. Marks the northern boundary of Israelite territorial claims in the conquest narrative.",
+    "abd": "3:158",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "merom": {
+    "name": "The Waters of Merom",
+    "name_alt": [
+      "mei merom"
+    ],
+    "coords": [
+      32.969,
+      35.486
+    ],
+    "tier": "conjectural",
+    "id": "Identification debated. The traditional view places the waters at Lake Hula in the upper Jordan valley; more recent proposals identify Merom with Meron (Tell Meron) in upper Galilee, with the “waters” being a nearby spring or wadi.",
+    "abd": "4:706",
+    "alternatives": [
+      {
+        "site": "Lake Hula",
+        "source": "traditional"
+      },
+      {
+        "site": "Tell Meron / nearby spring",
+        "source": "Aharoni; modern proposals"
+      }
+    ],
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  "sidon": {
+    "name": "Sidon",
+    "name_alt": [
+      "Saida",
+      "Tsidon"
+    ],
+    "coords": [
+      33.56,
+      35.371
+    ],
+    "tier": "identified",
+    "id": "Modern Saida on the Lebanese coast, c. 40 km S of Beirut. A major Phoenician city through the Bronze and Iron Ages; named in this chapter as the northwestern reach of the Israelite pursuit (\"great Sidon\").",
+    "abd": "6:17",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          8
+        ]
+      }
+    ]
+  },
+  "misrephoth-maim": {
+    "name": "Misrephoth Maim",
+    "name_alt": [
+      "Khirbet el-Mishrefeh"
+    ],
+    "coords": [
+      33.078,
+      35.11
+    ],
+    "tier": "conjectural",
+    "id": "Identification uncertain. Khirbet el-Mishrefeh on the coast S of Tyre is the leading candidate; the Hebrew name (\"burnings of waters\") may refer to hot springs in the area.",
+    "abd": "4:881",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          8
+        ]
+      }
+    ]
+  },
+  "mount-halak": {
+    "name": "Mount Halak",
+    "name_alt": [
+      "the Smooth Mountain",
+      "Jebel Halaq"
+    ],
+    "coords": [
+      30.52,
+      34.7
+    ],
+    "tier": "conjectural",
+    "id": "The \"Smooth Mountain,\" named as the southern boundary of Israelite conquest. Identification not settled; Jebel Halaq in the Negev highlands is the traditional candidate.",
+    "abd": "3:25",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          17
+        ]
+      }
+    ]
+  },
+  "baal-gad": {
+    "name": "Baal Gad",
+    "name_alt": [],
+    "coords": [
+      33.45,
+      35.87
+    ],
+    "tier": "conjectural",
+    "id": "A site \"in the valley of Lebanon under Mount Hermon,\" named as the northern boundary of conquest. Identification disputed; candidates include sites in the upper Beqa valley, with Hasbaya and the area around Banias most often proposed.",
+    "abd": "1:545",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          17
+        ]
+      }
+    ]
+  },
+  "anab": {
+    "name": "Anab",
+    "name_alt": [
+      "Khirbet ʿAnab"
+    ],
+    "coords": [
+      31.434,
+      34.965
+    ],
+    "tier": "identified",
+    "id": "Khirbet ʿAnab, c. 18 km SSW of Hebron in the southern Judean hill country. One of the cities purged of the Anakim by Joshua.",
+    "abd": "1:222",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          21
+        ]
+      }
+    ]
+  },
+  "gath": {
+    "name": "Gath",
+    "name_alt": [
+      "Tell es-Safi",
+      "Tel Tzafit"
+    ],
+    "coords": [
+      31.7,
+      34.847
+    ],
+    "tier": "identified",
+    "id": "Tell es-Safi, in the Shephelah on the eastern edge of the coastal plain. The largest of the Philistine pentapolis cities by the Iron Age; long misidentified, then secured by Bunimovitz and Maeir's recent excavations.",
+    "abd": "2:908",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          22
+        ]
+      }
+    ]
+  },
+  "ashdod": {
+    "name": "Ashdod",
+    "name_alt": [
+      "Tell Ashdod",
+      "Esdoudi"
+    ],
+    "coords": [
+      31.76,
+      34.66
+    ],
+    "tier": "identified",
+    "id": "Tell Ashdod, c. 6 km inland from the Mediterranean. One of the five Philistine pentapolis cities; identified securely on the basis of toponymic continuity.",
+    "abd": "1:478",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 11,
+        "verses": [
+          22
+        ]
+      }
+    ]
+  },
+  "heshbon": {
+    "name": "Heshbon",
+    "name_alt": [
+      "Tell Hesban",
+      "Esebon"
+    ],
+    "coords": [
+      31.802,
+      35.812
+    ],
+    "tier": "probable",
+    "id": "Tell Hesban, on the plateau east of the Dead Sea c. 25 km SW of Amman. The traditional identification, though excavation has shown only minimal Late Bronze occupation — Sihon's kingdom, like Ai, sits awkwardly with the available stratigraphy.",
+    "abd": "3:181",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          2,
+          5
+        ]
+      }
+    ]
+  },
+  "ashtaroth": {
+    "name": "Ashtaroth",
+    "name_alt": [
+      "Tell Ashtarah",
+      "Astaroth"
+    ],
+    "coords": [
+      32.797,
+      36.02
+    ],
+    "tier": "identified",
+    "id": "Tell Ashtarah in the Hauran of southern Syria, c. 35 km E of the Sea of Galilee. The royal city of Og of Bashan; identified on the basis of Egyptian texts (the Anastasi Papyri) and the Amarna letters.",
+    "abd": "1:491",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          4
+        ]
+      }
+    ]
+  },
+  "arnon": {
+    "name": "The Arnon",
+    "name_alt": [
+      "Wadi Mujib",
+      "Arnon River"
+    ],
+    "coords": [
+      31.48,
+      35.62
+    ],
+    "tier": "identified",
+    "id": "Wadi Mujib, the canyon-like river system that empties into the eastern shore of the Dead Sea. Forms the historical boundary between Moab to the south and the kingdom of Sihon to the north.",
+    "abd": "1:399",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          1,
+          2
+        ]
+      }
+    ]
+  },
+  "aroer": {
+    "name": "Aroer",
+    "name_alt": [
+      "Khirbet ʿArair",
+      "ʿAraʿir"
+    ],
+    "coords": [
+      31.475,
+      35.722
+    ],
+    "tier": "identified",
+    "id": "Khirbet ʿArair, on the north rim of the Arnon canyon. Identified by Robinson and confirmed by excavation; multiple Aroers exist in the OT, but the toponym + canyon-edge geography is decisive here.",
+    "abd": "1:399",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          2
+        ]
+      }
+    ]
+  },
+  "jabbok": {
+    "name": "The Jabbok",
+    "name_alt": [
+      "Wadi Zarqa",
+      "Nahal Yabbok"
+    ],
+    "coords": [
+      32.115,
+      35.56
+    ],
+    "tier": "identified",
+    "id": "Wadi Zarqa, the major eastern tributary of the Jordan, joining it c. 40 km N of the Dead Sea. Named here as the boundary between the kingdoms of Sihon (Heshbon) and the Ammonites.",
+    "abd": "3:587",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          2
+        ]
+      }
+    ]
+  },
+  "beth-jeshimoth": {
+    "name": "Beth Jeshimoth",
+    "name_alt": [
+      "Tell el-ʿAzeimeh"
+    ],
+    "coords": [
+      31.806,
+      35.66
+    ],
+    "tier": "conjectural",
+    "id": "Tell el-ʿAzeimeh, on the NE shore of the Dead Sea opposite Jericho. Identification probable but not confirmed by excavation.",
+    "abd": "1:687",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          3
+        ]
+      }
+    ]
+  },
+  "pisgah": {
+    "name": "Pisgah",
+    "name_alt": [
+      "Ras es-Siyaghah",
+      "Mount Nebo"
+    ],
+    "coords": [
+      31.769,
+      35.73
+    ],
+    "tier": "identified",
+    "id": "The ridge above the Plains of Moab, including Mount Nebo (Ras es-Siyaghah / Jebel Siyagha) — Moses' viewpoint over the land in Deuteronomy 34. The \"slopes of Pisgah\" descend westward toward the Dead Sea.",
+    "abd": "5:373",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          3
+        ]
+      }
+    ]
+  },
+  "edrei": {
+    "name": "Edrei",
+    "name_alt": [
+      "Daraa",
+      "Adraa"
+    ],
+    "coords": [
+      32.625,
+      36.106
+    ],
+    "tier": "identified",
+    "id": "Modern Daraa in southern Syria, on the historic Damascus-Amman road. One of the two royal cities of Og of Bashan, alongside Ashtaroth.",
+    "abd": "2:309",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          4
+        ]
+      }
+    ]
+  },
+  "salecah": {
+    "name": "Salecah",
+    "name_alt": [
+      "Salkhad"
+    ],
+    "coords": [
+      32.49,
+      36.711
+    ],
+    "tier": "identified",
+    "id": "Modern Salkhad on the southern slopes of Jebel Druze in the Hauran. The toponym is preserved continuously; Iron Age occupation has been confirmed.",
+    "abd": "5:902",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          5
+        ]
+      }
+    ]
+  },
+  "geder": {
+    "name": "Geder",
+    "name_alt": [],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Named only in Joshua 12:13, with no other biblical attestation and no proposed identification with extant remains. The Hebrew is a common noun (\"wall\" / \"enclosure\"), and some have argued the verse names a topographic feature rather than a city.",
+    "abd": "2:923",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          13
+        ]
+      }
+    ]
+  },
+  "hormah": {
+    "name": "Hormah",
+    "name_alt": [
+      "Tel Masos",
+      "Tel Halif",
+      "Zephath"
+    ],
+    "coords": [
+      31.29,
+      34.707
+    ],
+    "tier": "conjectural",
+    "id": "Identification disputed. Tel Masos (in the Beersheba basin) and Tel Halif have both been proposed; the older identification with Tell esh-Sheriah is now generally rejected.",
+    "abd": "3:288",
+    "alternatives": [
+      {
+        "site": "Tel Masos",
+        "source": "Aharoni; current preference"
+      },
+      {
+        "site": "Tel Halif",
+        "source": "alternative current proposal"
+      }
+    ],
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          14
+        ]
+      }
+    ]
+  },
+  "arad": {
+    "name": "Arad",
+    "name_alt": [
+      "Tel Arad",
+      "Tell ʿArad"
+    ],
+    "coords": [
+      31.282,
+      35.126
+    ],
+    "tier": "identified",
+    "id": "Tel Arad in the eastern Negev, c. 30 km E of Beersheba. Securely identified, but excavation has shown no Late Bronze occupation — the conquest narrative for Arad sits in the same stratigraphic difficulty as Ai and Heshbon.",
+    "abd": "1:331",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          14
+        ]
+      }
+    ]
+  },
+  "adullam": {
+    "name": "Adullam",
+    "name_alt": [
+      "Khirbet esh-Sheikh Madhkur",
+      "Tel ʿAdullam"
+    ],
+    "coords": [
+      31.652,
+      34.989
+    ],
+    "tier": "identified",
+    "id": "Tel ʿAdullam (Khirbet esh-Sheikh Madhkur), in the Shephelah c. 25 km SW of Jerusalem. Better known as the cave-refuge of David in 1 Samuel 22.",
+    "abd": "1:80",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          15
+        ]
+      }
+    ]
+  },
+  "tappuah": {
+    "name": "Tappuah",
+    "name_alt": [
+      "Sheikh Abu Zarad",
+      "Tell Abu Zarad"
+    ],
+    "coords": [
+      32.155,
+      35.196
+    ],
+    "tier": "probable",
+    "id": "Sheikh Abu Zarad, in the central hill country c. 13 km SSW of Shechem. Identification on toponymic and geographic grounds; Iron Age occupation confirmed by survey.",
+    "abd": "6:319",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          17
+        ]
+      }
+    ]
+  },
+  "hepher": {
+    "name": "Hepher",
+    "name_alt": [
+      "Tell el-Muḥaffar"
+    ],
+    "coords": [
+      32.53,
+      35.23
+    ],
+    "tier": "conjectural",
+    "id": "Identification disputed. Tell el-Muḥaffar in the western Jezreel hills is one current proposal; other sites have been suggested.",
+    "abd": "3:138",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          17
+        ]
+      }
+    ]
+  },
+  "aphek": {
+    "name": "Aphek",
+    "name_alt": [
+      "Tel Aphek",
+      "Tell Ras el-ʿAin",
+      "Antipatris"
+    ],
+    "coords": [
+      32.103,
+      34.935
+    ],
+    "tier": "probable",
+    "id": "Tel Aphek (Tell Ras el-ʿAin), at the headwaters of the Yarkon in the Sharon plain. Multiple Apheks appear in the OT — see footnote — but this listing in Joshua 12 is most often identified with the Sharon site.",
+    "abd": "1:275",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          18
+        ]
+      }
+    ]
+  },
+  "lasharon": {
+    "name": "Lasharon",
+    "name_alt": [],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Named only in Joshua 12:18, with no other biblical attestation. Some scholars take the Hebrew as a corruption of \"to Sharon\" (the coastal region) rather than a place name; the LXX appears to read it as a description of Aphek.",
+    "abd": "4:233",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          18
+        ]
+      }
+    ]
+  },
+  "taanach": {
+    "name": "Taanach",
+    "name_alt": [
+      "Tell Taʿannak",
+      "Tel Taanach"
+    ],
+    "coords": [
+      32.518,
+      35.218
+    ],
+    "tier": "identified",
+    "id": "Tell Taʿannak, on the southern edge of the Jezreel valley c. 8 km SE of Megiddo. A major Late Bronze and Iron Age site; identified by toponym and confirmed by excavation.",
+    "abd": "6:287",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          21
+        ]
+      }
+    ]
+  },
+  "megiddo": {
+    "name": "Megiddo",
+    "name_alt": [
+      "Tel Megiddo",
+      "Tell el-Mutesellim",
+      "Armageddon (Greek)"
+    ],
+    "coords": [
+      32.585,
+      35.183
+    ],
+    "tier": "identified",
+    "id": "Tel Megiddo, the great mound on the southwestern edge of the Jezreel valley controlling the Aruna pass. One of the most thoroughly excavated sites in Israel; named in Egyptian, Assyrian, and biblical texts.",
+    "abd": "4:666",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          21
+        ]
+      }
+    ]
+  },
+  "kedesh": {
+    "name": "Kedesh",
+    "name_alt": [
+      "Tell Qades",
+      "Kedesh-Naphtali"
+    ],
+    "coords": [
+      33.118,
+      35.529
+    ],
+    "tier": "identified",
+    "id": "Tell Qades, in upper Galilee c. 15 km NW of Hazor. Multiple Kedeshes exist; the Joshua 12 listing is identified with Kedesh-Naphtali (cf. Joshua 19:37, 20:7) on the basis of geographic context.",
+    "abd": "4:11",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          22
+        ]
+      }
+    ]
+  },
+  "jokneam": {
+    "name": "Jokneam",
+    "name_alt": [
+      "Tell Qaymun",
+      "Tel Yokneam"
+    ],
+    "coords": [
+      32.66,
+      35.105
+    ],
+    "tier": "identified",
+    "id": "Tell Qaymun, on the western edge of the Jezreel valley at the foot of Mount Carmel. Identified by toponym; confirmed by excavation.",
+    "abd": "3:937",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          22
+        ]
+      }
+    ]
+  },
+  "mount-carmel": {
+    "name": "Mount Carmel",
+    "name_alt": [
+      "Har Karmel",
+      "Jebel Mar Elias"
+    ],
+    "coords": [
+      32.733,
+      35.0
+    ],
+    "tier": "identified",
+    "id": "The mountain ridge running c. 25 km NW from the Jezreel valley to the Mediterranean coast at modern Haifa. Named here as the locating context of Jokneam (\"Jokneam in Carmel\").",
+    "abd": "1:874",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          22
+        ]
+      }
+    ]
+  },
+  "tirzah": {
+    "name": "Tirzah",
+    "name_alt": [
+      "Tell el-Farʿah (North)"
+    ],
+    "coords": [
+      32.276,
+      35.336
+    ],
+    "tier": "identified",
+    "id": "Tell el-Farʿah (North), c. 11 km NE of Shechem. Later the first capital of the northern kingdom of Israel before Omri's move to Samaria; identified securely by de Vaux.",
+    "abd": "6:573",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 12,
+        "verses": [
+          24
         ]
       }
     ]

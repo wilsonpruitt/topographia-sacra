@@ -38,6 +38,44 @@ I (Claude) drafted gazetteer entries without having ABD volumes in front of me. 
 - [ ] `kadesh-barnea` — claimed `4:1`
 - [ ] `gaza` — claimed `2:912`
 - [ ] `goshen-of-judah` — claimed `2:1077`
+- [ ] `hazor` — claimed `3:87`
+- [ ] `madon` — claimed `4:469`
+- [ ] `shimron` — claimed `5:1219`
+- [ ] `achshaph` — claimed `1:55`
+- [ ] `chinneroth` — claimed `1:909`
+- [ ] `dor` — claimed `2:223`
+- [ ] `mount-hermon` — claimed `3:158`
+- [ ] `merom` — claimed `4:706`
+- [ ] `sidon` — claimed `6:17`
+- [ ] `misrephoth-maim` — claimed `4:881`
+- [ ] `mount-halak` — claimed `3:25`
+- [ ] `baal-gad` — claimed `1:545`
+- [ ] `anab` — claimed `1:222`
+- [ ] `gath` — claimed `2:908`
+- [ ] `ashdod` — claimed `1:478`
+- [ ] `heshbon` — claimed `3:181`
+- [ ] `ashtaroth` — claimed `1:491`
+- [ ] `arnon` — claimed `1:399`
+- [ ] `aroer` — claimed `1:399`
+- [ ] `jabbok` — claimed `3:587`
+- [ ] `beth-jeshimoth` — claimed `1:687`
+- [ ] `pisgah` — claimed `5:373`
+- [ ] `edrei` — claimed `2:309`
+- [ ] `salecah` — claimed `5:902`
+- [ ] `geder` — claimed `2:923`
+- [ ] `hormah` — claimed `3:288`
+- [ ] `arad` — claimed `1:331`
+- [ ] `adullam` — claimed `1:80`
+- [ ] `tappuah` — claimed `6:319`
+- [ ] `hepher` — claimed `3:138`
+- [ ] `aphek` — claimed `1:275`
+- [ ] `lasharon` — claimed `4:233`
+- [ ] `taanach` — claimed `6:287`
+- [ ] `megiddo` — claimed `4:666`
+- [ ] `kedesh` — claimed `4:11`
+- [ ] `jokneam` — claimed `3:937`
+- [ ] `mount-carmel` — claimed `1:874`
+- [ ] `tirzah` — claimed `6:573`
 
 ## Identifications and coordinates
 
@@ -58,6 +96,14 @@ Pin choices made on best understanding of current scholarship; flag if a differe
 - [ ] **Debir** (`[31.4011, 35.0167]`, Khirbet Rabud). Confirm Kochavi's identification has held.
 - [ ] **Goshen-of-Judah** (`[31.3800, 34.9000]`). Region with no precise center — verify the regional-pin approach is acceptable, or refine the location.
 - [ ] **Beth Horon** — pin marks Upper Beth Horon (Beit ʿUr al-Foqa). Coordinates of upper village need verification; lower village (Beit ʿUr al-Tahta) is mentioned in the entry but not separately pinned.
+- [ ] **Madon** (Qarn Hattin). Verify Qarn Hattin remains a defensible primary, vs Tel Madin.
+- [ ] **Achshaph** (Tell Keisan). Confirm consensus.
+- [ ] **Merom** (`[32.969, 35.486]`, Lake Hula default). Pin sits at the traditional Hula identification; the Tell Meron alternative is increasingly favored. Decide whether to switch.
+- [ ] **Misrephoth Maim, Mount Halak, Baal Gad** — all conjectural; coordinates approximate. Verify or downgrade tier as appropriate.
+- [ ] **Heshbon, Arad** — both have the Late-Bronze stratigraphic problem (no LB occupation despite the conquest narrative). Decide whether to add a footnote in their first respective chapters of action (Heshbon currently footnoted nowhere; Arad currently footnoted nowhere). The chapter-12 listing is too thin to carry the discussion; might want a footnote when these places appear in narrative chapters (Heshbon in Numbers-territory; Arad never gets a real Joshua chapter beyond 12).
+- [ ] **Shimron Meron** (12:20). Treated as a single tag pointing at `shimron`. Some scholars treat “Shimron Meron” as a scribal join of Shimron + Meron (and notice the LXX has separate kings, hitting 32 not 31). Decide whether to disambiguate.
+- [ ] **Goyim in Gilgal** (12:23). Tag intentionally omitted; footnote explains. If you'd prefer a Galilean Gilgal pin (e.g. Jiljulieh) flag here.
+- [ ] **Multiple Apheks** (12:18). Verify the Sharon Aphek is the right primary.
 
 ## Footnote coverage decisions
 
@@ -78,6 +124,8 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Joshua 8
 - [ ] Joshua 9
 - [ ] Joshua 10
+- [ ] Joshua 11
+- [ ] Joshua 12
 
 ## Site-level
 

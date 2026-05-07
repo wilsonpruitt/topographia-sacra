@@ -1,0 +1,133 @@
+{
+  "title": "Kings Defeated by Joshua",
+  "places": [
+    "jordan", "arnon", "mount-hermon", "heshbon", "aroer", "jabbok",
+    "chinneroth", "dead-sea", "beth-jeshimoth", "pisgah", "ashtaroth", "edrei",
+    "salecah", "baal-gad", "mount-halak",
+    "jericho", "ai", "bethel", "jerusalem", "hebron", "jarmuth", "lachish",
+    "eglon", "gezer", "debir", "geder", "hormah", "arad", "libnah", "adullam",
+    "makkedah", "tappuah", "hepher", "aphek", "lasharon",
+    "madon", "hazor", "shimron", "achshaph", "taanach", "megiddo",
+    "kedesh", "jokneam", "mount-carmel", "dor", "tirzah"
+  ],
+  "view": {
+    "center": [32.0, 35.3],
+    "zoom": 7
+  },
+  "verses": [
+    {
+      "n": 1,
+      "html": "Now these are the kings of the land, whom the children of Israel struck, and possessed their land beyond the <span class=\"place\" data-key=\"jordan\">Jordan</span> toward the sunrise, from the valley of the <span class=\"place\" data-key=\"arnon\">Arnon</span> to <span class=\"place\" data-key=\"mount-hermon\">Mount Hermon</span>, and all the Arabah eastward:"
+    },
+    {
+      "n": 2,
+      "html": "Sihon king of the Amorites, who lived in <span class=\"place\" data-key=\"heshbon\">Heshbon</span>, and ruled from <span class=\"place\" data-key=\"aroer\">Aroer</span>, which is on the edge of the valley of the <span class=\"place\" data-key=\"arnon\">Arnon</span>, and the middle of the valley, and half Gilead, even to the river <span class=\"place\" data-key=\"jabbok\">Jabbok</span>, the border of the children of Ammon;"
+    },
+    {
+      "n": 3,
+      "html": "and the Arabah to the sea of <span class=\"place\" data-key=\"chinneroth\">Chinneroth</span>, eastward, and to the sea of the Arabah, even the <span class=\"place\" data-key=\"dead-sea\">Salt Sea</span>, eastward, the way to <span class=\"place\" data-key=\"beth-jeshimoth\">Beth Jeshimoth</span>; and on the south, under the slopes of <span class=\"place\" data-key=\"pisgah\">Pisgah</span>:"
+    },
+    {
+      "n": 4,
+      "html": "and the border of Og king of Bashan, of the remnant of the Rephaim, who lived at <span class=\"place\" data-key=\"ashtaroth\">Ashtaroth</span> and at <span class=\"place\" data-key=\"edrei\">Edrei</span>,"
+    },
+    {
+      "n": 5,
+      "html": "and ruled in <span class=\"place\" data-key=\"mount-hermon\">Mount Hermon</span>, and in <span class=\"place\" data-key=\"salecah\">Salecah</span>, and in all Bashan, to the border of the Geshurites and the Maacathites, and half Gilead, the border of Sihon king of <span class=\"place\" data-key=\"heshbon\">Heshbon</span>."
+    },
+    {
+      "n": 6,
+      "html": "Moses the servant of Yahweh and the children of Israel struck them. Moses the servant of Yahweh gave it for a possession to the Reubenites, and to the Gadites, and to the half-tribe of Manasseh."
+    },
+    {
+      "n": 7,
+      "html": "These are the kings of the land whom Joshua and the children of Israel struck beyond the <span class=\"place\" data-key=\"jordan\">Jordan</span> westward, from <span class=\"place\" data-key=\"baal-gad\">Baal Gad</span> in the valley of Lebanon even to <span class=\"place\" data-key=\"mount-halak\">Mount Halak</span>, that goes up to Seir. Joshua gave it to the tribes of Israel for a possession according to their divisions;"
+    },
+    {
+      "n": 8,
+      "html": "in the hill country, and in the lowland, and in the Arabah, and in the slopes, and in the wilderness, and in the South; the Hittite, the Amorite, and the Canaanite, the Perizzite, the Hivite, and the Jebusite:"
+    },
+    {
+      "n": 9,
+      "html": "the king of <span class=\"place\" data-key=\"jericho\">Jericho</span>, one; the king of <span class=\"place\" data-key=\"ai\">Ai</span>, that is beside <span class=\"place\" data-key=\"bethel\">Bethel</span>, one;"
+    },
+    {
+      "n": 10,
+      "html": "the king of <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, one; the king of <span class=\"place\" data-key=\"hebron\">Hebron</span>, one;"
+    },
+    {
+      "n": 11,
+      "html": "the king of <span class=\"place\" data-key=\"jarmuth\">Jarmuth</span>, one; the king of <span class=\"place\" data-key=\"lachish\">Lachish</span>, one;"
+    },
+    {
+      "n": 12,
+      "html": "the king of <span class=\"place\" data-key=\"eglon\">Eglon</span>, one; the king of <span class=\"place\" data-key=\"gezer\">Gezer</span>, one;"
+    },
+    {
+      "n": 13,
+      "html": "the king of <span class=\"place\" data-key=\"debir\">Debir</span>, one; the king of <span class=\"place\" data-key=\"geder\">Geder</span><sup class=\"footnote-marker\">1</sup>, one;"
+    },
+    {
+      "n": 14,
+      "html": "the king of <span class=\"place\" data-key=\"hormah\">Hormah</span>, one; the king of <span class=\"place\" data-key=\"arad\">Arad</span>, one;"
+    },
+    {
+      "n": 15,
+      "html": "the king of <span class=\"place\" data-key=\"libnah\">Libnah</span>, one; the king of <span class=\"place\" data-key=\"adullam\">Adullam</span>, one;"
+    },
+    {
+      "n": 16,
+      "html": "the king of <span class=\"place\" data-key=\"makkedah\">Makkedah</span>, one; the king of <span class=\"place\" data-key=\"bethel\">Bethel</span>, one;"
+    },
+    {
+      "n": 17,
+      "html": "the king of <span class=\"place\" data-key=\"tappuah\">Tappuah</span>, one; the king of <span class=\"place\" data-key=\"hepher\">Hepher</span>, one;"
+    },
+    {
+      "n": 18,
+      "html": "the king of <span class=\"place\" data-key=\"aphek\">Aphek</span><sup class=\"footnote-marker\">2</sup>, one; the king of <span class=\"place\" data-key=\"lasharon\">Lasharon</span><sup class=\"footnote-marker\">3</sup>, one;"
+    },
+    {
+      "n": 19,
+      "html": "the king of <span class=\"place\" data-key=\"madon\">Madon</span>, one; the king of <span class=\"place\" data-key=\"hazor\">Hazor</span>, one;"
+    },
+    {
+      "n": 20,
+      "html": "the king of <span class=\"place\" data-key=\"shimron\">Shimron Meron</span>, one; the king of <span class=\"place\" data-key=\"achshaph\">Achshaph</span>, one;"
+    },
+    {
+      "n": 21,
+      "html": "the king of <span class=\"place\" data-key=\"taanach\">Taanach</span>, one; the king of <span class=\"place\" data-key=\"megiddo\">Megiddo</span>, one;"
+    },
+    {
+      "n": 22,
+      "html": "the king of <span class=\"place\" data-key=\"kedesh\">Kedesh</span>, one; the king of <span class=\"place\" data-key=\"jokneam\">Jokneam</span> in <span class=\"place\" data-key=\"mount-carmel\">Carmel</span>, one;"
+    },
+    {
+      "n": 23,
+      "html": "the king of <span class=\"place\" data-key=\"dor\">Dor</span> in the height of <span class=\"place\" data-key=\"dor\">Dor</span>, one; the king of Goyim in Gilgal<sup class=\"footnote-marker\">4</sup>, one;"
+    },
+    {
+      "n": 24,
+      "html": "the king of <span class=\"place\" data-key=\"tirzah\">Tirzah</span>, one. All the kings thirty-one."
+    }
+  ],
+  "footnotes": [
+    {
+      "marker": "1",
+      "html": "<em>Geder.</em> Named only here, with no other biblical attestation and no proposed identification with extant remains. The Hebrew is a common noun (“wall” / “enclosure”); some take the verse as naming a topographic feature rather than a city. No pin. <em>ABD</em> 2:923."
+    },
+    {
+      "marker": "2",
+      "html": "<em>Aphek.</em> At least four Apheks appear in the OT, in different regions. The Joshua 12 listing is most often identified with Tel Aphek (Tell Ras el-ʿAin) at the headwaters of the Yarkon in the Sharon plain, on the basis of geographic context within the king-list. The pin marks the Sharon Aphek. <em>ABD</em> 1:275."
+    },
+    {
+      "marker": "3",
+      "html": "<em>Lasharon.</em> Named only here. The Hebrew is sometimes taken as a corruption of <em>la-Sharon</em> (“to Sharon,” the coastal region), making the phrase “the king of Aphek in Sharon” rather than naming two cities; the LXX appears to read it that way. No pin. <em>ABD</em> 4:233."
+    },
+    {
+      "marker": "4",
+      "html": "<em>Goyim in Gilgal.</em> Hebrew <em>melekh-goyim le-gilgal</em>, “king of nations of/at Gilgal.” The Gilgal here is unlikely to be the encampment-Gilgal east of Jericho; a Galilean Gilgal has been proposed, and some manuscripts read “Galilee” (<em>galil</em>) for “Gilgal.” The location is uncertain; no pin. <em>ABD</em> 2:1022."
+    }
+  ]
+}
