@@ -15,7 +15,8 @@
       "identified": "Scholarly consensus, archaeological confirmation",
       "probable": "Leading candidate, some scholarly dispute",
       "conjectural": "Best guess, multiple candidates, or general region only",
-      "unknown": "Named but unlocatable; should NOT appear on a map — list only in gazetteer"
+      "unknown": "Named but unlocatable; should NOT appear on a map — list only in gazetteer",
+      "region": "Approximate region only; pin sits at the regional center with distinctive faint dashed styling, popup notes 'no specific site identified'."
     }
   },
   "jericho": {

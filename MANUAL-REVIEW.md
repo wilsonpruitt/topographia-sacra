@@ -132,6 +132,11 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] GitHub push deferred — `gh` is authed as `littleeachdayapp-droid` but other Wroot Press repos live under `wilsonpruitt`. Decide which account this repo lives under and push.
 - [ ] Vercel project currently deployed via CLI; consider connecting to the GitHub repo for auto-deploys once GitHub is sorted.
 
+## Phase-2 framework data needed
+
+- [ ] **`data/tribal-territories.geojson`** — currently contains only Judah as an approximate placeholder polygon. The other 11 tribes (Reuben, Gad, half-Manasseh-east, Simeon, Benjamin, Ephraim, half-Manasseh-west, Issachar, Zebulun, Asher, Naphtali, Dan) need polygons before chapters 13–19 are built. Sources: openbible.info GeoJSON (CC-BY), or hand-traced from the boundary descriptions in Joshua 13–19 themselves. Mark each `properties.approximate: false` once it reflects sourced data rather than a rectangle.
+- [ ] **Judah polygon refinement.** The current Judah polygon is a 9-vertex rectangle covering hill-country-south-of-Jerusalem to the Negev. The actual boundary description in Joshua 15 is far more detailed (the boundary line "from the bay of the salt sea... to the ascent of Akrabbim... to the wilderness of Zin... to Kadesh-barnea" etc.). Replace before treating Judah as final.
+
 ## How to use this file
 
 When you verify an item, tick the box and (if a value changed) note the correction in the commit message. When a new chapter introduces a new gazetteer entry or contested decision, add it to the relevant section here.

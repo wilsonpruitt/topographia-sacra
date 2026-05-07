@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "_about": "Tribal allotment territories for Joshua 13-21. Polygons are APPROXIMATE bounding shapes only — they do NOT trace the boundary descriptions in the biblical text. Replace with sourced GeoJSON (openbible.info, Macmillan/Carta digitization, or hand-traced from the text) before treating as final. Each feature has properties.tribe (slug, matches chapter JSON tribes[] field), properties.name (display name), and properties.approximate (true means placeholder).",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tribe": "judah",
+        "name": "Judah",
+        "approximate": true,
+        "note": "Placeholder bounds: hill country south of Jerusalem to the Negev, Mediterranean coast to Dead Sea. The biblical boundary description in Joshua 15 is far more detailed than this rectangle."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [34.55, 31.05],
+          [34.92, 31.65],
+          [35.15, 31.78],
+          [35.42, 31.62],
+          [35.50, 31.10],
+          [35.20, 30.55],
+          [34.85, 30.55],
+          [34.55, 30.85],
+          [34.55, 31.05]
+        ]]
+      }
+    }
+  ]
+}

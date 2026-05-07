@@ -39,6 +39,17 @@ To **add a chapter** within an existing book: (1) create `books/{book}/chapters/
 
 To **add a new book**: create `books/{slug}/{meta.json,index.html,chapters/}`, add an entry to `data/books.json`, and append `book: "{slug}"` on each appearance entry as you tag places. The shared gazetteer + renderer + CSS need no changes.
 
+## Renderer affordances (opt-in chapter JSON fields)
+
+The chapter renderer (`assets/chapter.js`) supports four optional fields on chapter JSON beyond the basic verses/places/footnotes/view:
+
+- **`route: ["key1", "key2", ...]`** — draws a sepia dashed polyline through the listed gazetteer keys in narrative order. Used for sequential campaigns (Joshua 10's southern route is the canonical example).
+- **`tribes: ["judah", "benjamin", ...]`** — overlays tribal allotment polygons from `data/tribal-territories.geojson` on the map, with map-gold fill and sepia dashed border. The slug must match `properties.tribe` in the GeoJSON. Used for chapters 13–19 (allotments).
+- **`placeIndex: true`** — renders a "Places in this chapter" alphabetical jump-list panel above the verses. Click any name to activate the corresponding pin. Used for dense list-chapters where readers want quick navigation (ch. 12 onward).
+- **`view: { center: [lat, lng], zoom: N }`** — explicit map framing. Without this, the renderer auto-fits to the chapter's pins.
+
+For the `region` tier specifically: pins render as faint dashed circles without the place-name initial. Use when a place is only locatable to a general region (a wadi, a tribal area, a Shephelah cluster) — preferable to omitting it from the map entirely, more honest than pinning it as `conjectural` at a specific site you can't defend.
+
 ## Visual register
 
 17th-c imprint: laid-paper cream + sepia ink + map-blue accent. Display in **IM Fell English** / **IM Fell English SC** (Igino Marini's digitization of the John Fell types cut for OUP in the 1670s, free on Google Fonts). Body in **EB Garamond**. Chapter pages open with a printed title-block: rule, fleuron (`❦`), thin rule, then book + chapter line in small caps. No engravings or black-letter — typographic ornament only.
@@ -123,9 +134,10 @@ Each chapter's `view` field in `books/{book}/chapters/N.json` sets the initial m
 **Keys** are stable lowercase slugs, hyphenated, used in `data-key=` attributes throughout the chapter HTMLs. Once a key is set, never change it without updating every chapter that references it.
 
 **Tiers:**
-- `identified` — scholarly consensus, archaeological confirmation. Solid fen-blue pin.
-- `probable` — leading candidate, some scholarly dispute. Lighter fen-mist pin.
-- `conjectural` — best guess, multiple candidates, or general region only. Outlined pin.
+- `identified` — scholarly consensus, archaeological confirmation. Solid map-blue pin.
+- `probable` — leading candidate, some scholarly dispute. Lighter map-blue pin.
+- `conjectural` — best guess, multiple candidates, or general region only. Outlined cream pin.
+- `region` — pinned at approximate region with no specific site identification. Faint dashed circle, no letter. Footnote should clarify the regional pinning.
 - `unknown` — named but unlocatable. **No coordinates, no pin** — `coords: null`. Listed in the gazetteer page and in chapter footnotes only.
 
 **Coordinates:** WGS84 decimal degrees, `[lat, lng]`. Source from *ABD*, the *Sacred Bridge* atlas (Rainey & Notley 2006), or Carta's *Bible Atlas*. Round to 4 decimal places (~10m precision is fine; we don't need archaeological precision).
@@ -165,13 +177,13 @@ For each chapter:
 
 ## Known traps
 
-**Chapter 13–21 is a different artifact.** The tribal allotment chapters are dense lists of toponyms — chapter 15 alone names ~120 places, many appearing nowhere else in scripture. A meaningful fraction are unidentified. Before starting these, decide:
+**Chapter 13–21 is a different artifact.** The tribal allotment chapters are dense lists of toponyms — chapter 15 alone names ~120 places, many appearing nowhere else in scripture. A meaningful fraction are unidentified.
 
-1. Whether to overlay tribal allotment polygons on the basemap (yes; data is available from the Macmillan/Carta atlases, or from open-licensed GeoJSON like [openbible.info](https://openbible.info/geo/)).
-2. Whether the reading UI needs a "places by region" sidebar mode for these chapters specifically.
-3. Whether some unidentified-only sites get pinned at their general region (e.g., "somewhere in the Judean Shephelah") with a clearly marked `conjectural` tier and a footnote, vs. omitted from the map entirely.
+Phase-2 architectural decisions (resolved 2026-05-07):
 
-I would *not* try to start chapter 15 without making these decisions first. Chapters 1–12 should be done first; treat 13–21 as a phase 2.
+1. **Tribal allotment polygons** — yes. Renderer supports `tribes: [slug, ...]` field per chapter, reads polygons from `data/tribal-territories.geojson`. Currently only Judah is in the GeoJSON, as a rough placeholder; the rest need real data sourced from openbible.info or hand-traced from the boundary descriptions in the text. See MANUAL-REVIEW.md.
+2. **Reading UI for dense chapters** — alphabetical place-index jump-list panel, opt-in via `placeIndex: true` on chapter JSON. Demonstrated on ch. 12. Chapters 15–19 should set this.
+3. **Unidentified-only sites** — new tier `region`. Pins at the approximate regional center with faint dashed styling (no letter inside). Footnote should clarify "approximate region only." Preferable to either silently omitting or mis-pinning at a single conjectural site.
 
 **Chapter 10 (the long campaign).** Makkedah → Libnah → Lachish → Eglon → Hebron → Debir is a route, not a cluster. Worth considering whether to draw a polyline in narrative order. The renderer doesn't currently support this; if added, do it as an opt-in `route: [key, key, ...]` field in the chapter JSON.
 

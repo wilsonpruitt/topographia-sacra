@@ -53,6 +53,41 @@
   const textCol = document.getElementById("text-col");
   const footnotesEl = document.getElementById("footnotes-list");
 
+  /* Place index panel (opt-in): for dense allotment chapters where
+     readers need a jump-list. Renders before the verses. */
+  if (chapterData.placeIndex) {
+    const indexEl = document.createElement("section");
+    indexEl.className = "place-index";
+    const title = document.createElement("h3");
+    title.textContent = "Places in this chapter";
+    indexEl.appendChild(title);
+    const list = document.createElement("div");
+    list.className = "place-index-list";
+    const sortedPlaces = (chapterData.places || [])
+      .map(k => ({ key: k, ...gazetteer[k] }))
+      .filter(p => p.name)
+      .sort((a, b) => {
+        const an = a.name.replace(/^The\s+/i, "");
+        const bn = b.name.replace(/^The\s+/i, "");
+        return an.localeCompare(bn);
+      });
+    sortedPlaces.forEach(p => {
+      const item = document.createElement("a");
+      item.className = "place-index-item";
+      item.href = "#";
+      item.textContent = p.name;
+      item.dataset.key = p.key;
+      if (p.tier) item.dataset.tier = p.tier;
+      item.addEventListener("click", e => {
+        e.preventDefault();
+        activate(p.key);
+      });
+      list.appendChild(item);
+    });
+    indexEl.appendChild(list);
+    textCol.insertBefore(indexEl, document.getElementById("footnotes"));
+  }
+
   chapterData.verses.forEach(({ n, html }) => {
     const p = document.createElement("p");
     p.className = "verse";
@@ -112,6 +147,32 @@
     marker.on("click", () => activate(p.key));
     markerByKey[p.key] = marker;
   });
+
+  /* ── Tribal territory overlay (opt-in: chapterData.tribes = [slug, ...]) ─ */
+  if (Array.isArray(chapterData.tribes) && chapterData.tribes.length) {
+    try {
+      const tribalData = await fetch("/data/tribal-territories.geojson").then(r => r.json());
+      const matching = (tribalData.features || []).filter(f =>
+        chapterData.tribes.includes(f.properties?.tribe)
+      );
+      matching.forEach(feature => {
+        const layer = L.geoJSON(feature, {
+          style: {
+            color: "#7A5A3A",
+            weight: 1.5,
+            opacity: 0.55,
+            fillColor: "#C9A53A",
+            fillOpacity: 0.10,
+            dashArray: "5 4"
+          }
+        }).addTo(map);
+        const name = feature.properties?.name || feature.properties?.tribe;
+        if (name) layer.bindTooltip(name, { sticky: true, className: "tribe-tooltip" });
+      });
+    } catch (err) {
+      console.warn("Failed to load tribal territories:", err);
+    }
+  }
 
   /* ── Route polyline (opt-in: chapterData.route = [key, key, ...]) ─ */
   if (Array.isArray(chapterData.route) && chapterData.route.length >= 2) {
