@@ -1,0 +1,112 @@
+{
+  "title": "The Twelve Stones",
+  "places": ["jordan", "jericho", "gilgal"],
+  "view": {
+    "center": [31.86, 35.48],
+    "zoom": 11
+  },
+  "verses": [
+    {
+      "n": 1,
+      "html": "When all the nation had completely passed over the <span class=\"place\" data-key=\"jordan\">Jordan</span>, Yahweh spoke to Joshua, saying,"
+    },
+    {
+      "n": 2,
+      "html": "“Take twelve men out of the people, a man out of every tribe,"
+    },
+    {
+      "n": 3,
+      "html": "and command them, saying, ‘Take from out of the middle of the <span class=\"place\" data-key=\"jordan\">Jordan</span>, out of the place where the priests’ feet stood firm, twelve stones, carry them over with you, and lay them down in the lodging place where you’ll lodge tonight.’”"
+    },
+    {
+      "n": 4,
+      "html": "Then Joshua called the twelve men whom he had prepared of the children of Israel, a man out of every tribe."
+    },
+    {
+      "n": 5,
+      "html": "Joshua said to them, “Pass over before the ark of Yahweh your God into the middle of the <span class=\"place\" data-key=\"jordan\">Jordan</span>, and each of you pick up a stone and put it on your shoulder, according to the number of the tribes of the children of Israel;"
+    },
+    {
+      "n": 6,
+      "html": "that this may be a sign among you, that when your children ask in the future, saying, ‘What do you mean by these stones?’"
+    },
+    {
+      "n": 7,
+      "html": "then you shall tell them, ‘Because the waters of the <span class=\"place\" data-key=\"jordan\">Jordan</span> were cut off before the ark of Yahweh’s covenant. When it passed over the <span class=\"place\" data-key=\"jordan\">Jordan</span>, the waters of the <span class=\"place\" data-key=\"jordan\">Jordan</span> were cut off. These stones shall be for a memorial to the children of Israel forever.’”"
+    },
+    {
+      "n": 8,
+      "html": "The children of Israel did as Joshua commanded, and took up twelve stones out of the middle of the <span class=\"place\" data-key=\"jordan\">Jordan</span>, as Yahweh spoke to Joshua, according to the number of the tribes of the children of Israel. They carried them over with them to the place where they camped, and laid them down there."
+    },
+    {
+      "n": 9,
+      "html": "Joshua set up twelve stones in the middle of the <span class=\"place\" data-key=\"jordan\">Jordan</span>, in the place where the feet of the priests who bore the ark of the covenant stood; and they are there to this day."
+    },
+    {
+      "n": 10,
+      "html": "For the priests who bore the ark stood in the middle of the <span class=\"place\" data-key=\"jordan\">Jordan</span>, until everything was finished that Yahweh commanded Joshua to speak to the people, according to all that Moses commanded Joshua; and the people hurried and passed over."
+    },
+    {
+      "n": 11,
+      "html": "When all the people had completely passed over, Yahweh’s ark passed over with the priests in the presence of the people."
+    },
+    {
+      "n": 12,
+      "html": "The children of Reuben, and the children of Gad, and the half-tribe of Manasseh passed over armed before the children of Israel, as Moses spoke to them."
+    },
+    {
+      "n": 13,
+      "html": "About forty thousand men, ready and armed for war passed over before Yahweh to battle, to the plains of <span class=\"place\" data-key=\"jericho\">Jericho</span>."
+    },
+    {
+      "n": 14,
+      "html": "On that day, Yahweh magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life."
+    },
+    {
+      "n": 15,
+      "html": "Yahweh spoke to Joshua, saying,"
+    },
+    {
+      "n": 16,
+      "html": "“Command the priests who bear the ark of the covenant, that they come up out of the <span class=\"place\" data-key=\"jordan\">Jordan</span>.”"
+    },
+    {
+      "n": 17,
+      "html": "Joshua therefore commanded the priests, saying, “Come up out of the <span class=\"place\" data-key=\"jordan\">Jordan</span>!”"
+    },
+    {
+      "n": 18,
+      "html": "When the priests who bore the ark of Yahweh’s covenant had come up out of the middle of the <span class=\"place\" data-key=\"jordan\">Jordan</span>, and the soles of the priests’ feet were lifted up to the dry ground, the waters of the <span class=\"place\" data-key=\"jordan\">Jordan</span> returned to their place, and went over all its banks, as before."
+    },
+    {
+      "n": 19,
+      "html": "The people came up out of the <span class=\"place\" data-key=\"jordan\">Jordan</span> on the tenth day of the first month, and encamped in <span class=\"place\" data-key=\"gilgal\">Gilgal</span><sup class=\"footnote-marker\">1</sup>, on the east border of <span class=\"place\" data-key=\"jericho\">Jericho</span>."
+    },
+    {
+      "n": 20,
+      "html": "Joshua set up those twelve stones, which they took out of the <span class=\"place\" data-key=\"jordan\">Jordan</span>, in <span class=\"place\" data-key=\"gilgal\">Gilgal</span>."
+    },
+    {
+      "n": 21,
+      "html": "He spoke to the children of Israel, saying, “When your children ask their fathers in time to come, saying, ‘What do these stones mean?’"
+    },
+    {
+      "n": 22,
+      "html": "Then you shall let your children know, saying, ‘Israel came over this <span class=\"place\" data-key=\"jordan\">Jordan</span> on dry ground."
+    },
+    {
+      "n": 23,
+      "html": "For Yahweh your God dried up the waters of the <span class=\"place\" data-key=\"jordan\">Jordan</span> from before you until you had passed over, as Yahweh your God did to the Red Sea, which he dried up from before us, until we had passed over,"
+    },
+    {
+      "n": 24,
+      "html": "that all the peoples of the earth may know the hand of Yahweh, that it is mighty; and that you may fear Yahweh forever.’”"
+    }
+  ],
+  "footnotes": [
+    {
+      "marker": "1",
+      "html": "<em>Gilgal.</em> The Israelite encampment east of Jericho near the Jordan, named throughout the conquest narrative and treated by the text as the army’s base of operations through chapters 4–10. No site has produced decisive evidence; Khirbet el-Mafjar (Bennett), Khirbet en-Nitla (Muilenburg), and a site closer to the Jordan ford (Bimson) have all been proposed. The pin sits in the plain between Tell es-Sultan and the Jordan. <em>ABD</em> 2:1022."
+    }
+  ]
+}
