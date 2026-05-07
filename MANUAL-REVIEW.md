@@ -23,6 +23,21 @@ I (Claude) drafted gazetteer entries without having ABD volumes in front of me. 
 - [ ] `chephirah` — claimed `1:898`
 - [ ] `beeroth` — claimed `1:646`
 - [ ] `kiriath-jearim` — claimed `4:84`
+- [ ] `jerusalem` — claimed `3:747`
+- [ ] `hebron` — claimed `3:106`
+- [ ] `jarmuth` — claimed `3:645`
+- [ ] `lachish` — claimed `4:114`
+- [ ] `eglon` — claimed `2:319`
+- [ ] `beth-horon` — claimed `1:692`
+- [ ] `azekah` — claimed `1:537`
+- [ ] `makkedah` — claimed `4:478`
+- [ ] `valley-of-aijalon` — claimed `1:130`
+- [ ] `libnah` — claimed `4:322`
+- [ ] `gezer` — claimed `2:998`
+- [ ] `debir` — claimed `2:114`
+- [ ] `kadesh-barnea` — claimed `4:1`
+- [ ] `gaza` — claimed `2:912`
+- [ ] `goshen-of-judah` — claimed `2:1077`
 
 ## Identifications and coordinates
 
@@ -36,6 +51,13 @@ Pin choices made on best understanding of current scholarship; flag if a differe
 - [ ] **Mount Ebal / Mount Gerizim** (`[32.2350, 35.2720]` / `[32.2000, 35.2740]`). Summits estimated; verify against an atlas. The Ebal v.30 footnote covers the MT-vs-Samaritan/4QJosh<sup>a</sup> textual question, which Wilson should sanity-check.
 - [ ] **Beeroth** (`[31.901, 35.215]`, el-Bireh). Disputed; alternatives Khirbet el-Burj and Nebi Samwil. Confirm el-Bireh remains the appropriate primary.
 - [ ] **Gibeon, Chephirah, Kiriath Jearim** — all identified, but verify coordinates vs. Sacred Bridge / Macmillan.
+- [ ] **Lachish stratigraphy footnote** (10:31). Late Bronze destruction layer dating + chronology debate paraphrased — sanity-check against Ussishkin or a current handbook before treating as final.
+- [ ] **Eglon** (`[31.5695, 34.7700]`, Tell Aitun). Confirm Tell Aitun / Khirbet ʿAjlan is still the consensus over Tell el-Hesi.
+- [ ] **Makkedah** (`[31.5800, 34.9300]`, Khirbet el-Qom). Disputed; Khirbet Beit Maqdum the alternative. Confirm primary.
+- [ ] **Libnah** (`[31.6230, 34.8730]`, Tel Burna). Verify Tel Burna is the current consensus.
+- [ ] **Debir** (`[31.4011, 35.0167]`, Khirbet Rabud). Confirm Kochavi's identification has held.
+- [ ] **Goshen-of-Judah** (`[31.3800, 34.9000]`). Region with no precise center — verify the regional-pin approach is acceptable, or refine the location.
+- [ ] **Beth Horon** — pin marks Upper Beth Horon (Beit ʿUr al-Foqa). Coordinates of upper village need verification; lower village (Beit ʿUr al-Tahta) is mentioned in the entry but not separately pinned.
 
 ## Footnote coverage decisions
 
@@ -55,6 +77,7 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Joshua 7 (came with repo — provenance unknown)
 - [ ] Joshua 8
 - [ ] Joshua 9
+- [ ] Joshua 10
 
 ## Site-level
 

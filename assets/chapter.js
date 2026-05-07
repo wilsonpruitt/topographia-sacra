@@ -113,6 +113,21 @@
     markerByKey[p.key] = marker;
   });
 
+  /* ── Route polyline (opt-in: chapterData.route = [key, key, ...]) ─ */
+  if (Array.isArray(chapterData.route) && chapterData.route.length >= 2) {
+    const routeCoords = chapterData.route
+      .map(k => gazetteer[k]?.coords)
+      .filter(c => Array.isArray(c));
+    if (routeCoords.length >= 2) {
+      L.polyline(routeCoords, {
+        color: "#7A5A3A",
+        weight: 2,
+        opacity: 0.65,
+        dashArray: "7 5"
+      }).addTo(map);
+    }
+  }
+
   // Default view: framed to include the chapter's pins plus reasonable
   // surrounding context. If the chapter has a `view` override, use it.
   if (chapterData.view) {

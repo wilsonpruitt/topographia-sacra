@@ -1,0 +1,213 @@
+{
+  "title": "The Southern Campaign",
+  "places": [
+    "jerusalem", "ai", "jericho", "gibeon", "hebron", "jarmuth", "lachish", "eglon",
+    "gilgal", "beth-horon", "azekah", "makkedah", "valley-of-aijalon", "libnah",
+    "gezer", "debir", "kadesh-barnea", "gaza", "goshen-of-judah"
+  ],
+  "view": {
+    "center": [31.30, 34.95],
+    "zoom": 9
+  },
+  "route": ["makkedah", "libnah", "lachish", "eglon", "hebron", "debir"],
+  "verses": [
+    {
+      "n": 1,
+      "html": "Now when Adoni-Zedek king of <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> heard how Joshua had taken <span class=\"place\" data-key=\"ai\">Ai</span>, and had utterly destroyed it (as he had done to <span class=\"place\" data-key=\"jericho\">Jericho</span> and her king, so he had done to <span class=\"place\" data-key=\"ai\">Ai</span> and her king); and how the inhabitants of <span class=\"place\" data-key=\"gibeon\">Gibeon</span> had made peace with Israel, and were among them;"
+    },
+    {
+      "n": 2,
+      "html": "they were very afraid, because <span class=\"place\" data-key=\"gibeon\">Gibeon</span> was a great city, as one of the royal cities, and because it was greater than <span class=\"place\" data-key=\"ai\">Ai</span>, and all of its men were mighty."
+    },
+    {
+      "n": 3,
+      "html": "Therefore Adoni-Zedek king of <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> sent to Hoham king of <span class=\"place\" data-key=\"hebron\">Hebron</span>, to Piram king of <span class=\"place\" data-key=\"jarmuth\">Jarmuth</span>, to Japhia king of <span class=\"place\" data-key=\"lachish\">Lachish</span>, and to Debir king of <span class=\"place\" data-key=\"eglon\">Eglon</span>, saying,"
+    },
+    {
+      "n": 4,
+      "html": "“Come up to me and help me. Let’s strike <span class=\"place\" data-key=\"gibeon\">Gibeon</span>; for she has made peace with Joshua and with the children of Israel.”"
+    },
+    {
+      "n": 5,
+      "html": "Therefore the five kings of the Amorites, the king of <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, the king of <span class=\"place\" data-key=\"hebron\">Hebron</span>, the king of <span class=\"place\" data-key=\"jarmuth\">Jarmuth</span>, the king of <span class=\"place\" data-key=\"lachish\">Lachish</span>, and the king of <span class=\"place\" data-key=\"eglon\">Eglon</span>, gathered themselves together and went up, they and all their armies, and encamped against <span class=\"place\" data-key=\"gibeon\">Gibeon</span>, and made war against it."
+    },
+    {
+      "n": 6,
+      "html": "The men of <span class=\"place\" data-key=\"gibeon\">Gibeon</span> sent to Joshua to the camp at <span class=\"place\" data-key=\"gilgal\">Gilgal</span>, saying, “Don’t abandon your servants! Come up to us quickly and save us! Help us; for all the kings of the Amorites that dwell in the hill country have gathered together against us.”"
+    },
+    {
+      "n": 7,
+      "html": "So Joshua went up from <span class=\"place\" data-key=\"gilgal\">Gilgal</span>, he, and all the people of war with him, and all the mighty men of valor."
+    },
+    {
+      "n": 8,
+      "html": "Yahweh said to Joshua, “Don’t fear them, for I have delivered them into your hands. Not a man of them will stand before you.”"
+    },
+    {
+      "n": 9,
+      "html": "Joshua therefore came on them suddenly. He went up from <span class=\"place\" data-key=\"gilgal\">Gilgal</span> all night."
+    },
+    {
+      "n": 10,
+      "html": "Yahweh confused them before Israel, and he killed them with a great slaughter at <span class=\"place\" data-key=\"gibeon\">Gibeon</span>, and chased them by the way of the ascent of <span class=\"place\" data-key=\"beth-horon\">Beth Horon</span>, and struck them to <span class=\"place\" data-key=\"azekah\">Azekah</span> and to <span class=\"place\" data-key=\"makkedah\">Makkedah</span><sup class=\"footnote-marker\">1</sup>."
+    },
+    {
+      "n": 11,
+      "html": "As they fled from before Israel, while they were at the descent of <span class=\"place\" data-key=\"beth-horon\">Beth Horon</span>, Yahweh hurled down great stones from the sky on them to <span class=\"place\" data-key=\"azekah\">Azekah</span>, and they died. There were more who died from the hailstones than those whom the children of Israel killed with the sword."
+    },
+    {
+      "n": 12,
+      "html": "Then Joshua spoke to Yahweh in the day when Yahweh delivered up the Amorites before the children of Israel; and he said in the sight of Israel, “Sun, stand still on <span class=\"place\" data-key=\"gibeon\">Gibeon</span>! You, moon, stop in the <span class=\"place\" data-key=\"valley-of-aijalon\">valley of Aijalon</span>!”"
+    },
+    {
+      "n": 13,
+      "html": "The sun stood still, and the moon stayed, until the nation had avenged themselves of their enemies. Isn’t this written in the book of Jashar? The sun stayed in the middle of the sky, and didn’t hurry to go down about a whole day."
+    },
+    {
+      "n": 14,
+      "html": "There was no day like that before it or after it, that Yahweh listened to the voice of a man; for Yahweh fought for Israel."
+    },
+    {
+      "n": 15,
+      "html": "Joshua returned, and all Israel with him, to the camp at <span class=\"place\" data-key=\"gilgal\">Gilgal</span>."
+    },
+    {
+      "n": 16,
+      "html": "These five kings fled, and hid themselves in the cave at <span class=\"place\" data-key=\"makkedah\">Makkedah</span>."
+    },
+    {
+      "n": 17,
+      "html": "Joshua was told, saying, “The five kings have been found, hidden in the cave at <span class=\"place\" data-key=\"makkedah\">Makkedah</span>.”"
+    },
+    {
+      "n": 18,
+      "html": "Joshua said, “Roll large stones to the mouth of the cave, and set men by it to guard them;"
+    },
+    {
+      "n": 19,
+      "html": "but don’t stay there. Pursue your enemies, and attack them from behind. Don’t allow them to enter into their cities; for Yahweh your God has delivered them into your hand.”"
+    },
+    {
+      "n": 20,
+      "html": "When Joshua and the children of Israel had finished killing them with a very great slaughter until they were consumed, and the remnant which remained of them had entered into the fortified cities,"
+    },
+    {
+      "n": 21,
+      "html": "all the people returned to the camp to Joshua at <span class=\"place\" data-key=\"makkedah\">Makkedah</span> in peace. None moved his tongue against any of the children of Israel."
+    },
+    {
+      "n": 22,
+      "html": "Then Joshua said, “Open the mouth of the cave, and bring those five kings out of the cave to me.”"
+    },
+    {
+      "n": 23,
+      "html": "They did so, and brought those five kings out of the cave to him: the king of <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, the king of <span class=\"place\" data-key=\"hebron\">Hebron</span>, the king of <span class=\"place\" data-key=\"jarmuth\">Jarmuth</span>, the king of <span class=\"place\" data-key=\"lachish\">Lachish</span>, and the king of <span class=\"place\" data-key=\"eglon\">Eglon</span>."
+    },
+    {
+      "n": 24,
+      "html": "When they brought those kings out to Joshua, Joshua called for all the men of Israel, and said to the chiefs of the men of war who went with him, “Come near. Put your feet on the necks of these kings.” They came near, and put their feet on their necks."
+    },
+    {
+      "n": 25,
+      "html": "Joshua said to them, “Don’t be afraid, nor be dismayed. Be strong and courageous, for Yahweh will do this to all your enemies against whom you fight.”"
+    },
+    {
+      "n": 26,
+      "html": "Afterward Joshua struck them, killed them, and hanged them on five trees. They were hanging on the trees until the evening."
+    },
+    {
+      "n": 27,
+      "html": "At the time of the going down of the sun, Joshua commanded, and they took them down off the trees, and threw them into the cave in which they had hidden themselves, and laid great stones on the mouth of the cave, which remain to this very day."
+    },
+    {
+      "n": 28,
+      "html": "Joshua took <span class=\"place\" data-key=\"makkedah\">Makkedah</span> on that day, and struck it with the edge of the sword, with its king. He utterly destroyed them and all the souls who were in it. He left no one remaining. He did to the king of <span class=\"place\" data-key=\"makkedah\">Makkedah</span> as he had done to the king of <span class=\"place\" data-key=\"jericho\">Jericho</span>."
+    },
+    {
+      "n": 29,
+      "html": "Joshua passed from <span class=\"place\" data-key=\"makkedah\">Makkedah</span>, and all Israel with him, to <span class=\"place\" data-key=\"libnah\">Libnah</span><sup class=\"footnote-marker\">2</sup>, and fought against <span class=\"place\" data-key=\"libnah\">Libnah</span>."
+    },
+    {
+      "n": 30,
+      "html": "Yahweh delivered it also, with its king, into the hand of Israel. He struck it with the edge of the sword, and all the souls who were in it. He left no one remaining in it. He did to its king as he had done to the king of <span class=\"place\" data-key=\"jericho\">Jericho</span>."
+    },
+    {
+      "n": 31,
+      "html": "Joshua passed from <span class=\"place\" data-key=\"libnah\">Libnah</span>, and all Israel with him, to <span class=\"place\" data-key=\"lachish\">Lachish</span><sup class=\"footnote-marker\">3</sup>, and encamped against it, and fought against it."
+    },
+    {
+      "n": 32,
+      "html": "Yahweh delivered <span class=\"place\" data-key=\"lachish\">Lachish</span> into the hand of Israel. He took it on the second day, and struck it with the edge of the sword, with all the souls who were in it, according to all that he had done to <span class=\"place\" data-key=\"libnah\">Libnah</span>."
+    },
+    {
+      "n": 33,
+      "html": "Then Horam king of <span class=\"place\" data-key=\"gezer\">Gezer</span> came up to help <span class=\"place\" data-key=\"lachish\">Lachish</span>; and Joshua struck him and his people, until he had left him no one remaining."
+    },
+    {
+      "n": 34,
+      "html": "Joshua passed from <span class=\"place\" data-key=\"lachish\">Lachish</span>, and all Israel with him, to <span class=\"place\" data-key=\"eglon\">Eglon</span><sup class=\"footnote-marker\">4</sup>; and they encamped against it and fought against it."
+    },
+    {
+      "n": 35,
+      "html": "They took it on that day, and struck it with the edge of the sword. He utterly destroyed all the souls who were in it that day, according to all that he had done to <span class=\"place\" data-key=\"lachish\">Lachish</span>."
+    },
+    {
+      "n": 36,
+      "html": "Joshua went up from <span class=\"place\" data-key=\"eglon\">Eglon</span>, and all Israel with him, to <span class=\"place\" data-key=\"hebron\">Hebron</span>; and they fought against it."
+    },
+    {
+      "n": 37,
+      "html": "They took it, and struck it with the edge of the sword, with its king and all its cities, and all the souls who were in it. He left no one remaining, according to all that he had done to <span class=\"place\" data-key=\"eglon\">Eglon</span>; but he utterly destroyed it, and all the souls who were in it."
+    },
+    {
+      "n": 38,
+      "html": "Joshua returned, and all Israel with him, to <span class=\"place\" data-key=\"debir\">Debir</span><sup class=\"footnote-marker\">5</sup>, and fought against it."
+    },
+    {
+      "n": 39,
+      "html": "He took it, with its king and all its cities. They struck them with the edge of the sword, and utterly destroyed all the souls who were in it. He left no one remaining. As he had done to <span class=\"place\" data-key=\"hebron\">Hebron</span>, so he did to <span class=\"place\" data-key=\"debir\">Debir</span>, and to its king; as he had done also to <span class=\"place\" data-key=\"libnah\">Libnah</span>, and to its king."
+    },
+    {
+      "n": 40,
+      "html": "So Joshua struck all the land, the hill country, and the South, and the lowland, and the slopes, and all their kings. He left no one remaining, but he utterly destroyed all that breathed, as Yahweh, the God of Israel, commanded."
+    },
+    {
+      "n": 41,
+      "html": "Joshua struck them from <span class=\"place\" data-key=\"kadesh-barnea\">Kadesh Barnea</span> even to <span class=\"place\" data-key=\"gaza\">Gaza</span>, and all the country of <span class=\"place\" data-key=\"goshen-of-judah\">Goshen</span><sup class=\"footnote-marker\">6</sup>, even to <span class=\"place\" data-key=\"gibeon\">Gibeon</span>."
+    },
+    {
+      "n": 42,
+      "html": "Joshua took all these kings and their land at one time, because Yahweh, the God of Israel, fought for Israel."
+    },
+    {
+      "n": 43,
+      "html": "Joshua returned, and all Israel with him, to the camp to <span class=\"place\" data-key=\"gilgal\">Gilgal</span>."
+    }
+  ],
+  "footnotes": [
+    {
+      "marker": "1",
+      "html": "<em>Makkedah.</em> Identification disputed. Khirbet el-Qom (c. 13 km W of Hebron) and Khirbet Beit Maqdum have both been proposed; no decisive evidence has emerged. The pin marks Khirbet el-Qom. <em>ABD</em> 4:478."
+    },
+    {
+      "marker": "2",
+      "html": "<em>Libnah.</em> Identification disputed. Tel Burna (Tell Bornat) in the Shephelah is the current consensus; Tell es-Safi, an older candidate, has since been identified as Gath, removing it from contention. The pin marks Tel Burna. <em>ABD</em> 4:322."
+    },
+    {
+      "marker": "3",
+      "html": "<em>Lachish.</em> Tel Lachish (Tell ed-Duweir), securely identified. The Late Bronze destruction layer (Stratum VII / VI) is dated by most excavators to the late 13th or early 12th century BCE — close to but not aligned with the conquest narrative as commonly reckoned, generating one of the perennial chronology debates of biblical archaeology. <em>ABD</em> 4:114."
+    },
+    {
+      "marker": "4",
+      "html": "<em>Eglon.</em> Identification debated. Tell el-Hesi (Petrie / Bliss) was the older candidate; Tell Aitun / Khirbet ʿAjlan, c. 8 km W of Lachish, is now generally favored on toponymic and topographic grounds. The pin marks Tell Aitun. <em>ABD</em> 2:319."
+    },
+    {
+      "marker": "5",
+      "html": "<em>Debir.</em> Khirbet Rabud, c. 12 km SW of Hebron. Albright’s older identification with Tell Beit Mirsim has been superseded; Kochavi’s Khirbet Rabud has the necessary water source and a Late Bronze occupation profile compatible with the narrative. Also called Kiriath-sepher. <em>ABD</em> 2:114."
+    },
+    {
+      "marker": "6",
+      "html": "<em>Goshen.</em> Distinct from the Egyptian Goshen of Genesis-Exodus. Here a region in the southern Shephelah / Judean foothills, sometimes localized around Tell el-Khuweilfeh; precise extent unknown. The pin sits in the regional center. <em>ABD</em> 2:1077."
+    }
+  ]
+}

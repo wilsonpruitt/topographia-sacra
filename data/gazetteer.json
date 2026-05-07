@@ -95,6 +95,15 @@
         "verses": [
           3
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          1,
+          28,
+          30
+        ]
       }
     ]
   },
@@ -672,6 +681,20 @@
           3,
           17
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          10,
+          12,
+          41
+        ]
       }
     ]
   },
@@ -755,6 +778,424 @@
         "chapter": 9,
         "verses": [
           17
+        ]
+      }
+    ]
+  },
+  "jerusalem": {
+    "name": "Jerusalem",
+    "name_alt": [
+      "Yerushalayim",
+      "Aelia Capitolina (Roman)"
+    ],
+    "coords": [
+      31.7784,
+      35.2354
+    ],
+    "tier": "identified",
+    "id": "The City of David and Old City, on the spurs above the Kidron Valley, c. 50 km from the Mediterranean. Pre-Israelite Jebus; named here as the seat of Adoni-Zedek, leader of the southern coalition.",
+    "abd": "3:747",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          1,
+          3,
+          5,
+          23
+        ]
+      }
+    ]
+  },
+  "hebron": {
+    "name": "Hebron",
+    "name_alt": [
+      "Tel Rumeida",
+      "el-Khalil"
+    ],
+    "coords": [
+      31.5326,
+      35.0998
+    ],
+    "tier": "identified",
+    "id": "Tel Rumeida (within modern Hebron / al-Khalil), in the Judean hill country c. 30 km SSW of Jerusalem. The patriarchal city of the Cave of Machpelah; king Hoham named here as a southern coalition member.",
+    "abd": "3:106",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          3,
+          5,
+          23,
+          36,
+          37,
+          39
+        ]
+      }
+    ]
+  },
+  "jarmuth": {
+    "name": "Jarmuth",
+    "name_alt": [
+      "Tel Yarmut",
+      "Khirbet Yarmuk"
+    ],
+    "coords": [
+      31.722,
+      34.993
+    ],
+    "tier": "identified",
+    "id": "Tel Yarmut (Khirbet Yarmuk), in the Shephelah c. 25 km W of Jerusalem. A major Early Bronze and Late Bronze fortified site, identified by Robinson and confirmed by recent excavations.",
+    "abd": "3:645",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          3,
+          5,
+          23
+        ]
+      }
+    ]
+  },
+  "lachish": {
+    "name": "Lachish",
+    "name_alt": [
+      "Tel Lachish",
+      "Tell ed-Duweir"
+    ],
+    "coords": [
+      31.565,
+      34.848
+    ],
+    "tier": "identified",
+    "id": "Tel Lachish (Tell ed-Duweir), the largest mound in the Shephelah, c. 40 km SW of Jerusalem. Identified by Albright; thoroughly excavated. The Late Bronze destruction layer (Stratum VII / VI) sits awkwardly with the conquest narrative — see footnote.",
+    "abd": "4:114",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          3,
+          5,
+          23,
+          31,
+          32,
+          33,
+          34
+        ]
+      }
+    ]
+  },
+  "eglon": {
+    "name": "Eglon",
+    "name_alt": [
+      "Tell el-Hesi (older proposal)",
+      "Tell Aitun (Khirbet ʿAjlan)"
+    ],
+    "coords": [
+      31.5695,
+      34.77
+    ],
+    "tier": "conjectural",
+    "id": "Identification disputed. Tell el-Hesi (Petrie/Bliss) was the older candidate; Tell Aitun / Khirbet ʿAjlan, c. 8 km W of Lachish, is now generally favored. The pin marks Tell Aitun.",
+    "abd": "2:319",
+    "alternatives": [
+      {
+        "site": "Tell Aitun (Khirbet ʿAjlan)",
+        "source": "Aharoni; current consensus"
+      },
+      {
+        "site": "Tell el-Hesi",
+        "source": "Petrie; Bliss"
+      }
+    ],
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          3,
+          5,
+          23,
+          34,
+          36,
+          37
+        ]
+      }
+    ]
+  },
+  "beth-horon": {
+    "name": "Beth Horon",
+    "name_alt": [
+      "Beit ʿUr al-Foqa (Upper)",
+      "Beit ʿUr al-Tahta (Lower)"
+    ],
+    "coords": [
+      31.8908,
+      35.1126
+    ],
+    "tier": "identified",
+    "id": "Two villages on the ascent from the Aijalon Valley to the central hill country: Upper Beth Horon (Beit ʿUr al-Foqa, 617 m) and Lower Beth Horon (Beit ʿUr al-Tahta, 400 m), c. 2 km apart. The pin marks the upper village; the “ascent of Beth Horon” is the road between them.",
+    "abd": "1:692",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  "azekah": {
+    "name": "Azekah",
+    "name_alt": [
+      "Tell Zakariyeh",
+      "Tel ʿAzeqa"
+    ],
+    "coords": [
+      31.697,
+      34.943
+    ],
+    "tier": "identified",
+    "id": "Tell Zakariyeh, in the Shephelah overlooking the Elah Valley, c. 25 km SW of Jerusalem. A prominent fortified site through the Iron Age; identified by Robinson.",
+    "abd": "1:537",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          10,
+          11
+        ]
+      }
+    ]
+  },
+  "makkedah": {
+    "name": "Makkedah",
+    "name_alt": [
+      "Khirbet el-Qom",
+      "Khirbet Beit Maqdum"
+    ],
+    "coords": [
+      31.58,
+      34.93
+    ],
+    "tier": "conjectural",
+    "id": "Identification disputed. Khirbet el-Qom (c. 13 km W of Hebron) and Khirbet Beit Maqdum have both been proposed. The pin marks Khirbet el-Qom.",
+    "abd": "4:478",
+    "alternatives": [
+      {
+        "site": "Khirbet el-Qom",
+        "source": "Dorsey; cluster of arguments"
+      },
+      {
+        "site": "Khirbet Beit Maqdum",
+        "source": "older surveys"
+      }
+    ],
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          10,
+          16,
+          17,
+          21,
+          28,
+          29
+        ]
+      }
+    ]
+  },
+  "valley-of-aijalon": {
+    "name": "The Valley of Aijalon",
+    "name_alt": [
+      "Wadi Selman",
+      "Yalo"
+    ],
+    "coords": [
+      31.8456,
+      35.0006
+    ],
+    "tier": "identified",
+    "id": "The broad valley running east-west between the central ridge and the Shephelah, named for the village of Aijalon (modern Yalo). The natural corridor from the coastal plain to the hill country, the valley is the locus of v.12’s “Sun, stand still on Gibeon; you, moon, in the valley of Aijalon.”",
+    "abd": "1:130",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          12
+        ]
+      }
+    ]
+  },
+  "libnah": {
+    "name": "Libnah",
+    "name_alt": [
+      "Tel Burna",
+      "Tell Bornat"
+    ],
+    "coords": [
+      31.623,
+      34.873
+    ],
+    "tier": "conjectural",
+    "id": "Identification disputed. Tel Burna (Tell Bornat) in the Shephelah is the leading current candidate; Tell es-Safi was earlier proposed but has now been identified as Gath, removing it from contention.",
+    "abd": "4:322",
+    "alternatives": [
+      {
+        "site": "Tel Burna (Tell Bornat)",
+        "source": "Aharoni; current consensus"
+      },
+      {
+        "site": "Tell es-Safi",
+        "source": "older proposals — now identified as Gath"
+      }
+    ],
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          29,
+          30,
+          31,
+          32,
+          39
+        ]
+      }
+    ]
+  },
+  "gezer": {
+    "name": "Gezer",
+    "name_alt": [
+      "Tel Gezer",
+      "Tell Jezer"
+    ],
+    "coords": [
+      31.8595,
+      34.9192
+    ],
+    "tier": "identified",
+    "id": "Tel Gezer, on the northern edge of the Shephelah c. 30 km W of Jerusalem. A major Bronze and Iron Age site; the identification was secured by inscribed boundary stones recovered by Macalister.",
+    "abd": "2:998",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          33
+        ]
+      }
+    ]
+  },
+  "debir": {
+    "name": "Debir",
+    "name_alt": [
+      "Khirbet Rabud",
+      "Tell Beit Mirsim (older proposal)",
+      "Kiriath-sepher"
+    ],
+    "coords": [
+      31.4011,
+      35.0167
+    ],
+    "tier": "probable",
+    "id": "Khirbet Rabud, in the southern Judean hill country c. 12 km SW of Hebron. Identified by Kochavi against the older Albright proposal of Tell Beit Mirsim, which lacked the necessary water source and Late Bronze occupation profile.",
+    "abd": "2:114",
+    "alternatives": [
+      {
+        "site": "Khirbet Rabud",
+        "source": "Kochavi; current consensus"
+      },
+      {
+        "site": "Tell Beit Mirsim",
+        "source": "Albright; superseded"
+      }
+    ],
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          38,
+          39
+        ]
+      }
+    ]
+  },
+  "kadesh-barnea": {
+    "name": "Kadesh Barnea",
+    "name_alt": [
+      "ʿAin Qudeirat",
+      "ʿEin Qadis"
+    ],
+    "coords": [
+      30.6883,
+      34.4317
+    ],
+    "tier": "identified",
+    "id": "ʿAin Qudeirat, the largest spring in the northern Sinai / Negev frontier, c. 80 km SW of Beersheba. The Israelite encampment of Numbers 13–14 and the southernmost reach of the conquest in v.41.",
+    "abd": "4:1",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          41
+        ]
+      }
+    ]
+  },
+  "gaza": {
+    "name": "Gaza",
+    "name_alt": [
+      "Tell Harube",
+      "ʿAzza"
+    ],
+    "coords": [
+      31.5018,
+      34.466
+    ],
+    "tier": "identified",
+    "id": "The southernmost of the five Philistine pentapolis cities, on the coastal plain c. 80 km SW of Jerusalem. The west-coast extreme of the southern campaign’s reach in v.41.",
+    "abd": "2:912",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          41
+        ]
+      }
+    ]
+  },
+  "goshen-of-judah": {
+    "name": "Goshen (of Judah)",
+    "name_alt": [
+      "the country of Goshen"
+    ],
+    "coords": [
+      31.38,
+      34.9
+    ],
+    "tier": "conjectural",
+    "id": "Distinct from the Egyptian Goshen of Genesis–Exodus. A region in the southern Shephelah / Judean foothills, sometimes identified with the area around Tell el-Khuweilfeh; precise extent unknown.",
+    "abd": "2:1077",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 10,
+        "verses": [
+          41
         ]
       }
     ]
