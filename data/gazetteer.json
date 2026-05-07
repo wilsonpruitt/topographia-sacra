@@ -88,6 +88,13 @@
           2
         ],
         "book": "joshua"
+      },
+      {
+        "book": "joshua",
+        "chapter": 9,
+        "verses": [
+          3
+        ]
       }
     ]
   },
@@ -249,6 +256,14 @@
           7
         ],
         "book": "joshua"
+      },
+      {
+        "book": "joshua",
+        "chapter": 9,
+        "verses": [
+          1,
+          10
+        ]
       }
     ]
   },
@@ -586,6 +601,160 @@
         "chapter": 3,
         "verses": [
           16
+        ]
+      }
+    ]
+  },
+  "mount-ebal": {
+    "name": "Mount Ebal",
+    "name_alt": [
+      "Jebel Eslamiyeh",
+      "Har Eival"
+    ],
+    "coords": [
+      32.235,
+      35.272
+    ],
+    "tier": "identified",
+    "id": "The northern of the two mountains flanking Shechem (modern Nablus), 940 m above sea level. Site of Joshua's altar and the inscription of the law in the MT, LXX, and Vulgate; the Samaritan Pentateuch and 4QJosh^a place the altar on Mount Gerizim instead.",
+    "abd": "2:257",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 8,
+        "verses": [
+          30,
+          33
+        ]
+      }
+    ]
+  },
+  "mount-gerizim": {
+    "name": "Mount Gerizim",
+    "name_alt": [
+      "Jebel et-Tur",
+      "Har Gerizim"
+    ],
+    "coords": [
+      32.2,
+      35.274
+    ],
+    "tier": "identified",
+    "id": "The southern of the two mountains flanking Shechem (modern Nablus), 881 m above sea level. The Samaritan holy mountain, site of a Samaritan temple from the Persian period; the Samaritan Pentateuch's reading of Deuteronomy 27:4 places Joshua's altar here rather than on Mount Ebal.",
+    "abd": "2:993",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 8,
+        "verses": [
+          33
+        ]
+      }
+    ]
+  },
+  "gibeon": {
+    "name": "Gibeon",
+    "name_alt": [
+      "el-Jib"
+    ],
+    "coords": [
+      31.847,
+      35.187
+    ],
+    "tier": "identified",
+    "id": "el-Jib, c. 9 km NW of Jerusalem on the central ridge route. Identified by Edward Robinson (1838); Pritchard's excavations later recovered jar handles inscribed gbʿn (Gibeon), confirming the identification beyond reasonable doubt.",
+    "abd": "2:1010",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 9,
+        "verses": [
+          3,
+          17
+        ]
+      }
+    ]
+  },
+  "chephirah": {
+    "name": "Chephirah",
+    "name_alt": [
+      "Khirbet el-Kefira",
+      "Kefireh"
+    ],
+    "coords": [
+      31.834,
+      35.118
+    ],
+    "tier": "identified",
+    "id": "Khirbet el-Kefira (also Kefireh), c. 11 km W of Jerusalem on a ridge above the Wadi Qatrun. One of the four Hivite/Gibeonite cities. Iron Age occupation has been confirmed by survey.",
+    "abd": "1:898",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 9,
+        "verses": [
+          17
+        ]
+      }
+    ]
+  },
+  "beeroth": {
+    "name": "Beeroth",
+    "name_alt": [
+      "el-Bireh",
+      "Khirbet el-Burj"
+    ],
+    "coords": [
+      31.901,
+      35.215
+    ],
+    "tier": "conjectural",
+    "id": "Identification disputed. The traditional candidate is el-Bireh, just N of Ramallah; alternatives include Khirbet el-Burj near Tell el-Ful and Nebi Samwil.",
+    "abd": "1:646",
+    "alternatives": [
+      {
+        "site": "el-Bireh",
+        "source": "Robinson; traditional"
+      },
+      {
+        "site": "Khirbet el-Burj",
+        "source": "Albright"
+      },
+      {
+        "site": "Nebi Samwil",
+        "source": "more recent proposals"
+      }
+    ],
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 9,
+        "verses": [
+          17
+        ]
+      }
+    ]
+  },
+  "kiriath-jearim": {
+    "name": "Kiriath Jearim",
+    "name_alt": [
+      "Tell el-Azhar",
+      "Deir el-Azhar",
+      "Abu Ghosh"
+    ],
+    "coords": [
+      31.812,
+      35.112
+    ],
+    "tier": "identified",
+    "id": "Tell el-Azhar (Deir el-Azhar), c. 13 km W of Jerusalem on the central ridge route. Identified by Robinson and confirmed by excavation; the Iron Age site sits directly atop a Bronze Age tell.",
+    "abd": "4:84",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 9,
+        "verses": [
+          17
         ]
       }
     ]

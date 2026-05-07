@@ -17,6 +17,12 @@ I (Claude) drafted gazetteer entries without having ABD volumes in front of me. 
 - [ ] `adam` — claimed `1:62`
 - [ ] `zarethan` — claimed `6:1041`
 - [ ] `dead-sea` — claimed `2:65`
+- [ ] `mount-ebal` — claimed `2:257`
+- [ ] `mount-gerizim` — claimed `2:993`
+- [ ] `gibeon` — claimed `2:1010`
+- [ ] `chephirah` — claimed `1:898`
+- [ ] `beeroth` — claimed `1:646`
+- [ ] `kiriath-jearim` — claimed `4:84`
 
 ## Identifications and coordinates
 
@@ -27,6 +33,9 @@ Pin choices made on best understanding of current scholarship; flag if a differe
 - [ ] **Adam** (`[32.0985, 35.5520]`, Tell ed-Damiyeh). Generally secure — confirm coordinates against an atlas.
 - [ ] **Dead Sea** (`[31.5, 35.5]`, mid-sea). Pin sits in the middle of the lake; consider whether the north shore (where the Jordan empties) is more useful for narrative-context purposes when chapters reference it as the destination of the Jordan's flow.
 - [ ] **The Jordan** (`[31.8378, 35.5450]`). Pin sits at the traditional crossing-point opposite Jericho (el-Maghtas / Qasr el-Yahud). Confirm this is the desired anchor for chapters that reference the Jordan as a corridor or boundary rather than a crossing.
+- [ ] **Mount Ebal / Mount Gerizim** (`[32.2350, 35.2720]` / `[32.2000, 35.2740]`). Summits estimated; verify against an atlas. The Ebal v.30 footnote covers the MT-vs-Samaritan/4QJosh<sup>a</sup> textual question, which Wilson should sanity-check.
+- [ ] **Beeroth** (`[31.901, 35.215]`, el-Bireh). Disputed; alternatives Khirbet el-Burj and Nebi Samwil. Confirm el-Bireh remains the appropriate primary.
+- [ ] **Gibeon, Chephirah, Kiriath Jearim** — all identified, but verify coordinates vs. Sacred Bridge / Macmillan.
 
 ## Footnote coverage decisions
 
@@ -40,8 +49,12 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Joshua 1
 - [ ] Joshua 2
 - [ ] Joshua 3
+- [ ] Joshua 4
+- [ ] Joshua 5
 - [ ] Joshua 6 (came with repo — provenance unknown)
 - [ ] Joshua 7 (came with repo — provenance unknown)
+- [ ] Joshua 8
+- [ ] Joshua 9
 
 ## Site-level
 
