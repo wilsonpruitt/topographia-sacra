@@ -1,0 +1,112 @@
+{
+  "title": "Rahab and the Spies",
+  "places": ["shittim", "jericho", "jordan"],
+  "view": {
+    "center": [31.85, 35.53],
+    "zoom": 11
+  },
+  "verses": [
+    {
+      "n": 1,
+      "html": "Joshua the son of Nun secretly sent two men out of <span class=\"place\" data-key=\"shittim\">Shittim</span><sup class=\"footnote-marker\">1</sup> as spies, saying, “Go, view the land, including <span class=\"place\" data-key=\"jericho\">Jericho</span>.” They went and came into the house of a prostitute whose name was Rahab, and slept there."
+    },
+    {
+      "n": 2,
+      "html": "The king of <span class=\"place\" data-key=\"jericho\">Jericho</span> was told, “Behold, men of the children of Israel came in here tonight to spy out the land.”"
+    },
+    {
+      "n": 3,
+      "html": "<span class=\"place\" data-key=\"jericho\">Jericho</span>’s king sent to Rahab, saying, “Bring out the men who have come to you, who have entered into your house; for they have come to spy out all the land.”"
+    },
+    {
+      "n": 4,
+      "html": "The woman took the two men and hid them. Then she said, “Yes, the men came to me, but I didn’t know where they came from."
+    },
+    {
+      "n": 5,
+      "html": "About the time of the shutting of the gate, when it was dark, the men went out. Where the men went, I don’t know. Pursue them quickly. You may catch up with them.”"
+    },
+    {
+      "n": 6,
+      "html": "But she had brought them up to the roof, and hidden them under the stalks of flax which she had laid in order on the roof."
+    },
+    {
+      "n": 7,
+      "html": "The men pursued them along the way to the fords of the <span class=\"place\" data-key=\"jordan\">Jordan</span>. As soon as those who pursued them had gone out, they shut the gate."
+    },
+    {
+      "n": 8,
+      "html": "Before they had laid down, she came up to them on the roof."
+    },
+    {
+      "n": 9,
+      "html": "She said to the men, “I know that Yahweh has given you the land, and that the fear of you has fallen on us, and that all the inhabitants of the land melt away before you."
+    },
+    {
+      "n": 10,
+      "html": "For we have heard how Yahweh dried up the water of the Red Sea before you, when you came out of Egypt; and what you did to the two kings of the Amorites, who were beyond the <span class=\"place\" data-key=\"jordan\">Jordan</span>, to Sihon and to Og, whom you utterly destroyed."
+    },
+    {
+      "n": 11,
+      "html": "As soon as we had heard it, our hearts melted, neither did there remain any more spirit in any man, because of you: for Yahweh your God, he is God in heaven above, and on earth beneath."
+    },
+    {
+      "n": 12,
+      "html": "Now therefore, please swear to me by Yahweh, since I have dealt kindly with you, that you also will deal kindly with my father’s house, and give me a true sign;"
+    },
+    {
+      "n": 13,
+      "html": "and that you will save alive my father, my mother, my brothers, and my sisters, and all that they have, and will deliver our lives from death.”"
+    },
+    {
+      "n": 14,
+      "html": "The men said to her, “Our life for yours, even to death, if you don’t talk about this business of ours; and it shall be, when Yahweh gives us the land, that we will deal kindly and truly with you.”"
+    },
+    {
+      "n": 15,
+      "html": "Then she let them down by a cord through the window; for her house was on the side of the wall, and she lived on the wall."
+    },
+    {
+      "n": 16,
+      "html": "She said to them, “Go to the mountain, lest the pursuers find you. Hide yourselves there three days, until the pursuers have returned. Afterward, you may go your way.”"
+    },
+    {
+      "n": 17,
+      "html": "The men said to her, “We will be guiltless of this your oath which you have made us swear."
+    },
+    {
+      "n": 18,
+      "html": "Behold, when we come into the land, you shall bind this line of scarlet thread in the window which you used to let us down. You shall gather to yourself into the house your father, your mother, your brothers, and all your father’s household."
+    },
+    {
+      "n": 19,
+      "html": "It shall be that whoever goes out of the doors of your house into the street, his blood will be on his head, and we will be guiltless. Whoever is with you in the house, his blood shall be on our head, if any hand is on him."
+    },
+    {
+      "n": 20,
+      "html": "But if you talk about this business of ours, then we shall be guiltless of your oath which you have made us swear.”"
+    },
+    {
+      "n": 21,
+      "html": "She said, “According to your words, so it is.” She sent them away, and they departed. She bound the scarlet line in the window."
+    },
+    {
+      "n": 22,
+      "html": "They went, and came to the mountain, and stayed there three days, until the pursuers had returned. The pursuers sought them all along the way, but didn’t find them."
+    },
+    {
+      "n": 23,
+      "html": "Then the two men returned, descended from the mountain, crossed the river, and came to Joshua the son of Nun. They told him all that had happened to them."
+    },
+    {
+      "n": 24,
+      "html": "They said to Joshua, “Truly Yahweh has delivered all the land into our hands. Moreover, all the inhabitants of the land melt away before us.”"
+    }
+  ],
+  "footnotes": [
+    {
+      "marker": "1",
+      "html": "<em>Shittim.</em> The Israelite encampment in the plains of Moab east of the Jordan; the spies’ point of departure. No site has been archaeologically confirmed: Tell el-Hammam, c. 12 km ENE of Jericho, is the leading recent candidate, with Tell el-Kefrein, on the same plain a few kilometres north, its principal rival. The pin marks Tell el-Hammam. <em>ABD</em> 5:1222."
+    }
+  ]
+}

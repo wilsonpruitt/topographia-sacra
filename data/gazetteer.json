@@ -467,5 +467,38 @@
         "book": "joshua"
       }
     ]
+  },
+  "shittim": {
+    "name": "Shittim",
+    "name_alt": [
+      "Abel-shittim",
+      "the Acacia Grove"
+    ],
+    "coords": [
+      31.8407,
+      35.681
+    ],
+    "tier": "conjectural",
+    "id": "The Israelite encampment in the plains of Moab east of the Jordan, c. 12 km ENE of Jericho. No site has been archaeologically confirmed; the leading candidates are Tell el-Hammam and Tell el-Kefrein, both on the well-watered plain north of the Dead Sea.",
+    "abd": "5:1222",
+    "alternatives": [
+      {
+        "site": "Tell el-Hammam",
+        "source": "Glueck; Collins"
+      },
+      {
+        "site": "Tell el-Kefrein",
+        "source": "Conder; Aharoni"
+      }
+    ],
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 2,
+        "verses": [
+          1
+        ]
+      }
+    ]
   }
 }
