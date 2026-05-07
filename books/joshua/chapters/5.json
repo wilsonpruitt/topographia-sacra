@@ -1,0 +1,76 @@
+{
+  "title": "Circumcision at Gilgal",
+  "places": ["jordan", "gilgal", "jericho"],
+  "view": {
+    "center": [31.86, 35.48],
+    "zoom": 11
+  },
+  "verses": [
+    {
+      "n": 1,
+      "html": "When all the kings of the Amorites, who were beyond the <span class=\"place\" data-key=\"jordan\">Jordan</span> westward, and all the kings of the Canaanites, who were by the sea, heard how Yahweh had dried up the waters of the <span class=\"place\" data-key=\"jordan\">Jordan</span> from before the children of Israel until we had crossed over, their heart melted, neither was there spirit in them any more, because of the children of Israel."
+    },
+    {
+      "n": 2,
+      "html": "At that time, Yahweh said to Joshua, “Make flint knives, and circumcise again the sons of Israel the second time.”"
+    },
+    {
+      "n": 3,
+      "html": "Joshua made himself flint knives, and circumcised the sons of Israel at the hill of the foreskins."
+    },
+    {
+      "n": 4,
+      "html": "The reason Joshua circumcised was this: all the people who came out of Egypt, who were males, even all the men of war, died in the wilderness by the way, after they came out of Egypt."
+    },
+    {
+      "n": 5,
+      "html": "For all the people who came out were circumcised; but all the people who were born in the wilderness by the way as they came out of Egypt had not been circumcised."
+    },
+    {
+      "n": 6,
+      "html": "For the children of Israel walked forty years in the wilderness until all the nation, even the men of war who came out of Egypt, were consumed, because they didn’t listen to Yahweh’s voice. Yahweh swore to them that he wouldn’t let them see the land which Yahweh swore to their fathers that he would give us, a land flowing with milk and honey."
+    },
+    {
+      "n": 7,
+      "html": "Their children, whom he raised up in their place, were circumcised by Joshua; for they were uncircumcised, because they had not been circumcised by the way."
+    },
+    {
+      "n": 8,
+      "html": "When they were done circumcising the whole nation, they stayed in their places in the camp until they were healed."
+    },
+    {
+      "n": 9,
+      "html": "Yahweh said to Joshua, “Today I have rolled away the reproach of Egypt from you.” Therefore the name of that place was called <span class=\"place\" data-key=\"gilgal\">Gilgal</span><sup class=\"footnote-marker\">1</sup>, to this day."
+    },
+    {
+      "n": 10,
+      "html": "The children of Israel encamped in <span class=\"place\" data-key=\"gilgal\">Gilgal</span>. They kept the Passover on the fourteenth day of the month at evening in the plains of <span class=\"place\" data-key=\"jericho\">Jericho</span>."
+    },
+    {
+      "n": 11,
+      "html": "They ate unleavened cakes and parched grain of the produce of the land on the next day after the Passover, in the same day."
+    },
+    {
+      "n": 12,
+      "html": "The manna ceased on the next day, after they had eaten of the produce of the land. The children of Israel didn’t have manna any more, but they ate of the fruit of the land of Canaan that year."
+    },
+    {
+      "n": 13,
+      "html": "When Joshua was by <span class=\"place\" data-key=\"jericho\">Jericho</span>, he lifted up his eyes and looked, and behold, a man stood in front of him with his sword drawn in his hand. Joshua went to him and said to him, “Are you for us, or for our adversaries?”"
+    },
+    {
+      "n": 14,
+      "html": "He said, “No; but I have come now as commander of Yahweh’s army.” Joshua fell on his face to the earth, and worshiped, and asked him, “What does my lord say to his servant?”"
+    },
+    {
+      "n": 15,
+      "html": "The prince of Yahweh’s army said to Joshua, “Take off your sandals, for the place on which you stand is holy.” Joshua did so."
+    }
+  ],
+  "footnotes": [
+    {
+      "marker": "1",
+      "html": "<em>Gilgal.</em> The name (Hebrew <em>gilgāl</em>, “circle” or “wheel”) is derived in this verse from <em>gll</em>, “to roll away,” linking the place-name to Yahweh’s declaration that Israel’s reproach has been rolled away. The contested identification of the site itself is footnoted at 4:19. The unidentified <em>hill of the foreskins</em> named in v.3 is presumably a feature within the same complex."
+    }
+  ]
+}
