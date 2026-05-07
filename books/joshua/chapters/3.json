@@ -1,0 +1,88 @@
+{
+  "title": "Crossing the Jordan",
+  "places": ["shittim", "jordan", "adam", "zarethan", "dead-sea", "jericho"],
+  "view": {
+    "center": [31.85, 35.50],
+    "zoom": 9
+  },
+  "verses": [
+    {
+      "n": 1,
+      "html": "Joshua rose up early in the morning; and they moved from <span class=\"place\" data-key=\"shittim\">Shittim</span> and came to the <span class=\"place\" data-key=\"jordan\">Jordan</span>, he and all the children of Israel. They lodged there before they passed over."
+    },
+    {
+      "n": 2,
+      "html": "After three days, the officers went through the middle of the camp;"
+    },
+    {
+      "n": 3,
+      "html": "and they commanded the people, saying, “When you see the ark of Yahweh your God’s covenant, and the priests the Levites bearing it, then leave your place and follow it."
+    },
+    {
+      "n": 4,
+      "html": "Yet there shall be a space between you and it of about two thousand cubits by measure—don’t come near it—that you may know the way by which you must go; for you have not passed this way before.”"
+    },
+    {
+      "n": 5,
+      "html": "Joshua said to the people, “Sanctify yourselves; for tomorrow Yahweh will do wonders among you.”"
+    },
+    {
+      "n": 6,
+      "html": "Joshua spoke to the priests, saying, “Take up the ark of the covenant, and cross over before the people.” They took up the ark of the covenant, and went before the people."
+    },
+    {
+      "n": 7,
+      "html": "Yahweh said to Joshua, “Today I will begin to magnify you in the sight of all Israel, that they may know that as I was with Moses, so I will be with you."
+    },
+    {
+      "n": 8,
+      "html": "You shall command the priests who bear the ark of the covenant, saying, ‘When you come to the brink of the waters of the <span class=\"place\" data-key=\"jordan\">Jordan</span>, you shall stand still in the Jordan.’”"
+    },
+    {
+      "n": 9,
+      "html": "Joshua said to the children of Israel, “Come here, and hear the words of Yahweh your God.”"
+    },
+    {
+      "n": 10,
+      "html": "Joshua said, “By this you shall know that the living God is among you, and that he will without fail drive the Canaanite, the Hittite, the Hivite, the Perizzite, the Girgashite, the Amorite, and the Jebusite out from before you."
+    },
+    {
+      "n": 11,
+      "html": "Behold, the ark of the covenant of the Lord of all the earth passes over before you into the <span class=\"place\" data-key=\"jordan\">Jordan</span>."
+    },
+    {
+      "n": 12,
+      "html": "Now therefore take twelve men out of the tribes of Israel, for every tribe a man."
+    },
+    {
+      "n": 13,
+      "html": "It shall come to pass, when the soles of the feet of the priests who bear the ark of Yahweh, the Lord of all the earth, rest in the waters of the <span class=\"place\" data-key=\"jordan\">Jordan</span>, that the waters of the <span class=\"place\" data-key=\"jordan\">Jordan</span> will be cut off, even the waters that come down from above; and they shall stand in one heap.”"
+    },
+    {
+      "n": 14,
+      "html": "When the people moved from their tents to pass over the <span class=\"place\" data-key=\"jordan\">Jordan</span>, the priests who bore the ark of the covenant being before the people,"
+    },
+    {
+      "n": 15,
+      "html": "and when those who bore the ark had come to the <span class=\"place\" data-key=\"jordan\">Jordan</span>, and the feet of the priests who bore the ark had dipped in the edge of the water (for the <span class=\"place\" data-key=\"jordan\">Jordan</span> overflows all its banks all the time of harvest),"
+    },
+    {
+      "n": 16,
+      "html": "the waters which came down from above stood, and rose up in one heap a great way off, at <span class=\"place\" data-key=\"adam\">Adam</span><sup class=\"footnote-marker\">1</sup>, the city that is beside <span class=\"place\" data-key=\"zarethan\">Zarethan</span><sup class=\"footnote-marker\">2</sup>; and those that went down toward the sea of the Arabah, even the <span class=\"place\" data-key=\"dead-sea\">Salt Sea</span>, were wholly cut off. Then the people passed over right against <span class=\"place\" data-key=\"jericho\">Jericho</span>."
+    },
+    {
+      "n": 17,
+      "html": "The priests who bore the ark of Yahweh’s covenant stood firm on dry ground in the middle of the <span class=\"place\" data-key=\"jordan\">Jordan</span>; and all Israel crossed over on dry ground, until all the nation had passed completely over the <span class=\"place\" data-key=\"jordan\">Jordan</span>."
+    }
+  ],
+  "footnotes": [
+    {
+      "marker": "1",
+      "html": "<em>Adam.</em> Tell ed-Damiyeh, on the east bank of the Jordan near the mouth of the Jabbok, c. 25 km north of Jericho. The identification is secure on linguistic and topographic grounds; the site sits at a constriction in the Jordan corridor where landslide damming of the river has been historically attested. <em>ABD</em> 1:62."
+    },
+    {
+      "marker": "2",
+      "html": "<em>Zarethan.</em> No site has been confirmed. The leading candidate is Tell es-Saʿidiyeh, c. 28 km north of Jericho on the east bank, identified by Pritchard on the basis of 1 Kings 4:12 and 7:46, which place Zarethan in the Jordan Valley near Adam. Tell Umm Hamad has also been proposed. The pin marks Tell es-Saʿidiyeh. <em>ABD</em> 6:1041."
+    }
+  ]
+}

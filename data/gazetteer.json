@@ -498,6 +498,94 @@
         "verses": [
           1
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 3,
+        "verses": [
+          1
+        ]
+      }
+    ]
+  },
+  "adam": {
+    "name": "Adam",
+    "name_alt": [
+      "Tell ed-Damiyeh",
+      "ed-Damiyeh"
+    ],
+    "coords": [
+      32.0985,
+      35.552
+    ],
+    "tier": "identified",
+    "id": "Tell ed-Damiyeh, on the east bank of the Jordan near the mouth of the Jabbok, c. 25 km north of Jericho. The identification is secure on linguistic and topographic grounds; the site sits at a constriction in the Jordan corridor where landslide damming of the river has been historically attested.",
+    "abd": "1:62",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 3,
+        "verses": [
+          16
+        ]
+      }
+    ]
+  },
+  "zarethan": {
+    "name": "Zarethan",
+    "name_alt": [
+      "Zarthan",
+      "Zererah",
+      "Tell es-Saʿidiyeh"
+    ],
+    "coords": [
+      32.235,
+      35.581
+    ],
+    "tier": "conjectural",
+    "id": "An unconfirmed site in the Jordan Valley, named here as the city beside Adam. The leading candidate is Tell es-Saʿidiyeh, c. 28 km north of Jericho on the east bank; Tell Umm Hamad has also been proposed.",
+    "abd": "6:1041",
+    "alternatives": [
+      {
+        "site": "Tell es-Saʿidiyeh",
+        "source": "Pritchard"
+      },
+      {
+        "site": "Tell Umm Hamad",
+        "source": "Glueck; older surveys"
+      }
+    ],
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 3,
+        "verses": [
+          16
+        ]
+      }
+    ]
+  },
+  "dead-sea": {
+    "name": "The Dead Sea",
+    "name_alt": [
+      "Salt Sea",
+      "sea of the Arabah",
+      "Yam ha-Melaḥ"
+    ],
+    "coords": [
+      31.5,
+      35.5
+    ],
+    "tier": "identified",
+    "id": "The salt lake at the southern end of the Jordan Rift Valley, c. 80 km long, the lowest point on the earth's surface (−430 m). Called the “Salt Sea” and the “sea of the Arabah” in the Hebrew Bible. Forms the eastern boundary of Judah and the western boundary of Moab.",
+    "abd": "2:65",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 3,
+        "verses": [
+          16
+        ]
       }
     ]
   }
