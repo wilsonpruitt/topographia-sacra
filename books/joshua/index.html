@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>The Book of Joshua &mdash; Topographia Sacra</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/assets/edition.css" />
+</head>
+<body>
+
+<header class="masthead">
+  <a href="/" class="wordmark">Topographia <span class="amp">&middot;</span> Sacra</a>
+  <nav class="masthead-nav">
+    <a href="/books/joshua/">Joshua</a>
+    <a href="/gazetteer.html">Gazetteer</a>
+  </nav>
+</header>
+
+<section class="book-intro">
+  <div class="imprint-block">
+    <div class="imprint-line">A Geographical Edition</div>
+    <hr class="rule" style="max-width:300px; margin: 6px auto 14px;" />
+    <h1>The Book of Joshua</h1>
+    <div class="fleuron fleuron-sm">&#10086;</div>
+  </div>
+
+  <p class="subtitle">World English Bible &middot; with a gazetteer of place names</p>
+
+  <p>The Book of Joshua is, among other things, a work of geography. Its narrative moves through named places &mdash; fords, ruins, valleys, hill-country towns &mdash; and its second half is a registry of land allotted by tribe, naming sites that often appear nowhere else in scripture. Many of these places are settled identifications; many are conjectural; some are unknown.</p>
+
+  <p>This edition pairs the text of the World English Bible (public domain) with a map of the places named in each chapter. Identifications follow the <em>Anchor Bible Dictionary</em>, with footnotes recording disputed cases and alternative candidates.</p>
+
+  <p class="note">Solid pins denote identified sites; lighter pins denote probable identifications; outlined pins denote conjectural ones. Unidentified places are listed in the chapter footnotes but not pinned.</p>
+</section>
+
+<ul class="chapter-list" id="chapter-list">
+  <!-- populated by JS from /books/joshua/meta.json -->
+</ul>
+
+<script>
+(async function () {
+  const meta = await fetch("/books/joshua/meta.json").then(r => r.json());
+  const built = new Set(meta.built);
+  const list = document.getElementById("chapter-list");
+  const toRoman = (num) => {
+    const map = [[10,"X"],[9,"IX"],[5,"V"],[4,"IV"],[1,"I"]];
+    let r = ""; for (const [v,s] of map) while (num >= v) { r += s; num -= v; }
+    return r;
+  };
+  meta.chapter_titles.forEach((title, i) => {
+    const n = i + 1;
+    const li = document.createElement("li");
+    const wrap = document.createElement("a");
+    const num = document.createElement("span");
+    num.className = "num";
+    num.textContent = `Ch. ${toRoman(n)}`;
+    const tt = document.createElement("span");
+    tt.className = "title";
+    tt.textContent = title;
+    const places = document.createElement("span");
+    places.className = "places";
+    if (built.has(n)) {
+      wrap.href = `${n}/`;
+      places.textContent = "View →";
+    } else {
+      wrap.style.cursor = "default";
+      wrap.style.color = "var(--sepia-soft)";
+      tt.style.color = "var(--sepia-soft)";
+      places.textContent = "— forthcoming —";
+    }
+    wrap.appendChild(num);
+    wrap.appendChild(tt);
+    wrap.appendChild(places);
+    li.appendChild(wrap);
+    list.appendChild(li);
+  });
+})();
+</script>
+
+</body>
+</html>

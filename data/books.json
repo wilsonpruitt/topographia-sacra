@@ -1,0 +1,13 @@
+{
+  "_about": "Series manifest for Topographia Sacra. Drives the landing page and cross-book navigation. Add a book by appending an entry here and creating books/{slug}/.",
+  "books": {
+    "joshua": {
+      "title": "The Book of Joshua",
+      "subtitle": "A geographical edition",
+      "chapters": 24,
+      "status": "in-progress",
+      "first_built": 2026
+    }
+  },
+  "order": ["joshua"]
+}

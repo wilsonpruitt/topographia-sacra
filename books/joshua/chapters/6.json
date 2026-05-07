@@ -1,0 +1,48 @@
+{
+  "title": "The Fall of Jericho",
+  "places": ["jericho", "gilgal", "jordan"],
+  "view": { "center": [31.820, 35.420], "zoom": 11 },
+  "verses": [
+    { "n": 1,  "html": "Now <span class=\"place\" data-key=\"jericho\">Jericho</span><sup class=\"footnote-marker\">2</sup> was tightly shut up because of the children of Israel. No one went out, and no one came in." },
+    { "n": 2,  "html": "Yahweh said to Joshua, \u201CBehold, I have given <span class=\"place\" data-key=\"jericho\">Jericho</span> into your hand, with its king and the mighty men of valor." },
+    { "n": 3,  "html": "All your men of war shall march around the city, going around the city once. You shall do this six days." },
+    { "n": 4,  "html": "Seven priests shall bear seven trumpets of rams\u2019 horns before the ark. On the seventh day, you shall march around the city seven times, and the priests shall blow the trumpets." },
+    { "n": 5,  "html": "It shall be that when they make a long blast with the ram\u2019s horn, and when you hear the sound of the trumpet, all the people shall shout with a great shout; and the city wall shall fall down flat, and the people shall go up, every man straight in front of him.\u201D" },
+    { "n": 6,  "html": "Joshua the son of Nun called the priests, and said to them, \u201CTake up the ark of the covenant, and let seven priests bear seven trumpets of rams\u2019 horns before Yahweh\u2019s ark.\u201D" },
+    { "n": 7,  "html": "They said to the people, \u201CAdvance! March around the city, and let the armed men pass on before Yahweh\u2019s ark.\u201D" },
+    { "n": 8,  "html": "It was so, that when Joshua had spoken to the people, the seven priests bearing the seven trumpets of rams\u2019 horns before Yahweh advanced, and blew the trumpets; and the ark of Yahweh\u2019s covenant followed them." },
+    { "n": 9,  "html": "The armed men went before the priests who blew the trumpets, and the ark went after them. The trumpets sounded as they went." },
+    { "n": 10, "html": "Joshua commanded the people, saying, \u201CYou shall not shout nor let your voice be heard, neither shall any word proceed out of your mouth until the day I tell you to shout. Then you shall shout.\u201D" },
+    { "n": 11, "html": "So he caused Yahweh\u2019s ark to go around the city, going about it once. Then they came into <span class=\"place\" data-key=\"gilgal\">the camp</span><sup class=\"footnote-marker\">1</sup>, and lodged in the camp." },
+    { "n": 12, "html": "Joshua rose early in the morning, and the priests took up Yahweh\u2019s ark." },
+    { "n": 13, "html": "The seven priests bearing the seven trumpets of rams\u2019 horns in front of Yahweh\u2019s ark went on continually, and blew the trumpets. The armed men went in front of them. The rear guard came after Yahweh\u2019s ark. The trumpets sounded as they went." },
+    { "n": 14, "html": "The second day they marched around the city once, and returned into <span class=\"place\" data-key=\"gilgal\">the camp</span>. They did this six days." },
+    { "n": 15, "html": "On the seventh day, they rose early at the dawning of the day, and marched around the city in the same way seven times. Only on this day they marched around the city seven times." },
+    { "n": 16, "html": "At the seventh time, when the priests blew the trumpets, Joshua said to the people, \u201CShout, for Yahweh has given you the city!" },
+    { "n": 17, "html": "The city shall be devoted, even it and all that is in it, to Yahweh. Only Rahab the prostitute shall live, she and all who are with her in the house, because she hid the messengers that we sent." },
+    { "n": 18, "html": "But as for you, only keep yourselves from what is devoted to destruction, lest when you have devoted it, you take of the devoted thing; so you would make the camp of Israel accursed and trouble it." },
+    { "n": 19, "html": "But all the silver, gold, and vessels of bronze and iron are holy to Yahweh. They shall come into Yahweh\u2019s treasury.\u201D" },
+    { "n": 20, "html": "So the people shouted and the priests blew the trumpets. When the people heard the sound of the trumpet, the people shouted with a great shout, and the wall fell down flat, so that the people went up into the city, every man straight in front of him, and they took the city." },
+    { "n": 21, "html": "They utterly destroyed all that was in the city, both man and woman, both young and old, and ox, sheep, and donkey, with the edge of the sword." },
+    { "n": 22, "html": "Joshua said to the two men who had spied out the land, \u201CGo into the prostitute\u2019s house, and bring out from there the woman and all that she has, as you swore to her.\u201D" },
+    { "n": 23, "html": "The young men who were spies went in, and brought out Rahab with her father, her mother, her brothers, and all that she had. They also brought out all of her relatives, and they set them outside of the camp of Israel." },
+    { "n": 24, "html": "They burnt the city with fire, and all that was in it. Only they put the silver, the gold, and the vessels of bronze and of iron into the treasury of Yahweh\u2019s house." },
+    { "n": 25, "html": "But Rahab the prostitute, her father\u2019s household, and all that she had, Joshua saved alive. She lived in the middle of Israel to this day, because she hid the messengers whom Joshua sent to spy out <span class=\"place\" data-key=\"jericho\">Jericho</span>." },
+    { "n": 26, "html": "Joshua commanded them with an oath at that time, saying, \u201CCursed is the man before Yahweh who rises up and builds this city <span class=\"place\" data-key=\"jericho\">Jericho</span>. With the loss of his firstborn shall he lay its foundation, and with the loss of his youngest son shall he set up its gates.\u201D" },
+    { "n": 27, "html": "So Yahweh was with Joshua; and his fame was in all the land." }
+  ],
+  "footnotes": [
+    {
+      "marker": "1",
+      "html": "<em>Gilgal.</em> Bennett identified the site with Khirbet el-Mafjar; Muilenburg argued for Khirbet en-Nitla; Bimson revives a case for a site closer to the Jordan ford. The pin marks the approximate centre of the candidate zone in the plain east of Jericho. See <em>ABD</em> 2:1022\u20131024."
+    },
+    {
+      "marker": "2",
+      "html": "<em>Jericho.</em> Identification of the <em>tell</em> at es-Sultan with biblical Jericho is undisputed; the alignment of the conquest narrative with the site\u2019s stratigraphy is famously contested. Kenyon\u2019s Late Bronze occupation gap remains the standard scholarly position; Bryant Wood and others have argued for an LB I destruction. See <em>ABD</em> 3:723\u2013740."
+    },
+    {
+      "marker": "3",
+      "html": "<em>The Jordan crossing.</em> The traditional crossing site at Qasr el-Yahud (\u201CCastle of the Jews\u201D) has been venerated since the Byzantine period. The actual ford used in the Israelite tradition is geographically plausible but not archaeologically recoverable."
+    }
+  ]
+}

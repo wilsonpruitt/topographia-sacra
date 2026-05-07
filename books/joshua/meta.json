@@ -1,0 +1,33 @@
+{
+  "slug": "joshua",
+  "title": "The Book of Joshua",
+  "subtitle": "A geographical edition",
+  "chapters": 24,
+  "chapter_titles": [
+    "The Lord's Charge to Joshua",
+    "Rahab and the Spies",
+    "Crossing the Jordan",
+    "The Twelve Stones",
+    "Circumcision at Gilgal",
+    "The Fall of Jericho",
+    "Achan and the Defeat at Ai",
+    "The Capture of Ai",
+    "The Gibeonite Deception",
+    "The Southern Campaign",
+    "The Northern Campaign",
+    "Kings Defeated by Joshua",
+    "Land Yet to Be Conquered",
+    "Caleb's Inheritance",
+    "The Inheritance of Judah",
+    "The Inheritance of Joseph",
+    "The Inheritance of Manasseh",
+    "The Remaining Tribes",
+    "The Last Allotments",
+    "Cities of Refuge",
+    "Cities for the Levites",
+    "The Eastern Tribes Return",
+    "Joshua's Charge to the Leaders",
+    "Covenant at Shechem"
+  ],
+  "built": [6, 7]
+}
