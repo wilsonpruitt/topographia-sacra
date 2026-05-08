@@ -1,0 +1,33 @@
+{
+  "title": "Shibboleth at the Fords",
+  "places": [
+    "gilead", "ammon-region", "jordan",
+    "bethlehem-zebulun", "aijalon-zebulun", "pirathon"
+  ],
+  "view": {
+    "center": [32.30, 35.50],
+    "zoom": 8
+  },
+  "verses": [
+    {"n": 1, "html": "The men of Ephraim were gathered together, and passed northward; and they said to Jephthah, &lsquo;Why did you pass over to fight against the children of <span class=\"place\" data-key=\"ammon-region\">Ammon</span>, and didn&rsquo;t call us to go with you? We will burn your house around you with fire!&rsquo;"},
+    {"n": 2, "html": "Jephthah said to them, &lsquo;I and my people were at great strife with the children of <span class=\"place\" data-key=\"ammon-region\">Ammon</span>; and when I called you, you didn&rsquo;t save me out of their hand."},
+    {"n": 3, "html": "When I saw that you didn&rsquo;t save me, I put my life in my hand, and passed over against the children of <span class=\"place\" data-key=\"ammon-region\">Ammon</span>, and Yahweh delivered them into my hand. Why then have you come up to me today, to fight against me?&rsquo;"},
+    {"n": 4, "html": "Then Jephthah gathered together all the men of <span class=\"place\" data-key=\"gilead\">Gilead</span>, and fought with Ephraim. The men of <span class=\"place\" data-key=\"gilead\">Gilead</span> struck Ephraim, because they said, &lsquo;You are fugitives of Ephraim, you Gileadites, in the middle of Ephraim, and in the middle of Manasseh.&rsquo;"},
+    {"n": 5, "html": "The Gileadites took the fords of <span class=\"place\" data-key=\"jordan\">the Jordan</span> against the Ephraimites. Whenever a fugitive of Ephraim said, &lsquo;Let me go over,&rsquo; the men of <span class=\"place\" data-key=\"gilead\">Gilead</span> said to him, &lsquo;Are you an Ephraimite?&rsquo;<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 6, "html": "If he said, &lsquo;No;&rsquo; then they said to him, &lsquo;Now say &ldquo;Shibboleth&rdquo;;&rsquo; and he said &lsquo;Sibboleth&rsquo;; for he couldn&rsquo;t manage to pronounce it correctly, then they seized him and killed him at the fords of <span class=\"place\" data-key=\"jordan\">the Jordan</span>. At that time, forty-two thousand of Ephraim fell."},
+    {"n": 7, "html": "Jephthah judged Israel six years. Then Jephthah the Gileadite died, and was buried in the cities of <span class=\"place\" data-key=\"gilead\">Gilead</span>."},
+    {"n": 8, "html": "After him Ibzan of <span class=\"place\" data-key=\"bethlehem-zebulun\">Bethlehem</span> judged Israel.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 9, "html": "He had thirty sons. He sent his thirty daughters outside his clan, and he brought in thirty daughters from outside his clan for his sons. He judged Israel seven years."},
+    {"n": 10, "html": "Ibzan died, and was buried at <span class=\"place\" data-key=\"bethlehem-zebulun\">Bethlehem</span>."},
+    {"n": 11, "html": "After him, Elon the Zebulunite judged Israel; and he judged Israel ten years."},
+    {"n": 12, "html": "Elon the Zebulunite died, and was buried in <span class=\"place\" data-key=\"aijalon-zebulun\">Aijalon</span> in the land of Zebulun."},
+    {"n": 13, "html": "After him, Abdon the son of Hillel the Pirathonite judged Israel."},
+    {"n": 14, "html": "He had forty sons and thirty sons&rsquo; sons who rode on seventy donkey colts. He judged Israel eight years."},
+    {"n": 15, "html": "Abdon the son of Hillel the Pirathonite died, and was buried in <span class=\"place\" data-key=\"pirathon\">Pirathon</span> in the land of Ephraim, in the hill country of the Amalekites.<sup class=\"footnote-marker\">3</sup>"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>The fords of the Jordan</strong> (v.&nbsp;5) — the Gileadite force seizes the central crossings (presumably opposite Adam, Damiyeh, and Mehola) to bottle up the retreating Ephraimite militia on the west bank. The shibboleth test exploits a documented dialectal divergence: the Ephraimite hill country pronounced /š/ as /s/ in initial position before certain vowels."},
+    {"n": 2, "html": "<strong>Bethlehem</strong> (v.&nbsp;8) — almost certainly the Zebulunite Bethlehem (modern Beit Lahm NW of Nazareth, Joshua 19:15) rather than the Judahite Bethlehem; the next two judges are also from Galilee (Elon of Zebulun, then Abdon of Pirathon in southern Ephraim). Later Jewish tradition identified Ibzan with Boaz of Judahite Bethlehem, but the geographic flow of the chapter argues against it."},
+    {"n": 3, "html": "<strong>Pirathon, in the hill country of the Amalekites</strong> (v.&nbsp;15) — modern Farʿata c.&nbsp;10&nbsp;km SW of Shechem. The note about the &ldquo;hill country of the Amalekites&rdquo; preserves a memory of pre-Israelite Amalekite settlement in the central highlands; cf. Judges 5:14."}
+  ]
+}

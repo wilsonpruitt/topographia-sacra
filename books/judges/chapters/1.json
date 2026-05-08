@@ -1,0 +1,63 @@
+{
+  "title": "The Incomplete Conquest",
+  "places": [
+    "bezek", "jerusalem", "hebron", "debir", "kiriath-sepher",
+    "arad", "hormah", "gaza", "ashkelon", "ekron",
+    "bethel", "luz", "luz-hittite", "jericho",
+    "beth-shean", "taanach", "dor", "ibleam", "megiddo",
+    "gezer", "kitron", "nahalol",
+    "acco", "sidon", "ahlab", "achzib-asher", "helbah", "aphek-asher", "rehob-asher",
+    "beth-shemesh-naphtali", "beth-anath",
+    "mount-heres", "aijalon", "shaalbim", "ascent-of-akrabbim"
+  ],
+  "view": {
+    "center": [31.95, 35.10],
+    "zoom": 8
+  },
+  "verses": [
+    {"n": 1, "html": "After the death of Joshua, the children of Israel asked of Yahweh, saying, &lsquo;Who should go up for us first against the Canaanites, to fight against them?&rsquo;"},
+    {"n": 2, "html": "Yahweh said, &lsquo;Judah shall go up. Behold, I have delivered the land into his hand.&rsquo;"},
+    {"n": 3, "html": "Judah said to Simeon his brother, &lsquo;Come up with me into my lot, that we may fight against the Canaanites; and I likewise will go with you into your lot.&rsquo; So Simeon went with him."},
+    {"n": 4, "html": "Judah went up, and Yahweh delivered the Canaanites and the Perizzites into their hand. They struck ten thousand men in <span class=\"place\" data-key=\"bezek\">Bezek</span>.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 5, "html": "They found Adoni-Bezek in <span class=\"place\" data-key=\"bezek\">Bezek</span>, and they fought against him. They struck the Canaanites and the Perizzites."},
+    {"n": 6, "html": "But Adoni-Bezek fled. They pursued him, caught him, and cut off his thumbs and his big toes."},
+    {"n": 7, "html": "Adoni-Bezek said, &lsquo;Seventy kings, having their thumbs and their big toes cut off, scavenged under my table. As I have done, so God has done to me.&rsquo; They brought him to <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, and he died there."},
+    {"n": 8, "html": "The children of Judah fought against <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, took it, struck it with the edge of the sword, and set the city on fire.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 9, "html": "After that, the children of Judah went down to fight against the Canaanites who lived in the hill country, and in the South, and in the lowland."},
+    {"n": 10, "html": "Judah went against the Canaanites who lived in <span class=\"place\" data-key=\"hebron\">Hebron</span>. (The name of <span class=\"place\" data-key=\"hebron\">Hebron</span> before that was <span class=\"place\" data-key=\"hebron\">Kiriath Arba</span>.) They struck Sheshai, Ahiman, and Talmai.<sup class=\"footnote-marker\">3</sup>"},
+    {"n": 11, "html": "From there he went against the inhabitants of <span class=\"place\" data-key=\"debir\">Debir</span>. (The name of <span class=\"place\" data-key=\"debir\">Debir</span> before that was <span class=\"place\" data-key=\"kiriath-sepher\">Kiriath Sepher</span>.)"},
+    {"n": 12, "html": "Caleb said, &lsquo;I will give Achsah my daughter as wife to the man who strikes <span class=\"place\" data-key=\"kiriath-sepher\">Kiriath Sepher</span>, and takes it.&rsquo;"},
+    {"n": 13, "html": "Othniel the son of Kenaz, Caleb&rsquo;s younger brother, took it, so he gave him Achsah his daughter as his wife."},
+    {"n": 14, "html": "When she came, she got him to ask her father for a field. She got off her donkey; and Caleb said to her, &lsquo;What would you like?&rsquo;"},
+    {"n": 15, "html": "She said to him, &lsquo;Give me a blessing; because you have set me in the land of the South, give me also springs of water.&rsquo; Then Caleb gave her the upper springs and the lower springs."},
+    {"n": 16, "html": "The children of the Kenite, Moses&rsquo; brother-in-law, went up out of <span class=\"place\" data-key=\"jericho\">the city of palm trees</span> with the children of Judah into the wilderness of Judah, which is in the south of <span class=\"place\" data-key=\"arad\">Arad</span>; and they went and lived with the people.<sup class=\"footnote-marker\">4</sup>"},
+    {"n": 17, "html": "Judah went with Simeon his brother, and they struck the Canaanites who inhabited <span class=\"place\" data-key=\"hormah\">Zephath</span>, and utterly destroyed it. The name of the city was called <span class=\"place\" data-key=\"hormah\">Hormah</span>.<sup class=\"footnote-marker\">5</sup>"},
+    {"n": 18, "html": "Also Judah took <span class=\"place\" data-key=\"gaza\">Gaza</span> with its border, and <span class=\"place\" data-key=\"ashkelon\">Ashkelon</span> with its border, and <span class=\"place\" data-key=\"ekron\">Ekron</span> with its border."},
+    {"n": 19, "html": "Yahweh was with Judah, and drove out the inhabitants of the hill country; for he could not drive out the inhabitants of the valley, because they had chariots of iron."},
+    {"n": 20, "html": "They gave <span class=\"place\" data-key=\"hebron\">Hebron</span> to Caleb, as Moses had said, and he drove the three sons of Anak out of there."},
+    {"n": 21, "html": "The children of Benjamin didn&rsquo;t drive out the Jebusites who inhabited <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, but the Jebusites dwell with the children of Benjamin in <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> to this day."},
+    {"n": 22, "html": "The house of Joseph also went up against <span class=\"place\" data-key=\"bethel\">Bethel</span>, and Yahweh was with them."},
+    {"n": 23, "html": "The house of Joseph sent to spy out <span class=\"place\" data-key=\"bethel\">Bethel</span>. (The name of the city before that was <span class=\"place\" data-key=\"luz\">Luz</span>.)"},
+    {"n": 24, "html": "The watchers saw a man come out of the city, and they said to him, &lsquo;Please show us the entrance into the city, and we will deal kindly with you.&rsquo;"},
+    {"n": 25, "html": "He showed them the entrance into the city, and they struck the city with the edge of the sword; but they let the man and all his family go."},
+    {"n": 26, "html": "The man went into the land of the Hittites, built a city, and called its name <span class=\"place\" data-key=\"luz-hittite\">Luz</span>, which is its name to this day.<sup class=\"footnote-marker\">6</sup>"},
+    {"n": 27, "html": "Manasseh didn&rsquo;t drive out the inhabitants of <span class=\"place\" data-key=\"beth-shean\">Beth Shean</span> and its towns, nor <span class=\"place\" data-key=\"taanach\">Taanach</span> and its towns, nor the inhabitants of <span class=\"place\" data-key=\"dor\">Dor</span> and its towns, nor the inhabitants of <span class=\"place\" data-key=\"ibleam\">Ibleam</span> and its towns, nor the inhabitants of <span class=\"place\" data-key=\"megiddo\">Megiddo</span> and its towns; but the Canaanites would dwell in that land."},
+    {"n": 28, "html": "When Israel had grown strong, they put the Canaanites to forced labor, and didn&rsquo;t utterly drive them out."},
+    {"n": 29, "html": "Ephraim didn&rsquo;t drive out the Canaanites who lived in <span class=\"place\" data-key=\"gezer\">Gezer</span>, but the Canaanites lived in <span class=\"place\" data-key=\"gezer\">Gezer</span> among them."},
+    {"n": 30, "html": "Zebulun didn&rsquo;t drive out the inhabitants of <span class=\"place\" data-key=\"kitron\">Kitron</span>, nor the inhabitants of <span class=\"place\" data-key=\"nahalol\">Nahalol</span>; but the Canaanites lived among them, and became subject to forced labor."},
+    {"n": 31, "html": "Asher didn&rsquo;t drive out the inhabitants of <span class=\"place\" data-key=\"acco\">Acco</span>, nor the inhabitants of <span class=\"place\" data-key=\"sidon\">Sidon</span>, nor of <span class=\"place\" data-key=\"ahlab\">Ahlab</span>, nor of <span class=\"place\" data-key=\"achzib-asher\">Achzib</span>, nor of <span class=\"place\" data-key=\"helbah\">Helbah</span>, nor of <span class=\"place\" data-key=\"aphek-asher\">Aphik</span>, nor of <span class=\"place\" data-key=\"rehob-asher\">Rehob</span>;"},
+    {"n": 32, "html": "but the Asherites lived among the Canaanites, the inhabitants of the land, for they didn&rsquo;t drive them out."},
+    {"n": 33, "html": "Naphtali didn&rsquo;t drive out the inhabitants of <span class=\"place\" data-key=\"beth-shemesh-naphtali\">Beth Shemesh</span>, nor the inhabitants of <span class=\"place\" data-key=\"beth-anath\">Beth Anath</span>; but he lived among the Canaanites, the inhabitants of the land. Nevertheless the inhabitants of <span class=\"place\" data-key=\"beth-shemesh-naphtali\">Beth Shemesh</span> and of <span class=\"place\" data-key=\"beth-anath\">Beth Anath</span> became subject to forced labor."},
+    {"n": 34, "html": "The Amorites forced the children of Dan into the hill country, for they would not allow them to come down to the valley;"},
+    {"n": 35, "html": "but the Amorites would dwell in <span class=\"place\" data-key=\"mount-heres\">Mount Heres</span>, in <span class=\"place\" data-key=\"aijalon\">Aijalon</span>, and in <span class=\"place\" data-key=\"shaalbim\">Shaalbim</span>. Yet the hand of the house of Joseph prevailed, so that they became subject to forced labor."},
+    {"n": 36, "html": "The border of the Amorites was from <span class=\"place\" data-key=\"ascent-of-akrabbim\">the ascent of Akrabbim</span>, from the rock, and upward."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Bezek</strong> (v.&nbsp;4) — most likely Khirbet Ibziq, on the eastern slope of the central hill country some 20&nbsp;km north-northeast of Shechem, on the road climbing from the Jordan valley. The choice of opening battlefield is striking: Judah&rsquo;s allotment lay far to the south, but the campaign begins on a route that controlled the seam between Manasseh and the Jordan trough."},
+    {"n": 2, "html": "<strong>Judah burned Jerusalem</strong> (v.&nbsp;8) — but v.&nbsp;21 says the Jebusites still hold the city in Benjamin&rsquo;s allotment. The two notices reflect the layered status of Jebusite Jerusalem: a Judahite raid took the lower town, but the citadel on the southeastern ridge held out until David&rsquo;s campaign two centuries later (2&nbsp;Sam 5)."},
+    {"n": 3, "html": "<strong>Kiriath Arba</strong> (v.&nbsp;10) — the older name of Hebron, preserved in Joshua 14:15 and 15:13. Arba was the eponymous Anakite ancestor; Sheshai, Ahiman, and Talmai are his sons in Joshua 15:14. The doublet of names (Kiriath-Arba/Hebron, Luz/Bethel, Kiriath-Sepher/Debir, Zephath/Hormah) is one of the chapter&rsquo;s structural features &mdash; a list of name-changes that mark the Israelite take-over."},
+    {"n": 4, "html": "<strong>The city of palm trees</strong> (v.&nbsp;16) — a circumlocution for Jericho (cf. Deut 34:3, Judges 3:13, 2&nbsp;Chr 28:15). The Kenites move from the warm Jordan valley up onto the Negev plateau south of Arad, attaching themselves to the Judahite settlement of the southern frontier."},
+    {"n": 5, "html": "<strong>Zephath / Hormah</strong> (v.&nbsp;17) — the name-change is etymologized in Numbers 21:3 from <em>ḥerem</em> (“devoted to destruction”). The site is debated; Tel Masos and Tel Halif are the leading candidates, both in the Beersheba basin."},
+    {"n": 6, "html": "<strong>Luz in the land of the Hittites</strong> (v.&nbsp;26) — the spy from Bethel founds a namesake city somewhere in north Syria, the conventional “land of the Hittites” in the Iron Age. The notice has no archaeological correlate; it is a foundation-legend in the same idiom as Cain and Enoch (Gen 4:17)."}
+  ]
+}

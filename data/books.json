@@ -28,7 +28,14 @@
       "chapters": 28,
       "status": "complete",
       "first_built": 2026
+    },
+    "judges": {
+      "title": "The Book of Judges",
+      "subtitle": "A geographical edition",
+      "chapters": 21,
+      "status": "complete",
+      "first_built": 2026
     }
   },
-  "order": ["joshua", "jonah", "ruth", "acts"]
+  "order": ["joshua", "jonah", "ruth", "acts", "judges"]
 }

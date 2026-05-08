@@ -1,0 +1,34 @@
+{
+  "title": "The Jawbone of Lehi",
+  "places": ["rock-of-etam", "lehi", "en-hakkore"],
+  "view": {
+    "center": [31.74, 35.02],
+    "zoom": 11
+  },
+  "verses": [
+    {"n": 1, "html": "But after a while, in the time of wheat harvest, Samson visited his wife with a young goat. He said, &lsquo;I will go in to my wife&rsquo;s room.&rsquo;"},
+    {"n": 2, "html": "But her father wouldn&rsquo;t allow him to go in. Her father said, &lsquo;I most certainly thought that you utterly hated her; therefore I gave her to your companion. Isn&rsquo;t her younger sister more beautiful than she? Please, take her instead.&rsquo;"},
+    {"n": 3, "html": "Samson said to them, &lsquo;This time I will be blameless in the case of the Philistines when I harm them.&rsquo;"},
+    {"n": 4, "html": "Samson went and caught three hundred foxes, and took torches, and turned tail to tail, and put a torch in the middle between every two tails."},
+    {"n": 5, "html": "When he had set the torches on fire, he let them go into the standing grain of the Philistines, and burned up both the shocks and the standing grain, and also the olive groves."},
+    {"n": 6, "html": "Then the Philistines said, &lsquo;Who has done this?&rsquo; They said, &lsquo;Samson, the son-in-law of the Timnite, because he has taken his wife and given her to his companion.&rsquo; The Philistines came up, and burned her and her father with fire."},
+    {"n": 7, "html": "Samson said to them, &lsquo;If you behave like this, surely I will take revenge on you, and after that I will cease.&rsquo;"},
+    {"n": 8, "html": "He struck them hip and thigh with a great slaughter; and he went down and lived in the cave in <span class=\"place\" data-key=\"rock-of-etam\">Etam&rsquo;s rock</span>.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 9, "html": "Then the Philistines went up, encamped in Judah, and spread themselves in <span class=\"place\" data-key=\"lehi\">Lehi</span>."},
+    {"n": 10, "html": "The men of Judah said, &lsquo;Why have you come up against us?&rsquo; They said, &lsquo;We have come up to bind Samson, to do to him as he has done to us.&rsquo;"},
+    {"n": 11, "html": "Then three thousand men of Judah went down to the cave in <span class=\"place\" data-key=\"rock-of-etam\">Etam&rsquo;s rock</span>, and said to Samson, &lsquo;Don&rsquo;t you know that the Philistines are rulers over us? What then is this that you have done to us?&rsquo; He said to them, &lsquo;As they did to me, so I have done to them.&rsquo;"},
+    {"n": 12, "html": "They said to him, &lsquo;We have come down to bind you, that we may deliver you into the hand of the Philistines.&rsquo; Samson said to them, &lsquo;Swear to me that you will not attack me yourselves.&rsquo;"},
+    {"n": 13, "html": "They spoke to him, saying, &lsquo;No, but we will bind you securely and deliver you into their hands; but surely we will not kill you.&rsquo; They bound him with two new ropes, and brought him up from the rock."},
+    {"n": 14, "html": "When he came to <span class=\"place\" data-key=\"lehi\">Lehi</span>, the Philistines shouted as they met him. Then Yahweh&rsquo;s Spirit came mightily on him, and the ropes that were on his arms became as flax that was burned with fire; and his bands dropped from off his hands."},
+    {"n": 15, "html": "He found a fresh jawbone of a donkey, put out his hand, took it, and struck a thousand men with it."},
+    {"n": 16, "html": "Samson said, &lsquo;With the jawbone of a donkey, heaps on heaps; with the jawbone of a donkey I have struck a thousand men.&rsquo;"},
+    {"n": 17, "html": "When he had finished speaking, he threw the jawbone out of his hand; and that place was called <span class=\"place\" data-key=\"lehi\">Ramath Lehi</span>.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 18, "html": "He was very thirsty, and called on Yahweh and said, &lsquo;You have given this great deliverance by the hand of your servant; and now shall I die of thirst, and fall into the hands of the uncircumcised?&rsquo;"},
+    {"n": 19, "html": "But God split the hollow place that is in <span class=\"place\" data-key=\"lehi\">Lehi</span>, and water came out of it. When he had drunk, his spirit came again, and he revived. Therefore its name was called <span class=\"place\" data-key=\"en-hakkore\">En Hakkore</span>, which is in <span class=\"place\" data-key=\"lehi\">Lehi</span>, to this day."},
+    {"n": 20, "html": "He judged Israel twenty years in the days of the Philistines."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>The cave in Etam&rsquo;s rock</strong> (v.&nbsp;8) — distinct from the Judahite town of Etam (2&nbsp;Chr 11:6) further south. The Samson narrative places the rock in the western foothills of Judah, somewhere between Zorah and the Sorek valley; the precise cliff is not identified."},
+    {"n": 2, "html": "<strong>Ramath-Lehi</strong> (v.&nbsp;17) — \"the height of Lehi.\" The whole site is named etiologically from the narrative (lehi = jawbone). The location lies in the seam-zone between the Sorek and Elah valleys, where Samson keeps drawing the Philistine punitive expeditions inland."}
+  ]
+}

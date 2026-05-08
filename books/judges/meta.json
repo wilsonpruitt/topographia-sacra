@@ -1,0 +1,30 @@
+{
+  "slug": "judges",
+  "title": "The Book of Judges",
+  "subtitle": "A geographical edition",
+  "chapters": 21,
+  "chapter_titles": [
+    "The Incomplete Conquest",
+    "The Angel at Bochim",
+    "Othniel, Ehud, and Shamgar",
+    "Deborah and Barak",
+    "The Song of Deborah",
+    "The Call of Gideon",
+    "Gideon's Three Hundred",
+    "The Pursuit of Zebah and Zalmunna",
+    "Abimelech King of Shechem",
+    "Tola, Jair, and the Ammonites",
+    "Jephthah and His Vow",
+    "Shibboleth at the Fords",
+    "The Birth of Samson",
+    "Samson's Riddle at Timnah",
+    "The Jawbone of Lehi",
+    "Samson at Gaza; Delilah",
+    "Micah's Idol",
+    "The Migration of the Danites",
+    "The Levite's Concubine at Gibeah",
+    "War Against Benjamin",
+    "Wives for the Benjaminites"
+  ],
+  "built": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+}

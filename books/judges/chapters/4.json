@@ -1,0 +1,44 @@
+{
+  "title": "Deborah and Barak",
+  "places": [
+    "hazor", "harosheth-of-the-gentiles",
+    "ramah-benjamin", "bethel",
+    "kedesh", "mount-tabor", "river-kishon", "zaanannim"
+  ],
+  "view": {
+    "center": [32.85, 35.40],
+    "zoom": 9
+  },
+  "verses": [
+    {"n": 1, "html": "The children of Israel again did that which was evil in Yahweh&rsquo;s sight, when Ehud was dead."},
+    {"n": 2, "html": "Yahweh sold them into the hand of Jabin king of Canaan, who reigned in <span class=\"place\" data-key=\"hazor\">Hazor</span>; the captain of whose army was Sisera, who lived in <span class=\"place\" data-key=\"harosheth-of-the-gentiles\">Harosheth of the Gentiles</span>.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 3, "html": "The children of Israel cried to Yahweh, for he had nine hundred chariots of iron; and he mightily oppressed the children of Israel for twenty years."},
+    {"n": 4, "html": "Now Deborah, a prophetess, the wife of Lappidoth, judged Israel at that time."},
+    {"n": 5, "html": "She lived under Deborah&rsquo;s palm tree between <span class=\"place\" data-key=\"ramah-benjamin\">Ramah</span> and <span class=\"place\" data-key=\"bethel\">Bethel</span> in the hill country of Ephraim; and the children of Israel came up to her for judgment.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 6, "html": "She sent and called Barak the son of Abinoam out of <span class=\"place\" data-key=\"kedesh\">Kedesh Naphtali</span>, and said to him, &lsquo;Hasn&rsquo;t Yahweh, the God of Israel, commanded, &ldquo;Go and lead the way to <span class=\"place\" data-key=\"mount-tabor\">Mount Tabor</span>, and take with you ten thousand men of the children of Naphtali and of the children of Zebulun?"},
+    {"n": 7, "html": "I will draw to you, to <span class=\"place\" data-key=\"river-kishon\">the river Kishon</span>, Sisera, the captain of Jabin&rsquo;s army, with his chariots and his multitude; and I will deliver him into your hand.&rdquo;&rsquo;"},
+    {"n": 8, "html": "Barak said to her, &lsquo;If you will go with me, then I will go; but if you will not go with me, I will not go.&rsquo;"},
+    {"n": 9, "html": "She said, &lsquo;I will surely go with you. Nevertheless, the journey that you take won&rsquo;t be for your honor; for Yahweh will sell Sisera into a woman&rsquo;s hand.&rsquo; Deborah arose, and went with Barak to <span class=\"place\" data-key=\"kedesh\">Kedesh</span>."},
+    {"n": 10, "html": "Barak called Zebulun and Naphtali together to <span class=\"place\" data-key=\"kedesh\">Kedesh</span>. Ten thousand men followed him; and Deborah went up with him."},
+    {"n": 11, "html": "Now Heber the Kenite had separated himself from the Kenites, even from the children of Hobab, Moses&rsquo; brother-in-law, and had pitched his tent as far as the oak in <span class=\"place\" data-key=\"zaanannim\">Zaanannim</span>, which is by <span class=\"place\" data-key=\"kedesh\">Kedesh</span>.<sup class=\"footnote-marker\">3</sup>"},
+    {"n": 12, "html": "They told Sisera that Barak the son of Abinoam had gone up to <span class=\"place\" data-key=\"mount-tabor\">Mount Tabor</span>."},
+    {"n": 13, "html": "Sisera gathered together all his chariots, even nine hundred chariots of iron, and all the people who were with him, from <span class=\"place\" data-key=\"harosheth-of-the-gentiles\">Harosheth of the Gentiles</span>, to <span class=\"place\" data-key=\"river-kishon\">the river Kishon</span>."},
+    {"n": 14, "html": "Deborah said to Barak, &lsquo;Go; for this is the day in which Yahweh has delivered Sisera into your hand. Hasn&rsquo;t Yahweh gone out before you?&rsquo; So Barak went down from <span class=\"place\" data-key=\"mount-tabor\">Mount Tabor</span>, and ten thousand men after him."},
+    {"n": 15, "html": "Yahweh confused Sisera, all his chariots, and all his army, with the edge of the sword before Barak. Sisera abandoned his chariot and fled away on his feet."},
+    {"n": 16, "html": "But Barak pursued the chariots and the army to <span class=\"place\" data-key=\"harosheth-of-the-gentiles\">Harosheth of the Gentiles</span>; and all the army of Sisera fell by the edge of the sword. There was not a man left."},
+    {"n": 17, "html": "However Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite; for there was peace between Jabin the king of <span class=\"place\" data-key=\"hazor\">Hazor</span> and the house of Heber the Kenite."},
+    {"n": 18, "html": "Jael went out to meet Sisera, and said to him, &lsquo;Turn in, my lord, turn in to me; don&rsquo;t be afraid.&rsquo; He came in to her into the tent, and she covered him with a rug."},
+    {"n": 19, "html": "He said to her, &lsquo;Please give me a little water to drink; for I am thirsty.&rsquo; She opened a container of milk, and gave him a drink, and covered him."},
+    {"n": 20, "html": "He said to her, &lsquo;Stand in the door of the tent, and if any man comes and inquires of you, and says, &ldquo;Is there any man here?&rdquo; you shall say, &ldquo;No.&rdquo;&rsquo;"},
+    {"n": 21, "html": "Then Jael, Heber&rsquo;s wife, took a tent peg, and took a hammer in her hand, and went softly to him, and struck the pin into his temples, and it pierced through into the ground, for he was in a deep sleep; so he fainted and died."},
+    {"n": 22, "html": "Behold, as Barak pursued Sisera, Jael came out to meet him, and said to him, &lsquo;Come, and I will show you the man whom you seek.&rsquo; He came to her; and behold, Sisera lay dead, and the tent peg was in his temples."},
+    {"n": 23, "html": "So God subdued Jabin the king of Canaan before the children of Israel on that day."},
+    {"n": 24, "html": "The hand of the children of Israel prevailed more and more against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan."}
+  ],
+  "route": ["kedesh", "mount-tabor", "river-kishon", "harosheth-of-the-gentiles"],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Jabin of Hazor and Sisera of Harosheth</strong> (v.&nbsp;2) — Jabin reigns from the Bronze-Age regional capital in the Huleh basin (Tell el-Qedah, c. 200 acres). Harosheth is best located at the western end of the Jezreel-Kishon corridor where the river breaks toward the Bay of Acco; from there Sisera&rsquo;s chariots could deploy across the Jezreel plain or strike west to the coast."},
+    {"n": 2, "html": "<strong>Deborah&rsquo;s palm</strong> (v.&nbsp;5) — &ldquo;between Ramah (er-Ram) and Bethel (Beitin)&rdquo; on the watershed road north of Jerusalem, c.&nbsp;15&nbsp;km from each. The judgment-tree thus sits at the southern end of the hill country of Ephraim, well south of the Galilean theater of the battle."},
+    {"n": 3, "html": "<strong>The oak in Zaanannim, by Kedesh</strong> (v.&nbsp;11) — boundary landmark of Naphtali (Josh 19:33). Khan et-Tujjar near the foot of Mount Tabor has been proposed, but a location closer to upper-Galilee Kedesh is also defended; the narrative requires somewhere on Sisera&rsquo;s line of flight after the rout at the Kishon."}
+  ]
+}

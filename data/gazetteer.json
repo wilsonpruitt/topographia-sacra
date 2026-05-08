@@ -23,7 +23,8 @@
     "name": "Jericho",
     "name_alt": [
       "Tell es-Sultan",
-      "Yericho"
+      "Yericho",
+      "city of palm trees"
     ],
     "coords": [
       31.8714,
@@ -996,7 +997,8 @@
     "name": "Jerusalem",
     "name_alt": [
       "Yerushalayim",
-      "Aelia Capitolina (Roman)"
+      "Aelia Capitolina (Roman)",
+      "Jebus"
     ],
     "coords": [
       31.7784,
@@ -1207,7 +1209,8 @@
     "name": "Hebron",
     "name_alt": [
       "Tel Rumeida",
-      "el-Khalil"
+      "el-Khalil",
+      "Kiriath Arba"
     ],
     "coords": [
       31.5326,
@@ -8641,7 +8644,8 @@
     "name_alt": [
       "Asherite Aphek",
       "Tel Afek (Akko)",
-      "Tell Kurdaneh"
+      "Tell Kurdaneh",
+      "Aphik"
     ],
     "coords": [
       32.847,
@@ -13054,5 +13058,910 @@
         ]
       }
     ]
+  },
+  "bezek": {
+    "name": "Bezek",
+    "name_alt": [
+      "Khirbet Ibziq"
+    ],
+    "coords": [
+      32.29,
+      35.33
+    ],
+    "tier": "probable",
+    "id": "Site of Adoni-Bezek's defeat by Judah and Simeon. Most often identified with Khirbet Ibziq north of Shechem, on the road from the Jordan valley up into the central hill country.",
+    "abd": "1:717",
+    "appearances": []
+  },
+  "kitron": {
+    "name": "Kitron",
+    "name_alt": [
+      "Kattath?",
+      "Tel Qatra?"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "A Canaanite town in Zebulun's allotment that the tribe failed to dispossess. Possibly the same as Kattath of Joshua 19:15. Location uncertain — proposed sites lie in the Jezreel-Akko corridor.",
+    "abd": "4:91",
+    "appearances": []
+  },
+  "nahalol": {
+    "name": "Nahalol",
+    "name_alt": [
+      "Nahalal",
+      "Tell en-Nahl?",
+      "Maʿlul?"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Levitical town in Zebulun (Joshua 21:35) which Zebulun could not clear of Canaanites. Often connected with Maʿlul on the western edge of the Jezreel plain, though the site has not yielded confirming finds.",
+    "abd": "4:996",
+    "appearances": []
+  },
+  "acco": {
+    "name": "Acco",
+    "name_alt": [
+      "Akko",
+      "Tell el-Fukhkhar",
+      "Ptolemais"
+    ],
+    "coords": [
+      32.9214,
+      35.0833
+    ],
+    "tier": "identified",
+    "id": "Coastal city in Asher's allotment, on the bay south of the Lebanon range. The Phoenician-period mound is Tell el-Fukhkhar east of the Crusader Old City. Hellenistic Ptolemais of 1 Maccabees and Acts 21:7.",
+    "abd": "1:50",
+    "appearances": []
+  },
+  "ahlab": {
+    "name": "Ahlab",
+    "name_alt": [
+      "Khirbet el-Mahalib?",
+      "Mahalliba"
+    ],
+    "coords": [
+      33.225,
+      35.265
+    ],
+    "tier": "conjectural",
+    "id": "Asherite town the tribe failed to dispossess. Sometimes equated with the Mahalliba of Sennacherib's annals, near Tyre on the Phoenician coast.",
+    "abd": "1:128",
+    "appearances": []
+  },
+  "achzib-asher": {
+    "name": "Achzib",
+    "name_alt": [
+      "Asherite Achzib",
+      "ez-Zib",
+      "Tel Akhziv"
+    ],
+    "coords": [
+      33.0486,
+      35.1019
+    ],
+    "tier": "identified",
+    "id": "Coastal Asherite town north of Acco, distinct from the Judahite Achzib of Joshua 15:44. Identified with Tel Akhziv at ez-Zib on the Mediterranean shore.",
+    "abd": "1:57",
+    "appearances": []
+  },
+  "helbah": {
+    "name": "Helbah",
+    "name_alt": [
+      "possibly = Mahalab",
+      "perhaps a doublet of Ahlab"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Asherite town listed alongside Ahlab and Achzib in Judges 1:31; some scholars treat it as a textual doublet of Ahlab. Location uncertain.",
+    "abd": "3:117",
+    "appearances": []
+  },
+  "mount-heres": {
+    "name": "Mount Heres",
+    "name_alt": [
+      "Har-heres",
+      "perhaps = Beth Shemesh of Dan"
+    ],
+    "coords": [
+      31.751,
+      34.978
+    ],
+    "tier": "conjectural",
+    "id": "Hill in Danite territory the Amorites refused to yield. The name (\"Sun-mountain\") suggests the same locale as the Beth Shemesh in the Sorek valley; some link it with the ridge above Aijalon.",
+    "abd": "3:138",
+    "appearances": []
+  },
+  "shaalbim": {
+    "name": "Shaalbim",
+    "name_alt": [
+      "Shaalabbin",
+      "Selbit",
+      "Tel Shaalevim"
+    ],
+    "coords": [
+      31.8657,
+      34.9966
+    ],
+    "tier": "probable",
+    "id": "Danite town in the western foothills near Aijalon, often identified with Selbit (modern Shaalevim) on the road from the coastal plain into the hill country.",
+    "abd": "5:1148",
+    "appearances": []
+  },
+  "luz-hittite": {
+    "name": "Luz (in the land of the Hittites)",
+    "name_alt": [
+      "the rebuilt Luz",
+      "founded by the spy from Bethel"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "City founded by the man whom the spies of the house of Joseph spared at Bethel; he named it after his native Luz. Located somewhere in the \"land of the Hittites\" — most likely north Syria — but otherwise unknown.",
+    "abd": "4:421",
+    "appearances": []
+  },
+  "bochim": {
+    "name": "Bochim",
+    "name_alt": [
+      "place of weepers",
+      "perhaps near Bethel"
+    ],
+    "coords": [
+      31.93,
+      35.237
+    ],
+    "tier": "conjectural",
+    "id": "Site where Yahweh's angel rebuked Israel; the name (\"Weepers\") is etiological for the people's weeping (v.&nbsp;5). The narrative places it where the angel arrives \"up from Gilgal,\" suggesting the central hill country; LXX of Judges 2:1 reads \"to Bethel and to the house of Israel,\" supporting an identification with Bethel or its immediate vicinity.",
+    "abd": "1:744",
+    "appearances": []
+  },
+  "ammon-region": {
+    "name": "Ammon",
+    "name_alt": [
+      "children of Ammon",
+      "Ammonites",
+      "Bene-Ammon"
+    ],
+    "coords": [
+      31.95,
+      35.93
+    ],
+    "tier": "region",
+    "id": "Trans-Jordanian kingdom east of Gilead, with its capital at Rabbah of the Ammonites (modern Amman). Frequent ally of Moab in raids against the Cisjordan tribes during the period of the Judges.",
+    "abd": "1:194",
+    "appearances": []
+  },
+  "amalek-region": {
+    "name": "Amalek",
+    "name_alt": [
+      "Amalekites"
+    ],
+    "coords": [
+      30.85,
+      34.85
+    ],
+    "tier": "region",
+    "id": "Nomadic confederation of the northern Sinai and the Negeb, traditionally descended from Esau (Gen 36:12). Allied here with Eglon of Moab against Israel; later opposed by Saul (1 Sam 15) and David (1 Sam 30).",
+    "abd": "1:169",
+    "appearances": []
+  },
+  "mount-baal-hermon": {
+    "name": "Mount Baal Hermon",
+    "name_alt": [
+      "Baal Hermon",
+      "a peak of the Hermon range"
+    ],
+    "coords": [
+      33.42,
+      35.85
+    ],
+    "tier": "conjectural",
+    "id": "Named only here and at 1 Chr 5:23 as a marker of the northern boundary of Israelite territory. Probably one of the southern peaks or shoulders of Mount Hermon, where a Baal cult was established; not separately identifiable from Hermon itself.",
+    "abd": "1:552",
+    "appearances": []
+  },
+  "seirah": {
+    "name": "Seirah",
+    "name_alt": [
+      "Se'irat",
+      "perhaps in the wooded hills of Ephraim"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Place to which Ehud escaped after killing Eglon at the Jordan-valley palace; the name (\"forest\" or \"hairy place\") suggests the wooded slopes of the central hill country, but the site is not otherwise attested.",
+    "abd": "5:1072",
+    "appearances": []
+  },
+  "harosheth-of-the-gentiles": {
+    "name": "Harosheth of the Gentiles",
+    "name_alt": [
+      "Harosheth-Hagoyim",
+      "Tell el-Harbaj?",
+      "el-Ahwat?"
+    ],
+    "coords": [
+      32.628,
+      35.075
+    ],
+    "tier": "conjectural",
+    "id": "Sisera's base, location debated. Tell el-Harbaj at the western end of the Jezreel-Kishon corridor (where the river breaks toward the Bay of Acco) is the traditional candidate; el-Ahwat in the Manasseh hills above the Sharon is a more recent proposal. Either way it commanded the chariot routes from the Sharon to the Jezreel.",
+    "abd": "3:62",
+    "appearances": []
+  },
+  "river-kishon": {
+    "name": "River Kishon",
+    "name_alt": [
+      "Nahal Kishon",
+      "Wadi el-Muqatta"
+    ],
+    "coords": [
+      32.703,
+      35.179
+    ],
+    "tier": "identified",
+    "id": "The seasonal river draining the Jezreel valley west into the Bay of Acco at the foot of Mount Carmel. The stream-bed is dry most of the year but floods after winter rain; this is the chariot-trap of Judges 4-5.",
+    "abd": "4:89",
+    "appearances": []
+  },
+  "seir": {
+    "name": "Seir",
+    "name_alt": [
+      "Mount Seir",
+      "the field of Edom",
+      "Esau's mountain"
+    ],
+    "coords": [
+      30.45,
+      35.45
+    ],
+    "tier": "region",
+    "id": "The mountainous spine east of the Arabah, from south of the Dead Sea to the Gulf of Aqaba; Edom's heartland and traditional homeland of Esau (Gen 36:8). In poetic theophany texts (Deut 33:2, Judg 5:4, Hab 3:3) Yahweh marches from Seir northward.",
+    "abd": "5:1072",
+    "appearances": []
+  },
+  "meroz": {
+    "name": "Meroz",
+    "name_alt": [
+      "Khirbet Marus?"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Cursed in the Song of Deborah for failing to come to Yahweh's aid against Sisera. Named only at Judg 5:23. Khirbet Marus on the road from Tabor to Hazor has been suggested but is not confirmed.",
+    "abd": "4:706",
+    "appearances": []
+  },
+  "ophrah-manasseh": {
+    "name": "Ophrah",
+    "name_alt": [
+      "Manassite Ophrah",
+      "Ophrah of the Abiezrites",
+      "et-Taiyiba?",
+      "ʿAfula?"
+    ],
+    "coords": [
+      32.498,
+      35.327
+    ],
+    "tier": "conjectural",
+    "id": "Gideon's home town in the Abiezrite clan of Manasseh, distinct from the Benjamite Ophrah of Joshua 18:23. Most often located near the eastern edge of the Jezreel plain (et-Taiyiba near Beth Shean, or Khirbet ʿAfula); the Manassite Abiezer clan ranged in the southern hills of Manasseh between Jezreel and Shechem.",
+    "abd": "5:28",
+    "appearances": []
+  },
+  "spring-of-harod": {
+    "name": "Spring of Harod",
+    "name_alt": [
+      "ʿAin Jalud",
+      "ʿEin Harod",
+      "Gideon's spring"
+    ],
+    "coords": [
+      32.5503,
+      35.3536
+    ],
+    "tier": "identified",
+    "id": "Strong perennial spring at the western foot of Mount Gilboa, on the southern edge of the Jezreel valley. The narrative of Judges 7 mounts on its identification with ʿAin Jalud (later the site of the Mamluk-Mongol battle of 1260), where Gideon culled his troops by the manner of their drinking.",
+    "abd": "3:60",
+    "appearances": []
+  },
+  "hill-of-moreh": {
+    "name": "Hill of Moreh",
+    "name_alt": [
+      "Givat Hamoreh",
+      "Jebel Dahi",
+      "Little Hermon (older usage)"
+    ],
+    "coords": [
+      32.604,
+      35.371
+    ],
+    "tier": "identified",
+    "id": "Volcanic cone rising c. 515 m on the north side of the Jezreel valley, opposite Mount Gilboa. Site of the Midianite encampment in Judges 7, with Gideon's force on the south side at the spring of Harod.",
+    "abd": "4:904",
+    "appearances": []
+  },
+  "mount-gilead": {
+    "name": "Mount Gilead",
+    "name_alt": [
+      "the Gilead range",
+      "perhaps a textual variant for Mount Gilboa"
+    ],
+    "coords": [
+      32.2,
+      35.78
+    ],
+    "tier": "region",
+    "id": "In Judges 7:3 the proclamation \"depart from Mount Gilead\" is geographically odd: Gideon and his force were west of the Jordan at the spring of Harod, on the slope of Mount Gilboa. Many commentators read the verse as a textual error for \"Mount Gilboa,\" or take \"Mount Gilead\" loosely as the trans-Jordan highlands from which fearful Manassites came.",
+    "abd": "2:1020",
+    "appearances": []
+  },
+  "beth-shittah": {
+    "name": "Beth Shittah",
+    "name_alt": [
+      "house of the acacia",
+      "Shutta?"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Place toward which the Midianite host fled from Gideon, lying east of the spring of Harod toward the Jordan trough. Khirbet Shutta on the Jezreel-Beth Shean road has been suggested but is not confirmed.",
+    "abd": "1:692",
+    "appearances": []
+  },
+  "zererah": {
+    "name": "Zererah",
+    "name_alt": [
+      "perhaps = Zarethan",
+      "Zeredah?"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Named only here, on the Midianite line of flight from the Jezreel down to the Jordan. Often equated with the Zarethan of Joshua 3:16 and 1 Kings 4:12 in the central Jordan valley.",
+    "abd": "6:1041",
+    "appearances": []
+  },
+  "abel-meholah": {
+    "name": "Abel Meholah",
+    "name_alt": [
+      "Tell Abu Sus?",
+      "Tell el-Maqlub?",
+      "Elisha's birthplace"
+    ],
+    "coords": [
+      32.345,
+      35.515
+    ],
+    "tier": "conjectural",
+    "id": "Border of the Midianite rout (Judg 7:22) and Elisha's home (1 Kgs 19:16). Located in the central Jordan valley on the west bank, c. 16 km south of Beth Shean. Tell Abu Sus and Tell el-Maqlub are leading candidates.",
+    "abd": "1:11",
+    "appearances": []
+  },
+  "tabbath": {
+    "name": "Tabbath",
+    "name_alt": [
+      "Ras Abu Tabat?"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Named only at Judges 7:22 as a marker on the line of flight from the Jezreel toward Abel Meholah. Ras Abu Tabat in the eastern hills of Manasseh has been proposed.",
+    "abd": "6:292",
+    "appearances": []
+  },
+  "beth-barah": {
+    "name": "Beth Barah",
+    "name_alt": [
+      "perhaps the Jordan fords west of Penuel"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Fording-place named only at Judges 7:24, where the Ephraimites cut off the retreating Midianites \"as far as Beth Barah, even the Jordan.\" Variously identified with Bethabara of John 1:28 (a non-canonical reading at Bethany beyond the Jordan), or with crossings opposite Abel Meholah.",
+    "abd": "1:687",
+    "appearances": []
+  },
+  "rock-of-oreb": {
+    "name": "Rock of Oreb",
+    "name_alt": [
+      "where Oreb was killed"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Place east of the Jordan where the Ephraimites executed the Midianite prince Oreb (Judg 7:25); cited again at Isa 10:26 as a memorial of Yahweh's blow against Midian. The location is otherwise unknown.",
+    "abd": "5:34",
+    "appearances": []
+  },
+  "winepress-of-zeeb": {
+    "name": "Winepress of Zeeb",
+    "name_alt": [
+      "where Zeeb was killed"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Companion landmark to the rock of Oreb, where the second Midianite prince was killed. Like Oreb's rock, it lies east of the Jordan and has no surviving identification.",
+    "abd": "6:1075",
+    "appearances": []
+  },
+  "succoth": {
+    "name": "Succoth",
+    "name_alt": [
+      "Tell Deir ʿAlla"
+    ],
+    "coords": [
+      32.198,
+      35.617
+    ],
+    "tier": "identified",
+    "id": "East-Jordan town in Gad's territory, in the Jordan valley c. 2 km north of the Jabbok confluence. Tell Deir ʿAlla preserves Iron Age occupation including the famous Aramaic plaster inscription mentioning Balaam son of Beor.",
+    "abd": "6:217",
+    "appearances": []
+  },
+  "penuel": {
+    "name": "Penuel",
+    "name_alt": [
+      "Peniel",
+      "Tulul edh-Dhahab"
+    ],
+    "coords": [
+      32.137,
+      35.715
+    ],
+    "tier": "probable",
+    "id": "Site on the Jabbok where Jacob wrestled the angel (Gen 32:30) and where Gideon broke down the tower (Judg 8:17). Most often identified with Tulul edh-Dhahab, the twin mounds where the Jabbok bends sharply at the foot of the trans-Jordan plateau.",
+    "abd": "5:223",
+    "appearances": []
+  },
+  "karkor": {
+    "name": "Karkor",
+    "name_alt": [
+      "Qarqar?",
+      "perhaps in Wadi Sirhan"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Refuge of the Midianite kings Zebah and Zalmunna after their flight from Penuel. Named only here and at Isa 10:9 (a different Qarqar). The site lay deep in the trans-Jordan desert; some scholars place it in the Wadi Sirhan east of Ammon.",
+    "abd": "4:9",
+    "appearances": []
+  },
+  "nobah": {
+    "name": "Nobah",
+    "name_alt": [
+      "Kenath",
+      "Qanawat"
+    ],
+    "coords": [
+      32.762,
+      36.617
+    ],
+    "tier": "conjectural",
+    "id": "Manassite frontier town in the Hauran (Num 32:42, Judg 8:11). Identified with Qanawat in the Jebel Druze, on the eastern edge of the Bashan.",
+    "abd": "4:1131",
+    "appearances": []
+  },
+  "jogbehah": {
+    "name": "Jogbehah",
+    "name_alt": [
+      "Khirbet Ajbeihat",
+      "el-Jubeihat"
+    ],
+    "coords": [
+      32.075,
+      35.916
+    ],
+    "tier": "probable",
+    "id": "Gadite town northwest of Rabbah of the Ammonites (Num 32:35, Judg 8:11). Identified with Khirbet Ajbeihat (el-Jubeihat) c. 11 km northwest of Amman.",
+    "abd": "3:880",
+    "appearances": []
+  },
+  "ascent-of-heres": {
+    "name": "Ascent of Heres",
+    "name_alt": [
+      "the sun-pass",
+      "perhaps a route from the trans-Jordan back to the Jezreel"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Named only at Judges 8:13 as the route by which Gideon returned from Karkor. The toponym (\"sun\") is shared with Mount Heres of Judges 1:35 and Timnath-Heres of Judges 2:9 but the site is otherwise unattested.",
+    "abd": "3:138",
+    "appearances": []
+  },
+  "beer": {
+    "name": "Beer",
+    "name_alt": [
+      "el-Bireh?",
+      "perhaps near Bethel"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Refuge of Jotham after his speech on Mount Gerizim (Judg 9:21). The toponym (\"well\") is generic and the site is not securely identified; el-Bireh just north of Jerusalem has been proposed.",
+    "abd": "1:641",
+    "appearances": []
+  },
+  "arumah": {
+    "name": "Arumah",
+    "name_alt": [
+      "Khirbet el-ʿOrmah"
+    ],
+    "coords": [
+      32.143,
+      35.331
+    ],
+    "tier": "probable",
+    "id": "Abimelech's base of operations during the Shechem campaign (Judg 9:41). Identified with Khirbet el-ʿOrmah c. 8 km southeast of Shechem in the hill country of Manasseh.",
+    "abd": "1:466",
+    "appearances": []
+  },
+  "thebez": {
+    "name": "Thebez",
+    "name_alt": [
+      "Tubas"
+    ],
+    "coords": [
+      32.319,
+      35.367
+    ],
+    "tier": "probable",
+    "id": "Town in Manasseh c. 16 km northeast of Shechem where Abimelech was killed by a millstone thrown from a tower (Judg 9:50; cf. 2 Sam 11:21). Identified with modern Tubas.",
+    "abd": "6:443",
+    "appearances": []
+  },
+  "mount-zalmon": {
+    "name": "Mount Zalmon",
+    "name_alt": [
+      "the dark mountain",
+      "perhaps a wooded shoulder of Gerizim or Ebal"
+    ],
+    "coords": [
+      32.21,
+      35.28
+    ],
+    "tier": "conjectural",
+    "id": "Wooded peak from which Abimelech and his men cut boughs to fire the stronghold of Shechem (Judg 9:48). Most likely one of the slopes of Gerizim or Ebal directly above the city; not separately identifiable. Also named in Ps 68:14.",
+    "abd": "6:1052",
+    "appearances": []
+  },
+  "oak-of-meonenim": {
+    "name": "Oak of Meonenim",
+    "name_alt": [
+      "the soothsayers' oak",
+      "perhaps the same as the oak of Moreh"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Sacred tree near Shechem named only at Judg 9:37, on the line of march from the surrounding hills toward the city. Often equated with the oak of Moreh (Gen 12:6) or the oak of the pillar (Judg 9:6); the precise location is uncertain.",
+    "abd": "4:706",
+    "appearances": []
+  },
+  "shamir-ephraim": {
+    "name": "Shamir",
+    "name_alt": [
+      "Ephraimite Shamir",
+      "perhaps Khirbet Sammur",
+      "perhaps = Samaria"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Tola's home town and burial place in the hill country of Ephraim, distinct from the Judahite Shamir of Joshua 15:48. Some scholars equate it with the later Samaria; others with Khirbet Sammur SW of Shechem.",
+    "abd": "5:1156",
+    "appearances": []
+  },
+  "havvoth-jair": {
+    "name": "Havvoth Jair",
+    "name_alt": [
+      "villages of Jair",
+      "Tent-villages of Jair"
+    ],
+    "coords": [
+      32.55,
+      35.95
+    ],
+    "tier": "region",
+    "id": "Cluster of thirty villages in the trans-Jordan, attributed to Jair son of Manasseh (Num 32:41, Deut 3:14) and to the later Gileadite judge Jair (Judg 10:4). Located in northern Gilead and the Bashan; the precise extent shifted over time.",
+    "abd": "3:80",
+    "appearances": []
+  },
+  "kamon": {
+    "name": "Kamon",
+    "name_alt": [
+      "Qamm",
+      "perhaps Qumeim"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Burial place of the Gileadite judge Jair (Judg 10:5). Located somewhere in northern Gilead. Qamm in the Yarmuk basin and Qumeim south of the Sea of Galilee have both been proposed.",
+    "abd": "4:5",
+    "appearances": []
+  },
+  "mizpah-gilead": {
+    "name": "Mizpah of Gilead",
+    "name_alt": [
+      "perhaps Khirbet Jal'ad",
+      "perhaps Ramath-Mizpeh"
+    ],
+    "coords": [
+      32.225,
+      35.711
+    ],
+    "tier": "conjectural",
+    "id": "Israelite mustering-place against the Ammonites in Judges 10:17 and Jephthah's home in 11:11, 29. Distinct from Mizpah of Benjamin. Often equated with Ramath-Mizpeh of Joshua 13:26 in northern Gilead; Khirbet Jal'ad SW of the Jabbok is the leading proposal.",
+    "abd": "4:879",
+    "appearances": []
+  },
+  "land-of-tob": {
+    "name": "Land of Tob",
+    "name_alt": [
+      "Tob",
+      "et-Taiyibeh?",
+      "perhaps in southern Hauran"
+    ],
+    "coords": [
+      32.65,
+      35.95
+    ],
+    "tier": "region",
+    "id": "Frontier district east of Gilead, the refuge of Jephthah (Judg 11:3) and a source of mercenary forces in 2 Sam 10:6, 8. Probably in the Hauran on the desert margin south of the Jebel Druze. The site et-Taiyibeh c. 30 km E of the Sea of Galilee has been proposed.",
+    "abd": "6:583",
+    "appearances": []
+  },
+  "minnith": {
+    "name": "Minnith",
+    "name_alt": [
+      "Khirbet Hamzeh?"
+    ],
+    "coords": [
+      31.94,
+      35.85
+    ],
+    "tier": "conjectural",
+    "id": "Ammonite town struck by Jephthah (Judg 11:33); Ezek 27:17 names \"wheat of Minnith\" as exported from the trans-Jordan to Tyre. Khirbet Hamzeh, c. 7 km NE of Heshbon, is a leading proposal.",
+    "abd": "4:842",
+    "appearances": []
+  },
+  "abel-cheramim": {
+    "name": "Abel Cheramim",
+    "name_alt": [
+      "the meadow of vineyards",
+      "Abel-Keramim"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Easternmost limit of Jephthah's pursuit (Judg 11:33). The name (\"meadow of vineyards\") suggests a settled district on the eastern Ammonite frontier; the precise site is not fixed.",
+    "abd": "1:11",
+    "appearances": []
+  },
+  "aijalon-zebulun": {
+    "name": "Aijalon",
+    "name_alt": [
+      "Zebulunite Aijalon",
+      "perhaps Khirbet el-Lon"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Burial place of Elon the Zebulunite (Judg 12:12), \"in the land of Zebulun\"; distinct from the Aijalon of Joshua 19:42 (Danite, in the western foothills). Khirbet el-Lon in lower Galilee has been suggested. Convergence with the judge's name (Elon = oak, Aijalon = place of the deer) is probably literary wordplay.",
+    "abd": "1:131",
+    "appearances": []
+  },
+  "pirathon": {
+    "name": "Pirathon",
+    "name_alt": [
+      "Farʿata",
+      "Farʿun?"
+    ],
+    "coords": [
+      32.187,
+      35.151
+    ],
+    "tier": "probable",
+    "id": "Town in the southern hill country of Ephraim, home and burial place of the judge Abdon (Judg 12:13-15) and of Benaiah son of Jehoiada (2 Sam 23:30). Identified with modern Farʿata c. 10 km SW of Shechem.",
+    "abd": "5:373",
+    "appearances": []
+  },
+  "mahaneh-dan": {
+    "name": "Mahaneh Dan",
+    "name_alt": [
+      "the camp of Dan"
+    ],
+    "coords": [
+      31.776,
+      34.991
+    ],
+    "tier": "region",
+    "id": "\"Camp of Dan,\" between Zorah and Eshtaol in the western foothills of Judah, where the displaced Danites were mustering before their northern migration (cf. 18:11-12). Not a fixed town but a temporary encampment-area on the seam between Dan's original allotment and Judah.",
+    "abd": "4:474",
+    "appearances": []
+  },
+  "rock-of-etam": {
+    "name": "Rock of Etam",
+    "name_alt": [
+      "Etam's rock",
+      "perhaps near Khirbet el-Khokh"
+    ],
+    "coords": [
+      31.71,
+      35.07
+    ],
+    "tier": "conjectural",
+    "id": "Cliff-cave where Samson took refuge after his vengeance for the burning of his wife (Judg 15:8). Distinct from the Judahite town of Etam (2 Chr 11:6). Most likely in the western foothills of Judah between Zorah and the Sorek; the precise rock is unidentified.",
+    "abd": "2:644",
+    "appearances": []
+  },
+  "lehi": {
+    "name": "Lehi",
+    "name_alt": [
+      "the jawbone",
+      "Ramath-Lehi",
+      "Beit Atab?"
+    ],
+    "coords": [
+      31.74,
+      34.99
+    ],
+    "tier": "conjectural",
+    "id": "Place in Judah where Samson struck the Philistines with a donkey's jawbone (Judg 15:9-19); also where Shammah held the lentil field in 2 Sam 23:11. The toponym (\"jawbone\") is etymologized from the narrative; some scholars place it on the saddle between the Sorek and Elah valleys.",
+    "abd": "4:274",
+    "appearances": []
+  },
+  "en-hakkore": {
+    "name": "En Hakkore",
+    "name_alt": [
+      "spring of the caller",
+      "spring at Lehi"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Spring opened by Yahweh at Lehi when Samson called for water (Judg 15:19). Named only here; the precise location depends on identifying Lehi.",
+    "abd": "2:498",
+    "appearances": []
+  },
+  "valley-of-sorek": {
+    "name": "Valley of Sorek",
+    "name_alt": [
+      "Nahal Sorek",
+      "Wadi es-Sarar"
+    ],
+    "coords": [
+      31.78,
+      34.92
+    ],
+    "tier": "identified",
+    "id": "Wadi running west from the central hill country to the Mediterranean, the natural corridor between Jerusalem and the Philistine coast. Delilah's home (Judg 16:4); Beth-Shemesh sits on its northern bank; the Philistines later return the ark up this valley (1 Sam 6).",
+    "abd": "6:154",
+    "appearances": []
+  },
+  "laish": {
+    "name": "Laish",
+    "name_alt": [
+      "former name of Dan",
+      "Leshem (Joshua 19:47)"
+    ],
+    "coords": [
+      33.2486,
+      35.6519
+    ],
+    "tier": "identified",
+    "id": "Pre-Israelite name of the city later called Dan, at Tel Dan / Tell el-Qadi. Same site as Dan; the dual entry preserves the chapter's distinction between conquered city and renamed city.",
+    "abd": "4:130",
+    "appearances": []
+  },
+  "beth-rehob": {
+    "name": "Beth Rehob",
+    "name_alt": [
+      "Banias-region",
+      "perhaps in the upper Jordan rift"
+    ],
+    "coords": [
+      33.2,
+      35.65
+    ],
+    "tier": "conjectural",
+    "id": "Aramean district at the head of the Jordan rift, into which Laish/Dan's territory dipped (Judg 18:28; cf. 2 Sam 10:6). Centered somewhere between Mount Hermon and the Huleh basin; possibly the same as the later Banias.",
+    "abd": "5:670",
+    "appearances": []
+  },
+  "gibeah-benjamin": {
+    "name": "Gibeah",
+    "name_alt": [
+      "Gibeah of Benjamin",
+      "Gibeah of Saul",
+      "Tell el-Ful"
+    ],
+    "coords": [
+      31.823,
+      35.231
+    ],
+    "tier": "probable",
+    "id": "Benjamite town c. 5 km north of Jerusalem on the watershed road. Identified with Tell el-Ful (excavated by W. F. Albright). Site of the outrage of Judges 19 and the war of Judges 20-21; later the home and citadel of Saul (1 Sam 10:26, 11:4, 22:6).",
+    "abd": "2:1007",
+    "appearances": []
+  },
+  "mizpah-benjamin": {
+    "name": "Mizpah",
+    "name_alt": [
+      "Mizpah of Benjamin",
+      "Tell en-Nasbeh"
+    ],
+    "coords": [
+      31.886,
+      35.215
+    ],
+    "tier": "identified",
+    "id": "Benjamite cult and assembly center on the watershed road c. 12 km north of Jerusalem. Identified with Tell en-Nasbeh. Israel musters here against Benjamin in Judges 20-21; later Samuel's circuit (1 Sam 7:5-6) and Gedaliah's seat after the fall of Jerusalem (2 Kgs 25:23, Jer 40:6).",
+    "abd": "4:879",
+    "appearances": []
+  },
+  "baal-tamar": {
+    "name": "Baal Tamar",
+    "name_alt": [
+      "the master-palm",
+      "perhaps near Gibeah"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Battle position from which the Israelites broke against Benjamin (Judg 20:33). Named only here. The toponym (\"Baal of the palm\") suggests a sacred-tree landmark; placed somewhere on the slopes between Gibeah and Bethel.",
+    "abd": "1:553",
+    "appearances": []
+  },
+  "maareh-geba": {
+    "name": "Maareh Geba",
+    "name_alt": [
+      "the open ground at Geba",
+      "perhaps a textual variant for Maareh Gibeah"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Place from which the Israelite ambush sprang (Judg 20:33). The form \"Maareh\" (\"open ground\" or \"meadow\") is debated; some MSS read \"Maareh Gibeah.\" The site lies on the slopes immediately above the city.",
+    "abd": "4:431",
+    "appearances": []
+  },
+  "rock-of-rimmon": {
+    "name": "Rock of Rimmon",
+    "name_alt": [
+      "Rammun",
+      "the cliff above Wadi Suweinit"
+    ],
+    "coords": [
+      31.927,
+      35.341
+    ],
+    "tier": "probable",
+    "id": "Cliff in the wilderness east of Bethel where the surviving 600 Benjamites took refuge (Judg 20:45-47). Identified with the village of Rammun on the western edge of the Wadi Suweinit gorge, c. 6 km east of Bethel.",
+    "abd": "5:763",
+    "appearances": []
+  },
+  "gidom": {
+    "name": "Gidom",
+    "name_alt": [
+      "perhaps a textual variant for \"as far as cutting them down\""
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Stage of the Benjamite rout (Judg 20:45). Named only here; many commentators take \"as far as Gidom\" as a corruption and read the phrase as a verb (\"as far as the cutting down\"). No site is identified.",
+    "abd": "2:1015",
+    "appearances": []
+  },
+  "jabesh-gilead": {
+    "name": "Jabesh Gilead",
+    "name_alt": [
+      "Tell Abu el-Kharaz?",
+      "Tell el-Maqlub?"
+    ],
+    "coords": [
+      32.45,
+      35.69
+    ],
+    "tier": "conjectural",
+    "id": "Trans-Jordan town in Gilead destroyed in Judges 21 to provide wives for the surviving Benjamites; later rescued by Saul (1 Sam 11) and remembered as the source of the bones-recovery for Saul and his sons (1 Sam 31:11-13). Tell Abu el-Kharaz and Tell el-Maqlub on the Wadi Yabis are the leading candidates.",
+    "abd": "3:594",
+    "appearances": []
+  },
+  "lebonah": {
+    "name": "Lebonah",
+    "name_alt": [
+      "el-Lubban Sherqiya"
+    ],
+    "coords": [
+      32.063,
+      35.225
+    ],
+    "tier": "probable",
+    "id": "Town on the watershed road north of Shiloh, named only at Judges 21:19 as a directional marker (\"south of Lebonah\"). Identified with el-Lubban Sherqiya c. 5 km NW of Shiloh.",
+    "abd": "4:269",
+    "appearances": []
   }
 }

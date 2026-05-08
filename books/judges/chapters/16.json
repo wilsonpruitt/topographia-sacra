@@ -1,0 +1,44 @@
+{
+  "title": "Samson at Gaza; Delilah",
+  "places": ["gaza", "hebron", "valley-of-sorek", "zorah", "eshtaol"],
+  "view": {
+    "center": [31.65, 34.85],
+    "zoom": 9
+  },
+  "verses": [
+    {"n": 1, "html": "Samson went to <span class=\"place\" data-key=\"gaza\">Gaza</span>, and saw there a prostitute, and went in to her."},
+    {"n": 2, "html": "The Gazites were told, &lsquo;Samson is here!&rsquo; They surrounded him and laid wait for him all night in the gate of the city, and were quiet all the night, saying, &lsquo;Wait until morning light; then we will kill him.&rsquo;"},
+    {"n": 3, "html": "Samson lay until midnight, then arose at midnight and took hold of the doors of the gate of the city, with the two posts, and plucked them up, bar and all, and put them on his shoulders and carried them up to the top of the mountain that is before <span class=\"place\" data-key=\"hebron\">Hebron</span>.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 4, "html": "It came to pass afterward that he loved a woman in <span class=\"place\" data-key=\"valley-of-sorek\">the valley of Sorek</span>, whose name was Delilah."},
+    {"n": 5, "html": "The lords of the Philistines came up to her and said to her, &lsquo;Entice him, and see in which his great strength lies, and by what means we may prevail against him, that we may bind him to afflict him; and we will each give you eleven hundred pieces of silver.&rsquo;"},
+    {"n": 6, "html": "Delilah said to Samson, &lsquo;Please tell me where your great strength lies, and what you might be bound to afflict you.&rsquo;"},
+    {"n": 7, "html": "Samson said to her, &lsquo;If they bind me with seven green cords that were never dried, then shall I become weak, and be as another man.&rsquo;"},
+    {"n": 8, "html": "Then the lords of the Philistines brought up to her seven green cords which had not been dried, and she bound him with them."},
+    {"n": 9, "html": "Now she had an ambush waiting in the inner room. She said to him, &lsquo;The Philistines are on you, Samson!&rsquo; He broke the cords as a flax thread is broken when it touches the fire. So his strength was not known."},
+    {"n": 10, "html": "Delilah said to Samson, &lsquo;Behold, you have mocked me, and told me lies. Now please tell me how you might be bound.&rsquo;"},
+    {"n": 11, "html": "He said to her, &lsquo;If they only bind me with new ropes with which no work has been done, then I will become weak, and be as another man.&rsquo;"},
+    {"n": 12, "html": "So Delilah took new ropes and bound him with them, then said to him, &lsquo;The Philistines are on you, Samson!&rsquo; The ambush was waiting in the inner room. He broke them off his arms like a thread."},
+    {"n": 13, "html": "Delilah said to Samson, &lsquo;Until now, you have mocked me and told me lies. Tell me with what you might be bound.&rsquo; He said to her, &lsquo;If you weave the seven locks of my head with the fabric on the loom.&rsquo;"},
+    {"n": 14, "html": "She fastened it with the pin, and said to him, &lsquo;The Philistines are on you, Samson!&rsquo; He awakened out of his sleep, and plucked away the pin of the beam and the fabric."},
+    {"n": 15, "html": "She said to him, &lsquo;How can you say, &ldquo;I love you,&rdquo; when your heart is not with me? You have mocked me these three times, and have not told me where your great strength lies.&rsquo;"},
+    {"n": 16, "html": "When she pressed him daily with her words and urged him, his soul was troubled to death."},
+    {"n": 17, "html": "He told her all his heart and said to her, &lsquo;No razor has ever come on my head; for I have been a Nazirite to God from my mother&rsquo;s womb. If I am shaved, then my strength will go from me and I will become weak, and be like any other man.&rsquo;"},
+    {"n": 18, "html": "When Delilah saw that he had told her all his heart, she sent and called for the lords of the Philistines, saying, &lsquo;Come up this once, for he has told me all his heart.&rsquo; Then the lords of the Philistines came up to her and brought the money in their hand."},
+    {"n": 19, "html": "She made him sleep on her knees; and she called for a man and shaved off the seven locks of his head; and she began to afflict him, and his strength went from him."},
+    {"n": 20, "html": "She said, &lsquo;The Philistines are upon you, Samson!&rsquo; He awoke out of his sleep, and said, &lsquo;I will go out as at other times, and shake myself free.&rsquo; But he didn&rsquo;t know that Yahweh had departed from him."},
+    {"n": 21, "html": "The Philistines laid hold on him and put out his eyes; and they brought him down to <span class=\"place\" data-key=\"gaza\">Gaza</span> and bound him with fetters of bronze; and he ground at the mill in the prison."},
+    {"n": 22, "html": "However, the hair of his head began to grow again after he was shaved."},
+    {"n": 23, "html": "The lords of the Philistines gathered together to offer a great sacrifice to Dagon their god, and to rejoice; for they said, &lsquo;Our god has delivered Samson our enemy into our hand.&rsquo;"},
+    {"n": 24, "html": "When the people saw him, they praised their god; for they said, &lsquo;Our god has delivered our enemy and the destroyer of our country, who has slain many of us, into our hand.&rsquo;"},
+    {"n": 25, "html": "When their hearts were merry, they said, &lsquo;Call for Samson, that he may entertain us.&rsquo; They called for Samson out of the prison; and he performed before them. They set him between the pillars;"},
+    {"n": 26, "html": "and Samson said to the boy who held him by the hand, &lsquo;Allow me to feel the pillars on which the house rests, that I may lean on them.&rsquo;"},
+    {"n": 27, "html": "Now the house was full of men and women; and all the lords of the Philistines were there; and there were on the roof about three thousand men and women, who saw while Samson performed."},
+    {"n": 28, "html": "Samson called to Yahweh, and said, &lsquo;Lord Yahweh, remember me, please, and strengthen me, please, only this once, God, that I may be at once avenged of the Philistines for my two eyes.&rsquo;"},
+    {"n": 29, "html": "Samson took hold of the two middle pillars on which the house rested and leaned on them, the one with his right hand and the other with his left."},
+    {"n": 30, "html": "Samson said, &lsquo;Let me die with the Philistines!&rsquo; He bowed himself with all his might; and the house fell on the lords, and on all the people who were in it. So the dead that he killed at his death were more than those who he killed in his life."},
+    {"n": 31, "html": "Then his brothers and all the house of his father came down and took him, and brought him up and buried him between <span class=\"place\" data-key=\"zorah\">Zorah</span> and <span class=\"place\" data-key=\"eshtaol\">Eshtaol</span> in the burial site of Manoah his father. He judged Israel twenty years."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>The mountain that is before Hebron</strong> (v.&nbsp;3) — Samson carries the gate-doors c.&nbsp;65&nbsp;km uphill from the Philistine coast onto the Judean watershed. The narrative does not specify which ridge above Hebron; the gesture is one of public humiliation rather than tactical."}
+  ]
+}

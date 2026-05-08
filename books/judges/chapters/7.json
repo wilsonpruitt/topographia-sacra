@@ -1,0 +1,46 @@
+{
+  "title": "Gideon's Three Hundred",
+  "places": [
+    "spring-of-harod", "hill-of-moreh", "mount-gilead",
+    "beth-shittah", "zererah", "abel-meholah", "tabbath",
+    "beth-barah", "jordan", "rock-of-oreb", "winepress-of-zeeb"
+  ],
+  "view": {
+    "center": [32.55, 35.40],
+    "zoom": 10
+  },
+  "verses": [
+    {"n": 1, "html": "Then Jerubbaal, who is Gideon, and all the people who were with him, rose up early and encamped beside <span class=\"place\" data-key=\"spring-of-harod\">the spring of Harod</span>. Midian&rsquo;s camp was on the north side of them, by <span class=\"place\" data-key=\"hill-of-moreh\">the hill of Moreh</span>, in the valley.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 2, "html": "Yahweh said to Gideon, &lsquo;The people who are with you are too many for me to give the Midianites into their hand, lest Israel brag against me, saying, &ldquo;My own hand has saved me.&rdquo;&rsquo;"},
+    {"n": 3, "html": "&lsquo;Now therefore proclaim in the ears of the people, saying, &ldquo;Whoever is fearful and trembling, let him return and depart from <span class=\"place\" data-key=\"mount-gilead\">Mount Gilead</span>.&rdquo;&rsquo; So twenty-two thousand of the people returned, and ten thousand remained.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 4, "html": "Yahweh said to Gideon, &lsquo;There are still too many people. Bring them down to the water, and I will test them for you there. It shall be, that those whom I tell you, &ldquo;This shall go with you,&rdquo; shall go with you; and whoever I tell you, &ldquo;This shall not go with you,&rdquo; shall not go.&rsquo;"},
+    {"n": 5, "html": "So he brought down the people to the water; and Yahweh said to Gideon, &lsquo;Everyone who laps of the water with his tongue, like a dog laps, you shall set him by himself; likewise everyone who bows down on his knees to drink.&rsquo;"},
+    {"n": 6, "html": "The number of those who lapped, putting their hand to their mouth, was three hundred men; but all the rest of the people bowed down on their knees to drink water."},
+    {"n": 7, "html": "Yahweh said to Gideon, &lsquo;I will save you by the three hundred men who lapped, and deliver the Midianites into your hand. Let all the other people go, each to his own place.&rsquo;"},
+    {"n": 8, "html": "So the people took food in their hand, and their trumpets; and he sent all the rest of the men of Israel to their own tents, but retained the three hundred men; and the camp of Midian was beneath him in the valley."},
+    {"n": 9, "html": "That same night, Yahweh said to him, &lsquo;Arise, go down into the camp, for I have delivered it into your hand."},
+    {"n": 10, "html": "But if you are afraid to go down, go with Purah your servant down to the camp."},
+    {"n": 11, "html": "You will hear what they say; and afterward your hands will be strengthened to go down into the camp.&rsquo; Then went he down with Purah his servant to the outermost part of the armed men who were in the camp."},
+    {"n": 12, "html": "The Midianites and the Amalekites and all the children of the east lay along in the valley like locusts for multitude; and their camels were without number, as the sand which is on the seashore for multitude."},
+    {"n": 13, "html": "When Gideon had come, behold, there was a man telling a dream to his fellow. He said, &lsquo;Behold, I dreamed a dream; and behold, a cake of barley bread tumbled into the camp of Midian, came to the tent, and struck it so that it fell, and turned it upside down, so that the tent lay flat.&rsquo;"},
+    {"n": 14, "html": "His fellow answered, &lsquo;This is nothing other than the sword of Gideon the son of Joash, a man of Israel. God has delivered Midian into his hand, with all the army.&rsquo;"},
+    {"n": 15, "html": "It was so, when Gideon heard the telling of the dream and its interpretation, that he worshiped. Then he returned into the camp of Israel and said, &lsquo;Arise, for Yahweh has delivered the army of Midian into your hand!&rsquo;"},
+    {"n": 16, "html": "He divided the three hundred men into three companies, and he put into the hands of all of them trumpets and empty pitchers, with torches within the pitchers."},
+    {"n": 17, "html": "He said to them, &lsquo;Watch me, and do likewise. Behold, when I come to the outermost part of the camp, it shall be that, as I do, so you shall do."},
+    {"n": 18, "html": "When I blow the trumpet, I and all who are with me, then blow the trumpets also on every side of all the camp, and shout, &ldquo;For Yahweh and for Gideon!&rdquo;&rsquo;"},
+    {"n": 19, "html": "So Gideon and the hundred men who were with him came to the outermost part of the camp in the beginning of the middle watch, when they had but newly set the watch. Then they blew the trumpets and broke in pieces the pitchers that were in their hands."},
+    {"n": 20, "html": "The three companies blew the trumpets, broke the pitchers, and held the torches in their left hands and the trumpets in their right hands with which to blow; and they shouted, &lsquo;The sword of Yahweh and of Gideon!&rsquo;"},
+    {"n": 21, "html": "They each stood in his place around the camp, and all the army ran; and they shouted, and put them to flight."},
+    {"n": 22, "html": "They blew the three hundred trumpets, and Yahweh set every man&rsquo;s sword against his fellow and against all the army; and the army fled as far as <span class=\"place\" data-key=\"beth-shittah\">Beth Shittah</span> toward <span class=\"place\" data-key=\"zererah\">Zererah</span>, as far as the border of <span class=\"place\" data-key=\"abel-meholah\">Abel Meholah</span>, by <span class=\"place\" data-key=\"tabbath\">Tabbath</span>.<sup class=\"footnote-marker\">3</sup>"},
+    {"n": 23, "html": "The men of Israel were gathered together out of Naphtali, out of Asher, and out of all Manasseh, and pursued Midian."},
+    {"n": 24, "html": "Gideon sent messengers throughout all the hill country of Ephraim, saying, &lsquo;Come down against Midian and take the waters before them as far as <span class=\"place\" data-key=\"beth-barah\">Beth Barah</span>, even <span class=\"place\" data-key=\"jordan\">the Jordan</span>!&rsquo; So all the men of Ephraim were gathered together and took the waters as far as <span class=\"place\" data-key=\"beth-barah\">Beth Barah</span>, even <span class=\"place\" data-key=\"jordan\">the Jordan</span>.<sup class=\"footnote-marker\">4</sup>"},
+    {"n": 25, "html": "They took the two princes of Midian, Oreb and Zeeb. They killed Oreb at <span class=\"place\" data-key=\"rock-of-oreb\">Oreb&rsquo;s rock</span>, and Zeeb they killed at <span class=\"place\" data-key=\"winepress-of-zeeb\">Zeeb&rsquo;s wine press</span>, as they pursued Midian. Then they brought the heads of Oreb and Zeeb to Gideon beyond <span class=\"place\" data-key=\"jordan\">the Jordan</span>."}
+  ],
+  "route": ["spring-of-harod", "beth-shittah", "abel-meholah", "tabbath", "beth-barah"],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Spring of Harod / Hill of Moreh</strong> (v.&nbsp;1) — Gideon&rsquo;s force is at ʿAin Jalud at the western foot of Mount Gilboa; the Midianite host occupies the Jebel Dahi (Givat Hamoreh) on the north side of the Jezreel valley. The two armies look at each other across c.&nbsp;6&nbsp;km of plain."},
+    {"n": 2, "html": "<strong>Mount Gilead</strong> (v.&nbsp;3) — geographically perplexing here: Gideon is on Mount Gilboa, west of the Jordan. Many commentators read \"Gilead\" as a textual error for \"Gilboa\" (a single-letter difference in Hebrew); others take it loosely as the trans-Jordan home country of fearful Manassites."},
+    {"n": 3, "html": "<strong>Beth-Shittah, Zererah, Abel-Meholah, Tabbath</strong> (v.&nbsp;22) — the rout funnels east-southeast down the Jezreel-Bethshean corridor toward the Jordan. Abel-Meholah on the western bank c.&nbsp;16&nbsp;km south of Beth-Shean is the southernmost identifiable point; Beth-Shittah, Zererah, and Tabbath punctuate the line of flight but are not securely identified."},
+    {"n": 4, "html": "<strong>The waters before them as far as Beth Barah</strong> (v.&nbsp;24) — the Ephraimites cut off the Jordan fords ahead of the fleeing Midianites. \"Beth Barah\" is otherwise unattested; the verse implies a stretch of the western bank dominated by Ephraim, presumably opposite Penuel and Succoth where chapter 8 picks up."}
+  ]
+}

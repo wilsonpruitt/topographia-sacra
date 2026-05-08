@@ -1,0 +1,47 @@
+{
+  "title": "The Song of Deborah",
+  "places": ["seir", "edom", "mount-sinai", "gilead", "jordan", "taanach", "megiddo", "river-kishon", "meroz"],
+  "view": {
+    "center": [32.40, 35.30],
+    "zoom": 8
+  },
+  "verses": [
+    {"n": 1, "html": "Then Deborah and Barak the son of Abinoam sang on that day, saying,"},
+    {"n": 2, "html": "&lsquo;Because the leaders took the lead in Israel, because the people offered themselves willingly, be blessed, Yahweh!"},
+    {"n": 3, "html": "&lsquo;Hear, you kings! Give ear, you princes! I, even I, will sing to Yahweh. I will sing praise to Yahweh, the God of Israel."},
+    {"n": 4, "html": "&lsquo;Yahweh, when you went out of <span class=\"place\" data-key=\"seir\">Seir</span>, when you marched out of the field of <span class=\"place\" data-key=\"edom\">Edom</span>, the earth trembled, the sky also dropped. Yes, the clouds dropped water.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 5, "html": "The mountains quaked at Yahweh&rsquo;s presence, even <span class=\"place\" data-key=\"mount-sinai\">Sinai</span> at the presence of Yahweh, the God of Israel."},
+    {"n": 6, "html": "&lsquo;In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied. The travelers walked through byways."},
+    {"n": 7, "html": "The rulers ceased in Israel. They ceased until I, Deborah, arose; until I arose a mother in Israel."},
+    {"n": 8, "html": "They chose new gods. Then war was in the gates. Was there a shield or spear seen among forty thousand in Israel?"},
+    {"n": 9, "html": "My heart is toward the governors of Israel, who offered themselves willingly among the people. Bless Yahweh!"},
+    {"n": 10, "html": "&lsquo;Speak, you who ride on white donkeys, you who sit on rich carpets, and you who walk by the way."},
+    {"n": 11, "html": "Far from the noise of archers, in the places of drawing water, there they will rehearse Yahweh&rsquo;s righteous acts, the righteous acts of his rule in Israel. &lsquo;Then Yahweh&rsquo;s people went down to the gates."},
+    {"n": 12, "html": "&lsquo;Awake, awake, Deborah! Awake, awake, utter a song! Arise, Barak, and lead away your captives, you son of Abinoam.&rsquo;"},
+    {"n": 13, "html": "&lsquo;Then a remnant of the nobles and the people came down. Yahweh came down for me against the mighty."},
+    {"n": 14, "html": "Those whose root is in Amalek came out of Ephraim, after you, Benjamin, among your peoples. Governors come down out of Machir. Those who handle the marshal&rsquo;s staff came out of Zebulun.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 15, "html": "The princes of Issachar were with Deborah. As was Issachar, so was Barak. They rushed into the valley at his feet. By the watercourses of Reuben, there were great resolves of heart."},
+    {"n": 16, "html": "Why did you sit among the sheepfolds? To hear the whistling for the flocks? At the watercourses of Reuben, there were great searchings of heart."},
+    {"n": 17, "html": "<span class=\"place\" data-key=\"gilead\">Gilead</span> lived beyond <span class=\"place\" data-key=\"jordan\">the Jordan</span>. Why did Dan remain in ships? Asher sat still at the haven of the sea, and lived by his creeks."},
+    {"n": 18, "html": "Zebulun was a people that jeopardized their lives to the death; Naphtali also, on the high places of the field."},
+    {"n": 19, "html": "&lsquo;The kings came and fought, then the kings of Canaan fought at <span class=\"place\" data-key=\"taanach\">Taanach</span> by the waters of <span class=\"place\" data-key=\"megiddo\">Megiddo</span>. They took no plunder of silver.<sup class=\"footnote-marker\">3</sup>"},
+    {"n": 20, "html": "From the sky the stars fought. From their courses, they fought against Sisera."},
+    {"n": 21, "html": "<span class=\"place\" data-key=\"river-kishon\">The river Kishon</span> swept them away, that ancient river, <span class=\"place\" data-key=\"river-kishon\">the river Kishon</span>. My soul, march on with strength."},
+    {"n": 22, "html": "Then the horse hoofs stamped because of the prancing, the prancing of their strong ones."},
+    {"n": 23, "html": "&lsquo;Curse <span class=\"place\" data-key=\"meroz\">Meroz</span>,&rsquo; said Yahweh&rsquo;s angel. &lsquo;Curse bitterly its inhabitants, because they didn&rsquo;t come to help Yahweh, to help Yahweh against the mighty.&rsquo;<sup class=\"footnote-marker\">4</sup>"},
+    {"n": 24, "html": "&lsquo;Jael shall be blessed above women, the wife of Heber the Kenite; blessed shall she be above women in the tent."},
+    {"n": 25, "html": "He asked for water. She gave him milk. She brought him butter in a lordly dish."},
+    {"n": 26, "html": "She put her hand to the tent peg, and her right hand to the workmen&rsquo;s hammer. With the hammer she struck Sisera. She struck through his head. Yes, she pierced and struck through his temples."},
+    {"n": 27, "html": "At her feet he bowed, he fell, he lay. At her feet he bowed, he fell. Where he bowed, there he fell down dead."},
+    {"n": 28, "html": "&lsquo;Through the window she looked out, and cried: Sisera&rsquo;s mother looked through the lattice. &ldquo;Why is his chariot so long in coming? Why do the wheels of his chariots wait?&rdquo;"},
+    {"n": 29, "html": "Her wise ladies answered her, Yes, she returned answer to herself,"},
+    {"n": 30, "html": "&ldquo;Have they not found, have they not divided the plunder? A lady, two ladies to every man; to Sisera a plunder of dyed garments, a plunder of dyed garments embroidered, of dyed garments embroidered on both sides, on the necks of the plunder?&rdquo;"},
+    {"n": 31, "html": "&lsquo;So let all your enemies perish, Yahweh, but let those who love him be as the sun when it rises in its strength.&rsquo; Then the land had rest forty years."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>From Seir / the field of Edom</strong> (v.&nbsp;4) — the song echoes the southern theophany tradition (Deut 33:2, Hab 3:3): Yahweh comes northward from Edom and Seir, marching across the Negev to Sinai and beyond into Israel proper. The geography is liturgical rather than tactical."},
+    {"n": 2, "html": "<strong>Machir</strong> (v.&nbsp;14) — the firstborn clan of Manasseh (cf. Josh 17:1), here standing for the western half of Manasseh on the central hill country, west of the Jordan. The roll-call (vv.&nbsp;14&ndash;18) covers the tribes who came (Ephraim, Benjamin, Machir, Zebulun, Issachar, Naphtali) and those who held back (Reuben, Gilead, Dan, Asher) &mdash; mapping the geography of compliance."},
+    {"n": 3, "html": "<strong>At Taanach by the waters of Megiddo</strong> (v.&nbsp;19) — the two great mound-cities lie c.&nbsp;7&nbsp;km apart on the southern edge of the Jezreel plain, both controlling the pass from the Sharon to the valley. The &ldquo;waters of Megiddo&rdquo; is the Kishon&rsquo;s upper reach where it gathers from the Carmel slopes."},
+    {"n": 4, "html": "<strong>Meroz</strong> (v.&nbsp;23) — singled out for curse but otherwise unattested. Khirbet Marus on the road between Tabor and Hazor has been proposed; the location must lie somewhere along Sisera&rsquo;s line of flight from the Kishon north toward Hazor, since Meroz had a duty to intercept and failed."}
+  ]
+}

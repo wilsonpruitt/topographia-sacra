@@ -1,0 +1,27 @@
+{
+  "title": "Micah's Idol",
+  "places": ["bethlehem-judah"],
+  "view": {
+    "center": [31.95, 35.20],
+    "zoom": 9
+  },
+  "verses": [
+    {"n": 1, "html": "There was a man of the hill country of Ephraim, whose name was Micah."},
+    {"n": 2, "html": "He said to his mother, &lsquo;The eleven hundred pieces of silver that were taken from you, about which you uttered a curse, and also spoke it in my ears&mdash;behold, the silver is with me. I took it.&rsquo; His mother said, &lsquo;May Yahweh bless my son!&rsquo;"},
+    {"n": 3, "html": "He restored the eleven hundred pieces of silver to his mother, then his mother said, &lsquo;I most certainly dedicate the silver to Yahweh from my hand for my son, to make a carved image and a molten image. Now therefore I will restore it to you.&rsquo;"},
+    {"n": 4, "html": "When he restored the money to his mother, his mother took two hundred pieces of silver, and gave them to a silversmith, who made a carved image and a molten image out of it. It was in the house of Micah."},
+    {"n": 5, "html": "The man Micah had a house of gods, and he made an ephod, and teraphim, and consecrated one of his sons, who became his priest."},
+    {"n": 6, "html": "In those days there was no king in Israel. Everyone did that which was right in his own eyes.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 7, "html": "There was a young man out of <span class=\"place\" data-key=\"bethlehem-judah\">Bethlehem Judah</span>, of the family of Judah, who was a Levite; and he lived there."},
+    {"n": 8, "html": "The man departed out of the city, out of <span class=\"place\" data-key=\"bethlehem-judah\">Bethlehem Judah</span>, to live where he could find a place, and he came to the hill country of Ephraim, to the house of Micah, as he traveled.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 9, "html": "Micah said to him, &lsquo;Where did you come from?&rsquo; He said to him, &lsquo;I am a Levite of <span class=\"place\" data-key=\"bethlehem-judah\">Bethlehem Judah</span>, and I am looking for a place to live.&rsquo;"},
+    {"n": 10, "html": "Micah said to him, &lsquo;Dwell with me, and be to me a father and a priest, and I will give you ten pieces of silver per year, a suit of clothing, and your food.&rsquo; So the Levite went in."},
+    {"n": 11, "html": "The Levite was content to dwell with the man; and the young man was to him as one of his sons."},
+    {"n": 12, "html": "Micah consecrated the Levite, and the young man became his priest, and was in the house of Micah."},
+    {"n": 13, "html": "Then Micah said, &lsquo;Now I know that Yahweh will do good to me, since I have a Levite as my priest.&rsquo;"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>No king in Israel</strong> (v.&nbsp;6) — the editorial refrain that frames the appendix-narratives of chapters 17&ndash;21 (cf. 18:1, 19:1, 21:25). The two stories that follow (Micah and the Danites; the Levite and his concubine) are showcase examples of the religious and social dissolution that, in the narrator&rsquo;s view, called for monarchy."},
+    {"n": 2, "html": "<strong>Bethlehem Judah to the hill country of Ephraim</strong> (v.&nbsp;8) — the Levite travels c.&nbsp;30&nbsp;km up the watershed road from south to north, exactly the journey of the Levite in chapter 19 in reverse. Micah&rsquo;s village is unnamed but somewhere in the southern hills of Ephraim, near where the Danites would pass through on their migration in chapter 18."}
+  ]
+}

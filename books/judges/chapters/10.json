@@ -1,0 +1,37 @@
+{
+  "title": "Tola, Jair, and the Ammonites",
+  "places": [
+    "shamir-ephraim", "gilead", "havvoth-jair", "kamon",
+    "syria", "sidon", "moab", "ammon-region",
+    "jordan", "mizpah-gilead"
+  ],
+  "view": {
+    "center": [32.30, 35.65],
+    "zoom": 8
+  },
+  "verses": [
+    {"n": 1, "html": "After Abimelech, Tola the son of Puah, the son of Dodo, a man of Issachar, arose to save Israel. He lived in <span class=\"place\" data-key=\"shamir-ephraim\">Shamir</span> in the hill country of Ephraim.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 2, "html": "He judged Israel twenty-three years, and died, and was buried in <span class=\"place\" data-key=\"shamir-ephraim\">Shamir</span>."},
+    {"n": 3, "html": "After him Jair, the Gileadite, arose. He judged Israel twenty-two years."},
+    {"n": 4, "html": "He had thirty sons who rode on thirty donkey colts. They had thirty cities, which are called <span class=\"place\" data-key=\"havvoth-jair\">Havvoth Jair</span> to this day, which are in the land of <span class=\"place\" data-key=\"gilead\">Gilead</span>.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 5, "html": "Jair died, and was buried in <span class=\"place\" data-key=\"kamon\">Kamon</span>."},
+    {"n": 6, "html": "The children of Israel again did that which was evil in Yahweh&rsquo;s sight, and served the Baals, the Ashtaroth, the gods of <span class=\"place\" data-key=\"syria\">Syria</span>, the gods of <span class=\"place\" data-key=\"sidon\">Sidon</span>, the gods of <span class=\"place\" data-key=\"moab\">Moab</span>, the gods of the children of <span class=\"place\" data-key=\"ammon-region\">Ammon</span>, and the gods of the Philistines. They abandoned Yahweh, and didn&rsquo;t serve him."},
+    {"n": 7, "html": "Yahweh&rsquo;s anger burned against Israel, and he sold them into the hand of the Philistines and into the hand of the children of <span class=\"place\" data-key=\"ammon-region\">Ammon</span>."},
+    {"n": 8, "html": "They troubled and oppressed the children of Israel that year. For eighteen years they oppressed all the children of Israel that were beyond <span class=\"place\" data-key=\"jordan\">the Jordan</span> in the land of the Amorites, which is in <span class=\"place\" data-key=\"gilead\">Gilead</span>."},
+    {"n": 9, "html": "The children of <span class=\"place\" data-key=\"ammon-region\">Ammon</span> passed over <span class=\"place\" data-key=\"jordan\">the Jordan</span> to fight also against Judah, and against Benjamin, and against the house of Ephraim, so that Israel was very distressed."},
+    {"n": 10, "html": "The children of Israel cried to Yahweh, saying, &lsquo;We have sinned against you, even because we have forsaken our God, and have served the Baals.&rsquo;"},
+    {"n": 11, "html": "Yahweh said to the children of Israel, &lsquo;Didn&rsquo;t I save you from the Egyptians, and from the Amorites, from the children of <span class=\"place\" data-key=\"ammon-region\">Ammon</span>, and from the Philistines?"},
+    {"n": 12, "html": "The Sidonians also, and the Amalekites, and the Maonites, oppressed you; and you cried to me, and I saved you out of their hand."},
+    {"n": 13, "html": "Yet you have forsaken me and served other gods. Therefore I will save you no more."},
+    {"n": 14, "html": "Go and cry to the gods which you have chosen. Let them save you in the time of your distress!&rsquo;"},
+    {"n": 15, "html": "The children of Israel said to Yahweh, &lsquo;We have sinned! Do to us whatever seems good to you; only deliver us, please, today.&rsquo;"},
+    {"n": 16, "html": "They put away the foreign gods from among them and served Yahweh; and his soul was grieved for the misery of Israel."},
+    {"n": 17, "html": "Then the children of <span class=\"place\" data-key=\"ammon-region\">Ammon</span> were gathered together and encamped in <span class=\"place\" data-key=\"gilead\">Gilead</span>. The children of Israel assembled themselves together and encamped in <span class=\"place\" data-key=\"mizpah-gilead\">Mizpah</span>.<sup class=\"footnote-marker\">3</sup>"},
+    {"n": 18, "html": "The people, the princes of <span class=\"place\" data-key=\"gilead\">Gilead</span>, said to one another, &lsquo;Who is the man who will begin to fight against the children of <span class=\"place\" data-key=\"ammon-region\">Ammon</span>? He shall be head over all the inhabitants of <span class=\"place\" data-key=\"gilead\">Gilead</span>.&rsquo;"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Shamir of Ephraim</strong> (v.&nbsp;1) — distinct from the Judahite Shamir of Joshua 15:48. The Ephraimite town is unidentified; some have proposed Khirbet Sammur in the southern hills of Ephraim, others tentatively the site of later Samaria."},
+    {"n": 2, "html": "<strong>Havvoth Jair, the villages of Jair</strong> (v.&nbsp;4) — a cluster of thirty trans-Jordan villages attributed to Jair son of Manasseh (Num 32:41, Deut 3:14) and re-claimed here for the Gileadite judge of the same name. The geographic core lies in northern Gilead and the Bashan."},
+    {"n": 3, "html": "<strong>Mizpah</strong> (v.&nbsp;17) — the Gileadite Mizpah east of the Jordan, distinct from the Benjaminite Mizpah of 1 Samuel. Often equated with Ramath-Mizpeh of Joshua 13:26; Khirbet Jal'ad SW of the Jabbok is the leading proposal. Jephthah's home in chapter 11."}
+  ]
+}

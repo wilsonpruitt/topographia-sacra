@@ -280,6 +280,108 @@ All six marked `approximate: true`.
 - [ ] **Bethlehem-Judah** at modern Beit Lahm — secure identification.
 - [ ] **Moab** as a region pin in the central plateau — confirm placement; the book uses the term loosely for the kingdom east of the Dead Sea between Arnon and Heshbon.
 
+## Judges 1 — gazetteer entries (10 added)
+
+- [ ] **Bezek** at Khirbet Ibziq — leading proposal, but the toponym is not securely fixed; some scholars distinguish a Judahite Bezek closer to the southern hills.
+- [ ] **Acco** at Tell el-Fukhkhar east of the Crusader Old City — secure identification; ABD ref `1:50` is best-estimate.
+- [ ] **Achzib (Asher)** at Tel Akhziv / ez-Zib — secure; coords confirmed.
+- [ ] **Ahlab** placed near Tyre on the equation with Mahalliba — conjectural; coords are notional only.
+- [ ] **Helbah** flagged as possible doublet of Ahlab — confirm or treat as separate site.
+- [ ] **Kitron** unknown; some equate with Kattath of Joshua 19:15 — confirm before pinning.
+- [ ] **Nahalol** unknown; Maʿlul on the western Jezreel edge is the leading guess but unconfirmed.
+- [ ] **Mount Heres** placed at Beth-Shemesh latitude — conjectural identification; could equally be a separate Danite ridge.
+- [ ] **Shaalbim** at Selbit (Tel Shaalevim) — probable; verify ABD ref `5:1148`.
+- [ ] **Luz (in the land of the Hittites)** — unidentified by design; "land of the Hittites" is a regional designation and the rebuilt city has no archaeological correlate.
+- [ ] **Hebron's `name_alt`** updated to include "Kiriath Arba"; **Jericho's `name_alt`** to include "city of palm trees"; **Aphek-Asher's `name_alt`** to include "Aphik". Verify spelling conventions if they conflict with elsewhere in the corpus.
+
+## Judges 2 — gazetteer entries (1 added)
+
+- [ ] **Bochim** placed at Bethel coordinates on the strength of LXX Judges 2:1 — confirm whether to keep Bochim and Bethel as separate pins or fold to a single key.
+
+## Judges 3 — gazetteer entries (4 added)
+
+- [ ] **Ammon** (region pin at Amman, 31.95/35.93) — confirm centroid; the kingdom proper extended south and east of Rabbah.
+- [ ] **Amalek** (region pin at 30.85/34.85, northern Negeb / Sinai border) — Amalekites were nomadic, so any pin is a notional centroid; verify.
+- [ ] **Mount Baal Hermon** placed at Hermon coords as a notional peak — confirm whether to keep separate from `mount-hermon` or fold to a name_alt.
+- [ ] **Seirah** unidentified; flagged as somewhere in the wooded hills of Ephraim above the Jericho ascent. No coords.
+
+## Judges 4 — gazetteer entries (2 added)
+
+- [ ] **Harosheth of the Gentiles** placed at Tell el-Harbaj (32.628 / 35.075) — verify; el-Ahwat is a competing identification.
+- [ ] **River Kishon** centroid placed at the Megiddo-Jezreel reach — confirm whether to keep a single pin or render as a polyline.
+
+## Judges 5 — gazetteer entries (2 added)
+
+- [ ] **Seir** placed at Edomite-mountain centroid (30.45 / 35.45) — confirm; Seir and Edom are largely overlapping but the song uses both.
+- [ ] **Meroz** unidentified; flagged as somewhere on Sisera's flight line. No coords.
+
+## Judges 6 — gazetteer entries (1 added)
+
+- [ ] **Ophrah-Manasseh** placed at 32.498 / 35.327 (et-Taiyiba area, southeastern Jezreel) — confirm; ʿAfula and other sites are competing identifications. Distinct from `ophrah-benjamin`.
+
+## Judges 7 — gazetteer entries (10 added)
+
+- [ ] **Spring of Harod** at ʿAin Jalud — secure identification.
+- [ ] **Hill of Moreh** at Givat Hamoreh / Jebel Dahi — secure identification.
+- [ ] **Mount Gilead** flagged as likely textual variant for Mount Gilboa; verify whether to keep separate or fold to a footnote-only mention.
+- [ ] **Beth Shittah, Zererah, Tabbath** all unidentified. Verify proposals (Khirbet Shutta, Zarethan, Ras Abu Tabat) before committing.
+- [ ] **Abel Meholah** placed at 32.345 / 35.515 — Tell Abu Sus is the leading guess; coords are best-estimate.
+- [ ] **Beth Barah** unidentified — confirm scope of the Ephraimite fords sweep.
+- [ ] **Rock of Oreb / Winepress of Zeeb** unidentified by design.
+
+## Judges 8 — gazetteer entries (6 added)
+
+- [ ] **Succoth** at Tell Deir ʿAlla — secure identification.
+- [ ] **Penuel** at Tulul edh-Dhahab — confirm; competing proposals exist.
+- [ ] **Karkor** unidentified; flagged as somewhere in the trans-Jordan desert.
+- [ ] **Nobah** at Qanawat in the Hauran — verify; this is the trans-Jordan Nobah, distinct from any earlier Nobah.
+- [ ] **Jogbehah** at Khirbet Ajbeihat (el-Jubeihat) NW of Amman — verify ABD ref `3:880`.
+- [ ] **Ascent of Heres** unidentified — confirm whether to keep or fold to a footnote.
+
+## Judges 9 — gazetteer entries (5 added)
+
+- [ ] **Beer** (Jotham's refuge) unidentified — verify whether to keep coords:null or pin tentatively at el-Bireh.
+- [ ] **Arumah** at Khirbet el-ʿOrmah (32.143 / 35.331) — confirm.
+- [ ] **Thebez** at modern Tubas — secure identification.
+- [ ] **Mount Zalmon** placed at Shechem-saddle coords as a notional slope of Gerizim/Ebal — confirm whether to keep separate from `mount-gerizim`/`mount-ebal`.
+- [ ] **Oak of Meonenim** unidentified; verify whether to fold into a single oak-of-Moreh-style entry.
+
+## Judges 10 — gazetteer entries (4 added)
+
+- [ ] **Shamir-Ephraim** unidentified — confirm whether to keep separate from `shamir` (Judahite) or fold.
+- [ ] **Havvoth Jair** placed at notional centroid in northern Gilead — verify whether to render as a region polygon or single pin.
+- [ ] **Kamon** unidentified.
+- [ ] **Mizpah-Gilead** at Khirbet Jal'ad — conjectural; ensure it remains distinct from Benjaminite Mizpah.
+
+## Judges 11 — gazetteer entries (3 added)
+
+- [ ] **Land of Tob** as region pin in southern Hauran (32.65 / 35.95) — verify centroid.
+- [ ] **Minnith** at Khirbet Hamzeh — conjectural; verify proximity to Heshbon.
+- [ ] **Abel-Cheramim** unidentified.
+
+## Judges 12 — gazetteer entries (2 added)
+
+- [ ] **Aijalon-Zebulun** unidentified — verify whether Khirbet el-Lon proposal is the leading one.
+- [ ] **Pirathon** at Farʿata SW of Shechem — confirm.
+- [ ] Confirm Ibzan's "Bethlehem" routes to `bethlehem-zebulun` not `bethlehem-judah` (the Talmudic Boaz-equation tradition would route it to Judah).
+
+## Judges 13-21 — gazetteer entries (16 added)
+
+- [ ] **Mahaneh Dan** — region pin between Zorah and Eshtaol; chapter 18 places a second mustering point behind Kiriath-Jearim. Confirm whether to render as one or two pins.
+- [ ] **Rock of Etam** at notional Sorek-region coords — verify; the cliff is unidentified.
+- [ ] **Lehi / Ramath-Lehi** at conjectural seam between Sorek and Elah — verify.
+- [ ] **En-Hakkore** — etiological spring at Lehi, no separate identification.
+- [ ] **Valley of Sorek** — confirm centroid; could be rendered as a polyline.
+- [ ] **Laish** at Tel Dan — same site as `dan-city`; both kept for narrative distinction.
+- [ ] **Beth-Rehob** at notional Banias-region coords — verify.
+- [ ] **Gibeah-Benjamin** at Tell el-Ful — Albright identification, confirm.
+- [ ] **Mizpah-Benjamin** at Tell en-Nasbeh — secure identification.
+- [ ] **Baal-Tamar / Maareh-Geba** unidentified.
+- [ ] **Rock of Rimmon** at Rammun (E of Bethel) — confirm.
+- [ ] **Gidom** likely a textual corruption — verify whether to keep entry.
+- [ ] **Jabesh-Gilead** at Tell Abu el-Kharaz / Tell el-Maqlub — confirm primary.
+- [ ] **Lebonah** at el-Lubban Sherqiya — confirm.
+
 ## Jonah — gazetteer entries (2 added)
 
 - [ ] **Nineveh** at Tell Kuyunjik / Tell Nebi Yunus opposite Mosul — secure identification.
@@ -425,6 +527,27 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Acts 26
 - [ ] Acts 27
 - [ ] Acts 28
+- [ ] Judges 1
+- [ ] Judges 2
+- [ ] Judges 3
+- [ ] Judges 4
+- [ ] Judges 5
+- [ ] Judges 6
+- [ ] Judges 7
+- [ ] Judges 8
+- [ ] Judges 9
+- [ ] Judges 10
+- [ ] Judges 11
+- [ ] Judges 12
+- [ ] Judges 13
+- [ ] Judges 14
+- [ ] Judges 15
+- [ ] Judges 16
+- [ ] Judges 17
+- [ ] Judges 18
+- [ ] Judges 19
+- [ ] Judges 20
+- [ ] Judges 21
 
 ## Site-level
 

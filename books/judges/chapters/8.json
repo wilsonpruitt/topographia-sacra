@@ -1,0 +1,55 @@
+{
+  "title": "The Pursuit of Zebah and Zalmunna",
+  "places": [
+    "jordan", "succoth", "penuel", "karkor",
+    "nobah", "jogbehah", "ascent-of-heres",
+    "mount-tabor", "ophrah-manasseh", "shechem"
+  ],
+  "view": {
+    "center": [32.20, 35.75],
+    "zoom": 9
+  },
+  "verses": [
+    {"n": 1, "html": "The men of Ephraim said to him, &lsquo;Why have you treated us this way, that you didn&rsquo;t call us when you went to fight with Midian?&rsquo; They rebuked him sharply."},
+    {"n": 2, "html": "He said to them, &lsquo;What have I now done in comparison with you? Isn&rsquo;t the gleaning of the grapes of Ephraim better than the vintage of Abiezer?"},
+    {"n": 3, "html": "God has delivered into your hand the princes of Midian, Oreb and Zeeb! What was I able to do in comparison with you?&rsquo; Then their anger was abated toward him when he had said that."},
+    {"n": 4, "html": "Gideon came to <span class=\"place\" data-key=\"jordan\">the Jordan</span> and passed over, he and the three hundred men who were with him, faint, yet pursuing."},
+    {"n": 5, "html": "He said to the men of <span class=\"place\" data-key=\"succoth\">Succoth</span>, &lsquo;Please give loaves of bread to the people who follow me; for they are faint, and I am pursuing after Zebah and Zalmunna, the kings of Midian.&rsquo;<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 6, "html": "The princes of <span class=\"place\" data-key=\"succoth\">Succoth</span> said, &lsquo;Are the hands of Zebah and Zalmunna now in your hand, that we should give bread to your army?&rsquo;"},
+    {"n": 7, "html": "Gideon said, &lsquo;Therefore when Yahweh has delivered Zebah and Zalmunna into my hand, then I will tear your flesh with the thorns of the wilderness and with briers.&rsquo;"},
+    {"n": 8, "html": "He went up there to <span class=\"place\" data-key=\"penuel\">Penuel</span>, and spoke to them in the same way; and the men of <span class=\"place\" data-key=\"penuel\">Penuel</span> answered him as the men of <span class=\"place\" data-key=\"succoth\">Succoth</span> had answered.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 9, "html": "He spoke also to the men of <span class=\"place\" data-key=\"penuel\">Penuel</span>, saying, &lsquo;When I come again in peace, I will break down this tower.&rsquo;"},
+    {"n": 10, "html": "Now Zebah and Zalmunna were in <span class=\"place\" data-key=\"karkor\">Karkor</span>, and their armies with them, about fifteen thousand men, all who were left of all the army of the children of the east; for there fell one hundred twenty thousand men who drew sword."},
+    {"n": 11, "html": "Gideon went up by the way of those who lived in tents on the east of <span class=\"place\" data-key=\"nobah\">Nobah</span> and <span class=\"place\" data-key=\"jogbehah\">Jogbehah</span>, and struck the army; for the army felt secure.<sup class=\"footnote-marker\">3</sup>"},
+    {"n": 12, "html": "Zebah and Zalmunna fled and he pursued them. He took the two kings of Midian, Zebah and Zalmunna, and confused all the army."},
+    {"n": 13, "html": "Gideon the son of Joash returned from the battle from <span class=\"place\" data-key=\"ascent-of-heres\">the ascent of Heres</span>."},
+    {"n": 14, "html": "He caught a young man of the men of <span class=\"place\" data-key=\"succoth\">Succoth</span>, and inquired of him; and he described for him the princes of <span class=\"place\" data-key=\"succoth\">Succoth</span>, and its elders, seventy-seven men."},
+    {"n": 15, "html": "He came to the men of <span class=\"place\" data-key=\"succoth\">Succoth</span>, and said, &lsquo;See Zebah and Zalmunna, concerning whom you taunted me, saying, &ldquo;Are the hands of Zebah and Zalmunna now in your hand, that we should give bread to your men who are weary?&rdquo;&rsquo;"},
+    {"n": 16, "html": "He took the elders of the city, and thorns of the wilderness and briers, and with them he taught the men of <span class=\"place\" data-key=\"succoth\">Succoth</span>."},
+    {"n": 17, "html": "He broke down the tower of <span class=\"place\" data-key=\"penuel\">Penuel</span>, and killed the men of the city."},
+    {"n": 18, "html": "Then he said to Zebah and Zalmunna, &lsquo;What kind of men were they whom you killed at <span class=\"place\" data-key=\"mount-tabor\">Tabor</span>?&rsquo;"},
+    {"n": 19, "html": "They answered, &lsquo;They were like you. They all resembled the children of a king.&rsquo;"},
+    {"n": 20, "html": "He said, &lsquo;They were my brothers, the sons of my mother. As Yahweh lives, if you had saved them alive, I would not kill you.&rsquo;"},
+    {"n": 21, "html": "He said to Jether his firstborn, &lsquo;Get up and kill them!&rsquo; But the youth didn&rsquo;t draw his sword; for he was afraid, because he was yet a youth."},
+    {"n": 22, "html": "Then Zebah and Zalmunna said, &lsquo;You rise and fall on us; for as the man is, so is his strength.&rsquo; Gideon arose, and killed Zebah and Zalmunna, and took the crescents that were on their camels&rsquo; necks."},
+    {"n": 23, "html": "Then the men of Israel said to Gideon, &lsquo;Rule over us, both you, your son, and your son&rsquo;s son also; for you have saved us out of the hand of Midian.&rsquo;"},
+    {"n": 24, "html": "Gideon said to them, &lsquo;I will not rule over you, neither shall my son rule over you. Yahweh shall rule over you.&rsquo;"},
+    {"n": 25, "html": "Gideon said to them, &lsquo;I do have a request: that you would each give me the earrings of his plunder.&rsquo; (For they had golden earrings, because they were Ishmaelites.)"},
+    {"n": 26, "html": "They answered, &lsquo;We will willingly give them.&rsquo; They spread a garment, and every man threw the earrings of his plunder into it."},
+    {"n": 27, "html": "The weight of the golden earrings that he requested was one thousand and seven hundred shekels of gold, in addition to the crescents, and the pendants, and the purple clothing that was on the kings of Midian, and in addition to the chains that were about their camels&rsquo; necks."},
+    {"n": 28, "html": "Gideon made an ephod out of it, and put it in <span class=\"place\" data-key=\"ophrah-manasseh\">Ophrah</span>, his city. Then all Israel played the prostitute with it there; and it became a snare to Gideon and to his house."},
+    {"n": 29, "html": "So Midian was subdued before the children of Israel, and they lifted up their heads no more. The land had rest forty years in the days of Gideon."},
+    {"n": 30, "html": "Jerubbaal the son of Joash went and lived in his own house."},
+    {"n": 31, "html": "Gideon had seventy sons conceived from his body, for he had many wives."},
+    {"n": 32, "html": "His concubine who was in <span class=\"place\" data-key=\"shechem\">Shechem</span> also bore him a son, and he named him Abimelech."},
+    {"n": 33, "html": "Gideon the son of Joash died in a good old age, and was buried in the tomb of Joash his father, in <span class=\"place\" data-key=\"ophrah-manasseh\">Ophrah of the Abiezrites</span>."},
+    {"n": 34, "html": "As soon as Gideon was dead, the children of Israel turned again and played the prostitute following the Baals, and made Baal Berith their god."},
+    {"n": 35, "html": "The children of Israel didn&rsquo;t remember Yahweh their God, who had delivered them out of the hand of all their enemies on every side; neither did they show kindness to the house of Jerubbaal, that is, Gideon, according to all the goodness which he had shown to Israel."}
+  ],
+  "route": ["jordan", "succoth", "penuel", "jogbehah", "nobah", "karkor", "ophrah-manasseh"],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Succoth</strong> (v.&nbsp;5) — Tell Deir ʿAlla in the central trans-Jordan rift, c.&nbsp;2&nbsp;km north of the Jabbok confluence. Gideon's pursuit crosses the Jordan at one of the central fords and follows the Jabbok eastward into Gad's territory."},
+    {"n": 2, "html": "<strong>Penuel</strong> (v.&nbsp;8) — Tulul edh-Dhahab on the Jabbok, c.&nbsp;13&nbsp;km east of Succoth, where the river bends sharply at the foot of the plateau. Jacob's wrestling site (Gen 32:30) and later Jeroboam's eastern fortress (1&nbsp;Kgs 12:25)."},
+    {"n": 3, "html": "<strong>East of Nobah and Jogbehah</strong> (v.&nbsp;11) — the line marks Gideon's surprise route up onto the trans-Jordan plateau, swinging east past Jogbehah (Khirbet Ajbeihat NW of Amman) and Nobah (Qanawat in the Hauran) into the desert margin where the Midianite host felt safe at Karkor."}
+  ]
+}

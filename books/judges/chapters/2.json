@@ -1,0 +1,38 @@
+{
+  "title": "The Angel at Bochim",
+  "places": ["gilgal", "bochim", "egypt", "timnath-serah", "mount-gaash"],
+  "view": {
+    "center": [31.95, 35.25],
+    "zoom": 9
+  },
+  "verses": [
+    {"n": 1, "html": "Yahweh&rsquo;s angel came up from <span class=\"place\" data-key=\"gilgal\">Gilgal</span> to <span class=\"place\" data-key=\"bochim\">Bochim</span>. He said, &lsquo;I brought you out of <span class=\"place\" data-key=\"egypt\">Egypt</span>, and have brought you to the land which I swore to give your fathers. I said, &ldquo;I will never break my covenant with you.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 2, "html": "You shall make no covenant with the inhabitants of this land. You shall break down their altars.&rdquo; But you have not listened to my voice. Why have you done this?"},
+    {"n": 3, "html": "Therefore I also said, &ldquo;I will not drive them out from before you; but they shall be in your sides, and their gods will be a snare to you.&rdquo;&rsquo;"},
+    {"n": 4, "html": "When Yahweh&rsquo;s angel spoke these words to all the children of Israel, the people lifted up their voice and wept."},
+    {"n": 5, "html": "They called the name of that place <span class=\"place\" data-key=\"bochim\">Bochim</span>, and they sacrificed there to Yahweh.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 6, "html": "Now when Joshua had sent the people away, the children of Israel each went to his inheritance to possess the land."},
+    {"n": 7, "html": "The people served Yahweh all the days of Joshua, and all the days of the elders who outlived Joshua, who had seen all the great work of Yahweh that he had worked for Israel."},
+    {"n": 8, "html": "Joshua the son of Nun, the servant of Yahweh, died, being one hundred ten years old."},
+    {"n": 9, "html": "They buried him in the border of his inheritance in <span class=\"place\" data-key=\"timnath-serah\">Timnath Heres</span>, in the hill country of Ephraim, on the north of <span class=\"place\" data-key=\"mount-gaash\">the mountain of Gaash</span>.<sup class=\"footnote-marker\">3</sup>"},
+    {"n": 10, "html": "After all that generation were gathered to their fathers, another generation arose after them who didn&rsquo;t know Yahweh, nor the work which he had done for Israel."},
+    {"n": 11, "html": "The children of Israel did that which was evil in Yahweh&rsquo;s sight, and served the Baals."},
+    {"n": 12, "html": "They abandoned Yahweh, the God of their fathers, who brought them out of the land of <span class=\"place\" data-key=\"egypt\">Egypt</span>, and followed other gods, of the gods of the peoples who were around them, and bowed themselves down to them; and they provoked Yahweh to anger."},
+    {"n": 13, "html": "They abandoned Yahweh, and served Baal and the Ashtaroth."},
+    {"n": 14, "html": "Yahweh&rsquo;s anger burned against Israel, and he delivered them into the hands of raiders who plundered them. He sold them into the hands of their enemies all around, so that they could no longer stand before their enemies."},
+    {"n": 15, "html": "Wherever they went out, Yahweh&rsquo;s hand was against them for evil, as Yahweh had spoken, and as Yahweh had sworn to them; and they were very distressed."},
+    {"n": 16, "html": "Yahweh raised up judges, who saved them out of the hand of those who plundered them."},
+    {"n": 17, "html": "Yet they didn&rsquo;t listen to their judges; for they prostituted themselves to other gods, and bowed themselves down to them. They quickly turned away from the way in which their fathers walked, obeying Yahweh&rsquo;s commandments. They didn&rsquo;t do so."},
+    {"n": 18, "html": "When Yahweh raised up judges for them, then Yahweh was with the judge, and saved them out of the hand of their enemies all the days of the judge; for it grieved Yahweh because of their groaning by reason of those who oppressed them and troubled them."},
+    {"n": 19, "html": "But when the judge was dead, they turned back, and dealt more corruptly than their fathers in following other gods to serve them and to bow down to them. They didn&rsquo;t cease what they were doing, or give up their stubborn ways."},
+    {"n": 20, "html": "Yahweh&rsquo;s anger burned against Israel; and he said, &lsquo;Because this nation transgressed my covenant which I commanded their fathers, and has not listened to my voice,"},
+    {"n": 21, "html": "I also will no longer drive out any of the nations that Joshua left when he died from before them;"},
+    {"n": 22, "html": "that by them I may test Israel, to see if they will keep Yahweh&rsquo;s way to walk therein, as their fathers kept it, or not.&rsquo;"},
+    {"n": 23, "html": "So Yahweh left those nations, without driving them out hastily. He didn&rsquo;t deliver them into Joshua&rsquo;s hand."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>From Gilgal up to Bochim</strong> (v.&nbsp;1) — Gilgal is the Jordan-valley camp first established at Joshua 4:19; the angel&rsquo;s movement \"up\" implies a climb from the rift valley into the central hill country. The Greek of Judges 2:1 reads \"to Bethel and to the house of Israel,\" which has led most commentators to locate Bochim at or beside Bethel."},
+    {"n": 2, "html": "<strong>Bochim</strong> (v.&nbsp;5) — \"weepers\"; an etiological place-name for the people&rsquo;s weeping at the rebuke. The site has no independent archaeological identification; the LXX equation with Bethel is the strongest external clue."},
+    {"n": 3, "html": "<strong>Timnath Heres / Mount Gaash</strong> (v.&nbsp;9) — Timnath-Heres is generally regarded as a metathesized form of the Timnath-Serah of Joshua 19:50 and 24:30 (Khirbet Tibneh, c.&nbsp;25&nbsp;km north of Jerusalem). Mount Gaash is named only as the landmark south of Joshua&rsquo;s burial place; it has no independent identification."}
+  ]
+}
