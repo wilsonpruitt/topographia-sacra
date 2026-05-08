@@ -185,6 +185,19 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 - [ ] **Dan** — coastal plain; Leshem/Tel Dan northern enclave deliberately excluded (named only after the conquest in v. 47).
 All six marked `approximate: true`.
 
+## Acts 8-12 — gazetteer entries (8 added)
+
+- [ ] **Caesarea** = Caesarea Maritima (Tel Caesarea) — secure.
+- [ ] **Damascus** at the Old City of Damascus — secure.
+- [ ] **Tarsus** — secure.
+- [ ] **Lydda** at modern Lod — secure.
+- [ ] **Sharon** as a coastal-plain region pin — confirm centroid.
+- [ ] **Phoenicia** as a coastal region pin — confirm centroid.
+- [ ] **Samaria-city** at Sebaste / Sebastiya — secure (the Acts 8:5 'city of Samaria' identification is the editorial default; some readers prefer 'a city of Samaria' i.e. region).
+- [ ] **Ethiopia** as a region pin at Meroe — confirm whether Meroe centroid is the right anchor (some prefer a more northern Nubian centroid like Napata).
+- [ ] **Acts 9:25 / 2 Cor 11:32-33** — Nabataean / Aretas IV detail noted in footnote; flag whether to mention again at 2 Cor when those books are added.
+- [ ] **Acts 12 Herod Agrippa I death-at-Caesarea** — Josephus parallel noted in footnote.
+
 ## Acts 3-7 — gazetteer entries (9 added)
 
 - [ ] **Cyprus** as a region pin in central Troodos — confirm placement.
@@ -340,6 +353,11 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Acts 5
 - [ ] Acts 6
 - [ ] Acts 7
+- [ ] Acts 8
+- [ ] Acts 9
+- [ ] Acts 10
+- [ ] Acts 11
+- [ ] Acts 12
 
 ## Site-level
 

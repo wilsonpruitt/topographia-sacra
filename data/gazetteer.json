@@ -1086,6 +1086,51 @@
         "verses": [
           7
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 8,
+        "verses": [
+          1,
+          14,
+          25,
+          26,
+          27
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 9,
+        "verses": [
+          2,
+          13,
+          21,
+          26,
+          28
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 10,
+        "verses": [
+          39
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 11,
+        "verses": [
+          2,
+          22,
+          27
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 12,
+        "verses": [
+          25
+        ]
       }
     ]
   },
@@ -1696,6 +1741,13 @@
         "verses": [
           47
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 8,
+        "verses": [
+          26
+        ]
       }
     ]
   },
@@ -2067,6 +2119,13 @@
         "verses": [
           28
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 12,
+        "verses": [
+          20
+        ]
       }
     ]
   },
@@ -2242,6 +2301,13 @@
         "verses": [
           46,
           47
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 8,
+        "verses": [
+          40
         ]
       }
     ]
@@ -8438,6 +8504,13 @@
         "verses": [
           29
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 12,
+        "verses": [
+          20
+        ]
       }
     ]
   },
@@ -9236,6 +9309,34 @@
         "verses": [
           3
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 9,
+        "verses": [
+          36,
+          38,
+          42,
+          43
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 10,
+        "verses": [
+          5,
+          8,
+          23,
+          32
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 11,
+        "verses": [
+          5,
+          13
+        ]
       }
     ]
   },
@@ -9964,6 +10065,36 @@
           9,
           14
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 9,
+        "verses": [
+          31
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 10,
+        "verses": [
+          37,
+          39
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 11,
+        "verses": [
+          1,
+          29
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 12,
+        "verses": [
+          19
+        ]
       }
     ]
   },
@@ -9986,6 +10117,22 @@
         "chapter": 1,
         "verses": [
           8
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 8,
+        "verses": [
+          1,
+          14,
+          25
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 9,
+        "verses": [
+          31
         ]
       }
     ]
@@ -10014,6 +10161,20 @@
       {
         "book": "acts",
         "chapter": 5,
+        "verses": [
+          37
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 9,
+        "verses": [
+          31
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 10,
         "verses": [
           37
         ]
@@ -10108,6 +10269,13 @@
         "chapter": 6,
         "verses": [
           14
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 10,
+        "verses": [
+          38
         ]
       }
     ]
@@ -10354,6 +10522,13 @@
         "verses": [
           9
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 11,
+        "verses": [
+          20
+        ]
       }
     ]
   },
@@ -10465,6 +10640,14 @@
         "verses": [
           36
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 11,
+        "verses": [
+          19,
+          20
+        ]
       }
     ]
   },
@@ -10488,6 +10671,18 @@
         "chapter": 6,
         "verses": [
           5
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 11,
+        "verses": [
+          19,
+          20,
+          22,
+          25,
+          26,
+          27
         ]
       }
     ]
@@ -10648,6 +10843,237 @@
         "chapter": 7,
         "verses": [
           43
+        ]
+      }
+    ]
+  },
+  "ethiopia": {
+    "name": "Ethiopia",
+    "name_alt": [
+      "Kush",
+      "Nubia",
+      "kingdom of Meroe"
+    ],
+    "coords": [
+      16.9333,
+      33.7167
+    ],
+    "tier": "region",
+    "id": "In Greco-Roman usage, the kingdom of Kush / Meroe in the upper Nile (modern central Sudan), south of Egyptian Aswan. The Candace ('queen-mother') was the standard title of its rulers. Pin sits at Meroe.",
+    "abd": "2:665",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 8,
+        "verses": [
+          27
+        ]
+      }
+    ]
+  },
+  "caesarea": {
+    "name": "Caesarea",
+    "name_alt": [
+      "Caesarea Maritima",
+      "Tel Caesarea"
+    ],
+    "coords": [
+      32.5008,
+      34.8908
+    ],
+    "tier": "identified",
+    "id": "On the Mediterranean coast c. 60 km northwest of Jerusalem, on the site of an earlier Hellenistic Strato's Tower. Rebuilt by Herod the Great as a deepwater harbor with concrete moles, an aqueduct from Mount Carmel, and a temple to Roma and Augustus. The administrative capital of Roman Judea/Palaestina from c. 6 A.D. Distinct from Caesarea Philippi (Banias) at the foot of Mount Hermon.",
+    "abd": "1:798",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 8,
+        "verses": [
+          40
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 9,
+        "verses": [
+          30
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 10,
+        "verses": [
+          1,
+          24
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 11,
+        "verses": [
+          11
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 12,
+        "verses": [
+          19
+        ]
+      }
+    ]
+  },
+  "samaria-city": {
+    "name": "Samaria",
+    "name_alt": [
+      "Sebaste",
+      "Sebastiya"
+    ],
+    "coords": [
+      32.2767,
+      35.1899
+    ],
+    "tier": "identified",
+    "id": "The Iron Age capital of the northern kingdom (1 Kgs 16:24), refounded by Herod the Great as Sebaste (Greek for Augusta) c. 27 B.C. Distinct from the regional Samaria; pin sits at the modern village of Sebastiya, where the Herodian temple to Augustus, theatre, and forum remain visible.",
+    "abd": "5:914",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 8,
+        "verses": [
+          5,
+          9
+        ]
+      }
+    ]
+  },
+  "damascus": {
+    "name": "Damascus",
+    "name_alt": [
+      "Dimashq",
+      "ash-Sham"
+    ],
+    "coords": [
+      33.5138,
+      36.2765
+    ],
+    "tier": "identified",
+    "id": "On the Barada river east of the Anti-Lebanon mountains, one of the longest continuously inhabited cities in the world. The Aramean capital of the Iron Age (1 Kgs 11:24), Hellenistic Damascus, in the apostolic period under Nabataean influence (cf. 2 Cor 11:32-33) but within the Roman provincial framework. The 'street called Straight' (Decumanus Maximus) of 9:11 still runs east-west through the Old City.",
+    "abd": "2:5",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 9,
+        "verses": [
+          2,
+          3,
+          8,
+          10,
+          19,
+          22,
+          27
+        ]
+      }
+    ]
+  },
+  "tarsus": {
+    "name": "Tarsus",
+    "name_alt": [
+      "Tarsos",
+      "Gözlü Kule"
+    ],
+    "coords": [
+      36.918,
+      34.8954
+    ],
+    "tier": "identified",
+    "id": "On the Cydnus river in the southeastern coastal plain of Anatolia, capital of Roman Cilicia. Paul's home city (Acts 9:11, 21:39, 22:3); a renowned centre of Hellenistic philosophy and the place where Antony first met Cleopatra in 41 B.C.",
+    "abd": "6:333",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 9,
+        "verses": [
+          11,
+          30
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 11,
+        "verses": [
+          25
+        ]
+      }
+    ]
+  },
+  "lydda": {
+    "name": "Lydda",
+    "name_alt": [
+      "Lod",
+      "Diospolis"
+    ],
+    "coords": [
+      31.9518,
+      34.8954
+    ],
+    "tier": "identified",
+    "id": "Modern Lod on the eastern Sharon plain, an Iron Age and post-exilic Jewish town (Neh 11:35 Lod). Renamed Diospolis under Hadrian. Continuous habitation; the modern Israeli town preserves the name.",
+    "abd": "4:422",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 9,
+        "verses": [
+          32,
+          35,
+          38
+        ]
+      }
+    ]
+  },
+  "sharon": {
+    "name": "Sharon",
+    "name_alt": [
+      "Plain of Sharon",
+      "Sharon plain"
+    ],
+    "coords": [
+      32.3,
+      34.9
+    ],
+    "tier": "region",
+    "id": "The coastal plain stretching from Mount Carmel southward to the Yarkon, between the Mediterranean and the Samarian highlands. In biblical poetic geography famous for its pasture (1 Chr 27:29) and its rose / crocus (Cant 2:1, Isa 35:2).",
+    "abd": "5:1161",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 9,
+        "verses": [
+          35
+        ]
+      }
+    ]
+  },
+  "phoenicia": {
+    "name": "Phoenicia",
+    "name_alt": [
+      "Phoinike",
+      "the Phoenician coast"
+    ],
+    "coords": [
+      33.5,
+      35.4
+    ],
+    "tier": "region",
+    "id": "The Levantine coastal strip from Mount Carmel northward to roughly Arvad / Arwad (modern Lebanon and southwestern Syria), home to the great Iron Age maritime cities of Tyre, Sidon, and Byblos. In the apostolic period a coastal sub-region of the Roman province of Syria.",
+    "abd": "5:349",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 11,
+        "verses": [
+          19
         ]
       }
     ]

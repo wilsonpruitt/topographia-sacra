@@ -1,0 +1,45 @@
+{
+  "title": "Peter Defends Gentile Mission; Antioch Founded",
+  "places": ["jerusalem", "judea", "joppa", "caesarea", "phoenicia", "cyprus", "antioch-syrian", "cyrene", "tarsus"],
+  "view": {
+    "center": [34.5, 35.5],
+    "zoom": 6
+  },
+  "verses": [
+    {"n": 1, "html": "Now the apostles and the brothers who were in <span class=\"place\" data-key=\"judea\">Judea</span> heard that the Gentiles had also received the word of God."},
+    {"n": 2, "html": "When Peter had come up to <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, those who were of the circumcision contended with him,"},
+    {"n": 3, "html": "saying, &lsquo;You went in to uncircumcised men and ate with them!&rsquo;"},
+    {"n": 4, "html": "But Peter began, and explained to them in order, saying,"},
+    {"n": 5, "html": "&lsquo;I was in the city of <span class=\"place\" data-key=\"joppa\">Joppa</span> praying, and in a trance I saw a vision: a certain container descending, like it was a great sheet let down from heaven by four corners. It came as far as me."},
+    {"n": 6, "html": "When I had looked intently at it, I considered, and saw the four-footed animals of the earth, wild animals, creeping things, and birds of the sky."},
+    {"n": 7, "html": "I also heard a voice saying to me, &lsquo;Rise, Peter, kill and eat!&rsquo;"},
+    {"n": 8, "html": "But I said, &lsquo;Not so, Lord, for nothing unholy or unclean has ever entered into my mouth.&rsquo;"},
+    {"n": 9, "html": "But a voice answered me the second time out of heaven, &lsquo;What God has cleansed, don&rsquo;t you call unclean.&rsquo;"},
+    {"n": 10, "html": "This was done three times, and all were drawn up again into heaven."},
+    {"n": 11, "html": "Behold, immediately three men stood before the house where I was, having been sent from <span class=\"place\" data-key=\"caesarea\">Caesarea</span> to me."},
+    {"n": 12, "html": "The Spirit told me to go with them without discriminating. These six brothers also accompanied me, and we entered into the man&rsquo;s house."},
+    {"n": 13, "html": "He told us how he had seen the angel standing in his house and saying to him, &lsquo;Send to <span class=\"place\" data-key=\"joppa\">Joppa</span> and get Simon, who is called Peter,"},
+    {"n": 14, "html": "who will speak to you words by which you will be saved, you and all your house.&rsquo;"},
+    {"n": 15, "html": "As I began to speak, the Holy Spirit fell on them, even as on us at the beginning."},
+    {"n": 16, "html": "I remembered the word of the Lord, how he said, &lsquo;John indeed baptized in water, but you will be baptized in the Holy Spirit.&rsquo;"},
+    {"n": 17, "html": "If then God gave to them the same gift as us when we believed in the Lord Jesus Christ, who was I, that I could withstand God?&rsquo;"},
+    {"n": 18, "html": "When they heard these things, they held their peace and glorified God, saying, &lsquo;Then God has also granted to the Gentiles repentance to life!&rsquo;"},
+    {"n": 19, "html": "They therefore who were scattered abroad by the oppression that arose about Stephen traveled as far as <span class=\"place\" data-key=\"phoenicia\">Phoenicia</span>, <span class=\"place\" data-key=\"cyprus\">Cyprus</span>, and <span class=\"place\" data-key=\"antioch-syrian\">Antioch</span>, speaking the word to no one except to Jews only.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 20, "html": "But there were some of them, men of <span class=\"place\" data-key=\"cyprus\">Cyprus</span> and <span class=\"place\" data-key=\"cyrene\">Cyrene</span>, who, when they had come to <span class=\"place\" data-key=\"antioch-syrian\">Antioch</span>, spoke to the Hellenists, preaching the Lord Jesus."},
+    {"n": 21, "html": "The hand of the Lord was with them, and a great number believed and turned to the Lord."},
+    {"n": 22, "html": "The report concerning them came to the ears of the assembly which was in <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>. They sent out Barnabas to go as far as <span class=\"place\" data-key=\"antioch-syrian\">Antioch</span>,"},
+    {"n": 23, "html": "who, when he had come, and had seen the grace of God, was glad. He exhorted them all, that with purpose of heart they should remain near to the Lord."},
+    {"n": 24, "html": "For he was a good man, and full of the Holy Spirit and of faith, and many people were added to the Lord."},
+    {"n": 25, "html": "Barnabas went out to <span class=\"place\" data-key=\"tarsus\">Tarsus</span> to look for Saul."},
+    {"n": 26, "html": "When he had found him, he brought him to <span class=\"place\" data-key=\"antioch-syrian\">Antioch</span>. For a whole year they were gathered together with the assembly, and taught many people. The disciples were first called Christians in <span class=\"place\" data-key=\"antioch-syrian\">Antioch</span>.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 27, "html": "Now in these days, prophets came down from <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> to <span class=\"place\" data-key=\"antioch-syrian\">Antioch</span>."},
+    {"n": 28, "html": "One of them named Agabus stood up and indicated by the Spirit that there should be a great famine all over the world, which also happened in the days of Claudius.<sup class=\"footnote-marker\">3</sup>"},
+    {"n": 29, "html": "As any of the disciples had plenty, each determined to send relief to the brothers who lived in <span class=\"place\" data-key=\"judea\">Judea</span>;"},
+    {"n": 30, "html": "which they also did, sending it to the elders by the hands of Barnabas and Saul."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Phoenicia, Cyprus, and Antioch</strong> (v.&nbsp;19) &mdash; the three concentric arcs of dispersion follow the eastern Mediterranean coast: north along the Phoenician shore (Tyre, Sidon, Ptolemais), west to the island of Cyprus, then north up the Levantine coast to Antioch on the Orontes. The chapter&rsquo;s map widens to take all three in."},
+    {"n": 2, "html": "<strong>First called Christians in Antioch</strong> (v.&nbsp;26) &mdash; the Greek <em>Christianoi</em> is a Latin-style adjectival formation (cf. <em>Herodianoi</em>, partisans of Herod) describing the followers of a named figure. The label arose in Antioch, the Latin-speaking administrative capital of Syria, rather than in Greek-speaking Jerusalem; the geography is part of the phrase&rsquo;s register."},
+    {"n": 3, "html": "<strong>The famine in the days of Claudius</strong> (v.&nbsp;28) &mdash; widespread food shortages are independently attested across the empire under Claudius (A.D. 41-54), with particularly severe effects in Judea c. A.D. 46-48 documented by Josephus (<em>Ant.</em> 20.5.2) and Suetonius (<em>Claud.</em> 18). The Antiochene relief mission of v.&nbsp;29 is generally dated to this period."}
+  ]
+}
