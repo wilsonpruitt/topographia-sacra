@@ -169,6 +169,7 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Joshua 11
 - [ ] Joshua 12
 - [ ] Joshua 13
+- [ ] Joshua 14
 
 ## Site-level
 

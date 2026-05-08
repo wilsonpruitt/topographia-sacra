@@ -1,0 +1,80 @@
+{
+  "title": "Caleb's Inheritance",
+  "places": ["jordan", "gilgal", "kadesh-barnea", "hebron"],
+  "view": {
+    "center": [31.3, 35.0],
+    "zoom": 8
+  },
+  "verses": [
+    {
+      "n": 1,
+      "html": "These are the inheritances which the children of Israel took in the land of Canaan, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers&rsquo; houses of the tribes of the children of Israel, distributed to them"
+    },
+    {
+      "n": 2,
+      "html": "by the lot of their inheritance, as Yahweh commanded by Moses, for the nine tribes, and for the half-tribe."
+    },
+    {
+      "n": 3,
+      "html": "For Moses had given the inheritance of the two tribes and the half-tribe beyond the <span class=\"place\" data-key=\"jordan\">Jordan</span>; but to the Levites he gave no inheritance among them."
+    },
+    {
+      "n": 4,
+      "html": "For the children of Joseph were two tribes, Manasseh and Ephraim. They gave no portion to the Levites in the land, except cities to dwell in, with their pasture lands for their livestock and for their property."
+    },
+    {
+      "n": 5,
+      "html": "The children of Israel did as Yahweh commanded Moses, and they divided the land."
+    },
+    {
+      "n": 6,
+      "html": "Then the children of Judah came near to Joshua in <span class=\"place\" data-key=\"gilgal\">Gilgal</span>. Caleb the son of Jephunneh the Kenizzite<sup class=\"footnote-marker\">1</sup> said to him, &lsquo;You know the thing that Yahweh spoke to Moses the man of God concerning me and concerning you in <span class=\"place\" data-key=\"kadesh-barnea\">Kadesh Barnea</span>.&rsquo;"
+    },
+    {
+      "n": 7,
+      "html": "I was forty years old when Moses the servant of Yahweh sent me from <span class=\"place\" data-key=\"kadesh-barnea\">Kadesh Barnea</span> to spy out the land. I brought him word again as it was in my heart."
+    },
+    {
+      "n": 8,
+      "html": "Nevertheless, my brothers who went up with me made the heart of the people melt; but I wholly followed Yahweh my God."
+    },
+    {
+      "n": 9,
+      "html": "Moses swore on that day, saying, &lsquo;Surely the land where you walked shall be an inheritance to you and to your children forever, because you have wholly followed Yahweh my God.&rsquo;"
+    },
+    {
+      "n": 10,
+      "html": "Now, behold, Yahweh has kept me alive, as he spoke, these forty-five years, from the time that Yahweh spoke this word to Moses, while Israel walked in the wilderness. Now, behold, I am eighty-five years old, today."
+    },
+    {
+      "n": 11,
+      "html": "As yet I am as strong today as I was in the day that Moses sent me. As my strength was then, even so is my strength now for war, to go out and to come in."
+    },
+    {
+      "n": 12,
+      "html": "Now therefore give me this hill country, of which Yahweh spoke in that day; for you heard in that day how the Anakim were there, and great and fortified cities. It may be that Yahweh will be with me, and I shall drive them out, as Yahweh said."
+    },
+    {
+      "n": 13,
+      "html": "Joshua blessed him; and he gave <span class=\"place\" data-key=\"hebron\">Hebron</span> to Caleb the son of Jephunneh for an inheritance."
+    },
+    {
+      "n": 14,
+      "html": "Therefore <span class=\"place\" data-key=\"hebron\">Hebron</span> became the inheritance of Caleb the son of Jephunneh the Kenizzite to this day, because he followed Yahweh, the God of Israel wholeheartedly."
+    },
+    {
+      "n": 15,
+      "html": "Now the name of <span class=\"place\" data-key=\"hebron\">Hebron</span> before was Kiriath Arba<sup class=\"footnote-marker\">2</sup>, after the greatest man among the Anakim. Then the land had rest from war."
+    }
+  ],
+  "footnotes": [
+    {
+      "n": 1,
+      "html": "<strong>Kenizzite</strong> (v.&nbsp;6) — Caleb&rsquo;s lineage is described as Kenizzite, a Edomite-affiliated clan (Gen 36:11, 15). His grant of Hebron is therefore the absorption of a non-Israelite hero into Judah&rsquo;s allotment, an editorial detail the chapter quietly emphasizes by repeating the gentilic in v.&nbsp;14."
+    },
+    {
+      "n": 2,
+      "html": "<strong>Kiriath Arba</strong> (v.&nbsp;15) is given as Hebron&rsquo;s older name. The same gloss appears at Gen 23:2, 35:27, Josh 15:13, 15:54, 20:7, 21:11, and Judg 1:10. The phrase &lsquo;the greatest man among the Anakim&rsquo; is one possible rendering; the Hebrew can also be read &lsquo;Arba was the greatest <em>among</em> the Anakim,&rsquo; making the city a personal-name toponym (&lsquo;Arba&rsquo;s town&rsquo;) rather than a numerical or descriptive one."
+    }
+  ]
+}

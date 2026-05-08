@@ -307,6 +307,13 @@
           27,
           32
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 14,
+        "verses": [
+          3
+        ]
       }
     ]
   },
@@ -895,6 +902,15 @@
         "verses": [
           10
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 14,
+        "verses": [
+          13,
+          14,
+          15
+        ]
       }
     ]
   },
@@ -1269,6 +1285,14 @@
         "chapter": 10,
         "verses": [
           41
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 14,
+        "verses": [
+          6,
+          7
         ]
       }
     ]
