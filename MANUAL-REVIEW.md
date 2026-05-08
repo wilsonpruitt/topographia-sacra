@@ -175,6 +175,34 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 
 - [ ] **Benjamin polygon** — added with ch.18 from Josh 18:11-20. Narrow east-west strip in central hill country. `approximate: true`.
 
+## Six new tribal polygons (Simeon, Zebulun, Issachar, Asher, Naphtali, Dan)
+
+- [ ] **Simeon** — notional Negev block around Beersheba; Simeon's town list overlaps Judah's, so the polygon is necessarily approximate.
+- [ ] **Zebulun** — anchored on Sarid, Hannathon, Bethlehem-Zebulun, Chisloth-Tabor; northern border at Iphtah-El interpolated.
+- [ ] **Issachar** — anchored on Jezreel (Tel Yizreel), Shunem, Mt Tabor, En-Gannim (Jenin); eastern border (Jordan) generalized.
+- [ ] **Asher** — coastal strip; northern reach to Sidon/Tyre is aspirational ('even to great Sidon'), not effective control.
+- [ ] **Naphtali** — eastern Galilee from Sea of Galilee north into Hula basin; western boundary with Asher impressionistic.
+- [ ] **Dan** — coastal plain; Leshem/Tel Dan northern enclave deliberately excluded (named only after the conquest in v. 47).
+All six marked `approximate: true`.
+
+## Joshua 19 — gazetteer entries (91 added)
+
+The chapter introduces ~90 new toponyms, of which:
+- **Identified** (~10): Sharuhen, Sarid, Gath-Hepher, Mount Tabor, Jezreel-Issachar, Shunem, Hannathon, Hammath, Bene-Berak, Tyre, Joppa, Leshem/Dan-city, Aijalon, En-Gannim-Issachar, Bethlehem-Zebulun, Nahalal.
+- **Probable** (~10): Chisloth-Tabor/Chesulloth, Rimmon-Zebulun, Jabneel-Naphtali, Rakkath, Ramah-Naphtali, Aphek-Asher, Kanah-Asher, Helkath, Shihor-Libnath, Adami-Nekeb, Shaalabbin, Eltekeh, Gibbethon, Jehud, Gath-Rimmon, Ir-Shemesh (= Beth-Shemesh-Judah), Timnath-Serah.
+- **Conjectural / Unknown** (~70): the remainder, mostly hapax-legomena from the four district lists.
+
+- [ ] **Multiple-instance disambiguation slugs** added: jezreel-issachar (vs jezreel-judah), jabneel-naphtali (vs jabneel-judah), edrei-naphtali (vs edrei [Bashan]), beth-shemesh-issachar / beth-shemesh-naphtali (vs beth-shemesh-judah), bethlehem-zebulun, ramah-naphtali / ramah-asher (vs ramah-benjamin / Negev Ramah), en-gannim-issachar (vs en-gannim-shephelah), rimmon-zebulun (vs rimmon-negev), aphek-asher (a fourth Aphek), beth-dagon-asher (vs beth-dagon-judah), rehob-asher, kanah-asher (vs Brook of Kanah), hammon-asher, baalath-dan (vs baalah-negev). Confirm convention is sustainable.
+- [ ] **Sharuhen** at Tell el-Farah South vs Tell el-ʿAjjul — confirm primary.
+- [ ] **Aphek-Asher** at Tel Afek (Tell Kurdaneh) — confirm.
+- [ ] **Adami-Nekeb** — pin at Khirbet et-Tell / Khirbet Damiyeh; confirm.
+- [ ] **Shihor-Libnath** at Nahr ez-Zerqa mouth — confirm.
+- [ ] **Helkath** — proposals split between Tell el-Qasis and Tell el-Harbaj; flag for tier downgrade if needed.
+- [ ] **Bethul** = Chesil question (15:30 / 19:4) — confirm whether to fold or keep separate slugs.
+- [ ] **Cana-of-Galilee** confusion — `kanah-asher` is the Asher coast Kanah; the Galilean Cana of John 2 is a different site (Khirbet Qana further south). Confirm we don't conflate when John appears.
+- [ ] **Ir-Shemesh** = Beth-Shemesh-Judah — currently a separate slug pointing to the same coords; consider folding as a name_alt.
+- [ ] **Skeleton entries** (~70 of them) — verify if any have been securely identified since the standard reference works.
+
 ## Joshua 18 — gazetteer entries (22 added incl. Shiloh)
 
 - [ ] **Shiloh** at Khirbet Seilun — secure.
@@ -237,6 +265,7 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Joshua 16
 - [ ] Joshua 17
 - [ ] Joshua 18
+- [ ] Joshua 19
 
 ## Site-level
 

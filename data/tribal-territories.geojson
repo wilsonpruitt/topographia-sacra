@@ -181,6 +181,155 @@
     {
       "type": "Feature",
       "properties": {
+        "tribe": "simeon",
+        "name": "Simeon",
+        "approximate": true,
+        "source_chapter": "Joshua 19:1-9",
+        "note": "Embedded in the southern part of Judah's allotment ('out of the part of Judah', v. 9). Anchored on Beersheba, Moladah, Hormah, Ziklag, and Sharuhen. Most Simeonite town locations are uncertain; the polygon is a notional Negev block around Beersheba."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [34.420, 31.250],
+          [34.700, 31.380],
+          [35.000, 31.300],
+          [35.050, 31.100],
+          [34.880, 30.900],
+          [34.500, 30.900],
+          [34.420, 31.080],
+          [34.420, 31.250]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tribe": "zebulun",
+        "name": "Zebulun",
+        "approximate": true,
+        "source_chapter": "Joshua 19:10-16",
+        "note": "Central Galilee, between the Jezreel valley (south) and the Beit Netofa valley / Iphtah-El (north). Anchor cities: Sarid, Bethlehem-Zebulun, Nahalal, Hannathon, Shimron, Chisloth-Tabor. The northeastern boundary at Mount Tabor is shared with Issachar and Naphtali."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [35.080, 32.640],
+          [35.198, 32.692],
+          [35.193, 32.732],
+          [35.262, 32.821],
+          [35.350, 32.840],
+          [35.391, 32.687],
+          [35.318, 32.682],
+          [35.260, 32.722],
+          [35.080, 32.640]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tribe": "issachar",
+        "name": "Issachar",
+        "approximate": true,
+        "source_chapter": "Joshua 19:17-23",
+        "note": "Eastern Lower Galilee: the Jezreel valley plus the Hill of Moreh and the slopes down to the Jordan. Anchor cities: Jezreel (Tel Yizreel), Shunem, Mount Tabor (the northern boundary point with Zebulun and Naphtali), En-Gannim (Jenin)."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [35.260, 32.420],
+          [35.323, 32.557],
+          [35.336, 32.605],
+          [35.391, 32.687],
+          [35.500, 32.700],
+          [35.550, 32.500],
+          [35.450, 32.380],
+          [35.300, 32.461],
+          [35.260, 32.420]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tribe": "asher",
+        "name": "Asher",
+        "approximate": true,
+        "source_chapter": "Joshua 19:24-31",
+        "note": "Coastal strip from the Carmel headland north past Acco to the Phoenician cities (Sidon, Tyre). Anchor cities: Achshaph, Helkath, Mount Carmel (south boundary), Aphek-of-Asher near Acco, Kanah, Tyre. Asher's actual reach to Sidon and Tyre is aspirational; v. 28-29 ('even to great Sidon ... to the fortified city of Tyre') marks the ideal northern frontier rather than effective control."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [34.900, 32.500],
+          [34.910, 32.700],
+          [34.950, 33.000],
+          [35.100, 33.270],
+          [35.196, 33.273],
+          [35.302, 33.207],
+          [35.350, 32.900],
+          [35.250, 32.700],
+          [35.108, 32.700],
+          [35.075, 32.700],
+          [34.900, 32.500]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tribe": "naphtali",
+        "name": "Naphtali",
+        "approximate": true,
+        "source_chapter": "Joshua 19:32-39",
+        "note": "Eastern Galilee: from the Sea of Galilee and the Jordan upper waters north into the upper Galilee hills and the Hula basin. Anchor cities: Hazor, Kedesh-Naphtali, Chinnereth (the town), Hammath, Ramah-Naphtali. The eastern boundary follows the Jordan and the Sea of Galilee."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [35.391, 32.687],
+          [35.500, 32.700],
+          [35.553, 32.768],
+          [35.566, 32.890],
+          [35.486, 33.018],
+          [35.530, 33.300],
+          [35.500, 33.420],
+          [35.350, 33.450],
+          [35.290, 33.300],
+          [35.300, 33.000],
+          [35.350, 32.840],
+          [35.391, 32.687]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tribe": "dan",
+        "name": "Dan",
+        "approximate": true,
+        "source_chapter": "Joshua 19:40-48",
+        "note": "Coastal plain and inner Shephelah south of Joseph and west of Benjamin: Aijalon valley, Ekron, Joppa, Bene-Berak. The conquest of Leshem (Tel Dan, v. 47) on the far north is a separate enclave, not represented in this polygon. Dan's southern boundary runs roughly along the latitude of Ekron-Eshtaol-Zorah; western boundary the Mediterranean; northern boundary along the Yarkon (Me-Jarkon)."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [34.650, 31.820],
+          [34.650, 32.100],
+          [34.780, 32.100],
+          [34.836, 32.085],
+          [34.886, 32.030],
+          [35.012, 31.873],
+          [35.046, 31.840],
+          [35.000, 31.785],
+          [34.860, 31.780],
+          [34.650, 31.820]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "tribe": "manasseh-east",
         "name": "Half-Manasseh (East)",
         "approximate": true,
