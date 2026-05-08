@@ -167,6 +167,19 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 
 - [ ] **Ephraim polygon** — added with ch.16 from Josh 16:5-8. Michmethath is interpolated; the western reach of the Brook of Kanah to the Mediterranean is generalized; the v.7 Ataroth (treated as = Ataroth-Addar) may be a separate Jordan-valley site. `approximate: true`.
 
+## Manasseh-West polygon (text-traced)
+
+- [ ] **Manasseh-West polygon** — added with ch.17 from Josh 17:7-10. Northern boundary (Asher line) is impressionistic; eastern boundary (Issachar line) is approximate. The 'three heights' enclaves (Beth-Shean, Ibleam, Dor, Endor, Taanach, Megiddo) lie outside the polygon, in adjacent tribes per the text. `approximate: true`.
+
+## Joshua 17 — gazetteer entries (6 added)
+
+- [ ] **Shechem** at Tell Balata — secure identification.
+- [ ] **En-Tappuah** — pin reuses Tappuah's coordinates; consider whether the spring should have its own pin.
+- [ ] **Beth-Shean** at Tel Beth-Shean / Tell el-Husn — secure.
+- [ ] **Ibleam** at Khirbet Belameh — confirm.
+- [ ] **Endor** at Khirbet Safsafa near Indur — confirm primary.
+- [ ] **Valley of Jezreel** — region pin at the valley center; ABD ref is best-guess.
+
 ## Joshua 16 — gazetteer entries (9 added)
 
 - [ ] **Luz / Bethel** — added Luz as a separate slug at the same coordinates as Bethel, with footnote noting the disputed identification (twin-site vs older-name). Confirm the editorial choice.
@@ -203,6 +216,7 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Joshua 14
 - [ ] Joshua 15
 - [ ] Joshua 16
+- [ ] Joshua 17
 
 ## Site-level
 

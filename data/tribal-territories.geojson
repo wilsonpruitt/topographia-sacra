@@ -123,6 +123,33 @@
     {
       "type": "Feature",
       "properties": {
+        "tribe": "manasseh-west",
+        "name": "Half-Manasseh (West)",
+        "approximate": true,
+        "source_chapter": "Joshua 17:7-10",
+        "note": "Central hill country between Ephraim (south, the Brook of Kanah / Wadi Qana) and Asher / Issachar (north, roughly the Jezreel-valley line). Western boundary at the Mediterranean; eastern boundary along the southern Issachar fringe (NOT the Jordan — Manasseh-West does not reach the Jordan in this chapter, though the enclave cities at Beth-Shean lie within Issachar). The 'three heights' enclaves of v. 11 (Beth-Shean, Ibleam, Dor, Endor, Taanach, Megiddo) lie outside this polygon, in adjacent tribes. approximate=true; the boundary description is impressionistic, especially northward."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [34.850, 32.200],
+          [34.850, 32.500],
+          [34.920, 32.590],
+          [35.180, 32.550],
+          [35.300, 32.400],
+          [35.400, 32.300],
+          [35.379, 32.182],
+          [35.282, 32.213],
+          [35.250, 32.200],
+          [35.196, 32.155],
+          [35.000, 32.180],
+          [34.850, 32.200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "tribe": "manasseh-east",
         "name": "Half-Manasseh (East)",
         "approximate": true,

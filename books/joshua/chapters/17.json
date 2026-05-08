@@ -1,0 +1,41 @@
+{
+  "title": "The Inheritance of Manasseh",
+  "places": [
+    "gilead", "bashan", "jordan",
+    "michmethath", "shechem", "en-tappuah", "tappuah",
+    "brook-of-kanah", "great-sea",
+    "beth-shean", "ibleam", "dor", "endor", "taanach", "megiddo",
+    "valley-of-jezreel"
+  ],
+  "tribes": ["manasseh-west"],
+  "view": {
+    "center": [32.30, 35.25],
+    "zoom": 9
+  },
+  "verses": [
+    {"n": 1, "html": "This was the lot for the tribe of Manasseh, for he was the firstborn of Joseph. As for Machir the firstborn of Manasseh, the father of <span class=\"place\" data-key=\"gilead\">Gilead</span>, because he was a man of war, therefore he had <span class=\"place\" data-key=\"gilead\">Gilead</span> and <span class=\"place\" data-key=\"bashan\">Bashan</span>."},
+    {"n": 2, "html": "So this was for the rest of the children of Manasseh according to their families: for the children of Abiezer, for the children of Helek, for the children of Asriel, for the children of Shechem, for the children of Hepher, and for the children of Shemida."},
+    {"n": 3, "html": "But Zelophehad, the son of Hepher, the son of <span class=\"place\" data-key=\"gilead\">Gilead</span>, the son of Machir, the son of Manasseh, had no sons, but daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 4, "html": "They came to Eleazar the priest, and to Joshua the son of Nun, and to the princes, saying, &lsquo;Yahweh commanded Moses to give us an inheritance among our brothers.&rsquo;"},
+    {"n": 5, "html": "Ten parts fell to Manasseh, in addition to the land of <span class=\"place\" data-key=\"gilead\">Gilead</span> and <span class=\"place\" data-key=\"bashan\">Bashan</span>, which is beyond the <span class=\"place\" data-key=\"jordan\">Jordan</span>"},
+    {"n": 6, "html": "because the daughters of Manasseh had an inheritance among his sons. The land of <span class=\"place\" data-key=\"gilead\">Gilead</span> belonged to the rest of the sons of Manasseh."},
+    {"n": 7, "html": "The border of Manasseh was from Asher to <span class=\"place\" data-key=\"michmethath\">Michmethath</span>, which is before <span class=\"place\" data-key=\"shechem\">Shechem</span>. The border went along to the right hand, to the inhabitants of <span class=\"place\" data-key=\"en-tappuah\">En Tappuah</span>."},
+    {"n": 8, "html": "The land of <span class=\"place\" data-key=\"tappuah\">Tappuah</span> belonged to Manasseh; but <span class=\"place\" data-key=\"tappuah\">Tappuah</span> on the border of Manasseh belonged to the children of Ephraim.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 9, "html": "The border went down to the <span class=\"place\" data-key=\"brook-of-kanah\">brook of Kanah</span>, southward of the brook. These cities belonged to Ephraim among the cities of Manasseh."},
+    {"n": 10, "html": "Southward it was Ephraim&rsquo;s, and northward it was Manasseh&rsquo;s, and the <span class=\"place\" data-key=\"great-sea\">sea</span> was his border. They reached to Asher on the north, and to Issachar on the east."},
+    {"n": 11, "html": "Manasseh had three heights<sup class=\"footnote-marker\">3</sup> in Issachar, in Asher <span class=\"place\" data-key=\"beth-shean\">Beth Shean</span> and its towns, and <span class=\"place\" data-key=\"ibleam\">Ibleam</span> and its towns, and the inhabitants of <span class=\"place\" data-key=\"dor\">Dor</span> and its towns, and the inhabitants of <span class=\"place\" data-key=\"endor\">Endor</span> and its towns, and the inhabitants of <span class=\"place\" data-key=\"taanach\">Taanach</span> and its towns, and the inhabitants of <span class=\"place\" data-key=\"megiddo\">Megiddo</span> and its towns."},
+    {"n": 12, "html": "Yet the children of Manasseh couldn&rsquo;t drive out the inhabitants of those cities; but the Canaanites would dwell in that land."},
+    {"n": 13, "html": "When the children of Israel had grown strong, they put the Canaanites to forced labor, and didn&rsquo;t utterly drive them out."},
+    {"n": 14, "html": "The children of Joseph spoke to Joshua, saying, &lsquo;Why have you given me just one lot and one part for an inheritance, since we are a numerous people, because Yahweh has blessed us so far?&rsquo;"},
+    {"n": 15, "html": "Joshua said to them, &lsquo;If you are a numerous people, go up to the forest, and clear land for yourself there in the land of the Perizzites and of the Rephaim, since the hill country of Ephraim is too narrow for you.&rsquo;"},
+    {"n": 16, "html": "The children of Joseph said, &lsquo;The hill country is not enough for us. All the Canaanites who dwell in the land of the valley have chariots of iron<sup class=\"footnote-marker\">4</sup>, both those who are in <span class=\"place\" data-key=\"beth-shean\">Beth Shean</span> and its towns, and those who are in the <span class=\"place\" data-key=\"valley-of-jezreel\">valley of Jezreel</span>.&rsquo;"},
+    {"n": 17, "html": "Joshua spoke to the house of Joseph, that is, to Ephraim and to Manasseh, saying, &lsquo;You are a numerous people, and have great power. You shall not have one lot only,&rsquo;"},
+    {"n": 18, "html": "but the hill country shall be yours. Although it is a forest, you shall cut it down, and its farthest extent shall be yours; for you shall drive out the Canaanites, though they have chariots of iron, and though they are strong."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>The daughters of Zelophehad</strong> (vv.&nbsp;3-6) — Mahlah, Noah, Hoglah, Milcah, and Tirzah, named here in their canonical order. Their petition is the application of the precedent set in Numbers 27 (and modified in Numbers 36): when a man dies leaving only daughters, his inheritance passes to them rather than reverting to his father&rsquo;s clan. The Manasseh allotment is therefore divided into ten parts (v.&nbsp;5) — six male clans plus the four shares for Hepher's grand-daughters. (Hoglah and Tirzah are also place names elsewhere; Tirzah is a hill-country town in Manasseh's territory, see 12:24.)"},
+    {"n": 2, "html": "<strong>Tappuah and En-Tappuah</strong> (vv.&nbsp;7-8) — the boundary description distinguishes between the &lsquo;land of Tappuah&rsquo; (the surrounding territory, assigned to Manasseh) and &lsquo;Tappuah on the border&rsquo; itself (the town, assigned to Ephraim). En-Tappuah, the spring, is named here as a separate boundary marker. The pin reuses Tappuah&rsquo;s coordinates (Sheikh Abu Zarad, c. 13 km SSW of Shechem)."},
+    {"n": 3, "html": "<strong>Three heights</strong> (Hebrew <em>shelosheth ha-nephet</em>, v.&nbsp;11) — the term is obscure; it has been read &lsquo;three regions&rsquo;, &lsquo;the third (district)&rsquo;, or simply omitted as corrupt by some translators. The list that follows names six cities (Beth-Shean, Ibleam, Dor, Endor, Taanach, Megiddo), so the &lsquo;three&rsquo; cannot refer to the cities themselves. These are Manasseh&rsquo;s enclaves in territory technically allotted to Issachar and Asher, and v.&nbsp;12 admits that none of them was actually taken. They lie outside the Manasseh polygon shown on the map."},
+    {"n": 4, "html": "<strong>Chariots of iron</strong> (vv.&nbsp;16, 18) — the Late Bronze and early Iron Age Canaanite cities of the Jezreel valley were heavily fortified and equipped with chariotry, as the Egyptian sources (Thutmose III at Megiddo, Amarna correspondence) confirm. The hill country offered easier ground for the incoming tribes; the valley resisted Israelite control until the monarchy. The same observation reappears in Judg 1:19, 27-29."}
+  ]
+}
