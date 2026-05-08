@@ -127,6 +127,14 @@
           1,
           7
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          12,
+          21
+        ]
       }
     ]
   },
@@ -350,6 +358,16 @@
         "chapter": 17,
         "verses": [
           5
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          7,
+          12,
+          19,
+          20
         ]
       }
     ]
@@ -704,6 +722,13 @@
           2,
           5
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          19
+        ]
       }
     ]
   },
@@ -788,6 +813,13 @@
           12,
           41
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          25
+        ]
       }
     ]
   },
@@ -810,6 +842,13 @@
         "chapter": 9,
         "verses": [
           17
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          26
         ]
       }
     ]
@@ -848,6 +887,13 @@
         "verses": [
           17
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          25
+        ]
       }
     ]
   },
@@ -879,6 +925,14 @@
         "verses": [
           9,
           60
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          14,
+          15
         ]
       }
     ]
@@ -920,6 +974,14 @@
         "verses": [
           8,
           63
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          16,
+          28
         ]
       }
     ]
@@ -1145,6 +1207,14 @@
         "verses": [
           3,
           5
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          13,
+          14
         ]
       }
     ]
@@ -3527,6 +3597,14 @@
         "verses": [
           6
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          19,
+          21
+        ]
       }
     ]
   },
@@ -3548,6 +3626,13 @@
           6,
           61
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          22
+        ]
       }
     ]
   },
@@ -3566,6 +3651,13 @@
         "chapter": 15,
         "verses": [
           6
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          17
         ]
       }
     ]
@@ -3590,6 +3682,13 @@
         "verses": [
           7
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          17
+        ]
       }
     ]
   },
@@ -3613,6 +3712,13 @@
         "verses": [
           7
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          17
+        ]
       }
     ]
   },
@@ -3634,6 +3740,13 @@
         "chapter": 15,
         "verses": [
           7
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          16
         ]
       }
     ]
@@ -3659,6 +3772,13 @@
         "verses": [
           8
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          16
+        ]
       }
     ]
   },
@@ -3680,6 +3800,13 @@
         "chapter": 15,
         "verses": [
           8
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          16
         ]
       }
     ]
@@ -3703,6 +3830,13 @@
         "chapter": 15,
         "verses": [
           9
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          15
         ]
       }
     ]
@@ -5898,6 +6032,13 @@
         "verses": [
           2
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          13
+        ]
       }
     ]
   },
@@ -5959,6 +6100,13 @@
           2,
           5,
           7
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          13
         ]
       }
     ]
@@ -6227,6 +6375,462 @@
         "chapter": 17,
         "verses": [
           16
+        ]
+      }
+    ]
+  },
+  "arabah": {
+    "name": "the Arabah",
+    "name_alt": [
+      "Jordan rift valley",
+      "Ghor"
+    ],
+    "coords": [
+      31.5,
+      35.4
+    ],
+    "tier": "region",
+    "id": "The rift-valley depression running from the Sea of Galilee through the Jordan valley and the Dead Sea to the Gulf of Aqaba. In the Joshua boundary descriptions the Arabah always denotes the Jordan-Dead Sea segment.",
+    "abd": "1:321",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          18
+        ]
+      }
+    ]
+  },
+  "wilderness-of-beth-aven": {
+    "name": "Wilderness of Beth Aven",
+    "name_alt": [],
+    "coords": [
+      31.92,
+      35.3
+    ],
+    "tier": "region",
+    "id": "The arid eastern slope of the central ridge between Bethel and the Jordan valley, named for Beth-Aven (which is the same place as, or just east of, Bethel). Pin marks the slope; the term denotes the open ground rather than any settled site.",
+    "abd": "1:682",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          12
+        ]
+      }
+    ]
+  },
+  "geliloth": {
+    "name": "Geliloth",
+    "name_alt": [],
+    "coords": [
+      31.823,
+      35.378
+    ],
+    "tier": "conjectural",
+    "id": "A boundary point opposite the ascent of Adummim. The Hebrew gĕlîlôt ('circles, regions') is the same plural that appears as gilgal-toponyms; some commentators identify Geliloth here with Gilgal of Joshua 5. Pin reuses Adummim's coordinates.",
+    "abd": "2:925",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          17
+        ]
+      }
+    ]
+  },
+  "emek-keziz": {
+    "name": "Emek Keziz",
+    "name_alt": [
+      "Valley of Keziz"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Unidentified Benjaminite town in the Benjamin town list (Josh 18:21-28).",
+    "abd": "",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          21
+        ]
+      }
+    ]
+  },
+  "zemaraim": {
+    "name": "Zemaraim",
+    "name_alt": [
+      "Khirbet es-Samra"
+    ],
+    "coords": [
+      31.957,
+      35.26
+    ],
+    "tier": "probable",
+    "id": "Often located at Khirbet es-Samra north of Bethel. Distinct from Mount Zemaraim (2 Chr 13:4), where Abijah of Judah preached against Jeroboam.",
+    "abd": "6:1074",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          22
+        ]
+      }
+    ]
+  },
+  "avvim-benjamin": {
+    "name": "Avvim",
+    "name_alt": [
+      "Benjaminite Avvim"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "A Benjaminite town, distinct from the southern coastal Avvim of Josh 13:3. Otherwise unknown.",
+    "abd": "1:531",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          23
+        ]
+      }
+    ]
+  },
+  "parah": {
+    "name": "Parah",
+    "name_alt": [
+      "Khirbet el-Farah",
+      "Wadi Farah"
+    ],
+    "coords": [
+      31.852,
+      35.314
+    ],
+    "tier": "probable",
+    "id": "Generally located at Khirbet el-Farah on the Wadi Farah, east of modern Anata. Possibly the same as Pharathon mentioned by Eusebius.",
+    "abd": "5:158",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          23
+        ]
+      }
+    ]
+  },
+  "ophrah-benjamin": {
+    "name": "Ophrah",
+    "name_alt": [
+      "et-Taiyibeh",
+      "Ephraim (Jn 11:54)"
+    ],
+    "coords": [
+      31.953,
+      35.298
+    ],
+    "tier": "probable",
+    "id": "Generally identified with et-Taiyibeh on the central ridge north-east of Bethel. Likely the same as the Ephraim of John 11:54 to which Jesus withdrew. Distinct from Gideon's Ophrah of Abiezer (Manasseh).",
+    "abd": "5:28",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          23
+        ]
+      }
+    ]
+  },
+  "chephar-ammoni": {
+    "name": "Chephar Ammoni",
+    "name_alt": [
+      "village of the Ammonites"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Unidentified Benjaminite town in the Benjamin town list (Josh 18:21-28).",
+    "abd": "",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          24
+        ]
+      }
+    ]
+  },
+  "ophni": {
+    "name": "Ophni",
+    "name_alt": [
+      "Jufnah",
+      "Gophna"
+    ],
+    "coords": [
+      31.937,
+      35.207
+    ],
+    "tier": "conjectural",
+    "id": "Often identified with the Hellenistic-Roman Gophna (modern Jufnah) on the central ridge north of Bethel; the equation depends on a metathesis Ophni → Gophna.",
+    "abd": "5:25",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          24
+        ]
+      }
+    ]
+  },
+  "geba": {
+    "name": "Geba",
+    "name_alt": [
+      "Jeba"
+    ],
+    "coords": [
+      31.86,
+      35.275
+    ],
+    "tier": "identified",
+    "id": "Modern Jeba on a hilltop east of Ramallah. Saul's frontier outpost facing Philistine Michmash across the Wadi Suweinit (1 Sam 13-14). The northern boundary of the southern kingdom in 2 Kgs 23:8.",
+    "abd": "2:921",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          24
+        ]
+      }
+    ]
+  },
+  "ramah-benjamin": {
+    "name": "Ramah",
+    "name_alt": [
+      "er-Ram",
+      "Ramah of Benjamin"
+    ],
+    "coords": [
+      31.866,
+      35.227
+    ],
+    "tier": "identified",
+    "id": "Modern er-Ram on the Jerusalem-Bethel road. Distinct from Ramah of Samuel (Ramathaim-zophim) and from other Ramahs. The fortress mentioned in 1 Kgs 15:17, the place of Jeremiah's lament (Jer 31:15).",
+    "abd": "5:613",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          25
+        ]
+      }
+    ]
+  },
+  "mizpeh-benjamin": {
+    "name": "Mizpeh",
+    "name_alt": [
+      "Mizpah of Benjamin",
+      "Tell en-Nasbeh"
+    ],
+    "coords": [
+      31.89,
+      35.213
+    ],
+    "tier": "identified",
+    "id": "Tell en-Nasbeh, c. 12 km north of Jerusalem. The assembly site of pre-monarchic Israel (Judg 20-21, 1 Sam 7); Gedaliah's seat after the fall of Jerusalem (2 Kgs 25:22-25, Jer 40-41). Excavated by Badé 1926-35.",
+    "abd": "4:879",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          26
+        ]
+      }
+    ]
+  },
+  "mozah": {
+    "name": "Mozah",
+    "name_alt": [
+      "Qaloniyeh",
+      "Khirbet Beit Mizza"
+    ],
+    "coords": [
+      31.797,
+      35.165
+    ],
+    "tier": "probable",
+    "id": "Generally identified with Khirbet Beit Mizza near Qaloniyeh west of Jerusalem, on the road descending toward the coast. Royal storage jars stamped lamoṣah were found at Tell en-Nasbeh, attesting an Iron Age royal estate.",
+    "abd": "4:925",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          26
+        ]
+      }
+    ]
+  },
+  "rekem": {
+    "name": "Rekem",
+    "name_alt": [],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Unidentified Benjaminite town in the Benjamin town list (Josh 18:21-28).",
+    "abd": "",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          27
+        ]
+      }
+    ]
+  },
+  "irpeel": {
+    "name": "Irpeel",
+    "name_alt": [],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Unidentified Benjaminite town in the Benjamin town list (Josh 18:21-28).",
+    "abd": "",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          27
+        ]
+      }
+    ]
+  },
+  "taralah": {
+    "name": "Taralah",
+    "name_alt": [],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Unidentified Benjaminite town in the Benjamin town list (Josh 18:21-28).",
+    "abd": "",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          27
+        ]
+      }
+    ]
+  },
+  "zelah": {
+    "name": "Zelah",
+    "name_alt": [],
+    "coords": null,
+    "tier": "conjectural",
+    "id": "Saul's family burial place (2 Sam 21:14). Some commentators have proposed Khirbet Salah east of Jerusalem; identification not secure.",
+    "abd": "6:1071",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          28
+        ]
+      }
+    ]
+  },
+  "eleph": {
+    "name": "Eleph",
+    "name_alt": [],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Unidentified Benjaminite town in the Benjamin town list (Josh 18:21-28).",
+    "abd": "",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          28
+        ]
+      }
+    ]
+  },
+  "gibeath": {
+    "name": "Gibeath",
+    "name_alt": [
+      "Gibeah of Saul",
+      "Gibeah of Benjamin",
+      "Tell el-Ful"
+    ],
+    "coords": [
+      31.825,
+      35.231
+    ],
+    "tier": "identified",
+    "id": "Tell el-Ful c. 5 km north of Jerusalem on the central ridge road. Saul's home and royal seat (1 Sam 10:26, 11:4, 15:34); the fortress excavated by Albright (1922-23, 1933) and Sinclair (1964) revealed an Iron I citadel matching the period of Saul's reign.",
+    "abd": "2:1007",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          28
+        ]
+      }
+    ]
+  },
+  "kiriath-benjamin": {
+    "name": "Kiriath",
+    "name_alt": [
+      "possibly = Kiriath-Jearim"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "The final town in v. 28's list. Possibly a truncated form of Kiriath-Jearim, but Kiriath-Jearim is named earlier as Judah's (15:60); some have read this Kiriath as a separate Benjaminite settlement, others as a duplication.",
+    "abd": "4:84",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          28
+        ]
+      }
+    ]
+  },
+  "shiloh": {
+    "name": "Shiloh",
+    "name_alt": [
+      "Khirbet Seilun",
+      "Tel Shiloh"
+    ],
+    "coords": [
+      32.0556,
+      35.2894
+    ],
+    "tier": "identified",
+    "id": "Khirbet Seilun (Tel Shiloh) on the central ridge between Bethel and Shechem. The pre-monarchic central sanctuary of Israel; site of the Tent of Meeting (Josh 18:1) and the Ark before its capture (1 Sam 4). Excavated by Buhl & Holm-Nielsen (1929) and Finkelstein (1981-84).",
+    "abd": "5:1213",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 18,
+        "verses": [
+          1,
+          8,
+          9,
+          10
         ]
       }
     ]

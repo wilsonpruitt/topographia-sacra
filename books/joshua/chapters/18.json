@@ -1,0 +1,58 @@
+{
+  "title": "The Remaining Tribes",
+  "places": [
+    "shiloh", "jordan", "jericho", "wilderness-of-beth-aven", "luz", "bethel",
+    "ataroth-addar", "beth-horon", "kiriath-jearim", "nephtoah",
+    "valley-of-hinnom", "valley-of-rephaim", "jerusalem", "en-rogel",
+    "en-shemesh", "geliloth", "ascent-of-adummim", "stone-of-bohan",
+    "arabah", "beth-hoglah", "dead-sea",
+    "emek-keziz", "beth-arabah", "zemaraim", "avvim-benjamin", "parah",
+    "ophrah-benjamin", "chephar-ammoni", "ophni", "geba", "gibeon",
+    "ramah-benjamin", "beeroth", "mizpeh-benjamin", "chephirah", "mozah",
+    "rekem", "irpeel", "taralah", "zelah", "eleph", "gibeath",
+    "kiriath-benjamin"
+  ],
+  "tribes": ["benjamin"],
+  "view": {
+    "center": [31.86, 35.25],
+    "zoom": 10
+  },
+  "placeIndex": true,
+  "verses": [
+    {"n": 1, "html": "The whole congregation of the children of Israel assembled themselves together at <span class=\"place\" data-key=\"shiloh\">Shiloh</span><sup class=\"footnote-marker\">1</sup>, and set up the Tent of Meeting there. The land was subdued before them."},
+    {"n": 2, "html": "Seven tribes remained among the children of Israel, which had not yet divided their inheritance."},
+    {"n": 3, "html": "Joshua said to the children of Israel, &lsquo;How long will you neglect to go in to possess the land, which Yahweh, the God of your fathers, has given you?"},
+    {"n": 4, "html": "Appoint for yourselves three men from each tribe. I will send them, and they shall arise, walk through the land, and describe it according to their inheritance; then they shall come to me."},
+    {"n": 5, "html": "They shall divide it into seven portions. Judah shall live in his borders on the south, and the house of Joseph shall live in their borders on the north."},
+    {"n": 6, "html": "You shall survey the land into seven parts, and bring the description here to me; and I will cast lots for you here before Yahweh our God."},
+    {"n": 7, "html": "However, the Levites have no portion among you; for the priesthood of Yahweh is their inheritance. Gad, Reuben, and the half-tribe of Manasseh have received their inheritance east of the <span class=\"place\" data-key=\"jordan\">Jordan</span>, which Moses the servant of Yahweh gave them.&rsquo;"},
+    {"n": 8, "html": "The men arose and went. Joshua commanded those who went to survey the land, saying, &lsquo;Go walk through the land, survey it, and come again to me. I will cast lots for you here before Yahweh in <span class=\"place\" data-key=\"shiloh\">Shiloh</span>.&rsquo;"},
+    {"n": 9, "html": "The men went and passed through the land, and surveyed it by cities into seven portions in a book. They came to Joshua to the camp at <span class=\"place\" data-key=\"shiloh\">Shiloh</span>."},
+    {"n": 10, "html": "Joshua cast lots for them in <span class=\"place\" data-key=\"shiloh\">Shiloh</span> before Yahweh. There Joshua divided the land to the children of Israel according to their divisions."},
+    {"n": 11, "html": "The lot of the tribe of the children of Benjamin came up according to their families. The border of their lot went out between the children of Judah and the children of Joseph."},
+    {"n": 12, "html": "Their border on the north quarter was from the <span class=\"place\" data-key=\"jordan\">Jordan</span>. The border went up to the side of <span class=\"place\" data-key=\"jericho\">Jericho</span> on the north, and went up through the hill country westward. It ended at the <span class=\"place\" data-key=\"wilderness-of-beth-aven\">wilderness of Beth Aven</span>."},
+    {"n": 13, "html": "The border passed along from there to <span class=\"place\" data-key=\"luz\">Luz</span>, to the side of Luz (also called <span class=\"place\" data-key=\"bethel\">Bethel</span>), southward. The border went down to <span class=\"place\" data-key=\"ataroth-addar\">Ataroth Addar</span>, by the mountain that lies on the south of <span class=\"place\" data-key=\"beth-horon\">Beth Horon</span> the lower."},
+    {"n": 14, "html": "The border extended, and turned around on the west quarter southward, from the mountain that lies before <span class=\"place\" data-key=\"beth-horon\">Beth Horon</span> southward; and ended at Kiriath Baal (also called <span class=\"place\" data-key=\"kiriath-jearim\">Kiriath Jearim</span>), a city of the children of Judah."},
+    {"n": 15, "html": "The south quarter was from the farthest part of <span class=\"place\" data-key=\"kiriath-jearim\">Kiriath Jearim</span>. The border went out westward, and went out to the spring of the waters of <span class=\"place\" data-key=\"nephtoah\">Nephtoah</span>."},
+    {"n": 16, "html": "The border went down to the farthest part of the mountain that lies before the <span class=\"place\" data-key=\"valley-of-hinnom\">valley of the son of Hinnom</span>, which is in the <span class=\"place\" data-key=\"valley-of-rephaim\">valley of Rephaim</span> northward. It went down to the <span class=\"place\" data-key=\"valley-of-hinnom\">valley of Hinnom</span>, to the side of the Jebusite southward, and went down to <span class=\"place\" data-key=\"en-rogel\">En Rogel</span>."},
+    {"n": 17, "html": "It extended northward, went out at <span class=\"place\" data-key=\"en-shemesh\">En Shemesh</span>, and went out to <span class=\"place\" data-key=\"geliloth\">Geliloth</span><sup class=\"footnote-marker\">2</sup>, which is opposite the <span class=\"place\" data-key=\"ascent-of-adummim\">ascent of Adummim</span>. It went down to the <span class=\"place\" data-key=\"stone-of-bohan\">stone of Bohan</span> the son of Reuben."},
+    {"n": 18, "html": "It passed along to the side opposite the <span class=\"place\" data-key=\"arabah\">Arabah</span> northward, and went down to the <span class=\"place\" data-key=\"arabah\">Arabah</span>."},
+    {"n": 19, "html": "The border passed along to the side of <span class=\"place\" data-key=\"beth-hoglah\">Beth Hoglah</span> northward; and the border ended at the north bay of the <span class=\"place\" data-key=\"dead-sea\">Salt Sea</span>, at the south end of the <span class=\"place\" data-key=\"jordan\">Jordan</span>."},
+    {"n": 20, "html": "The <span class=\"place\" data-key=\"jordan\">Jordan</span> was its border on the east quarter. This was the inheritance of the children of Benjamin, by the borders around it, according to their families."},
+    {"n": 21, "html": "Now the cities of the tribe of the children of Benjamin according to their families were <span class=\"place\" data-key=\"jericho\">Jericho</span>, <span class=\"place\" data-key=\"beth-hoglah\">Beth Hoglah</span>, <span class=\"place\" data-key=\"emek-keziz\">Emek Keziz</span>,"},
+    {"n": 22, "html": "<span class=\"place\" data-key=\"beth-arabah\">Beth Arabah</span>, <span class=\"place\" data-key=\"zemaraim\">Zemaraim</span>, <span class=\"place\" data-key=\"bethel\">Bethel</span>,"},
+    {"n": 23, "html": "<span class=\"place\" data-key=\"avvim-benjamin\">Avvim</span><sup class=\"footnote-marker\">3</sup>, <span class=\"place\" data-key=\"parah\">Parah</span>, <span class=\"place\" data-key=\"ophrah-benjamin\">Ophrah</span>,"},
+    {"n": 24, "html": "<span class=\"place\" data-key=\"chephar-ammoni\">Chephar Ammoni</span>, <span class=\"place\" data-key=\"ophni\">Ophni</span>, and <span class=\"place\" data-key=\"geba\">Geba</span>; twelve cities with their villages."},
+    {"n": 25, "html": "<span class=\"place\" data-key=\"gibeon\">Gibeon</span>, <span class=\"place\" data-key=\"ramah-benjamin\">Ramah</span>, <span class=\"place\" data-key=\"beeroth\">Beeroth</span>,"},
+    {"n": 26, "html": "<span class=\"place\" data-key=\"mizpeh-benjamin\">Mizpeh</span>, <span class=\"place\" data-key=\"chephirah\">Chephirah</span>, <span class=\"place\" data-key=\"mozah\">Mozah</span>,"},
+    {"n": 27, "html": "<span class=\"place\" data-key=\"rekem\">Rekem</span>, <span class=\"place\" data-key=\"irpeel\">Irpeel</span>, <span class=\"place\" data-key=\"taralah\">Taralah</span>,"},
+    {"n": 28, "html": "<span class=\"place\" data-key=\"zelah\">Zelah</span>, <span class=\"place\" data-key=\"eleph\">Eleph</span>, the Jebusite (also called <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>), <span class=\"place\" data-key=\"gibeath\">Gibeath</span><sup class=\"footnote-marker\">4</sup>, and <span class=\"place\" data-key=\"kiriath-benjamin\">Kiriath</span><sup class=\"footnote-marker\">5</sup>; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Shiloh</strong> (vv.&nbsp;1, 8, 9, 10) — Khirbet Seilun on the central ridge, the pre-monarchic central sanctuary. The chapter marks the moment the Tent of Meeting moves from Gilgal in the Jordan valley to Shiloh in the hill country, where it remained until the Ark&rsquo;s capture by the Philistines (1 Sam 4). The shift is one of the chapter&rsquo;s quiet but decisive geographic statements."},
+    {"n": 2, "html": "<strong>Geliloth</strong> (v.&nbsp;17) — the Hebrew <em>gĕlîlôt</em> ('circles, regions') is the same plural that produces 'Gilgal' as a toponym. Some commentators identify Geliloth here with Gilgal in the Jordan valley near Jericho, treating the two boundary descriptions of Judah (15:7) and Benjamin (18:17) as variant names for the same waypoint. The pin reuses Adummim&rsquo;s coordinates, where the text places it."},
+    {"n": 3, "html": "<strong>Avvim</strong> (v.&nbsp;23) is a Benjaminite town, distinct from the Avvim of Josh 13:3, who were the pre-Philistine inhabitants of the southern coastal plain. The two share a slug-prefix in the gazetteer (`avvim` and `avvim-benjamin`)."},
+    {"n": 4, "html": "<strong>Gibeath</strong> (v.&nbsp;28) is Saul&rsquo;s home town, generally written 'Gibeah' or 'Gibeah of Saul' in the historical books, located at Tell el-Ful c. 5 km north of Jerusalem. The form Gibeath here is a Hebrew construct ('Gibeath of …'); some manuscripts and translations join it to the next word as 'Gibeath-Kiriath', though the boundary list in Josh 21:17 (and other lists) keeps them separate."},
+    {"n": 5, "html": "<strong>Kiriath</strong> (v.&nbsp;28) — the chapter ends with a town simply named 'Kiriath' ('city'). Some have read it as a textual scrap of Kiriath-Jearim, but Kiriath-Jearim has just been named in v. 14 as a city of Judah; others have treated it as a separate Benjaminite settlement (perhaps Kiriath of Naphtali in Josh 19:32-39, but that reading is forced). The location is unknown."}
+  ]
+}

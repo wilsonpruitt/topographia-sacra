@@ -150,6 +150,37 @@
     {
       "type": "Feature",
       "properties": {
+        "tribe": "benjamin",
+        "name": "Benjamin",
+        "approximate": true,
+        "source_chapter": "Joshua 18:11-20",
+        "note": "A narrow east-west strip in the central hill country, north of Judah and south of Ephraim. North line: Jordan at Jericho westward through the wilderness of Beth-Aven to Bethel/Luz, Ataroth-Addar, Lower Beth-Horon. West line: south to Kiriath-Jearim. South line: Kiriath-Jearim eastward via Nephtoah, the Valley of Hinnom (south of Jerusalem), En-Rogel, En-Shemesh, Geliloth (Adummim ridge), the Stone of Bohan, Beth Hoglah, to the north bay of the Dead Sea. East line: Jordan."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [35.444, 31.871],
+          [35.300, 31.940],
+          [35.237, 31.930],
+          [35.165, 31.927],
+          [35.113, 31.890],
+          [35.143, 31.808],
+          [35.193, 31.788],
+          [35.226, 31.770],
+          [35.236, 31.768],
+          [35.272, 31.768],
+          [35.378, 31.823],
+          [35.450, 31.850],
+          [35.480, 31.832],
+          [35.500, 31.770],
+          [35.500, 31.871],
+          [35.444, 31.871]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "tribe": "manasseh-east",
         "name": "Half-Manasseh (East)",
         "approximate": true,

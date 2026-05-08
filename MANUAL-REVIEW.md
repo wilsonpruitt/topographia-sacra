@@ -171,6 +171,25 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 
 - [ ] **Manasseh-West polygon** — added with ch.17 from Josh 17:7-10. Northern boundary (Asher line) is impressionistic; eastern boundary (Issachar line) is approximate. The 'three heights' enclaves (Beth-Shean, Ibleam, Dor, Endor, Taanach, Megiddo) lie outside the polygon, in adjacent tribes per the text. `approximate: true`.
 
+## Benjamin polygon (text-traced)
+
+- [ ] **Benjamin polygon** — added with ch.18 from Josh 18:11-20. Narrow east-west strip in central hill country. `approximate: true`.
+
+## Joshua 18 — gazetteer entries (22 added incl. Shiloh)
+
+- [ ] **Shiloh** at Khirbet Seilun — secure.
+- [ ] **Arabah** as a region pin (mid Jordan rift) — confirm placement; chapter usage limits it to the Jordan-Dead Sea segment.
+- [ ] **Wilderness of Beth-Aven** — region pin on eastern slope between Bethel and Jordan; verify against atlas usage.
+- [ ] **Geliloth** at Adummim coordinates — confirm whether Geliloth and Gilgal-of-Joshua-5 should be conflated (would change the pin).
+- [ ] **Zemaraim** at Khirbet es-Samra — confirm.
+- [ ] **Parah** at Khirbet el-Farah — confirm.
+- [ ] **Ophrah-Benjamin** at et-Taiyibeh (and the John 11:54 'Ephraim' equation) — confirm.
+- [ ] **Ophni** at Jufnah — confirm whether the Ophni→Gophna metathesis is still accepted.
+- [ ] **Geba**, **Ramah-Benjamin**, **Mizpeh-Benjamin**, **Mozah**, **Gibeath** — all identified; verify ABD page guesses.
+- [ ] **Skeleton entries** Emek-Keziz, Avvim-Benjamin, Chephar-Ammoni, Rekem, Irpeel, Taralah, Eleph, Kiriath-Benjamin — flag if any have been securely identified since the standard reference works.
+- [ ] **Zelah** at Khirbet Salah — conjectural; verify.
+- [ ] **Kiriath / Gibeath joining** in v.&nbsp;28 — confirm whether to render as 'Gibeath-Kiriath' (a single compound name as some MSS preserve) or as two distinct towns. Gazetteer currently has them as two.
+
 ## Joshua 17 — gazetteer entries (6 added)
 
 - [ ] **Shechem** at Tell Balata — secure identification.
@@ -217,6 +236,7 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Joshua 15
 - [ ] Joshua 16
 - [ ] Joshua 17
+- [ ] Joshua 18
 
 ## Site-level
 
