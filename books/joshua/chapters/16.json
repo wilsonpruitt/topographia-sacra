@@ -1,0 +1,32 @@
+{
+  "title": "The Inheritance of Joseph",
+  "places": [
+    "jordan", "jericho", "bethel", "luz", "archites", "ataroth-addar",
+    "japhletites", "beth-horon", "gezer", "great-sea",
+    "michmethath", "taanath-shiloh", "janoah-ephraim", "naarah",
+    "tappuah", "brook-of-kanah"
+  ],
+  "tribes": ["ephraim"],
+  "view": {
+    "center": [31.95, 35.20],
+    "zoom": 9
+  },
+  "verses": [
+    {"n": 1, "html": "The lot came out for the children of Joseph from the <span class=\"place\" data-key=\"jordan\">Jordan</span> at <span class=\"place\" data-key=\"jericho\">Jericho</span>, at the waters of <span class=\"place\" data-key=\"jericho\">Jericho</span> on the east, even the wilderness, going up from <span class=\"place\" data-key=\"jericho\">Jericho</span> through the hill country to <span class=\"place\" data-key=\"bethel\">Bethel</span>."},
+    {"n": 2, "html": "It went out from <span class=\"place\" data-key=\"bethel\">Bethel</span> to <span class=\"place\" data-key=\"luz\">Luz</span><sup class=\"footnote-marker\">1</sup>, and passed along to the border of the <span class=\"place\" data-key=\"archites\">Archites</span> to <span class=\"place\" data-key=\"ataroth-addar\">Ataroth</span><sup class=\"footnote-marker\">2</sup>;"},
+    {"n": 3, "html": "and it went down westward to the border of the <span class=\"place\" data-key=\"japhletites\">Japhletites</span>, to the border of <span class=\"place\" data-key=\"beth-horon\">Beth Horon</span> the lower, and on to <span class=\"place\" data-key=\"gezer\">Gezer</span>; and ended at the <span class=\"place\" data-key=\"great-sea\">sea</span>."},
+    {"n": 4, "html": "The children of Joseph, Manasseh and Ephraim, took their inheritance."},
+    {"n": 5, "html": "This was the border of the children of Ephraim according to their families. The border of their inheritance eastward was <span class=\"place\" data-key=\"ataroth-addar\">Ataroth Addar</span>, to <span class=\"place\" data-key=\"beth-horon\">Beth Horon</span> the upper."},
+    {"n": 6, "html": "The border went out westward at <span class=\"place\" data-key=\"michmethath\">Michmethath</span> on the north. The border turned about eastward to <span class=\"place\" data-key=\"taanath-shiloh\">Taanath Shiloh</span>, and passed along it on the east of <span class=\"place\" data-key=\"janoah-ephraim\">Janoah</span>."},
+    {"n": 7, "html": "It went down from <span class=\"place\" data-key=\"janoah-ephraim\">Janoah</span> to <span class=\"place\" data-key=\"ataroth-addar\">Ataroth</span>, to <span class=\"place\" data-key=\"naarah\">Naarah</span>, reached to <span class=\"place\" data-key=\"jericho\">Jericho</span>, and went out at the <span class=\"place\" data-key=\"jordan\">Jordan</span>."},
+    {"n": 8, "html": "From <span class=\"place\" data-key=\"tappuah\">Tappuah</span> the border went along westward to the <span class=\"place\" data-key=\"brook-of-kanah\">brook of Kanah</span><sup class=\"footnote-marker\">3</sup>; and ended at the <span class=\"place\" data-key=\"great-sea\">sea</span>. This is the inheritance of the tribe of the children of Ephraim according to their families;"},
+    {"n": 9, "html": "together with the cities which were set apart for the children of Ephraim in the middle of the inheritance of the children of Manasseh, all the cities with their villages."},
+    {"n": 10, "html": "They didn&rsquo;t drive out the Canaanites who lived in <span class=\"place\" data-key=\"gezer\">Gezer</span>; but the Canaanites dwell in the territory of Ephraim to this day, and have become servants to do forced labor.<sup class=\"footnote-marker\">4</sup>"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Bethel</strong> and <strong>Luz</strong> (v.&nbsp;2) are commonly taken as the same place, with Luz the older Canaanite name (Gen 28:19, 35:6) and Bethel the name Jacob gave it. The boundary description here, however, treats them as distinct points (&lsquo;from Bethel to Luz&rsquo;), which may preserve a memory of a twin-site arrangement &mdash; the sanctuary on one ridge and the older town on another."},
+    {"n": 2, "html": "<strong>Ataroth</strong> (vv.&nbsp;2, 7) is generally taken as the same place as <strong>Ataroth-Addar</strong> in v.&nbsp;5, located at Khirbet ʿAtara south of Bethel. A minority view holds that the simple form in v.&nbsp;7 names a separate Ataroth in the Jordan valley near Naarah; the pin reuses Ataroth-Addar."},
+    {"n": 3, "html": "<strong>The brook of Kanah</strong> (v.&nbsp;8) is Wadi Qana, draining the central hill country westward through the Sharon Plain to the Mediterranean. It is the natural feature dividing Ephraim&rsquo;s allotment from Manasseh&rsquo;s, and reappears as a boundary in 17:9."},
+    {"n": 4, "html": "<strong>Gezer not driven out</strong> (v.&nbsp;10) — a parallel to Judah&rsquo;s failure at Jerusalem (15:63). Tel Gezer was finally taken by Pharaoh and given to Solomon as a dowry (1 Kgs 9:16); the same pattern of unfinished conquest recurs through the second half of Joshua and the opening of Judges."}
+  ]
+}

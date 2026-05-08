@@ -93,6 +93,36 @@
     {
       "type": "Feature",
       "properties": {
+        "tribe": "ephraim",
+        "name": "Ephraim",
+        "approximate": true,
+        "source_chapter": "Joshua 16:5-8",
+        "note": "Text-traced from the Ephraim border description: south line via Bethel, Ataroth-Addar, Lower Beth-Horon, Gezer, to the Mediterranean; north line via the Brook of Kanah (Wadi Qana), Tappuah, Michmethath, Taanath-Shiloh, Janoah, Naarah, to the Jordan; east line along the Jordan; west line along the Mediterranean. approximate=true because Michmethath is interpolated and the Brook-of-Kanah western reach is generalized."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [35.500, 31.950],
+          [35.470, 32.020],
+          [35.379, 32.182],
+          [35.345, 32.143],
+          [35.250, 32.200],
+          [35.196, 32.155],
+          [34.850, 32.200],
+          [34.780, 32.050],
+          [34.780, 31.860],
+          [34.919, 31.860],
+          [35.113, 31.890],
+          [35.165, 31.927],
+          [35.237, 31.930],
+          [35.444, 31.871],
+          [35.500, 31.950]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "tribe": "manasseh-east",
         "name": "Half-Manasseh (East)",
         "approximate": true,

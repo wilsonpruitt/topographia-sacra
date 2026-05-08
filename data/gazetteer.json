@@ -119,6 +119,14 @@
         "verses": [
           32
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          1,
+          7
+        ]
       }
     ]
   },
@@ -327,6 +335,14 @@
         "chapter": 15,
         "verses": [
           5
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          1,
+          7
         ]
       }
     ]
@@ -1115,6 +1131,14 @@
           10,
           11
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          3,
+          5
+        ]
       }
     ]
   },
@@ -1301,6 +1325,14 @@
         "chapter": 12,
         "verses": [
           12
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          3,
+          10
         ]
       }
     ]
@@ -2351,6 +2383,13 @@
         "chapter": 12,
         "verses": [
           17
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          8
         ]
       }
     ]
@@ -3799,6 +3838,14 @@
           11,
           12,
           47
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          3,
+          8
         ]
       }
     ]
@@ -5768,6 +5815,202 @@
         "chapter": 15,
         "verses": [
           62
+        ]
+      }
+    ]
+  },
+  "luz": {
+    "name": "Luz",
+    "name_alt": [
+      "older name of Bethel"
+    ],
+    "coords": [
+      31.93,
+      35.237
+    ],
+    "tier": "probable",
+    "id": "Older name of Bethel (Gen 28:19, 35:6). Most readers take Luz and Bethel as the same place; the boundary description here ('from Bethel to Luz') has been read as moving from the sanctuary to the settlement just beside it, or as preserving an older twin-site memory.",
+    "abd": "4:420",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          2
+        ]
+      }
+    ]
+  },
+  "archites": {
+    "name": "Archites",
+    "name_alt": [],
+    "coords": [
+      31.918,
+      35.22
+    ],
+    "tier": "region",
+    "id": "A clan-zone on the Joseph border south of Bethel; Hushai the Archite was David's counsellor (2 Sam 15:32). No specific town; the pin marks the area between Bethel and Ataroth-Addar.",
+    "abd": "1:367",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          2
+        ]
+      }
+    ]
+  },
+  "japhletites": {
+    "name": "Japhletites",
+    "name_alt": [],
+    "coords": null,
+    "tier": "unknown",
+    "id": "A clan-zone on the southern boundary of Joseph between the Archites and Lower Beth-Horon. No specific town; otherwise unknown.",
+    "abd": "3:646",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          3
+        ]
+      }
+    ]
+  },
+  "ataroth-addar": {
+    "name": "Ataroth Addar",
+    "name_alt": [
+      "Ataroth (16:2, 7)",
+      "Khirbet ʿAtara"
+    ],
+    "coords": [
+      31.927,
+      35.165
+    ],
+    "tier": "probable",
+    "id": "Often located at Khirbet ʿAtara south of Bethel. The simple form 'Ataroth' in vv. 2 and 7 is generally taken as the same site, though some have suspected a separate Jordan-valley Ataroth at v. 7.",
+    "abd": "1:516",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          2,
+          5,
+          7
+        ]
+      }
+    ]
+  },
+  "michmethath": {
+    "name": "Michmethath",
+    "name_alt": [],
+    "coords": [
+      32.2,
+      35.25
+    ],
+    "tier": "conjectural",
+    "id": "A boundary feature 'before Shechem' (17:7), likely a ridge or pass on the line dividing Ephraim from Manasseh. Khirbet Makhneh el-Foqa east of Shechem has been proposed; not securely located.",
+    "abd": "4:809",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          6
+        ]
+      }
+    ]
+  },
+  "taanath-shiloh": {
+    "name": "Taanath Shiloh",
+    "name_alt": [
+      "Khirbet Tana el-Foqa"
+    ],
+    "coords": [
+      32.182,
+      35.379
+    ],
+    "tier": "probable",
+    "id": "Khirbet Tana el-Foqa (or el-Tahta) east-southeast of Shechem, on the descent toward the Jordan valley. Eusebius mentions a Thena ten Roman miles east of Neapolis, supporting the identification.",
+    "abd": "6:285",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          6
+        ]
+      }
+    ]
+  },
+  "janoah-ephraim": {
+    "name": "Janoah",
+    "name_alt": [
+      "Khirbet Yanun",
+      "Yanoun"
+    ],
+    "coords": [
+      32.143,
+      35.345
+    ],
+    "tier": "probable",
+    "id": "Khirbet Yanun (modern Yanoun) southeast of Nablus. Distinct from the Galilean Janoah of 2 Kgs 15:29.",
+    "abd": "3:638",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          6,
+          7
+        ]
+      }
+    ]
+  },
+  "naarah": {
+    "name": "Naarah",
+    "name_alt": [
+      "Naaran",
+      "Khirbet el-ʿAuja et-Tahta"
+    ],
+    "coords": [
+      31.945,
+      35.47
+    ],
+    "tier": "probable",
+    "id": "Generally located at Khirbet el-ʿAuja et-Tahta or Tell el-Jisr in the Jordan valley north of Jericho. The same place is called Naaran in 1 Chr 7:28; a sixth-century synagogue mosaic was discovered nearby in 1918.",
+    "abd": "4:967",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          7
+        ]
+      }
+    ]
+  },
+  "brook-of-kanah": {
+    "name": "Brook of Kanah",
+    "name_alt": [
+      "Wadi Qana",
+      "Nahal Qana"
+    ],
+    "coords": [
+      32.18,
+      35.0
+    ],
+    "tier": "identified",
+    "id": "Wadi Qana, draining westward from the central hill country to the Yarkon and the Mediterranean. The natural border between Ephraim (south) and Manasseh (north) through the Sharon Plain. Pin sits in the central wadi.",
+    "abd": "4:5",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 16,
+        "verses": [
+          8
         ]
       }
     ]

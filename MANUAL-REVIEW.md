@@ -163,6 +163,21 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 
 - [ ] **Judah polygon** (`tribal-territories.geojson`) — replaced placeholder rectangle with text-traced version (24 vertices) following the Joshua 15:1-12 boundary description. Still `approximate: true` because the unidentified waypoints (Stone of Bohan, Mount Ephron, Mount Seir-Judah, Shikkeron, Mount Baalah) are interpolated rather than placed. Refine when those are securely located.
 
+## Ephraim polygon (text-traced)
+
+- [ ] **Ephraim polygon** — added with ch.16 from Josh 16:5-8. Michmethath is interpolated; the western reach of the Brook of Kanah to the Mediterranean is generalized; the v.7 Ataroth (treated as = Ataroth-Addar) may be a separate Jordan-valley site. `approximate: true`.
+
+## Joshua 16 — gazetteer entries (9 added)
+
+- [ ] **Luz / Bethel** — added Luz as a separate slug at the same coordinates as Bethel, with footnote noting the disputed identification (twin-site vs older-name). Confirm the editorial choice.
+- [ ] **Archites / Japhletites** — clan-zones; Archites pinned south of Bethel, Japhletites unpinned (`tier: unknown`).
+- [ ] **Ataroth-Addar** at Khirbet ʿAtara — confirm primary identification.
+- [ ] **Michmethath** at Khirbet Makhneh el-Foqa — conjectural; verify whether a more defensible candidate exists.
+- [ ] **Taanath-Shiloh** at Khirbet Tana el-Foqa — confirm.
+- [ ] **Janoah-Ephraim** at Khirbet Yanun — confirm.
+- [ ] **Naarah** at Khirbet el-ʿAuja et-Tahta or Tell el-Jisr — confirm primary.
+- [ ] **Brook of Kanah** = Wadi Qana — confirmed; pin sits in central wadi (consider dropping or pluralizing pins along the wadi for clarity).
+
 ## Footnote coverage decisions
 
 - [ ] **Joshua 3 v.16 — the crossing point.** The chapter's Adam footnote covers the geographic mechanism, but the *crossing point itself* (opposite Jericho, traditional el-Maghtas) is unfootnoted. Decide whether a separate Jordan footnote belongs on v.16 or v.17 explaining where the crossing happened.
@@ -187,6 +202,7 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Joshua 13
 - [ ] Joshua 14
 - [ ] Joshua 15
+- [ ] Joshua 16
 
 ## Site-level
 
