@@ -1,0 +1,13 @@
+{
+  "slug": "jonah",
+  "title": "The Book of Jonah",
+  "subtitle": "A geographical edition",
+  "chapters": 4,
+  "chapter_titles": [
+    "Flight to Tarshish",
+    "From the Belly of the Fish",
+    "Nineveh's Repentance",
+    "Anger and the Vine"
+  ],
+  "built": [1, 2, 3, 4]
+}

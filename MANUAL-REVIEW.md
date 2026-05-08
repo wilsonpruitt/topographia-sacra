@@ -185,6 +185,12 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 - [ ] **Dan** — coastal plain; Leshem/Tel Dan northern enclave deliberately excluded (named only after the conquest in v. 47).
 All six marked `approximate: true`.
 
+## Jonah — gazetteer entries (2 added)
+
+- [ ] **Nineveh** at Tell Kuyunjik / Tell Nebi Yunus opposite Mosul — secure identification.
+- [ ] **Tarshish** pinned at Tartessos (lower Guadalquivir, southern Spain). The identification is the leading scholarly default but not certain; alternatives are Tarsus in Cilicia, Sardinia, and Carthage. Confirm whether to keep Tartessos as primary or downgrade tier and footnote more strongly.
+- [ ] **Jonah ch.4 v.2 text** — WebFetch returned a truncated form ('wasn't this what I said when I was still in my own country?'); the rendered chapter extends to the canonical 'Therefore I hurried to flee to Tarshish, for I knew that you are a gracious God ...' formulation echoing Exodus 34:6. Diff against ebible.org/web/JON04.htm before treating as final.
+
 ## Joshua 20-24 — gazetteer entries (19 added)
 
 - [ ] **Bezer** (Reuben city of refuge) at Umm el-ʿAmad — confirm primary; Tell Jalul is alternative.
@@ -288,6 +294,10 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Joshua 22
 - [ ] Joshua 23
 - [ ] Joshua 24
+- [ ] Jonah 1
+- [ ] Jonah 2
+- [ ] Jonah 3 (especially the WebFetch-truncated v.2 — verify full WEB text manually)
+- [ ] Jonah 4 (v.2 was extended from canonical WEB; verify)
 
 ## Site-level
 

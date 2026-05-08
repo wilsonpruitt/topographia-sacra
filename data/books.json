@@ -5,9 +5,16 @@
       "title": "The Book of Joshua",
       "subtitle": "A geographical edition",
       "chapters": 24,
-      "status": "in-progress",
+      "status": "complete",
+      "first_built": 2026
+    },
+    "jonah": {
+      "title": "The Book of Jonah",
+      "subtitle": "A geographical edition",
+      "chapters": 4,
+      "status": "complete",
       "first_built": 2026
     }
   },
-  "order": ["joshua"]
+  "order": ["joshua", "jonah"]
 }

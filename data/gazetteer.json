@@ -9174,6 +9174,13 @@
         "verses": [
           46
         ]
+      },
+      {
+        "book": "jonah",
+        "chapter": 1,
+        "verses": [
+          3
+        ]
       }
     ]
   },
@@ -9691,6 +9698,72 @@
         "chapter": 24,
         "verses": [
           30
+        ]
+      }
+    ]
+  },
+  "nineveh": {
+    "name": "Nineveh",
+    "name_alt": [
+      "Tell Kuyunjik",
+      "Tell Nebi Yunus",
+      "Ninua"
+    ],
+    "coords": [
+      36.359,
+      43.158
+    ],
+    "tier": "identified",
+    "id": "On the eastern bank of the Tigris opposite modern Mosul, Iraq. The two principal mounds are Tell Kuyunjik (the citadel and palaces of Sennacherib and Ashurbanipal) and Tell Nebi Yunus (traditionally Jonah's tomb, lower city). Excavated in the 1840s by Botta and Layard, who recovered the royal libraries and palace reliefs. The 'great city' of the book; capital of the Assyrian empire from Sennacherib's reign (c. 700 B.C.).",
+    "abd": "4:1118",
+    "appearances": [
+      {
+        "book": "jonah",
+        "chapter": 1,
+        "verses": [
+          2
+        ]
+      },
+      {
+        "book": "jonah",
+        "chapter": 3,
+        "verses": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "book": "jonah",
+        "chapter": 4,
+        "verses": [
+          11
+        ]
+      }
+    ]
+  },
+  "tarshish": {
+    "name": "Tarshish",
+    "name_alt": [
+      "Tartessos",
+      "Tartessus"
+    ],
+    "coords": [
+      36.53,
+      -6.3
+    ],
+    "tier": "conjectural",
+    "id": "The 'distant west' of biblical geography. Most commonly identified with Tartessos at the mouth of the Guadalquivir in southern Spain (the Tartessian culture of the lower Iberian peninsula), as the Phoenician metals trade reached as far as Cádiz and Huelva. Other candidates have included Tarsus in Cilicia (a folk etymology), Sardinia, and Carthage. The book's force depends only on Tarshish's status as the farthest direction from Nineveh — Jonah flees to the literal opposite end of the known world.",
+    "abd": "6:331",
+    "appearances": [
+      {
+        "book": "jonah",
+        "chapter": 1,
+        "verses": [
+          3
         ]
       }
     ]

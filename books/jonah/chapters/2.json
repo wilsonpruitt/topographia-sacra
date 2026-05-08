@@ -1,0 +1,23 @@
+{
+  "title": "From the Belly of the Fish",
+  "places": [],
+  "view": {
+    "center": [33.0, 32.0],
+    "zoom": 5
+  },
+  "verses": [
+    {"n": 1, "html": "Then Jonah prayed to Yahweh, his God, out of the fish&rsquo;s belly."},
+    {"n": 2, "html": "&lsquo;I called because of my affliction to Yahweh. He answered me. Out of the belly of Sheol I cried. You heard my voice."},
+    {"n": 3, "html": "For you threw me into the depths, in the heart of the seas. The flood was all around me. All your waves and your billows passed over me."},
+    {"n": 4, "html": "I said, &lsquo;I have been banished from your sight; yet I will look again toward your holy temple.&rsquo;"},
+    {"n": 5, "html": "The waters surrounded me, even to the soul. The deep was around me. The weeds were wrapped around my head."},
+    {"n": 6, "html": "I went down to the bottoms of the mountains. The earth barred me in forever; yet you have brought my life up from the pit, Yahweh my God."},
+    {"n": 7, "html": "When my soul fainted within me, I remembered Yahweh. My prayer came in to you, into your holy temple."},
+    {"n": 8, "html": "Those who regard vain idols forsake their own mercy."},
+    {"n": 9, "html": "But I will sacrifice to you with the voice of thanksgiving. I will pay that which I have vowed. Salvation belongs to Yahweh.&rsquo;"},
+    {"n": 10, "html": "Then Yahweh spoke to the fish, and it vomited out Jonah on the dry land.<sup class=\"footnote-marker\">1</sup>"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>The dry land</strong> (v.&nbsp;10) — the chapter is the only one of the four with no named place. The map for this chapter is therefore a sea-view: the eastern Mediterranean as the implied setting, between the Joppa from which Jonah fled and the unnamed coast where he is delivered. Where exactly the fish vomits him out is left untold; the next chapter resumes the journey at Yahweh&rsquo;s second word, with Jonah on dry ground but no further hint of how far he had to travel from there to Nineveh."}
+  ]
+}

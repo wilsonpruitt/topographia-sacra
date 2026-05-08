@@ -1,0 +1,31 @@
+{
+  "title": "Flight to Tarshish",
+  "places": ["nineveh", "tarshish", "joppa"],
+  "view": {
+    "center": [37.0, 18.0],
+    "zoom": 4
+  },
+  "verses": [
+    {"n": 1, "html": "Now Yahweh&rsquo;s word came to Jonah<sup class=\"footnote-marker\">1</sup> the son of Amittai, saying,"},
+    {"n": 2, "html": "&lsquo;Arise, go to <span class=\"place\" data-key=\"nineveh\">Nineveh</span>, that great city, and preach against it, for their wickedness has come up before me.&rsquo;"},
+    {"n": 3, "html": "But Jonah rose up to flee to <span class=\"place\" data-key=\"tarshish\">Tarshish</span><sup class=\"footnote-marker\">2</sup> from the presence of Yahweh. He went down to <span class=\"place\" data-key=\"joppa\">Joppa</span>, and found a ship going to <span class=\"place\" data-key=\"tarshish\">Tarshish</span>; so he paid its fare, and went down into it, to go with them to <span class=\"place\" data-key=\"tarshish\">Tarshish</span> from the presence of Yahweh."},
+    {"n": 4, "html": "But Yahweh sent out a great wind on the sea, and there was a mighty storm on the sea, so that the ship was likely to break up."},
+    {"n": 5, "html": "Then the mariners were afraid, and every man cried to his god. They threw the cargo that was in the ship into the sea to lighten the ship. But Jonah had gone down into the innermost parts of the ship and he was laying down, and was fast asleep."},
+    {"n": 6, "html": "So the ship master came to him, and said to him, &lsquo;What do you mean, sleeper? Arise, call on your God! Maybe your God will notice us, so that we won&rsquo;t perish.&rsquo;"},
+    {"n": 7, "html": "They all said to each other, &lsquo;Come! Let&rsquo;s cast lots, that we may know who is responsible for this evil that is on us.&rsquo; So they cast lots, and the lot fell on Jonah."},
+    {"n": 8, "html": "Then they asked him, &lsquo;Tell us, please, for whose cause this evil is on us. What is your occupation? Where do you come from? What is your country? Of what people are you?&rsquo;"},
+    {"n": 9, "html": "He said to them, &lsquo;I am a Hebrew, and I fear Yahweh, the God of heaven, who has made the sea and the dry land.&rsquo;"},
+    {"n": 10, "html": "Then the men were exceedingly afraid, and said to him, &lsquo;What have you done?&rsquo; For the men knew that he was fleeing from the presence of Yahweh, because he had told them."},
+    {"n": 11, "html": "Then they said to him, &lsquo;What shall we do to you, that the sea may be calm to us?&rsquo; For the sea grew more and more stormy."},
+    {"n": 12, "html": "He said to them, &lsquo;Take me up, and throw me into the sea. Then the sea will be calm for you; for I know that because of me this great storm is on you.&rsquo;"},
+    {"n": 13, "html": "Nevertheless the men rowed hard to get them back to the land; but they could not, for the sea grew more and more stormy against them."},
+    {"n": 14, "html": "Therefore they cried to Yahweh, and said, &lsquo;We beg you, Yahweh, we beg you, don&rsquo;t let us die for this man&rsquo;s life, and don&rsquo;t lay on us innocent blood; for you, Yahweh, have done as it pleased you.&rsquo;"},
+    {"n": 15, "html": "So they took up Jonah and threw him into the sea; and the sea ceased its raging."},
+    {"n": 16, "html": "Then the men feared Yahweh exceedingly; and they offered a sacrifice to Yahweh and made vows."},
+    {"n": 17, "html": "Yahweh prepared a huge fish to swallow up Jonah, and Jonah was in the belly of the fish three days and three nights."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Jonah son of Amittai</strong> (v.&nbsp;1) — the same prophet named in 2 Kgs 14:25 as a Galilean from Gath-Hepher (Khirbet ez-Zurraʿ northeast of Nazareth), who in the eighth century B.C. delivered a favourable oracle for Jeroboam II's expansion of Israel's borders. The book picks up that prophet and sets him a different errand."},
+    {"n": 2, "html": "<strong>Tarshish</strong> (v.&nbsp;3) — most commonly identified with Tartessos at the mouth of the Guadalquivir in southern Spain, the western terminus of the Phoenician metals trade. Other candidates have included Tarsus in Cilicia (a folk etymology), Sardinia, and Carthage. The book&rsquo;s force depends only on Tarshish&rsquo;s status as the literal opposite end of the world from Nineveh: Jonah books passage as far in the wrong direction as the maps of his day allowed."}
+  ]
+}

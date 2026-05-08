@@ -1,0 +1,23 @@
+{
+  "title": "Nineveh's Repentance",
+  "places": ["nineveh"],
+  "view": {
+    "center": [36.36, 43.16],
+    "zoom": 9
+  },
+  "verses": [
+    {"n": 1, "html": "Yahweh&rsquo;s word came to Jonah the second time, saying,"},
+    {"n": 2, "html": "&lsquo;Arise, go to <span class=\"place\" data-key=\"nineveh\">Nineveh</span>, that great city, and preach to it the message that I give you.&rsquo;"},
+    {"n": 3, "html": "So Jonah arose, and went to <span class=\"place\" data-key=\"nineveh\">Nineveh</span>, according to Yahweh&rsquo;s word. Now <span class=\"place\" data-key=\"nineveh\">Nineveh</span> was an exceedingly great city, three days&rsquo; journey across.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 4, "html": "Jonah began to enter into the city a day&rsquo;s journey, and he cried out, and said, &lsquo;In forty days, <span class=\"place\" data-key=\"nineveh\">Nineveh</span> will be overthrown!&rsquo;"},
+    {"n": 5, "html": "The people of <span class=\"place\" data-key=\"nineveh\">Nineveh</span> believed God; and they proclaimed a fast and put on sackcloth, from their greatest even to their least."},
+    {"n": 6, "html": "The news reached the king of <span class=\"place\" data-key=\"nineveh\">Nineveh</span>, and he arose from his throne, took off his royal robe, covered himself with sackcloth, and sat in ashes."},
+    {"n": 7, "html": "He made a proclamation and published through <span class=\"place\" data-key=\"nineveh\">Nineveh</span> by the decree of the king and his nobles, saying, &lsquo;Let neither man nor animal, herd nor flock, taste anything; let them not feed, nor drink water;"},
+    {"n": 8, "html": "but let them be covered with sackcloth, both man and animal, and let them cry mightily to God. Yes, let them turn everyone from his evil way and from the violence that is in his hands."},
+    {"n": 9, "html": "Who knows whether God will not turn and relent, and turn away from his fierce anger, so that we might not perish?&rsquo;"},
+    {"n": 10, "html": "God saw their works, that they turned from their evil way. God relented of the disaster which he said he would do to them, and he didn&rsquo;t do it."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>&lsquo;Three days&rsquo; journey across&rsquo;</strong> (v.&nbsp;3) — Sennacherib&rsquo;s late-eighth-century walls at Nineveh enclosed about 750 hectares with a perimeter of c. 12 km, large by Iron Age standards but not three days&rsquo; walk. The phrase has been read variously: as a hyperbole for the city&rsquo;s greatness, as including the surrounding administrative region (the &lsquo;greater Nineveh&rsquo; of Calah, Resen, and Rehoboth-ir of Gen 10:11-12), or as a folk-tale measure where size is moralized. The book seems content to leave the figure unexplained."}
+  ]
+}

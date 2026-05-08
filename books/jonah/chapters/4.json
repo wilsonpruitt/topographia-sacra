@@ -1,0 +1,25 @@
+{
+  "title": "Anger and the Vine",
+  "places": ["nineveh"],
+  "view": {
+    "center": [36.36, 43.16],
+    "zoom": 11
+  },
+  "verses": [
+    {"n": 1, "html": "But it displeased Jonah exceedingly, and he was angry."},
+    {"n": 2, "html": "He prayed to Yahweh, and said, &lsquo;Please, Yahweh, wasn&rsquo;t this what I said when I was still in my own country? Therefore I hurried to flee to Tarshish, for I knew that you are a gracious God, and merciful, slow to anger, and abundant in loving kindness, and you relent of doing harm."},
+    {"n": 3, "html": "Therefore now, Yahweh, take, I beg you, my life from me, for it is better for me to die than to live.&rsquo;"},
+    {"n": 4, "html": "Yahweh said, &lsquo;Is it right for you to be angry?&rsquo;"},
+    {"n": 5, "html": "Then Jonah went out of the city and sat on the east side of the city, and there made himself a booth and sat under it in the shade.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 6, "html": "Yahweh God prepared a vine<sup class=\"footnote-marker\">2</sup> and made it to come up over Jonah, that it might be a shade over his head to deliver him from his discomfort."},
+    {"n": 7, "html": "But God prepared a worm at dawn the next day, and it chewed on the vine so that it withered."},
+    {"n": 8, "html": "When the sun arose, God prepared a sultry east wind; and the sun beat on Jonah&rsquo;s head, so that he was faint."},
+    {"n": 9, "html": "God said to Jonah, &lsquo;Is it right for you to be angry about the vine?&rsquo; He said, &lsquo;I am right to be angry, even to death.&rsquo;"},
+    {"n": 10, "html": "Yahweh said, &lsquo;You have been concerned for the vine, for which you have not labored, neither made it grow."},
+    {"n": 11, "html": "Shouldn&rsquo;t I be concerned for <span class=\"place\" data-key=\"nineveh\">Nineveh</span>, that great city, in which are more than one hundred twenty thousand persons who can&rsquo;t discern between their right hand and their left hand; and also much livestock?&rsquo;"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>The east side of the city</strong> (v.&nbsp;5) — the natural site of a booth on the high ground east of Tell Kuyunjik, looking down on the citadel mound and the Tigris beyond. Jonah&rsquo;s perch is the position of a witness watching for divine judgment, like the watchmen of the prophetic books; he sits where he can see the city burn."},
+    {"n": 2, "html": "<strong>A vine</strong> (v.&nbsp;6) — Hebrew <em>qiqāyôn</em>, almost certainly the castor-oil plant (<em>Ricinus communis</em>), which grows quickly and produces broad palmate leaves but wilts at the smallest insult. Jerome&rsquo;s rendering as &lsquo;ivy&rsquo; (<em>hedera</em>) provoked Augustine&rsquo;s irritated correspondence; the LXX has &lsquo;gourd&rsquo;. None of the renderings affects the parable: the plant&rsquo;s point is fragility."}
+  ]
+}
