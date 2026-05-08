@@ -1,0 +1,29 @@
+{
+  "title": "Stephen Chosen",
+  "places": ["jerusalem", "antioch-syrian", "cyrene", "alexandria", "cilicia", "asia-province", "nazareth"],
+  "view": {
+    "center": [33.5, 30.0],
+    "zoom": 5
+  },
+  "verses": [
+    {"n": 1, "html": "Now in those days, when the number of the disciples was multiplying, a complaint arose from the Hellenists against the Hebrews, because their widows were neglected in the daily service."},
+    {"n": 2, "html": "The twelve summoned the multitude of the disciples and said, &lsquo;It is not appropriate for us to forsake the word of God and serve tables."},
+    {"n": 3, "html": "Therefore, select from among you, brothers, seven men of good report, full of the Holy Spirit and of wisdom, whom we may appoint over this business."},
+    {"n": 4, "html": "But we will continue steadfastly in prayer and in the ministry of the word.&rsquo;"},
+    {"n": 5, "html": "These words pleased the whole multitude. They chose Stephen, a man full of faith and of the Holy Spirit, Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolaus, a proselyte of <span class=\"place\" data-key=\"antioch-syrian\">Antioch</span><sup class=\"footnote-marker\">1</sup>,"},
+    {"n": 6, "html": "whom they set before the apostles. When they had prayed, they laid their hands on them."},
+    {"n": 7, "html": "The word of God increased and the number of the disciples greatly multiplied in <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>. A great company of the priests were obedient to the faith."},
+    {"n": 8, "html": "Stephen, full of faith and power, performed great wonders and signs among the people."},
+    {"n": 9, "html": "But some of those who were of the synagogue called &lsquo;The Libertines&rsquo;, and of the <span class=\"place\" data-key=\"cyrene\">Cyrenians</span>, of the <span class=\"place\" data-key=\"alexandria\">Alexandrians</span>, and of those of <span class=\"place\" data-key=\"cilicia\">Cilicia</span> and <span class=\"place\" data-key=\"asia-province\">Asia</span><sup class=\"footnote-marker\">2</sup> arose, disputing with Stephen."},
+    {"n": 10, "html": "They weren&rsquo;t able to withstand the wisdom and the Spirit by which he spoke."},
+    {"n": 11, "html": "Then they secretly induced men to say, &lsquo;We have heard him speak blasphemous words against Moses and God.&rsquo;"},
+    {"n": 12, "html": "They stirred up the people, the elders, and the scribes, and came against him and seized him, then brought him in to the council,"},
+    {"n": 13, "html": "and set up false witnesses who said, &lsquo;This man never stops speaking blasphemous words against this holy place and the law."},
+    {"n": 14, "html": "For we have heard him say that this Jesus of <span class=\"place\" data-key=\"nazareth\">Nazareth</span> will destroy this place, and will change the customs which Moses delivered to us.&rsquo;"},
+    {"n": 15, "html": "All who sat in the council, fastening their eyes on him, saw his face like it was the face of an angel."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Nicolaus, a proselyte of Antioch</strong> (v.&nbsp;5) &mdash; the only one of the Seven for whom a hometown is named. The detail prepares for chapter 11, when Antioch becomes the principal Gentile-mission base; the Seven are themselves a Hellenist-Jewish group, and the chapter quietly establishes the geographic links between Hellenist Jerusalem and the diaspora communities that will host the next phase of the mission."},
+    {"n": 2, "html": "<strong>Five Hellenist synagogues</strong> (v.&nbsp;9) &mdash; the verse names the home regions of Stephen&rsquo;s opposition: the Libertines (probably descendants of Jews enslaved by Pompey in 63 B.C., later freed), Cyrenians (north African), Alexandrians (Egypt), Cilicians (Saul of Tarsus&rsquo;s home region, though he is not yet named), and Asians (the Roman province of western Anatolia). The map widens accordingly to show the rim of the Mediterranean from which the diaspora opposition is drawn."}
+  ]
+}

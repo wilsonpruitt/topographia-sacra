@@ -1,0 +1,50 @@
+{
+  "title": "Peter and John before the Sanhedrin",
+  "places": ["jerusalem", "nazareth", "cyprus"],
+  "view": {
+    "center": [33.5, 34.5],
+    "zoom": 6
+  },
+  "verses": [
+    {"n": 1, "html": "As they spoke to the people, the priests and the captain of the temple and the Sadducees came to them,"},
+    {"n": 2, "html": "being upset because they taught the people and proclaimed in Jesus the resurrection from the dead."},
+    {"n": 3, "html": "They laid hands on them, and put them in custody until the next day, for it was now evening."},
+    {"n": 4, "html": "But many of those who heard the word believed, and the number of the men came to be about five thousand."},
+    {"n": 5, "html": "In the morning, their rulers, elders, and scribes were gathered together in <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>."},
+    {"n": 6, "html": "Annas the high priest was there, with Caiaphas, John, Alexander, and as many as were relatives of the high priest."},
+    {"n": 7, "html": "When they had stood Peter and John in the middle of them, they inquired, &lsquo;By what power, or in what name, have you done this?&rsquo;"},
+    {"n": 8, "html": "Then Peter, filled with the Holy Spirit, said to them, &lsquo;You rulers of the people and elders of Israel,"},
+    {"n": 9, "html": "if we are examined today concerning a good deed done to a crippled man, by what means this man has been healed,"},
+    {"n": 10, "html": "may it be known to you all, and to all the people of Israel, that in the name of Jesus Christ of <span class=\"place\" data-key=\"nazareth\">Nazareth</span>, whom you crucified, whom God raised from the dead, this man stands here before you whole in him."},
+    {"n": 11, "html": "He is &ldquo;the stone which was regarded as worthless by you, the builders, which has become the head of the corner.&rdquo;"},
+    {"n": 12, "html": "There is salvation in no one else, for there is no other name under heaven that is given among men, by which we must be saved!&rsquo;"},
+    {"n": 13, "html": "Now when they saw the boldness of Peter and John, and had perceived that they were unlearned and ignorant men, they marveled. They recognized that they had been with Jesus."},
+    {"n": 14, "html": "Seeing the man who was healed standing with them, they could say nothing against it."},
+    {"n": 15, "html": "But when they had commanded them to go aside out of the council, they conferred among themselves,"},
+    {"n": 16, "html": "saying, &lsquo;What shall we do to these men? Because indeed a notable miracle has been done through them, as can be plainly seen by all who dwell in <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, and we can&rsquo;t deny it."},
+    {"n": 17, "html": "But so that this spreads no further among the people, let&rsquo;s threaten them, that from now on they don&rsquo;t speak to anyone in this name.&rsquo;"},
+    {"n": 18, "html": "They called them, and commanded them not to speak at all nor teach in the name of Jesus."},
+    {"n": 19, "html": "But Peter and John answered them, &lsquo;Whether it is right in the sight of God to listen to you rather than to God, judge for yourselves,"},
+    {"n": 20, "html": "for we can&rsquo;t help telling the things which we saw and heard.&rsquo;"},
+    {"n": 21, "html": "When they had further threatened them, they let them go, finding no way to punish them, because of the people; for everyone glorified God for that which was done."},
+    {"n": 22, "html": "For the man on whom this miracle of healing was performed was more than forty years old."},
+    {"n": 23, "html": "Being let go, they came to their own company and reported all that the chief priests and the elders had said to them."},
+    {"n": 24, "html": "When they heard it, they lifted up their voice to God with one accord and said, &lsquo;O Lord, you are God, who made the sky, the earth, the sea, and all that is in them,"},
+    {"n": 25, "html": "who by the mouth of your servant David, said, &ldquo;Why do the nations rage, and the peoples plot a vain thing?"},
+    {"n": 26, "html": "The kings of the earth take a stand, and the rulers plot together, against the Lord, and against his Christ.&rdquo;"},
+    {"n": 27, "html": "For truly, both Herod and Pontius Pilate, with the Gentiles and the people of Israel, were gathered together against your holy servant Jesus, whom you anointed,"},
+    {"n": 28, "html": "to do whatever your hand and your counsel foreordained to happen."},
+    {"n": 29, "html": "Now, Lord, look at their threats, and grant to your servants to speak your word with all boldness,"},
+    {"n": 30, "html": "while you stretch out your hand to heal; and that signs and wonders may be done through the name of your holy Servant Jesus.&rsquo;"},
+    {"n": 31, "html": "When they had prayed, the place was shaken where they were gathered together. They were all filled with the Holy Spirit, and they spoke the word of God with boldness."},
+    {"n": 32, "html": "The multitude of those who believed were of one heart and soul. Not one of them claimed that anything of the things which he possessed was his own, but they had all things in common."},
+    {"n": 33, "html": "With great power, the apostles gave their testimony of the resurrection of the Lord Jesus. Great grace was on them all."},
+    {"n": 34, "html": "For neither was there among them any who lacked, for as many as were owners of lands or houses sold them, and brought the proceeds of the things that were sold,"},
+    {"n": 35, "html": "and laid them at the apostles&rsquo; feet; and distribution was made to each, according as anyone had need."},
+    {"n": 36, "html": "Joses, who by the apostles was also called Barnabas (which is, being interpreted, Son of Encouragement), a Levite, a man of <span class=\"place\" data-key=\"cyprus\">Cyprus</span><sup class=\"footnote-marker\">1</sup> by race,"},
+    {"n": 37, "html": "having a field, sold it and brought the money and laid it at the apostles&rsquo; feet."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Barnabas of Cyprus</strong> (v.&nbsp;36) &mdash; the chapter introduces Joses-Barnabas, the Cypriot Levite, in passing as a generous community member; the introduction is load-bearing for the rest of the book. He vouches for Saul in 9:27, fetches Saul to Antioch in 11:25, leads Paul on the first missionary journey (chs. 13-14, beginning at his home island of Cyprus), and remains the Cypriot anchor of the Gentile mission. The chapter's map widens from Jerusalem to include Cyprus accordingly."}
+  ]
+}

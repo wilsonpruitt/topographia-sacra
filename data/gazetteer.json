@@ -1056,6 +1056,36 @@
           5,
           14
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 3,
+        "verses": [
+          1,
+          11
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 4,
+        "verses": [
+          5,
+          16
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 5,
+        "verses": [
+          28
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 6,
+        "verses": [
+          7
+        ]
       }
     ]
   },
@@ -6729,6 +6759,13 @@
           25,
           32
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 7,
+        "verses": [
+          16
+        ]
       }
     ]
   },
@@ -9661,6 +9698,22 @@
         "verses": [
           10
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 7,
+        "verses": [
+          9,
+          10,
+          11,
+          12,
+          15,
+          17,
+          34,
+          36,
+          39,
+          40
+        ]
       }
     ]
   },
@@ -9683,6 +9736,13 @@
         "chapter": 24,
         "verses": [
           6
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 7,
+        "verses": [
+          36
         ]
       }
     ]
@@ -9950,6 +10010,13 @@
         "verses": [
           11
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 5,
+        "verses": [
+          37
+        ]
       }
     ]
   },
@@ -10020,6 +10087,27 @@
         "chapter": 2,
         "verses": [
           22
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 3,
+        "verses": [
+          6
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 4,
+        "verses": [
+          10
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 6,
+        "verses": [
+          14
         ]
       }
     ]
@@ -10112,6 +10200,13 @@
         "verses": [
           9
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 7,
+        "verses": [
+          2
+        ]
       }
     ]
   },
@@ -10180,6 +10275,13 @@
         "verses": [
           9
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 6,
+        "verses": [
+          9
+        ]
       }
     ]
   },
@@ -10244,6 +10346,13 @@
         "chapter": 2,
         "verses": [
           10
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 6,
+        "verses": [
+          9
         ]
       }
     ]
@@ -10333,6 +10442,212 @@
         "chapter": 2,
         "verses": [
           11
+        ]
+      }
+    ]
+  },
+  "cyprus": {
+    "name": "Cyprus",
+    "name_alt": [
+      "Kypros"
+    ],
+    "coords": [
+      35.0,
+      33.0
+    ],
+    "tier": "region",
+    "id": "The third-largest Mediterranean island, a Roman senatorial province since 22 B.C. with capital at Paphos. Home of Barnabas (Acts 4:36), site of Paul and Barnabas's first missionary stop (Acts 13:4-12). Pin sits in the central Troodos range; the cities (Salamis, Paphos, Citium) appear later in the book.",
+    "abd": "1:1228",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 4,
+        "verses": [
+          36
+        ]
+      }
+    ]
+  },
+  "antioch-syrian": {
+    "name": "Antioch",
+    "name_alt": [
+      "Antioch on the Orontes",
+      "Syrian Antioch",
+      "Antakya"
+    ],
+    "coords": [
+      36.2021,
+      36.1604
+    ],
+    "tier": "identified",
+    "id": "Modern Antakya in southern Turkey, on the Orontes river c. 30 km from the Mediterranean coast. The third city of the empire (after Rome and Alexandria), capital of Roman Syria. The first place where the disciples were called Christians (11:26); base of all three Pauline missionary journeys. Distinct from Pisidian Antioch (a separate gazetteer entry, added with ch. 13).",
+    "abd": "1:265",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 6,
+        "verses": [
+          5
+        ]
+      }
+    ]
+  },
+  "alexandria": {
+    "name": "Alexandria",
+    "name_alt": [
+      "al-Iskandariyah"
+    ],
+    "coords": [
+      31.2001,
+      29.9187
+    ],
+    "tier": "identified",
+    "id": "On the western Nile delta, founded by Alexander in 331 B.C. The second city of the empire and the centre of Hellenistic Jewish learning (Philo, the Septuagint translation). Apollos was Alexandrian (18:24). The two grain ships in Paul's voyage to Rome (27:6, 28:11) sailed under the Alexandrian flag.",
+    "abd": "1:152",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 6,
+        "verses": [
+          9
+        ]
+      }
+    ]
+  },
+  "cilicia": {
+    "name": "Cilicia",
+    "name_alt": [],
+    "coords": [
+      37.0,
+      34.5
+    ],
+    "tier": "region",
+    "id": "The southeastern coastal region of Anatolia, between the Taurus mountains and the Mediterranean. Capital at Tarsus, Paul's home city. The province was attached administratively to Syria from A.D. 63 to 72 and again under Vespasian.",
+    "abd": "1:1023",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 6,
+        "verses": [
+          9
+        ]
+      }
+    ]
+  },
+  "haran": {
+    "name": "Haran",
+    "name_alt": [
+      "Harran",
+      "Carrhae"
+    ],
+    "coords": [
+      36.8628,
+      39.0314
+    ],
+    "tier": "identified",
+    "id": "Modern Harran in southeastern Turkey on the Balikh river, a major caravan and cult centre of the moon-god Sin from the third millennium B.C. Terah's family settled here from Ur (Gen 11:31); Abraham left from Haran for Canaan (Gen 12:4). Site of the Roman defeat at Carrhae in 53 B.C.",
+    "abd": "3:58",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 7,
+        "verses": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  "canaan-region": {
+    "name": "Canaan",
+    "name_alt": [
+      "Kenaan",
+      "land of Canaan"
+    ],
+    "coords": [
+      32.0,
+      35.0
+    ],
+    "tier": "region",
+    "id": "The pre-Israelite name for the southern Levant, broadly the Mediterranean coastal strip and the highlands east to the Jordan. The term, attested in Egyptian and Akkadian sources from the second millennium, gives way to 'Israel' / 'Judah' through the biblical period.",
+    "abd": "1:828",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 7,
+        "verses": [
+          11
+        ]
+      }
+    ]
+  },
+  "midian": {
+    "name": "Midian",
+    "name_alt": [
+      "land of Midian",
+      "Madyan"
+    ],
+    "coords": [
+      27.5,
+      36.5
+    ],
+    "tier": "region",
+    "id": "The Arabian region southeast of the Gulf of Aqaba, traditionally located on the eastern side of the Red Sea (modern northwestern Saudi Arabia). Refuge of Moses after his flight from Egypt (Exod 2:15); home of Jethro and the burning bush (Exod 3).",
+    "abd": "4:815",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 7,
+        "verses": [
+          29
+        ]
+      }
+    ]
+  },
+  "mount-sinai": {
+    "name": "Mount Sinai",
+    "name_alt": [
+      "Mount Horeb",
+      "Jebel Musa",
+      "the holy mountain"
+    ],
+    "coords": [
+      28.5392,
+      33.975
+    ],
+    "tier": "conjectural",
+    "id": "Traditionally identified with Jebel Musa in the southern Sinai peninsula, where the Monastery of Saint Catherine has been continuously occupied since the sixth century. Other proposals locate Sinai at Jebel al-Lawz in northwestern Saudi Arabia (matching a Midianite location for the burning bush), at Har Karkom in the Negev, or at Jebel Sin Bishar. The traditional Jebel Musa identification is preserved here as the long-standing default; the alternatives are footnoted.",
+    "abd": "6:47",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 7,
+        "verses": [
+          30,
+          38
+        ]
+      }
+    ]
+  },
+  "babylon": {
+    "name": "Babylon",
+    "name_alt": [
+      "Bab-ilani",
+      "Babil"
+    ],
+    "coords": [
+      32.5424,
+      44.4208
+    ],
+    "tier": "identified",
+    "id": "On the Euphrates c. 85 km south of Baghdad. Capital of the Neo-Babylonian empire (Nebuchadnezzar II). Stephen's quotation in v. 43 modifies Amos 5:27 ('beyond Damascus') to 'beyond Babylon', reading the exile of 587 B.C. as the prophet's longer-range fulfilment.",
+    "abd": "1:563",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 7,
+        "verses": [
+          43
         ]
       }
     ]

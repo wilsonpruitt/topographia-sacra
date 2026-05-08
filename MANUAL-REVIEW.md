@@ -185,6 +185,20 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 - [ ] **Dan** — coastal plain; Leshem/Tel Dan northern enclave deliberately excluded (named only after the conquest in v. 47).
 All six marked `approximate: true`.
 
+## Acts 3-7 — gazetteer entries (9 added)
+
+- [ ] **Cyprus** as a region pin in central Troodos — confirm placement.
+- [ ] **Antioch (Syrian)** at modern Antakya — secure.
+- [ ] **Alexandria** — secure.
+- [ ] **Cilicia** as a region pin — confirm centroid.
+- [ ] **Haran** at modern Harran in southeastern Turkey — secure.
+- [ ] **Canaan-region** as a regional tag — confirm whether this should be folded with the existing slug `canaan-something` or kept as the broad Greek-period term.
+- [ ] **Midian** as a region pin — placed in NW Saudi Arabia (Madyan); confirm placement.
+- [ ] **Mount Sinai** at Jebel Musa (traditional). Footnote names alternatives (Jebel al-Lawz, Har Karkom, Jebel Sin Bishar). Decide if a tier-downgrade is warranted given the genuine scholarly disagreement.
+- [ ] **Babylon** at Babil — secure.
+- [ ] **Acts 7:16 Abraham/Jacob tomb-at-Shechem conflation** — footnote noted; confirm the editorial framing is right.
+- [ ] **Acts 7:43 'beyond Babylon' substitution** — Stephen's modification of Amos 5:27 ('beyond Damascus' in the MT/LXX); footnote noted.
+
 ## Acts 1-2 — gazetteer entries (20 added)
 
 - [ ] **Mount of Olives** at Jebel et-Tur — secure.
@@ -321,6 +335,11 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Ruth 4
 - [ ] Acts 1
 - [ ] Acts 2
+- [ ] Acts 3
+- [ ] Acts 4
+- [ ] Acts 5
+- [ ] Acts 6
+- [ ] Acts 7
 
 ## Site-level
 

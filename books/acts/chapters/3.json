@@ -1,0 +1,40 @@
+{
+  "title": "Lame Man Healed at the Temple",
+  "places": ["jerusalem", "nazareth"],
+  "view": {
+    "center": [31.778, 35.235],
+    "zoom": 14
+  },
+  "verses": [
+    {"n": 1, "html": "Peter and John were going up into the temple<sup class=\"footnote-marker\">1</sup> at the hour of prayer, the ninth hour."},
+    {"n": 2, "html": "A certain man who was lame from his mother&rsquo;s womb was being carried, whom they laid daily at the door of the temple which is called Beautiful, to ask gifts for the needy of those who entered into the temple."},
+    {"n": 3, "html": "Seeing Peter and John about to go into the temple, he asked to receive gifts for the needy."},
+    {"n": 4, "html": "Peter, fastening his eyes on him, with John, said, &lsquo;Look at us.&rsquo;"},
+    {"n": 5, "html": "He listened to them, expecting to receive something from them."},
+    {"n": 6, "html": "But Peter said, &lsquo;I have no silver or gold, but what I have, that I give you. In the name of Jesus Christ of <span class=\"place\" data-key=\"nazareth\">Nazareth</span>, get up and walk!&rsquo;"},
+    {"n": 7, "html": "He took him by the right hand and raised him up. Immediately his feet and his ankle bones received strength."},
+    {"n": 8, "html": "Leaping up, he stood and began to walk. He entered with them into the temple, walking, leaping, and praising God."},
+    {"n": 9, "html": "All the people saw him walking and praising God."},
+    {"n": 10, "html": "They recognized him, that it was he who used to sit begging for gifts for the needy at the Beautiful Gate of the temple. They were filled with wonder and amazement at what had happened to him."},
+    {"n": 11, "html": "As the lame man who was healed held on to Peter and John, all the people ran together to them in the porch that is called Solomon&rsquo;s<sup class=\"footnote-marker\">2</sup>, greatly wondering."},
+    {"n": 12, "html": "When Peter saw it, he responded to the people, &lsquo;You men of Israel, why do you marvel at this man? Why do you fasten your eyes on us, as though by our own power or godliness we had made him walk?"},
+    {"n": 13, "html": "The God of Abraham, Isaac, and Jacob, the God of our fathers, has glorified his Servant Jesus, whom you delivered up and denied in the presence of Pilate, when he had determined to release him."},
+    {"n": 14, "html": "But you denied the Holy and Righteous One and asked for a murderer to be granted to you,"},
+    {"n": 15, "html": "and killed the Prince of life, whom God raised from the dead, to which we are witnesses."},
+    {"n": 16, "html": "By faith in his name, his name has made this man strong, whom you see and know. Yes, the faith which is through him has given him this perfect soundness in the presence of you all."},
+    {"n": 17, "html": "Now, brothers, I know that you did this in ignorance, as did also your rulers."},
+    {"n": 18, "html": "But the things which God announced by the mouth of all his prophets, that Christ should suffer, he thus fulfilled."},
+    {"n": 19, "html": "Repent therefore, and turn again, that your sins may be blotted out, so that there may come times of refreshing from the presence of the Lord,"},
+    {"n": 20, "html": "and that he may send Christ Jesus, who was ordained for you before,"},
+    {"n": 21, "html": "whom heaven must receive until the times of restoration of all things, which God spoke long ago by the mouth of his holy prophets."},
+    {"n": 22, "html": "For Moses indeed said to the fathers, &lsquo;The Lord God will raise up a prophet for you from among your brothers, like me. You shall listen to him in all things whatever he says to you."},
+    {"n": 23, "html": "It will be that every soul that will not listen to that prophet will be utterly destroyed from among the people.&rsquo;"},
+    {"n": 24, "html": "Yes, and all the prophets from Samuel and those who followed after, as many as have spoken, also told of these days."},
+    {"n": 25, "html": "You are the children of the prophets, and of the covenant which God made with our fathers, saying to Abraham, &lsquo;All the families of the earth will be blessed through your offspring.&rsquo;"},
+    {"n": 26, "html": "God, having raised up his servant Jesus, sent him to you first to bless you, in turning away every one of you from your wickedness.&rsquo;"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>The temple</strong> &mdash; the Herodian Temple Mount, an enormous artificial platform completed under Herod the Great and continuing in use until its destruction in A.D. 70. The chapter&rsquo;s map view zooms tight on Jerusalem and the Old City; the Temple Mount is in the eastern half of the walled city. The 'ninth hour' (mid-afternoon) was one of two daily Jewish prayer hours."},
+    {"n": 2, "html": "<strong>Solomon&rsquo;s porch</strong> (v.&nbsp;11) &mdash; the colonnade running along the eastern side of the Outer Court of the Temple Mount, popularly believed to preserve elements of the Solomonic temple but in fact a Herodian construction. The porch is mentioned again at 5:12 and Jn 10:23 as a meeting place of the early community."}
+  ]
+}
