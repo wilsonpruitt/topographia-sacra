@@ -77,6 +77,40 @@ I (Claude) drafted gazetteer entries without having ABD volumes in front of me. 
 - [ ] `mount-carmel` — claimed `1:874`
 - [ ] `tirzah` — claimed `6:573`
 
+**Added by Claude 2026-05-07 (Joshua 13):**
+- [ ] `shihor` — claimed `5:1212`
+- [ ] `ekron` — claimed `2:415`
+- [ ] `ashkelon` — claimed `1:487`
+- [ ] `avvim` — claimed `1:531`
+- [ ] `mearah` — claimed `4:656`
+- [ ] `aphek-of-amorites` — claimed `1:275` (shared with Sharon Aphek; verify both)
+- [ ] `gebal` — claimed `1:683`
+- [ ] `lebanon-region` — claimed `4:269`
+- [ ] `lebo-hamath` — claimed `3:36`
+- [ ] `medeba` — claimed `4:656` (same page as Mearah — almost certainly one is wrong)
+- [ ] `dibon` — claimed `2:194`
+- [ ] `gilead` — claimed `2:1020`
+- [ ] `bashan` — claimed `1:623`
+- [ ] `bamoth-baal` — claimed `1:619`
+- [ ] `beth-baal-meon` — claimed `1:550`
+- [ ] `jahaz` — claimed `3:612`
+- [ ] `kedemoth` — claimed `4:10`
+- [ ] `mephaath` — claimed `4:696`
+- [ ] `kiriathaim` — claimed `4:84` (shared with Kiriath-jearim — verify both)
+- [ ] `sibmah` — claimed `6:1`
+- [ ] `zereth-shahar` — claimed `6:1083`
+- [ ] `beth-peor` — claimed `1:692` (shared with Beth-horon; verify both)
+- [ ] `jazer` — claimed `3:650`
+- [ ] `rabbah-ammon` — claimed `5:598`
+- [ ] `ramath-mizpeh` — claimed `5:617`
+- [ ] `betonim` — claimed `1:707`
+- [ ] `mahanaim` — claimed `4:472`
+- [ ] `debir-east` — claimed `2:115` (shared with southern Debir; verify both)
+- [ ] `beth-haram` — claimed `1:680`
+- [ ] `beth-nimrah` — claimed `1:692` (shared with Beth-horon and Beth-peor; verify all three)
+- [ ] `succoth-east` — claimed `6:217`
+- [ ] `zaphon` — claimed `6:1040`
+
 ## Identifications and coordinates
 
 Pin choices made on best understanding of current scholarship; flag if a different candidate should be primary, or if the coordinates need adjustment.
@@ -104,6 +138,14 @@ Pin choices made on best understanding of current scholarship; flag if a differe
 - [ ] **Shimron Meron** (12:20). Treated as a single tag pointing at `shimron`. Some scholars treat “Shimron Meron” as a scribal join of Shimron + Meron (and notice the LXX has separate kings, hitting 32 not 31). Decide whether to disambiguate.
 - [ ] **Goyim in Gilgal** (12:23). Tag intentionally omitted; footnote explains. If you'd prefer a Galilean Gilgal pin (e.g. Jiljulieh) flag here.
 - [ ] **Multiple Apheks** (12:18). Verify the Sharon Aphek is the right primary.
+- [ ] **Aphek-of-Amorites** (13:4) — pin placed at Afqa (Lebanon) on the Adonis source; alternative is Tell Afaq SE of Damascus. Verify primary.
+- [ ] **Lebo-hamath** (13:5) — pin at Lebweh in northern Beqaa. Verify against scholarly atlases; some place the boundary further south.
+- [ ] **Aroer that is near Rabbah** (13:25) — currently re-uses the Arnon Aroer pin as a placeholder, with footnote noting the duplication. Add a separate gazetteer entry with a real coordinate (or document it as `unknown`) once the location is decided.
+- [ ] **Mahanaim** (13:26, 30) — pin at Tell edh-Dhahab el-Gharbi (west mound). The east mound (el-Sharqi) is the alternative; both are candidates. Confirm which mound.
+- [ ] **Mephaath, Jazer, Ramath-Mizpeh, Beth-haram, Zaphon** (13:18, 25, 26, 27) — all conjectural; coordinates approximate and based on commonly-cited candidates. Verify against Sacred Bridge / Macmillan.
+- [ ] **Beth Baal Meon** (13:17) — pin at Khirbet Maʿin SW of Madaba. Confirm.
+- [ ] **Tribal polygons (Reuben, Gad, half-Manasseh-east)** — added 13 ch.13 as honest convex approximations anchored on already-gazetted boundary cities, NOT traced from the boundary text. Replace with sourced or text-traced polygons before treating as final.
+- [ ] **Joshua 13 WEB text** — keyed from ebible.org; spot-check.
 
 ## Footnote coverage decisions
 
@@ -126,6 +168,7 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Joshua 10
 - [ ] Joshua 11
 - [ ] Joshua 12
+- [ ] Joshua 13
 
 ## Site-level
 

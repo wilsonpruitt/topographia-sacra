@@ -112,6 +112,13 @@
         "verses": [
           9
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          32
+        ]
       }
     ]
   },
@@ -288,6 +295,17 @@
         "verses": [
           1,
           7
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          7,
+          8,
+          23,
+          27,
+          32
         ]
       }
     ]
@@ -1282,6 +1300,13 @@
         "verses": [
           22
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          3
+        ]
       }
     ]
   },
@@ -1478,6 +1503,13 @@
         "verses": [
           2
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          27
+        ]
       }
     ]
   },
@@ -1531,6 +1563,14 @@
         "verses": [
           3,
           17
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          5,
+          11
         ]
       }
     ]
@@ -1588,6 +1628,14 @@
         "verses": [
           8
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          4,
+          6
+        ]
       }
     ]
   },
@@ -1609,6 +1657,13 @@
         "chapter": 11,
         "verses": [
           8
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          6
         ]
       }
     ]
@@ -1652,6 +1707,13 @@
         "chapter": 11,
         "verses": [
           17
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          5
         ]
       }
     ]
@@ -1698,6 +1760,13 @@
         "verses": [
           22
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          3
+        ]
       }
     ]
   },
@@ -1720,6 +1789,13 @@
         "chapter": 11,
         "verses": [
           22
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          3
         ]
       }
     ]
@@ -1745,6 +1821,17 @@
           2,
           5
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          10,
+          17,
+          21,
+          26,
+          27
+        ]
       }
     ]
   },
@@ -1767,6 +1854,14 @@
         "chapter": 12,
         "verses": [
           4
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          12,
+          31
         ]
       }
     ]
@@ -1792,6 +1887,14 @@
           1,
           2
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          9,
+          16
+        ]
       }
     ]
   },
@@ -1814,6 +1917,15 @@
         "chapter": 12,
         "verses": [
           2
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          9,
+          16,
+          25
         ]
       }
     ]
@@ -1860,6 +1972,13 @@
         "verses": [
           3
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          20
+        ]
       }
     ]
   },
@@ -1882,6 +2001,13 @@
         "chapter": 12,
         "verses": [
           3
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          20
         ]
       }
     ]
@@ -1906,6 +2032,14 @@
         "verses": [
           4
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          12,
+          31
+        ]
       }
     ]
   },
@@ -1927,6 +2061,13 @@
         "chapter": 12,
         "verses": [
           5
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          11
         ]
       }
     ]
@@ -2248,6 +2389,711 @@
         "chapter": 12,
         "verses": [
           24
+        ]
+      }
+    ]
+  },
+  "shihor": {
+    "name": "Shihor",
+    "name_alt": [
+      "Shihor of Egypt",
+      "Brook of Egypt"
+    ],
+    "coords": [
+      31.15,
+      33.86
+    ],
+    "tier": "region",
+    "id": "Most likely the Wadi El-Arish (the 'Brook of Egypt'), traditional southern boundary of Canaan; some have read it as a Nile branch east of the Delta. Pin marks the wadi mouth at the Mediterranean coast.",
+    "abd": "5:1212",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          3
+        ]
+      }
+    ]
+  },
+  "ekron": {
+    "name": "Ekron",
+    "name_alt": [
+      "Tel Miqne",
+      "Tel Miqne-Ekron"
+    ],
+    "coords": [
+      31.7798,
+      34.8537
+    ],
+    "tier": "identified",
+    "id": "Tel Miqne in the inner coastal plain. Identification confirmed by the seventh-century Ekron royal dedicatory inscription found in situ in 1996, naming the city and its kings.",
+    "abd": "2:415",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          3
+        ]
+      }
+    ]
+  },
+  "ashkelon": {
+    "name": "Ashkelon",
+    "name_alt": [
+      "Tel Ashqelon",
+      "Ascalon"
+    ],
+    "coords": [
+      31.6611,
+      34.5466
+    ],
+    "tier": "identified",
+    "id": "Tel Ashqelon on the Mediterranean coast, one of the five Philistine cities. Continuously occupied from the Bronze Age through the Crusader period; extensive excavation since 1985.",
+    "abd": "1:487",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          3
+        ]
+      }
+    ]
+  },
+  "avvim": {
+    "name": "Avvim",
+    "name_alt": [
+      "the Avvites"
+    ],
+    "coords": [
+      31.45,
+      34.5
+    ],
+    "tier": "region",
+    "id": "Pre-Philistine inhabitants of the southern coastal plain ('villages as far as Gaza', Deut 2:23). No specific site; named here to round out the southern remnant.",
+    "abd": "1:531",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          3
+        ]
+      }
+    ]
+  },
+  "mearah": {
+    "name": "Mearah",
+    "name_alt": [
+      "Mughr",
+      "the cave near Sidon"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Unidentified. Hebrew mĕʿārâ ('cave'); often connected with Mughr/Maghara north of Sidon, but no firm site. Listed in the gazetteer for completeness.",
+    "abd": "4:656",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          4
+        ]
+      }
+    ]
+  },
+  "aphek-of-amorites": {
+    "name": "Aphek (of the Amorites)",
+    "name_alt": [
+      "northern Aphek"
+    ],
+    "coords": [
+      34.071,
+      35.917
+    ],
+    "tier": "conjectural",
+    "id": "A northern Aphek 'on the border of the Amorites', distinct from the Sharon Aphek and from Aphek near Jezreel. Often identified with Afqa at the source of the Adonis (Nahr Ibrahim) in Lebanon; some prefer Tell Afaq southeast of Damascus.",
+    "abd": "1:275",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          4
+        ]
+      }
+    ]
+  },
+  "gebal": {
+    "name": "Gebal",
+    "name_alt": [
+      "Byblos",
+      "Jbeil",
+      "Jubayl"
+    ],
+    "coords": [
+      34.1232,
+      35.6519
+    ],
+    "tier": "identified",
+    "id": "Byblos (modern Jbeil) on the Lebanese coast. Continuous occupation from the Neolithic; major Phoenician city. The 'Gebalites' here are its inhabitants, working stone for Solomon (1 Kgs 5:18).",
+    "abd": "1:683",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          5
+        ]
+      }
+    ]
+  },
+  "lebanon-region": {
+    "name": "Lebanon",
+    "name_alt": [
+      "Mount Lebanon"
+    ],
+    "coords": [
+      33.85,
+      35.85
+    ],
+    "tier": "region",
+    "id": "The Lebanon range running parallel to the Mediterranean coast, north of Israel. Pin sits in the central range; the northern boundary of the promised land in this verse extends along its western flank.",
+    "abd": "4:269",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  "lebo-hamath": {
+    "name": "Lebo Hamath",
+    "name_alt": [
+      "entrance of Hamath",
+      "Lebweh"
+    ],
+    "coords": [
+      34.213,
+      36.355
+    ],
+    "tier": "probable",
+    "id": "The northern frontier of the promised land, traditionally located at modern Lebweh (Lebo) in the northern Beqaa Valley, where the territory of Hamath began. The phrase 'entrance of Hamath' marks the watershed pass into the Orontes basin.",
+    "abd": "3:36",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          5
+        ]
+      }
+    ]
+  },
+  "medeba": {
+    "name": "Medeba",
+    "name_alt": [
+      "Madaba"
+    ],
+    "coords": [
+      31.717,
+      35.795
+    ],
+    "tier": "identified",
+    "id": "Modern Madaba, Jordan, on the Mishor plateau. Continuous occupation; the Madaba Mosaic Map (sixth-century church floor) is housed there. Named here for the surrounding plain assigned to Reuben.",
+    "abd": "4:656",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          9,
+          16
+        ]
+      }
+    ]
+  },
+  "dibon": {
+    "name": "Dibon",
+    "name_alt": [
+      "Dhiban",
+      "Dibon-gad"
+    ],
+    "coords": [
+      31.5,
+      35.778
+    ],
+    "tier": "identified",
+    "id": "Modern Dhiban, Jordan, north of the Arnon. Site of the Mesha Stele (ninth-century B.C.), which describes the Moabite king's recapture of the city. Iron Age fortifications excavated.",
+    "abd": "2:194",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          9,
+          17
+        ]
+      }
+    ]
+  },
+  "gilead": {
+    "name": "Gilead",
+    "name_alt": [
+      "the highland of Gilead"
+    ],
+    "coords": [
+      32.2,
+      35.78
+    ],
+    "tier": "region",
+    "id": "The wooded highland east of the Jordan between the Yarmuk (north) and roughly the Heshbon plateau (south). 'Half of Gilead' is split between Gad and East-Manasseh in this chapter.",
+    "abd": "2:1020",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          11,
+          25,
+          31
+        ]
+      }
+    ]
+  },
+  "bashan": {
+    "name": "Bashan",
+    "name_alt": [
+      "the Hauran"
+    ],
+    "coords": [
+      32.85,
+      36.3
+    ],
+    "tier": "region",
+    "id": "Volcanic plateau east and northeast of the Sea of Chinnereth, corresponding roughly to the modern Hauran. Famous in the Hebrew Bible for its cattle and oaks. Allotted to East-Manasseh.",
+    "abd": "1:623",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          11,
+          12,
+          30,
+          31
+        ]
+      }
+    ]
+  },
+  "bamoth-baal": {
+    "name": "Bamoth Baal",
+    "name_alt": [
+      "Bamoth"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Unidentified high-place site in Reuben's allotment. The name ('high places of Baal') suggests a cult installation; possibly the Bamoth of Num 21:19-20 near the slopes of Pisgah, but no firm location.",
+    "abd": "1:619",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          17
+        ]
+      }
+    ]
+  },
+  "beth-baal-meon": {
+    "name": "Beth Baal Meon",
+    "name_alt": [
+      "Baal Meon",
+      "Beth Meon"
+    ],
+    "coords": [
+      31.66,
+      35.738
+    ],
+    "tier": "probable",
+    "id": "Generally identified with Khirbet Maʿin southwest of Madaba. The Mesha Stele attributes its rebuilding to the Moabite king, suggesting it was a fortified Moabite town in Iron II.",
+    "abd": "1:550",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          17
+        ]
+      }
+    ]
+  },
+  "jahaz": {
+    "name": "Jahaz",
+    "name_alt": [
+      "Jahzah"
+    ],
+    "coords": [
+      31.59,
+      35.94
+    ],
+    "tier": "conjectural",
+    "id": "Probably Khirbet el-Medeiyineh on the Wadi eth-Themed, on the eastern edge of the Mishor. Disputed; other proposals include Khirbet Iskander. Site of the battle in which Sihon was defeated (Num 21:23).",
+    "abd": "3:612",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          18
+        ]
+      }
+    ]
+  },
+  "kedemoth": {
+    "name": "Kedemoth",
+    "name_alt": [],
+    "coords": [
+      31.5,
+      36.07
+    ],
+    "tier": "conjectural",
+    "id": "An eastern town of Reuben near the desert fringe; proposed sites include es-Saliyeh and Khirbet er-Remeil. The 'wilderness of Kedemoth' (Deut 2:26) lies just east of here.",
+    "abd": "4:10",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          18
+        ]
+      }
+    ]
+  },
+  "mephaath": {
+    "name": "Mephaath",
+    "name_alt": [],
+    "coords": [
+      31.91,
+      35.928
+    ],
+    "tier": "conjectural",
+    "id": "Probably Tell Jawah south of Amman, or alternatively Khirbet Nefa'a; mentioned by Eusebius as a Roman garrison post against the desert.",
+    "abd": "4:696",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          18
+        ]
+      }
+    ]
+  },
+  "kiriathaim": {
+    "name": "Kiriathaim",
+    "name_alt": [],
+    "coords": [
+      31.78,
+      35.71
+    ],
+    "tier": "conjectural",
+    "id": "A 'twin city' of Reuben, possibly Qaryat el-Mekhayyat west of Madaba near Mount Nebo; another candidate is Khirbet el-Qureiyat. The Mesha Stele names a Moabite Kiriathaim, presumably the same.",
+    "abd": "4:84",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          19
+        ]
+      }
+    ]
+  },
+  "sibmah": {
+    "name": "Sibmah",
+    "name_alt": [
+      "Sebam"
+    ],
+    "coords": [
+      31.785,
+      35.77
+    ],
+    "tier": "conjectural",
+    "id": "A Reubenite town near Heshbon, famed for its vineyards (Isa 16:8-9, Jer 48:32). Often identified with Khirbet Qarn el-Kibsh, but the location is not secure.",
+    "abd": "6:1",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          19
+        ]
+      }
+    ]
+  },
+  "zereth-shahar": {
+    "name": "Zereth Shahar",
+    "name_alt": [],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Unidentified. The Hebrew suggests 'splendor of dawn'; located 'on the mount of the valley'. Some have proposed Zarat on the east Dead Sea shore, but the geographic indicator points to a hill site.",
+    "abd": "6:1083",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          19
+        ]
+      }
+    ]
+  },
+  "beth-peor": {
+    "name": "Beth Peor",
+    "name_alt": [
+      "the place opposite Beth Peor"
+    ],
+    "coords": [
+      31.78,
+      35.7
+    ],
+    "tier": "conjectural",
+    "id": "A site on the slopes east of the Jordan opposite Jericho, near Pisgah; the burial place of Moses (Deut 34:6) is 'in the valley opposite Beth Peor'. Proposals cluster on the slopes of Mount Nebo (Khirbet ʿAyun Musa, Khirbet esh-Sheikh Jayil).",
+    "abd": "1:692",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          20
+        ]
+      }
+    ]
+  },
+  "jazer": {
+    "name": "Jazer",
+    "name_alt": [
+      "Jaazer"
+    ],
+    "coords": [
+      31.953,
+      35.781
+    ],
+    "tier": "probable",
+    "id": "Generally located at Khirbet Jazzir near es-Salt in northern Gilead, though Khirbet es-Sar has also been proposed. A Levitical city assigned to the Merarites; later Ammonite during the divided monarchy.",
+    "abd": "3:650",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          25
+        ]
+      }
+    ]
+  },
+  "rabbah-ammon": {
+    "name": "Rabbah",
+    "name_alt": [
+      "Rabbath-ammon",
+      "Amman",
+      "Philadelphia"
+    ],
+    "coords": [
+      31.953,
+      35.933
+    ],
+    "tier": "identified",
+    "id": "The Ammonite capital, modern Amman. The acropolis (Jebel al-Qalʿa) preserves continuous occupation from the Bronze Age. Renamed Philadelphia in the Hellenistic period.",
+    "abd": "5:598",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          25
+        ]
+      }
+    ]
+  },
+  "ramath-mizpeh": {
+    "name": "Ramath Mizpeh",
+    "name_alt": [
+      "Mizpah of Gilead",
+      "Ramoth-gilead"
+    ],
+    "coords": [
+      32.18,
+      35.74
+    ],
+    "tier": "conjectural",
+    "id": "Often identified with Tell er-Rumeith further north, or with Khirbet Jelad or Tell Suf in central Gilead. May or may not be the same as Ramoth-gilead; the relationship is unsettled.",
+    "abd": "5:617",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          26
+        ]
+      }
+    ]
+  },
+  "betonim": {
+    "name": "Betonim",
+    "name_alt": [
+      "Khirbet Batneh"
+    ],
+    "coords": [
+      32.067,
+      35.793
+    ],
+    "tier": "probable",
+    "id": "Identified with Khirbet Batneh, southwest of es-Salt in central Gilead. The toponym preserves the ancient name.",
+    "abd": "1:707",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          26
+        ]
+      }
+    ]
+  },
+  "mahanaim": {
+    "name": "Mahanaim",
+    "name_alt": [
+      "Tell edh-Dhahab"
+    ],
+    "coords": [
+      32.205,
+      35.625
+    ],
+    "tier": "probable",
+    "id": "On the Jabbok in northern Gilead. Two adjacent mounds, Tell edh-Dhahab el-Gharbi (west) and el-Sharqi (east), are both candidates. A Levitical city; refuge of David during Absalom's revolt (2 Sam 17).",
+    "abd": "4:472",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          26,
+          30
+        ]
+      }
+    ]
+  },
+  "debir-east": {
+    "name": "Debir (eastern)",
+    "name_alt": [
+      "Lo-debar?"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "An eastern Debir on Gad's border, distinct from the southern Debir (Khirbet Rabud) of Joshua 10–12. Possibly the same as Lo-debar (2 Sam 9:4) in Gilead, but the identification is not secure.",
+    "abd": "2:115",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          26
+        ]
+      }
+    ]
+  },
+  "beth-haram": {
+    "name": "Beth Haram",
+    "name_alt": [
+      "Beth-haran",
+      "Tell Iktanu"
+    ],
+    "coords": [
+      31.837,
+      35.62
+    ],
+    "tier": "conjectural",
+    "id": "A Jordan-valley town of Gad; candidates include Tell Iktanu and Tell er-Rama north of the Dead Sea. Later Hellenistic Livias/Julias.",
+    "abd": "1:680",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          27
+        ]
+      }
+    ]
+  },
+  "beth-nimrah": {
+    "name": "Beth Nimrah",
+    "name_alt": [
+      "Tell Nimrin",
+      "Tell el-Bleibil"
+    ],
+    "coords": [
+      31.9,
+      35.625
+    ],
+    "tier": "probable",
+    "id": "Generally identified with Tell Nimrin / Tell el-Bleibil on the Wadi Nimrin in the Jordan valley north of the Dead Sea. Toponym preserved in the wadi name.",
+    "abd": "1:692",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          27
+        ]
+      }
+    ]
+  },
+  "succoth-east": {
+    "name": "Succoth",
+    "name_alt": [
+      "Tell Deir ʿAlla"
+    ],
+    "coords": [
+      32.196,
+      35.62
+    ],
+    "tier": "probable",
+    "id": "Tell Deir ʿAlla in the lower Jabbok / Jordan confluence area. Distinct from the Egyptian Succoth of the exodus narrative. Excavations have revealed a major Late Bronze and Iron Age sanctuary, including the Aramaic Balaam plaster text.",
+    "abd": "6:217",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          27
+        ]
+      }
+    ]
+  },
+  "zaphon": {
+    "name": "Zaphon",
+    "name_alt": [],
+    "coords": [
+      32.31,
+      35.62
+    ],
+    "tier": "conjectural",
+    "id": "A Jordan-valley town of Gad. Candidates include Tell el-Mazar and Tell el-Qos on the east bank of the Jordan north of Succoth. Not to be confused with the mythological Mount Zaphon (Jebel al-Aqra) in northern Syria.",
+    "abd": "6:1040",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 13,
+        "verses": [
+          27
         ]
       }
     ]

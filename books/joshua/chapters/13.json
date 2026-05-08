@@ -1,0 +1,179 @@
+{
+  "title": "Land Yet to Be Conquered",
+  "places": [
+    "shihor", "ekron", "gaza", "ashdod", "ashkelon", "gath", "avvim",
+    "mearah", "sidon", "aphek-of-amorites",
+    "gebal", "lebanon-region", "baal-gad", "mount-hermon", "lebo-hamath",
+    "misrephoth-maim", "jordan",
+    "aroer", "arnon", "medeba", "dibon", "heshbon",
+    "gilead", "bashan", "salecah", "ashtaroth", "edrei",
+    "bamoth-baal", "beth-baal-meon", "jahaz", "kedemoth", "mephaath",
+    "kiriathaim", "sibmah", "zereth-shahar",
+    "beth-peor", "pisgah", "beth-jeshimoth",
+    "jazer", "rabbah-ammon", "ramath-mizpeh", "betonim", "mahanaim", "debir-east",
+    "beth-haram", "beth-nimrah", "succoth-east", "zaphon", "chinneroth",
+    "jericho"
+  ],
+  "tribes": ["reuben", "gad", "manasseh-east"],
+  "view": {
+    "center": [32.0, 35.5],
+    "zoom": 7
+  },
+  "placeIndex": true,
+  "verses": [
+    {
+      "n": 1,
+      "html": "Now Joshua was old and well advanced in years. Yahweh said to him, &ldquo;You are old and advanced in years, and there remains yet very much land to be possessed."
+    },
+    {
+      "n": 2,
+      "html": "&ldquo;This is the land that still remains: all the regions of the Philistines, and all the Geshurites;"
+    },
+    {
+      "n": 3,
+      "html": "from the <span class=\"place\" data-key=\"shihor\">Shihor</span><sup class=\"footnote-marker\">1</sup>, which is before Egypt, even to the border of <span class=\"place\" data-key=\"ekron\">Ekron</span> northward, which is counted as Canaanite; the five lords of the Philistines; the <span class=\"place\" data-key=\"gaza\">Gazites</span>, and the <span class=\"place\" data-key=\"ashdod\">Ashdodites</span>, the <span class=\"place\" data-key=\"ashkelon\">Ashkelonites</span>, the <span class=\"place\" data-key=\"gath\">Gittites</span>, and the <span class=\"place\" data-key=\"ekron\">Ekronites</span>; also the <span class=\"place\" data-key=\"avvim\">Avvim</span>,"
+    },
+    {
+      "n": 4,
+      "html": "on the south; all the land of the Canaanites, and <span class=\"place\" data-key=\"mearah\">Mearah</span> that belongs to the <span class=\"place\" data-key=\"sidon\">Sidonians</span>, to <span class=\"place\" data-key=\"aphek-of-amorites\">Aphek</span><sup class=\"footnote-marker\">2</sup>, to the border of the Amorites;"
+    },
+    {
+      "n": 5,
+      "html": "and the land of the <span class=\"place\" data-key=\"gebal\">Gebalites</span>, and all <span class=\"place\" data-key=\"lebanon-region\">Lebanon</span>, toward the sunrise, from <span class=\"place\" data-key=\"baal-gad\">Baal Gad</span> under <span class=\"place\" data-key=\"mount-hermon\">Mount Hermon</span> to the entrance of <span class=\"place\" data-key=\"lebo-hamath\">Hamath</span><sup class=\"footnote-marker\">3</sup>;"
+    },
+    {
+      "n": 6,
+      "html": "all the inhabitants of the hill country from <span class=\"place\" data-key=\"lebanon-region\">Lebanon</span> to <span class=\"place\" data-key=\"misrephoth-maim\">Misrephoth Maim</span>, even all the <span class=\"place\" data-key=\"sidon\">Sidonians</span>. I will drive them out from before the children of Israel. Just allocate it to Israel for an inheritance, as I have commanded you."
+    },
+    {
+      "n": 7,
+      "html": "Now therefore divide this land for an inheritance to the nine tribes and the half-tribe of Manasseh.&rdquo;"
+    },
+    {
+      "n": 8,
+      "html": "With him the Reubenites and the Gadites received their inheritance, which Moses gave them, beyond the <span class=\"place\" data-key=\"jordan\">Jordan</span> eastward, even as Moses the servant of Yahweh gave them:"
+    },
+    {
+      "n": 9,
+      "html": "from <span class=\"place\" data-key=\"aroer\">Aroer</span>, that is on the edge of the valley of the <span class=\"place\" data-key=\"arnon\">Arnon</span>, and the city that is in the middle of the valley, and all the plain of <span class=\"place\" data-key=\"medeba\">Medeba</span> to <span class=\"place\" data-key=\"dibon\">Dibon</span>;"
+    },
+    {
+      "n": 10,
+      "html": "and all the cities of Sihon king of the Amorites, who reigned in <span class=\"place\" data-key=\"heshbon\">Heshbon</span>, to the border of the children of Ammon;"
+    },
+    {
+      "n": 11,
+      "html": "and <span class=\"place\" data-key=\"gilead\">Gilead</span>, and the border of the Geshurites and Maacathites, and all <span class=\"place\" data-key=\"mount-hermon\">Mount Hermon</span>, and all <span class=\"place\" data-key=\"bashan\">Bashan</span> to <span class=\"place\" data-key=\"salecah\">Salecah</span>;"
+    },
+    {
+      "n": 12,
+      "html": "all the kingdom of Og in <span class=\"place\" data-key=\"bashan\">Bashan</span>, who reigned in <span class=\"place\" data-key=\"ashtaroth\">Ashtaroth</span> and in <span class=\"place\" data-key=\"edrei\">Edrei</span> (who was left of the remnant of the Rephaim); for Moses attacked these, and drove them out."
+    },
+    {
+      "n": 13,
+      "html": "Nevertheless the children of Israel didn&rsquo;t drive out the Geshurites, nor the Maacathites: but Geshur and Maacath live within Israel to this day."
+    },
+    {
+      "n": 14,
+      "html": "Only he gave no inheritance to the tribe of Levi. The offerings of Yahweh, the God of Israel, made by fire are his inheritance, as he spoke to him."
+    },
+    {
+      "n": 15,
+      "html": "Moses gave to the tribe of the children of Reuben according to their families."
+    },
+    {
+      "n": 16,
+      "html": "Their border was from <span class=\"place\" data-key=\"aroer\">Aroer</span>, that is on the edge of the valley of the <span class=\"place\" data-key=\"arnon\">Arnon</span>, and the city that is in the middle of the valley, and all the plain by <span class=\"place\" data-key=\"medeba\">Medeba</span>;"
+    },
+    {
+      "n": 17,
+      "html": "<span class=\"place\" data-key=\"heshbon\">Heshbon</span>, and all its cities that are in the plain; <span class=\"place\" data-key=\"dibon\">Dibon</span>, <span class=\"place\" data-key=\"bamoth-baal\">Bamoth Baal</span>, <span class=\"place\" data-key=\"beth-baal-meon\">Beth Baal Meon</span>,"
+    },
+    {
+      "n": 18,
+      "html": "<span class=\"place\" data-key=\"jahaz\">Jahaz</span>, <span class=\"place\" data-key=\"kedemoth\">Kedemoth</span>, <span class=\"place\" data-key=\"mephaath\">Mephaath</span>,"
+    },
+    {
+      "n": 19,
+      "html": "<span class=\"place\" data-key=\"kiriathaim\">Kiriathaim</span>, <span class=\"place\" data-key=\"sibmah\">Sibmah</span>, <span class=\"place\" data-key=\"zereth-shahar\">Zereth Shahar</span> in the mount of the valley,"
+    },
+    {
+      "n": 20,
+      "html": "<span class=\"place\" data-key=\"beth-peor\">Beth Peor</span>, the slopes of <span class=\"place\" data-key=\"pisgah\">Pisgah</span>, <span class=\"place\" data-key=\"beth-jeshimoth\">Beth Jeshimoth</span>,"
+    },
+    {
+      "n": 21,
+      "html": "all the cities of the plain, and all the kingdom of Sihon king of the Amorites, who reigned in <span class=\"place\" data-key=\"heshbon\">Heshbon</span>, whom Moses struck with the chiefs of Midian, Evi, Rekem, Zur, Hur, and Reba, the princes of Sihon, who lived in the land."
+    },
+    {
+      "n": 22,
+      "html": "The children of Israel also killed Balaam the son of Beor, the soothsayer, with the sword, among the rest of their slain."
+    },
+    {
+      "n": 23,
+      "html": "The border of the children of Reuben was the bank of the <span class=\"place\" data-key=\"jordan\">Jordan</span>. This was the inheritance of the children of Reuben according to their families, the cities and its villages."
+    },
+    {
+      "n": 24,
+      "html": "Moses gave to the tribe of Gad, to the children of Gad, according to their families."
+    },
+    {
+      "n": 25,
+      "html": "Their border was <span class=\"place\" data-key=\"jazer\">Jazer</span>, and all the cities of <span class=\"place\" data-key=\"gilead\">Gilead</span>, and half the land of the children of Ammon, to <span class=\"place\" data-key=\"aroer\">Aroer</span> that is near <span class=\"place\" data-key=\"rabbah-ammon\">Rabbah</span><sup class=\"footnote-marker\">4</sup>;"
+    },
+    {
+      "n": 26,
+      "html": "and from <span class=\"place\" data-key=\"heshbon\">Heshbon</span> to <span class=\"place\" data-key=\"ramath-mizpeh\">Ramath Mizpeh</span>, and <span class=\"place\" data-key=\"betonim\">Betonim</span>; and from <span class=\"place\" data-key=\"mahanaim\">Mahanaim</span> to the border of <span class=\"place\" data-key=\"debir-east\">Debir</span><sup class=\"footnote-marker\">5</sup>;"
+    },
+    {
+      "n": 27,
+      "html": "and in the valley, <span class=\"place\" data-key=\"beth-haram\">Beth Haram</span>, <span class=\"place\" data-key=\"beth-nimrah\">Beth Nimrah</span>, <span class=\"place\" data-key=\"succoth-east\">Succoth</span>, and <span class=\"place\" data-key=\"zaphon\">Zaphon</span>, the rest of the kingdom of Sihon king of <span class=\"place\" data-key=\"heshbon\">Heshbon</span>, the <span class=\"place\" data-key=\"jordan\">Jordan</span>&rsquo;s bank, to the uttermost part of the sea of <span class=\"place\" data-key=\"chinneroth\">Chinnereth</span> beyond the <span class=\"place\" data-key=\"jordan\">Jordan</span> eastward."
+    },
+    {
+      "n": 28,
+      "html": "This is the inheritance of the children of Gad according to their families, the cities and its villages."
+    },
+    {
+      "n": 29,
+      "html": "Moses gave an inheritance to the half-tribe of Manasseh. It was for the half-tribe of the children of Manasseh according to their families."
+    },
+    {
+      "n": 30,
+      "html": "Their border was from <span class=\"place\" data-key=\"mahanaim\">Mahanaim</span>, all <span class=\"place\" data-key=\"bashan\">Bashan</span>, all the kingdom of Og king of <span class=\"place\" data-key=\"bashan\">Bashan</span>, and all the villages of Jair, which are in <span class=\"place\" data-key=\"bashan\">Bashan</span>, sixty cities."
+    },
+    {
+      "n": 31,
+      "html": "Half <span class=\"place\" data-key=\"gilead\">Gilead</span>, <span class=\"place\" data-key=\"ashtaroth\">Ashtaroth</span>, and <span class=\"place\" data-key=\"edrei\">Edrei</span>, the cities of the kingdom of Og in <span class=\"place\" data-key=\"bashan\">Bashan</span>, were for the children of Machir the son of Manasseh, even for the half of the children of Machir according to their families."
+    },
+    {
+      "n": 32,
+      "html": "These are the inheritances which Moses distributed in the plains of Moab, beyond the <span class=\"place\" data-key=\"jordan\">Jordan</span> at <span class=\"place\" data-key=\"jericho\">Jericho</span>, eastward."
+    },
+    {
+      "n": 33,
+      "html": "But Moses gave no inheritance to the tribe of Levi. Yahweh, the God of Israel, is their inheritance, as he spoke to them."
+    }
+  ],
+  "footnotes": [
+    {
+      "n": 1,
+      "html": "<strong>Shihor</strong> (v.&nbsp;3) is most often identified with the Wadi El-Arish (the &lsquo;Brook of Egypt&rsquo;), the traditional southwestern boundary of the promised land. A minority view reads it as the easternmost Pelusiac branch of the Nile; the Hebrew word elsewhere clearly denotes a Nile distributary (Isa 23:3; Jer 2:18). For the boundary purpose here, Wadi El-Arish is the preferred reading."
+    },
+    {
+      "n": 2,
+      "html": "<strong>Aphek</strong> (v.&nbsp;4) is a northern Aphek, distinct from the Sharon Aphek (Joshua 12:18) and from the Aphek of the Aramean wars (1 Kgs 20:26-30). The text places it &lsquo;to the border of the Amorites&rsquo; in the orbit of Sidon. Two candidates have been proposed: Afqa at the source of the Nahr Ibrahim in Lebanon, and Tell Afaq southeast of Damascus. The pin marks Afqa."
+    },
+    {
+      "n": 3,
+      "html": "<strong>The entrance of Hamath</strong> (Hebrew <em>Lebo Hamath</em>, v.&nbsp;5) marks the northern frontier of the promised land at the watershed pass into the Orontes basin, traditionally located at modern Lebweh in the northern Beqaa. The line stops short of Hamath proper (modern Hama, Syria), which lay further north."
+    },
+    {
+      "n": 4,
+      "html": "<strong>Aroer that is near Rabbah</strong> (v.&nbsp;25) appears to be a second Aroer, distinct from the famous Aroer on the rim of the Arnon canyon (v.&nbsp;16). Its location is uncertain; some commentators have suspected textual corruption, while others place it among the wadis east of Amman (Rabbath-Ammon). The pin reuses the Arnon Aroer as a placeholder; the gazetteer notes the ambiguity."
+    },
+    {
+      "n": 5,
+      "html": "<strong>Debir</strong> (v.&nbsp;26) here is an eastern site on Gad&rsquo;s border, distinct from the southern Debir / Khirbet Rabud captured by Joshua (10:38-39, 12:13). Some have proposed identifying it with Lo-debar (2 Sam 9:4) in Gilead, but the location remains uncertain; no pin is placed."
+    }
+  ]
+}
