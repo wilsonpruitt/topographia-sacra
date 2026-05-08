@@ -1140,6 +1140,22 @@
           27,
           31
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 15,
+        "verses": [
+          2,
+          4
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          21,
+          22
+        ]
       }
     ]
   },
@@ -10111,6 +10127,13 @@
         "verses": [
           19
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 15,
+        "verses": [
+          1
+        ]
       }
     ]
   },
@@ -10149,6 +10172,13 @@
         "chapter": 9,
         "verses": [
           31
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 15,
+        "verses": [
+          3
         ]
       }
     ]
@@ -10442,6 +10472,13 @@
         "verses": [
           9
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          2
+        ]
       }
     ]
   },
@@ -10473,6 +10510,13 @@
         "verses": [
           9
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          6
+        ]
       }
     ]
   },
@@ -10494,6 +10538,20 @@
         "chapter": 2,
         "verses": [
           10
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          6
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          23
         ]
       }
     ]
@@ -10528,6 +10586,13 @@
         "chapter": 14,
         "verses": [
           24
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 15,
+        "verses": [
+          38
         ]
       }
     ]
@@ -10618,6 +10683,13 @@
         "verses": [
           10
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          2
+        ]
       }
     ]
   },
@@ -10699,6 +10771,13 @@
         "verses": [
           4
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 15,
+        "verses": [
+          39
+        ]
       }
     ]
   },
@@ -10749,6 +10828,23 @@
         "verses": [
           26
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 15,
+        "verses": [
+          22,
+          23,
+          30,
+          35
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          22
+        ]
       }
     ]
   },
@@ -10771,6 +10867,13 @@
         "verses": [
           9
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          24
+        ]
       }
     ]
   },
@@ -10790,6 +10893,14 @@
         "chapter": 6,
         "verses": [
           9
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 15,
+        "verses": [
+          23,
+          41
         ]
       }
     ]
@@ -10992,6 +11103,13 @@
         "verses": [
           19
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          22
+        ]
       }
     ]
   },
@@ -11146,6 +11264,13 @@
         "chapter": 11,
         "verses": [
           19
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 15,
+        "verses": [
+          3
         ]
       }
     ]
@@ -11331,6 +11456,13 @@
           19,
           21
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          2
+        ]
       }
     ]
   },
@@ -11355,6 +11487,14 @@
           8,
           21
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          1,
+          2
+        ]
       }
     ]
   },
@@ -11378,6 +11518,13 @@
         "verses": [
           6,
           20
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          1
         ]
       }
     ]
@@ -11420,6 +11567,515 @@
         "chapter": 14,
         "verses": [
           6
+        ]
+      }
+    ]
+  },
+  "syria": {
+    "name": "Syria",
+    "name_alt": [
+      "Roman Syria",
+      "Syria-Palaestina"
+    ],
+    "coords": [
+      35.0,
+      37.0
+    ],
+    "tier": "region",
+    "id": "The Roman province formed in 64 B.C. by Pompey out of the late Seleucid kingdom; capital at Antioch on the Orontes. In the apostolic period the province also incorporated Phoenicia, Cilicia (intermittently), and Judea (until A.D. 6).",
+    "abd": "6:260",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 15,
+        "verses": [
+          23,
+          41
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          18
+        ]
+      }
+    ]
+  },
+  "galatia": {
+    "name": "Galatia",
+    "name_alt": [
+      "the Galatian region"
+    ],
+    "coords": [
+      39.0,
+      33.0
+    ],
+    "tier": "region",
+    "id": "The Roman province (formed 25 B.C.) covering north-central Anatolia, named for the Celtic tribes (Galatae) settled there in the third century B.C. The province at its largest also included Pisidia, Lycaonia, and parts of Phrygia &mdash; which is why Acts can locate Iconium, Lystra, and Derbe variously in 'Galatia' and in Lycaonia.",
+    "abd": "2:870",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          6
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          23
+        ]
+      }
+    ]
+  },
+  "mysia": {
+    "name": "Mysia",
+    "name_alt": [],
+    "coords": [
+      40.0,
+      28.0
+    ],
+    "tier": "region",
+    "id": "The northwestern region of Anatolia, between Bithynia (north), Lydia and Phrygia (south), and the Aegean and Hellespont (west). Administratively part of Roman Asia. Troas lies within Mysia at its northwestern corner.",
+    "abd": "4:933",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          7,
+          8
+        ]
+      }
+    ]
+  },
+  "bithynia": {
+    "name": "Bithynia",
+    "name_alt": [
+      "Bithynia and Pontus"
+    ],
+    "coords": [
+      41.0,
+      30.5
+    ],
+    "tier": "region",
+    "id": "The Roman province on the southern Black Sea coast (Asia Minor), combined with Pontus from 63 B.C. Capital at Nicomedia. Pliny the Younger&rsquo;s correspondence with Trajan c. A.D. 110 was written from this province.",
+    "abd": "1:750",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          7
+        ]
+      }
+    ]
+  },
+  "troas": {
+    "name": "Troas",
+    "name_alt": [
+      "Alexandria Troas",
+      "Dalyan"
+    ],
+    "coords": [
+      39.7522,
+      26.1592
+    ],
+    "tier": "identified",
+    "id": "Alexandria Troas on the Aegean coast of Mysia, founded by Antigonus c. 310 B.C. and refounded by Lysimachus. A Roman colony from c. 12 B.C. The natural embarkation port for crossings to Macedonia. Distinct from the Homeric Troy / Hisarlik some 30 km to the north.",
+    "abd": "6:666",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          8,
+          11
+        ]
+      }
+    ]
+  },
+  "macedonia": {
+    "name": "Macedonia",
+    "name_alt": [
+      "Roman Macedonia",
+      "Makedonia"
+    ],
+    "coords": [
+      41.0,
+      22.5
+    ],
+    "tier": "region",
+    "id": "The Roman province (formed 146 B.C.) covering northern Greece, the Vardar/Axios valley, and adjacent territories. Capital at Thessalonica from 27 B.C. The 'Macedonian vision' of Acts 16:9 brings the gospel into Europe for the first time.",
+    "abd": "4:454",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          9,
+          10,
+          12
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          5
+        ]
+      }
+    ]
+  },
+  "samothrace": {
+    "name": "Samothrace",
+    "name_alt": [
+      "Samothraki"
+    ],
+    "coords": [
+      40.45,
+      25.55
+    ],
+    "tier": "identified",
+    "id": "A small mountainous island in the northern Aegean, c. 60 km off the Thracian coast. Famous in antiquity for the Sanctuary of the Great Gods (the Cabeiroi); the Hellenistic Winged Victory of Samothrace was carved here. The standard overnight stop for ships crossing from Troas to Neapolis.",
+    "abd": "5:949",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          11
+        ]
+      }
+    ]
+  },
+  "neapolis": {
+    "name": "Neapolis",
+    "name_alt": [
+      "Kavala",
+      "Christoupolis"
+    ],
+    "coords": [
+      40.9388,
+      24.4048
+    ],
+    "tier": "identified",
+    "id": "On the Macedonian coast c. 14 km southeast of Philippi, modern Kavala. The harbor served Philippi and was the standard western terminus of the sea route from Asia Minor.",
+    "abd": "4:1051",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          11
+        ]
+      }
+    ]
+  },
+  "philippi": {
+    "name": "Philippi",
+    "name_alt": [
+      "Krenides",
+      "Filippoi"
+    ],
+    "coords": [
+      41.0136,
+      24.2864
+    ],
+    "tier": "identified",
+    "id": "On a hill above the Egnatian Way c. 14 km inland from Neapolis, refounded by Philip II of Macedon (hence the name) on the older site of Krenides. A Roman colony (<em>Colonia Augusta Iulia Philippensis</em>) from 42 B.C. after the battle of Philippi where Antony and Octavian defeated Brutus and Cassius. The 'foremost city of the district' in v.&nbsp;16:12.",
+    "abd": "5:313",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          12
+        ]
+      }
+    ]
+  },
+  "thyatira": {
+    "name": "Thyatira",
+    "name_alt": [
+      "Akhisar"
+    ],
+    "coords": [
+      38.9176,
+      27.8369
+    ],
+    "tier": "identified",
+    "id": "Modern Akhisar in western Anatolia (Roman Asia), a centre of guild industry famous for purple-dye production (cf. Lydia, the &lsquo;seller of purple&rsquo;, v.&nbsp;16:14). One of the seven cities addressed in Revelation 2:18-29.",
+    "abd": "6:546",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 16,
+        "verses": [
+          14
+        ]
+      }
+    ]
+  },
+  "amphipolis": {
+    "name": "Amphipolis",
+    "name_alt": [],
+    "coords": [
+      40.8264,
+      23.8439
+    ],
+    "tier": "identified",
+    "id": "On the Strymon river c. 50 km southwest of Philippi, on the Egnatian Way. Founded as an Athenian colony in 437 B.C., capital of the Macedonian district under the Romans. The Lion of Amphipolis monument and the Kasta Hill tomb (likely Hellenistic-era) remain visible.",
+    "abd": "1:218",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 17,
+        "verses": [
+          1
+        ]
+      }
+    ]
+  },
+  "apollonia-macedonia": {
+    "name": "Apollonia (Macedonian)",
+    "name_alt": [],
+    "coords": [
+      40.6234,
+      23.4569
+    ],
+    "tier": "conjectural",
+    "id": "On the Egnatian Way between Amphipolis and Thessalonica, generally located near modern Nea Apollonia by Lake Volvi. Distinct from the better-known Illyrian Apollonia (modern Albania) and from the Pisidian Apollonia.",
+    "abd": "1:301",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 17,
+        "verses": [
+          1
+        ]
+      }
+    ]
+  },
+  "thessalonica": {
+    "name": "Thessalonica",
+    "name_alt": [
+      "Thessaloniki",
+      "Salonica",
+      "Salonika"
+    ],
+    "coords": [
+      40.6401,
+      22.9444
+    ],
+    "tier": "identified",
+    "id": "On the Thermaic Gulf, founded by Cassander in 315 B.C. and named for his wife (Alexander&rsquo;s half-sister). Capital of Roman Macedonia from 27 B.C. The principal commercial city of the northern Aegean and the eastern terminus of the Egnatian Way.",
+    "abd": "6:523",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 17,
+        "verses": [
+          1,
+          11,
+          13
+        ]
+      }
+    ]
+  },
+  "beroea": {
+    "name": "Beroea",
+    "name_alt": [
+      "Veria",
+      "Berea"
+    ],
+    "coords": [
+      40.5238,
+      22.2014
+    ],
+    "tier": "identified",
+    "id": "Modern Veria, c. 75 km west of Thessalonica on a tributary of the Haliacmon river. A modest Macedonian city of mixed population; the &lsquo;more noble&rsquo; Jews of v.&nbsp;17:11 examine the scriptures daily.",
+    "abd": "1:677",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 17,
+        "verses": [
+          10,
+          13
+        ]
+      }
+    ]
+  },
+  "athens": {
+    "name": "Athens",
+    "name_alt": [
+      "Athenai"
+    ],
+    "coords": [
+      37.9755,
+      23.7348
+    ],
+    "tier": "identified",
+    "id": "In Roman Achaia, by the apostolic period a renowned cultural centre well past its political prime. The agora, Areopagus rock, and Acropolis remained the principal sites of intellectual and civic life.",
+    "abd": "1:513",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 17,
+        "verses": [
+          15,
+          16,
+          22
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          1
+        ]
+      }
+    ]
+  },
+  "areopagus": {
+    "name": "Areopagus",
+    "name_alt": [
+      "Hill of Ares",
+      "Mars Hill"
+    ],
+    "coords": [
+      37.9722,
+      23.7233
+    ],
+    "tier": "identified",
+    "id": "The rocky hill northwest of the Athenian Acropolis where the ancient council of Areopagus met. By the Roman period its judicial and supervisory role was reduced; the council still oversaw matters of religion and education, which is why a new teaching like Paul&rsquo;s would naturally come before it.",
+    "abd": "1:370",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 17,
+        "verses": [
+          19,
+          22
+        ]
+      }
+    ]
+  },
+  "corinth": {
+    "name": "Corinth",
+    "name_alt": [
+      "Korinthos",
+      "Ancient Corinth"
+    ],
+    "coords": [
+      37.9056,
+      22.8794
+    ],
+    "tier": "identified",
+    "id": "On the isthmus between mainland Greece and the Peloponnese, capital of Roman Achaia. Refounded by Julius Caesar in 44 B.C. as a Roman colony after the city&rsquo;s destruction by Mummius in 146 B.C. Its commercial wealth (controlling both the Saronic and Corinthian gulf trade) and reputation for moral laxity are reflected in the Pauline correspondence.",
+    "abd": "1:1134",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          1
+        ]
+      }
+    ]
+  },
+  "italy": {
+    "name": "Italy",
+    "name_alt": [
+      "Italia"
+    ],
+    "coords": [
+      42.0,
+      13.0
+    ],
+    "tier": "region",
+    "id": "The Roman peninsula. Aquila and Priscilla&rsquo;s expulsion from Rome under Claudius (v.&nbsp;18:2) is independently attested by Suetonius (<em>Claud.</em> 25.4), who places the edict around A.D. 49 and gives the cause as disturbances within the Jewish community 'at the instigation of Chrestus' &mdash; usually read as an oblique reference to disputes about Christ.",
+    "abd": "3:587",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          2
+        ]
+      }
+    ]
+  },
+  "cenchreae": {
+    "name": "Cenchreae",
+    "name_alt": [
+      "Kechries"
+    ],
+    "coords": [
+      37.8836,
+      22.9928
+    ],
+    "tier": "identified",
+    "id": "The eastern port of Corinth on the Saronic Gulf, c. 11 km southeast of the city. Phoebe of Cenchreae carries the Roman correspondence (Rom 16:1).",
+    "abd": "1:881",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          18
+        ]
+      }
+    ]
+  },
+  "ephesus": {
+    "name": "Ephesus",
+    "name_alt": [
+      "Selçuk",
+      "Efes"
+    ],
+    "coords": [
+      37.9495,
+      27.3667
+    ],
+    "tier": "identified",
+    "id": "At the mouth of the Cayster river on the Aegean coast of Anatolia, near modern Selçuk. Capital of the Roman province of Asia. Famous for the Temple of Artemis (one of the seven wonders), the great theatre (Acts 19), and the imperial-cult shrines of the late first century.",
+    "abd": "2:542",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          19,
+          21,
+          24
+        ]
+      }
+    ]
+  },
+  "achaia": {
+    "name": "Achaia",
+    "name_alt": [
+      "Roman Achaia"
+    ],
+    "coords": [
+      38.0,
+      22.5
+    ],
+    "tier": "region",
+    "id": "The Roman senatorial province (from 27 B.C.) covering the Greek peninsula south of Macedonia: the Peloponnese, Boeotia, Attica, and the central Greek mainland. Capital at Corinth.",
+    "abd": "1:53",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 18,
+        "verses": [
+          12,
+          27
         ]
       }
     ]

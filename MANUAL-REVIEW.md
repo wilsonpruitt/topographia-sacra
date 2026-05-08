@@ -185,6 +185,17 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 - [ ] **Dan** — coastal plain; Leshem/Tel Dan northern enclave deliberately excluded (named only after the conquest in v. 47).
 All six marked `approximate: true`.
 
+## Acts 15-18 — gazetteer entries (21 added incl. Areopagus)
+
+- [ ] **Syria, Galatia, Mysia, Bithynia, Macedonia, Achaia, Italy** as region pins — confirm centroids.
+- [ ] **Troas** at Alexandria Troas (Dalyan) — secure.
+- [ ] **Samothrace, Neapolis (Kavala), Philippi, Thyatira, Amphipolis, Thessalonica, Beroea (Veria), Athens, Corinth, Cenchreae, Ephesus** — all secure identifications.
+- [ ] **Apollonia (Macedonian)** at Nea Apollonia near Lake Volvi — conjectural; verify whether to upgrade or downgrade tier.
+- [ ] **Areopagus** as a landmark within Athens — pin offset slightly NW of Athens centroid; consider whether this should be a separate gazetteer entry or folded as a name_alt on Athens.
+- [ ] **Routes** added to chs.16, 17, and 18 (Macedonian crossing, Egnatian Way through Macedonia, return voyage Athens → Corinth → Cenchreae → Ephesus → Caesarea → Antioch). Verify polylines render correctly across the wide ch.18 view.
+- [ ] **Acts 18:2 Claudius edict** — Suetonius Chresto reference noted.
+- [ ] **Acts 18:12 Gallio inscription at Delphi** — A.D. 51-52 dating noted; confirm.
+
 ## Acts 13-14 — gazetteer entries (11 added)
 
 - [ ] **Seleucia** at Çevlik / Samandağ — secure.
@@ -374,6 +385,10 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Acts 12
 - [ ] Acts 13
 - [ ] Acts 14
+- [ ] Acts 15
+- [ ] Acts 16
+- [ ] Acts 17
+- [ ] Acts 18
 
 ## Site-level
 

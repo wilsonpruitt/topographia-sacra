@@ -1,0 +1,43 @@
+{
+  "title": "Corinth; Return; Aquila and Priscilla",
+  "places": ["athens", "corinth", "pontus", "italy", "rome", "macedonia", "achaia", "syria", "cenchreae", "ephesus", "caesarea", "jerusalem", "antioch-syrian", "galatia", "phrygia", "alexandria"],
+  "route": ["athens", "corinth", "cenchreae", "ephesus", "caesarea", "jerusalem", "antioch-syrian"],
+  "view": {
+    "center": [36.0, 27.0],
+    "zoom": 5
+  },
+  "verses": [
+    {"n": 1, "html": "After these things Paul departed from <span class=\"place\" data-key=\"athens\">Athens</span> and came to <span class=\"place\" data-key=\"corinth\">Corinth</span>."},
+    {"n": 2, "html": "He found a certain Jew named Aquila, a man of <span class=\"place\" data-key=\"pontus\">Pontus</span> by race, who had recently come from <span class=\"place\" data-key=\"italy\">Italy</span> with his wife Priscilla, because Claudius had commanded all the Jews to depart from <span class=\"place\" data-key=\"rome\">Rome</span>.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 3, "html": "He came to them, and because he practiced the same trade, he lived with them and worked, for by trade they were tent makers."},
+    {"n": 4, "html": "He reasoned in the synagogue every Sabbath and persuaded Jews and Greeks."},
+    {"n": 5, "html": "When Silas and Timothy came down from <span class=\"place\" data-key=\"macedonia\">Macedonia</span>, Paul was compelled by the Spirit, testifying to the Jews that Jesus was the Christ."},
+    {"n": 6, "html": "When they opposed him and blasphemed, he shook out his clothing and said to them, &lsquo;Your blood be on your own heads! I am clean. From now on, I will go to the Gentiles!&rsquo;"},
+    {"n": 7, "html": "He departed there and went into the house of a certain man named Justus, one who worshiped God, whose house was next door to the synagogue."},
+    {"n": 8, "html": "Crispus, the ruler of the synagogue, believed in the Lord with all his house. Many of the Corinthians, when they heard, believed and were baptized."},
+    {"n": 9, "html": "The Lord said to Paul in the night by a vision, &lsquo;Don&rsquo;t be afraid, but speak and don&rsquo;t be silent;"},
+    {"n": 10, "html": "for I am with you, and no one will attack you to harm you, for I have many people in this city.&rsquo;"},
+    {"n": 11, "html": "He lived there a year and six months, teaching the word of God among them."},
+    {"n": 12, "html": "But when Gallio<sup class=\"footnote-marker\">2</sup> was proconsul of <span class=\"place\" data-key=\"achaia\">Achaia</span>, the Jews with one accord rose up against Paul and brought him before the judgment seat,"},
+    {"n": 13, "html": "saying, &lsquo;This man persuades men to worship God contrary to the law.&rsquo;"},
+    {"n": 14, "html": "But when Paul was about to open his mouth, Gallio said to the Jews, &lsquo;If indeed it were a matter of wrong or of wicked crime, you Jews, it would be reasonable that I should bear with you;"},
+    {"n": 15, "html": "but if they are questions about words and names and your own law, look to it yourselves. For I don&rsquo;t want to be a judge of these matters.&rsquo;"},
+    {"n": 16, "html": "So he drove them from the judgment seat."},
+    {"n": 17, "html": "Then all the Greeks seized Sosthenes, the ruler of the synagogue, and beat him before the judgment seat. Gallio didn&rsquo;t care about any of these things."},
+    {"n": 18, "html": "Paul, having stayed after this many more days, took his leave of the brothers, and sailed from there for <span class=\"place\" data-key=\"syria\">Syria</span>, together with Priscilla and Aquila. He shaved his head in <span class=\"place\" data-key=\"cenchreae\">Cenchreae</span>, for he had a vow."},
+    {"n": 19, "html": "He came to <span class=\"place\" data-key=\"ephesus\">Ephesus</span>, and he left them there; but he himself entered into the synagogue and reasoned with the Jews."},
+    {"n": 20, "html": "When they asked him to stay with them a longer time, he declined;"},
+    {"n": 21, "html": "but taking his leave of them, he said, &lsquo;I must by all means keep this coming feast in <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, but I will return again to you if God wills.&rsquo; Then he set sail from <span class=\"place\" data-key=\"ephesus\">Ephesus</span>."},
+    {"n": 22, "html": "When he had landed at <span class=\"place\" data-key=\"caesarea\">Caesarea</span>, he went up and greeted the assembly, and went down to <span class=\"place\" data-key=\"antioch-syrian\">Antioch</span>."},
+    {"n": 23, "html": "Having spent some time there, he departed and went through the region of <span class=\"place\" data-key=\"galatia\">Galatia</span> and <span class=\"place\" data-key=\"phrygia\">Phrygia</span>, in order, establishing all the disciples."},
+    {"n": 24, "html": "Now a certain Jew named Apollos, an <span class=\"place\" data-key=\"alexandria\">Alexandrian</span> by race, an eloquent man, came to <span class=\"place\" data-key=\"ephesus\">Ephesus</span>. He was mighty in the Scriptures."},
+    {"n": 25, "html": "This man had been instructed in the way of the Lord; and being fervent in spirit, he spoke and taught accurately the things concerning Jesus, although he knew only the baptism of John."},
+    {"n": 26, "html": "He began to speak boldly in the synagogue. But when Priscilla and Aquila heard him, they took him aside, and explained to him the way of God more accurately."},
+    {"n": 27, "html": "When he had determined to pass over into <span class=\"place\" data-key=\"achaia\">Achaia</span>, the brothers encouraged him; and wrote to the disciples to receive him. When he had come, he greatly helped those who had believed through grace,"},
+    {"n": 28, "html": "for he powerfully refuted the Jews, publicly showing by the Scriptures that Jesus was the Christ."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Claudius&rsquo;s expulsion of the Jews from Rome</strong> (v.&nbsp;2) &mdash; Suetonius (<em>Claud.</em> 25.4) records the same edict, dated by Orosius to A.D. 49. Suetonius gives the cause as disturbances within the Jewish community in Rome <em>impulsore Chresto</em> (&lsquo;at the instigation of Chrestus&rsquo;) &mdash; usually read as a confused reference to disputes about Christ. The detail is one of the chapter&rsquo;s anchors for absolute chronology and places Paul in Corinth around 49-51."},
+    {"n": 2, "html": "<strong>Gallio, proconsul of Achaia</strong> (v.&nbsp;12) &mdash; Lucius Junius Gallio Annaeanus, brother of the philosopher Seneca. The Delphi inscription preserving an imperial letter to Gallio dates his proconsulship to roughly July A.D. 51 to July 52, fixing Paul&rsquo;s appearance before him within that window. The chapter is therefore the firmest external date in the whole book of Acts."}
+  ]
+}
