@@ -1184,6 +1184,22 @@
           17,
           31
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 22,
+        "verses": [
+          5,
+          17,
+          18
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 24,
+        "verses": [
+          11
+        ]
       }
     ]
   },
@@ -2178,6 +2194,13 @@
         "chapter": 12,
         "verses": [
           20
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          3
         ]
       }
     ]
@@ -10184,6 +10207,13 @@
         "verses": [
           10
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 26,
+        "verses": [
+          20
+        ]
       }
     ]
   },
@@ -10379,6 +10409,13 @@
         "chapter": 10,
         "verses": [
           38
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 22,
+        "verses": [
+          8
         ]
       }
     ]
@@ -10594,6 +10631,13 @@
         "verses": [
           27
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          2
+        ]
       }
     ]
   },
@@ -10670,6 +10714,13 @@
         "chapter": 15,
         "verses": [
           38
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          5
         ]
       }
     ]
@@ -10774,6 +10825,21 @@
         "verses": [
           21
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 23,
+        "verses": [
+          11
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 28,
+        "verses": [
+          14,
+          16
+        ]
       }
     ]
   },
@@ -10795,6 +10861,16 @@
         "chapter": 2,
         "verses": [
           11
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          7,
+          12,
+          13,
+          21
         ]
       }
     ]
@@ -10868,6 +10944,13 @@
         "chapter": 21,
         "verses": [
           3
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          4
         ]
       }
     ]
@@ -10965,6 +11048,20 @@
         "verses": [
           24
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          6
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 28,
+        "verses": [
+          11
+        ]
       }
     ]
   },
@@ -10999,6 +11096,13 @@
         "chapter": 21,
         "verses": [
           39
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 22,
+        "verses": [
+          3
         ]
       }
     ]
@@ -11216,6 +11320,14 @@
           8,
           16
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 23,
+        "verses": [
+          23,
+          33
+        ]
       }
     ]
   },
@@ -11269,6 +11381,16 @@
           22,
           27
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 22,
+        "verses": [
+          5,
+          6,
+          10,
+          11
+        ]
       }
     ]
   },
@@ -11306,6 +11428,13 @@
         "chapter": 21,
         "verses": [
           39
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 22,
+        "verses": [
+          3
         ]
       }
     ]
@@ -11885,6 +12014,13 @@
           1,
           3
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          2
+        ]
       }
     ]
   },
@@ -12171,6 +12307,14 @@
         "chapter": 18,
         "verses": [
           2
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          1,
+          6
         ]
       }
     ]
@@ -12498,6 +12642,415 @@
         "chapter": 21,
         "verses": [
           7
+        ]
+      }
+    ]
+  },
+  "antipatris": {
+    "name": "Antipatris",
+    "name_alt": [
+      "Aphek (older name)",
+      "Tel Afek",
+      "Ras el-Ain"
+    ],
+    "coords": [
+      32.103,
+      34.935
+    ],
+    "tier": "identified",
+    "id": "Herod the Great&rsquo;s rebuilding of the older Aphek (Josh 12:18) at the springs of the Yarkon, named for his father Antipater. The standard overnight halt on the Jerusalem-Caesarea military road. Pin reuses Aphek&rsquo;s coordinates; the same tel is named in both lists.",
+    "abd": "1:272",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 23,
+        "verses": [
+          31
+        ]
+      }
+    ]
+  },
+  "adramyttium": {
+    "name": "Adramyttium",
+    "name_alt": [
+      "Edremit"
+    ],
+    "coords": [
+      39.5,
+      26.95
+    ],
+    "tier": "identified",
+    "id": "On the Mysian coast at the head of the Gulf of Adramyttium, modern Edremit (Turkey). The home port of the small coasting vessel that takes Paul as far as Myra in the first leg of the voyage to Rome.",
+    "abd": "1:88",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          2
+        ]
+      }
+    ]
+  },
+  "myra": {
+    "name": "Myra",
+    "name_alt": [
+      "Demre",
+      "Kale"
+    ],
+    "coords": [
+      36.26,
+      30.001
+    ],
+    "tier": "identified",
+    "id": "On the southern Lycian coast, modern Demre. A major Hellenistic-Roman port for the Egyptian grain ships sailing to Italy; the Alexandrian vessel of v.&nbsp;27:6 transferring Paul is one such. The fourth-century bishop Nicholas (later Saint Nicholas of Myra) was buried here.",
+    "abd": "4:937",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          5
+        ]
+      }
+    ]
+  },
+  "lycia": {
+    "name": "Lycia",
+    "name_alt": [],
+    "coords": [
+      36.5,
+      30.0
+    ],
+    "tier": "region",
+    "id": "The mountainous southwestern Anatolian peninsula between Caria (west) and Pamphylia (east). Patara and Myra were its principal harbors. A Roman province (combined with Pamphylia) under Vespasian.",
+    "abd": "4:423",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          5
+        ]
+      }
+    ]
+  },
+  "cnidus": {
+    "name": "Cnidus",
+    "name_alt": [
+      "Knidos",
+      "Tekir Burnu"
+    ],
+    "coords": [
+      36.689,
+      27.38
+    ],
+    "tier": "identified",
+    "id": "At the tip of the long Datça peninsula in southwestern Anatolia (modern Tekir Burnu). The famous Cnidian Aphrodite of Praxiteles stood here. The verse 27:7 detail &mdash; the wind would not allow the ship to round the cape into the Aegean &mdash; is precise to the geography: the Knidian peninsula juts west into the prevailing northwesterly winds.",
+    "abd": "1:1083",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          7
+        ]
+      }
+    ]
+  },
+  "salmone": {
+    "name": "Salmone",
+    "name_alt": [
+      "Cape Sidero"
+    ],
+    "coords": [
+      35.314,
+      26.281
+    ],
+    "tier": "identified",
+    "id": "The northeastern cape of Crete, modern Cape Sidero. Sailing &lsquo;under the lee of Crete, opposite Salmone&rsquo; (v.&nbsp;27:7) means rounding this cape and turning south along the eastern coast for shelter from the northerly winds.",
+    "abd": "5:907",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          7
+        ]
+      }
+    ]
+  },
+  "fair-havens": {
+    "name": "Fair Havens",
+    "name_alt": [
+      "Kali Limenes",
+      "Kaloi Limenes"
+    ],
+    "coords": [
+      34.913,
+      24.811
+    ],
+    "tier": "identified",
+    "id": "A small bay on the southern coast of Crete, modern Kaloi Limenes. The name is preserved continuously and the location remains a poor winter harbor &mdash; the verse 27:8 description ('not suitable to winter in') is accurate.",
+    "abd": "2:739",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          8
+        ]
+      }
+    ]
+  },
+  "lasea": {
+    "name": "Lasea",
+    "name_alt": [
+      "Lasaia"
+    ],
+    "coords": [
+      34.943,
+      24.87
+    ],
+    "tier": "probable",
+    "id": "A small Cretan town adjacent to Fair Havens; ruins have been identified at Khirbet Lasaia just east of Kaloi Limenes.",
+    "abd": "4:233",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          8
+        ]
+      }
+    ]
+  },
+  "phoenix": {
+    "name": "Phoenix",
+    "name_alt": [
+      "Loutro",
+      "Phinika"
+    ],
+    "coords": [
+      35.198,
+      24.08
+    ],
+    "tier": "probable",
+    "id": "A harbor on the southern coast of Crete, generally identified with modern Loutro (one of the few sheltered bays on that coast). The verse 27:12 description ('looking southwest and northwest') describes Loutro&rsquo;s twin-bay layout.",
+    "abd": "5:367",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          12
+        ]
+      }
+    ]
+  },
+  "cauda": {
+    "name": "Cauda",
+    "name_alt": [
+      "Clauda",
+      "Gavdos",
+      "Gozzo"
+    ],
+    "coords": [
+      34.847,
+      24.144
+    ],
+    "tier": "identified",
+    "id": "A small island c. 40 km southwest of Crete, modern Gavdos. Running &lsquo;under the lee of Cauda&rsquo; (v.&nbsp;27:16) gives the ship a brief calm in which to secure the lifeboat; the geography matches a vessel blown southwest from the Cretan coast by a northeasterly gale.",
+    "abd": "1:885",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          16
+        ]
+      }
+    ]
+  },
+  "adria": {
+    "name": "Adria",
+    "name_alt": [
+      "Adriatic Sea (apostolic)",
+      "central Mediterranean"
+    ],
+    "coords": [
+      36.0,
+      18.0
+    ],
+    "tier": "region",
+    "id": "In the apostolic period 'Adria' (Greek <em>Adrias</em>) named the wider sea between Crete and Sicily, not just the modern Adriatic. The verse 27:27 'driven back and forth in the Adriatic Sea' means the central Mediterranean basin between southern Italy and the African coast, consistent with a fourteen-day west-southwesterly drift from Cauda to Malta.",
+    "abd": "1:73",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          27
+        ]
+      }
+    ]
+  },
+  "syrtis": {
+    "name": "Syrtis",
+    "name_alt": [
+      "Gulf of Sidra",
+      "Greater Syrtis"
+    ],
+    "coords": [
+      32.0,
+      18.0
+    ],
+    "tier": "region",
+    "id": "The shifting sandbanks of the Gulf of Sidra off the Libyan coast, notorious in antiquity for ship-wrecking. The fear of being driven onto Syrtis (v.&nbsp;27:17) is geographically natural for a vessel blown southwest from Cauda.",
+    "abd": "6:283",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 27,
+        "verses": [
+          17
+        ]
+      }
+    ]
+  },
+  "malta": {
+    "name": "Malta",
+    "name_alt": [
+      "Melita",
+      "Melite"
+    ],
+    "coords": [
+      35.917,
+      14.378
+    ],
+    "tier": "identified",
+    "id": "The island south of Sicily. The shipwreck site is traditionally identified with St Paul&rsquo;s Bay on the northeast coast (where soundings of 20 then 15 fathoms match v.&nbsp;27:28). A minority view places the wreck at Mljet (Croatian Meleda) on the eastern Adriatic, but the wider 'Adria' of v.&nbsp;27 fits Malta well.",
+    "abd": "4:489",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 28,
+        "verses": [
+          1
+        ]
+      }
+    ]
+  },
+  "syracuse": {
+    "name": "Syracuse",
+    "name_alt": [
+      "Siracusa",
+      "Syrakousai"
+    ],
+    "coords": [
+      37.075,
+      15.286
+    ],
+    "tier": "identified",
+    "id": "On the southeastern coast of Sicily. The principal Greek city of the western Mediterranean from the seventh century B.C. through the Roman conquest in 212 B.C. A natural three-day stopover for the Alexandrian grain ship resuming the voyage from Malta to Italy.",
+    "abd": "6:281",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 28,
+        "verses": [
+          12
+        ]
+      }
+    ]
+  },
+  "rhegium": {
+    "name": "Rhegium",
+    "name_alt": [
+      "Reggio",
+      "Reggio Calabria"
+    ],
+    "coords": [
+      38.111,
+      15.652
+    ],
+    "tier": "identified",
+    "id": "On the toe of Italy at the Strait of Messina, modern Reggio Calabria. The standard transit point between Sicily and the Italian mainland.",
+    "abd": "5:710",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 28,
+        "verses": [
+          13
+        ]
+      }
+    ]
+  },
+  "puteoli": {
+    "name": "Puteoli",
+    "name_alt": [
+      "Pozzuoli",
+      "Dicaearchia"
+    ],
+    "coords": [
+      40.823,
+      14.122
+    ],
+    "tier": "identified",
+    "id": "On the Bay of Naples just west of Naples itself, modern Pozzuoli. In the apostolic period the principal commercial port of southern Italy and the disembarkation point for the Alexandrian grain fleet bound for Rome. Paul lands here and travels overland to Rome on the Via Appia.",
+    "abd": "5:560",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 28,
+        "verses": [
+          13
+        ]
+      }
+    ]
+  },
+  "forum-of-appius": {
+    "name": "Forum of Appius",
+    "name_alt": [
+      "Appii Forum",
+      "Foro Appio"
+    ],
+    "coords": [
+      41.45,
+      12.973
+    ],
+    "tier": "probable",
+    "id": "A staging post on the Via Appia c. 65 km southeast of Rome, in the Pontine marshes. Horace (<em>Sat.</em> 1.5.3-6) calls it 'crammed with sailors and stingy innkeepers' &mdash; a busy travelers&rsquo; halt on the road from Puteoli.",
+    "abd": "1:325",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 28,
+        "verses": [
+          15
+        ]
+      }
+    ]
+  },
+  "three-taverns": {
+    "name": "Three Taverns",
+    "name_alt": [
+      "Tres Tabernae"
+    ],
+    "coords": [
+      41.58,
+      12.76
+    ],
+    "tier": "probable",
+    "id": "A second staging post on the Via Appia, c. 50 km southeast of Rome, between the Forum of Appius and the city. Cicero mentions it in his correspondence (<em>Att.</em> 2.10) as a familiar stopping point. The Roman believers met Paul successively at the two posts, the Forum of Appius being the further out.",
+    "abd": "6:541",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 28,
+        "verses": [
+          15
         ]
       }
     ]

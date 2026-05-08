@@ -1,0 +1,47 @@
+{
+  "title": "Malta to Rome",
+  "places": ["malta", "alexandria", "syracuse", "rhegium", "puteoli", "forum-of-appius", "three-taverns", "rome"],
+  "route": ["malta", "syracuse", "rhegium", "puteoli", "forum-of-appius", "three-taverns", "rome"],
+  "view": {
+    "center": [38.5, 15.0],
+    "zoom": 5
+  },
+  "verses": [
+    {"n": 1, "html": "When we had escaped, then they learned that the island was called <span class=\"place\" data-key=\"malta\">Malta</span>.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 2, "html": "The natives showed us uncommon kindness; for they kindled a fire and received us all, because of the present rain, and because of the cold."},
+    {"n": 3, "html": "But when Paul had gathered a bundle of sticks and laid them on the fire, a viper came out because of the heat and fastened on his hand."},
+    {"n": 4, "html": "When the natives saw the creature hanging from his hand, they said to one another, &lsquo;No doubt this man is a murderer, whom, though he has escaped from the sea, yet Justice has not allowed to live.&rsquo;"},
+    {"n": 5, "html": "However he shook off the creature into the fire, and wasn&rsquo;t harmed."},
+    {"n": 6, "html": "But they expected that he would have swollen or fallen down dead suddenly, but when they watched for a long time and saw nothing bad happen to him, they changed their minds and said that he was a god."},
+    {"n": 7, "html": "Now in the neighborhood of that place were lands belonging to the chief man of the island, named Publius, who received us and courteously entertained us for three days."},
+    {"n": 8, "html": "The father of Publius lay sick of fever and dysentery. Paul entered in to him, prayed, and laying his hands on him, healed him."},
+    {"n": 9, "html": "Then when this was done, the rest also who had diseases in the island came and were cured."},
+    {"n": 10, "html": "They also honored us with many honors; and when we sailed, they put on board the things that we needed."},
+    {"n": 11, "html": "After three months, we set sail in a ship of <span class=\"place\" data-key=\"alexandria\">Alexandria</span> which had wintered in the island, whose figurehead was &lsquo;The Twin Brothers.&rsquo;"},
+    {"n": 12, "html": "Touching at <span class=\"place\" data-key=\"syracuse\">Syracuse</span>, we stayed there three days."},
+    {"n": 13, "html": "From there we circled around and arrived at <span class=\"place\" data-key=\"rhegium\">Rhegium</span>. After one day, a south wind sprang up, and on the second day we came to <span class=\"place\" data-key=\"puteoli\">Puteoli</span>,"},
+    {"n": 14, "html": "where we found brothers, and were entreated to stay with them for seven days. So we came to <span class=\"place\" data-key=\"rome\">Rome</span>."},
+    {"n": 15, "html": "From there the brothers, when they heard of us, came to meet us as far as <span class=\"place\" data-key=\"forum-of-appius\">The Market of Appius</span> and <span class=\"place\" data-key=\"three-taverns\">The Three Taverns</span>.<sup class=\"footnote-marker\">2</sup> When Paul saw them, he thanked God and took courage."},
+    {"n": 16, "html": "When we entered into <span class=\"place\" data-key=\"rome\">Rome</span>, the centurion delivered the prisoners to the captain of the guard, but Paul was allowed to stay by himself with the soldier who guarded him."},
+    {"n": 17, "html": "After three days Paul called together those who were the leaders of the Jews. When they had come together, he said to them, &lsquo;I, brothers, though I had done nothing against the people or the customs of our fathers, still was delivered prisoner from Jerusalem into the hands of the Romans,"},
+    {"n": 18, "html": "who, when they had examined me, desired to set me free, because there was no cause of death in me."},
+    {"n": 19, "html": "But when the Jews spoke against it, I was constrained to appeal to Caesar, not that I had anything about which to accuse my nation."},
+    {"n": 20, "html": "For this cause therefore I asked to see you and to speak with you. For because of the hope of Israel I am bound with this chain.&rsquo;"},
+    {"n": 21, "html": "They said to him, &lsquo;We neither received letters from Judea concerning you, nor did any of the brothers come here and report or speak any evil of you."},
+    {"n": 22, "html": "But we desire to hear from you what you think. For, as concerning this sect, it is known to us that everywhere it is spoken against.&rsquo;"},
+    {"n": 23, "html": "When they had appointed him a day, many people came to him at his lodging. He explained to them, testifying about God&rsquo;s Kingdom, and persuading them concerning Jesus, both from the law of Moses and from the prophets, from morning until evening."},
+    {"n": 24, "html": "Some believed the things which were spoken, and some disbelieved."},
+    {"n": 25, "html": "When they didn&rsquo;t agree among themselves, they departed after Paul had spoken one message: &lsquo;The Holy Spirit spoke rightly through Isaiah the prophet to our fathers,"},
+    {"n": 26, "html": "saying, &ldquo;Go to this people and say, in hearing, you will hear, but will in no way understand. In seeing, you will see, but will in no way perceive."},
+    {"n": 27, "html": "For this people&rsquo;s heart has grown callous. Their ears are dull of hearing. Their eyes they have closed. Lest they should see with their eyes, hear with their ears, understand with their heart, and would turn again, then I would heal them.&rdquo;"},
+    {"n": 28, "html": "Be it known therefore to you, that the salvation of God is sent to the nations, and they will listen.&rsquo;"},
+    {"n": 29, "html": "<em>(Some manuscripts add: When he had said these words, the Jews departed, having a great dispute among themselves.)</em>"},
+    {"n": 30, "html": "Paul stayed two whole years in his own rented house and received all who came to him,"},
+    {"n": 31, "html": "preaching God&rsquo;s Kingdom and teaching the things concerning the Lord Jesus Christ with all boldness, without hindrance.<sup class=\"footnote-marker\">3</sup>"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Malta</strong> (v.&nbsp;1) &mdash; the island south of Sicily. The shipwreck site is traditionally identified with St Paul&rsquo;s Bay on the northeastern coast, where the soundings of v.&nbsp;27:28 (twenty fathoms, then fifteen) match the bay&rsquo;s underwater profile. A minority view places the wreck at Mljet (Slavic Meleda) on the eastern Adriatic; this requires reading 'Adria' in v.&nbsp;27:27 narrowly, against most modern commentary."},
+    {"n": 2, "html": "<strong>The Forum of Appius and Three Taverns</strong> (v.&nbsp;15) &mdash; two staging posts on the Via Appia south of Rome (c. 65 km and c. 50 km out, respectively). The Roman believers come out to meet Paul successively at the two posts, the first at the further. Horace (<em>Sat.</em> 1.5.3-6) and Cicero (<em>Att.</em> 2.10) both mention these stopping points; the chapter&rsquo;s map traces the polyline as Puteoli &mdash; (overland on the Via Appia) &mdash; Forum of Appius &mdash; Three Taverns &mdash; Rome."},
+    {"n": 3, "html": "<strong>'Without hindrance'</strong> (v.&nbsp;31) &mdash; the book&rsquo;s last word, Greek <em>akōlytōs</em>. The whole long programme of 1:8 ('to the uttermost parts of the earth') is now complete: the gospel is being preached in Rome, the imperial capital, openly and unstopped. The chapter does not record Paul&rsquo;s eventual death; the book ends with a verb, not a destiny, and the route polyline that began in chapter 13 reaches its final pin."}
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "title": "Paul before Festus; Appeal to Caesar",
+  "places": ["caesarea", "jerusalem", "rome"],
+  "view": {
+    "center": [32.0, 34.95],
+    "zoom": 11
+  },
+  "verses": [
+    {"n": 1, "html": "Festus therefore, having come into the province, after three days went up to <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> from <span class=\"place\" data-key=\"caesarea\">Caesarea</span>."},
+    {"n": 2, "html": "Then the high priest and the principal men of the Jews informed him against Paul, and they begged him,"},
+    {"n": 3, "html": "asking a favor against him, that he would summon him to <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>; plotting to kill him on the way."},
+    {"n": 4, "html": "However Festus answered that Paul should be kept in custody at <span class=\"place\" data-key=\"caesarea\">Caesarea</span>, and that he himself was about to depart shortly."},
+    {"n": 5, "html": "&lsquo;Let them therefore,&rsquo; he said, &lsquo;that are in power among you go down with me, and if there is anything wrong in the man, let them accuse him.&rsquo;"},
+    {"n": 6, "html": "When he had stayed among them more than ten days, he went down to <span class=\"place\" data-key=\"caesarea\">Caesarea</span>, and on the next day he sat on the judgment seat, and commanded Paul to be brought."},
+    {"n": 7, "html": "When he had come, the Jews who had come down from <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> stood around him, bringing against him many and grievous charges which they could not prove,"},
+    {"n": 8, "html": "while he said in his defense, &lsquo;Neither against the law of the Jews, nor against the temple, nor against Caesar, have I sinned at all.&rsquo;"},
+    {"n": 9, "html": "But Festus, desiring to gain favor with the Jews, answered Paul and said, &lsquo;Are you willing to go up to <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> and be judged by me there concerning these things?&rsquo;"},
+    {"n": 10, "html": "But Paul said, &lsquo;I am standing before Caesar&rsquo;s judgment seat, where I ought to be tried. I have done no wrong to the Jews, as you also know very well."},
+    {"n": 11, "html": "For if I have done wrong and have committed anything worthy of death, I don&rsquo;t refuse to die; but if none of those things is true that they accuse me of, no one can give me up to them. I appeal to Caesar!&rsquo;<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 12, "html": "Then Festus, when he had conferred with the council, answered, &lsquo;You have appealed to Caesar. To Caesar you shall go.&rsquo;"},
+    {"n": 13, "html": "Now when some days had passed, King Agrippa and Bernice arrived at <span class=\"place\" data-key=\"caesarea\">Caesarea</span> and greeted Festus."},
+    {"n": 14, "html": "As he stayed there many days, Festus laid Paul&rsquo;s case before the king, saying, &lsquo;There is a certain man left a prisoner by Felix,"},
+    {"n": 15, "html": "about whom, when I was at <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, the chief priests and the elders of the Jews informed me, asking for a sentence against him."},
+    {"n": 16, "html": "I answered them that it is not the custom of the Romans to give up any man to destruction before the accused has met the accusers face to face and has had opportunity to make his defense concerning the matter laid against him."},
+    {"n": 17, "html": "When therefore they had come together here, I didn&rsquo;t delay, but on the next day sat on the judgment seat and commanded the man to be brought."},
+    {"n": 18, "html": "When the accusers stood up, they brought no charges against him of such things as I supposed,"},
+    {"n": 19, "html": "but had certain questions against him about their own religion and about one Jesus, who was dead, whom Paul affirmed to be alive."},
+    {"n": 20, "html": "Being perplexed how to inquire concerning these things, I asked whether he was willing to go to <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> and there be judged concerning these matters."},
+    {"n": 21, "html": "But when Paul had appealed to be kept for the decision of the emperor, I commanded him to be kept until I could send him to Caesar.&rsquo;"},
+    {"n": 22, "html": "Agrippa said to Festus, &lsquo;I also would like to hear the man myself.&rsquo; &lsquo;Tomorrow,&rsquo; he said, &lsquo;you shall hear him.&rsquo;"},
+    {"n": 23, "html": "So on the next day, when Agrippa and Bernice had come with great pomp, and they had entered into the place of hearing with the commanding officers and the principal men of the city, at the command of Festus, Paul was brought in."},
+    {"n": 24, "html": "Festus said, &lsquo;King Agrippa, and all men who are here present with us, you see this man about whom all the multitude of the Jews petitioned me, both at <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> and here, crying that he ought not to live any longer."},
+    {"n": 25, "html": "But when I found that he had committed nothing worthy of death, and as he himself appealed to the emperor, I determined to send him,"},
+    {"n": 26, "html": "of whom I have no certain thing to write to my lord. Therefore I have brought him out before you, and especially before you, King Agrippa, that, after examination I may have something to write."},
+    {"n": 27, "html": "For it seems to me unreasonable, in sending a prisoner, not to also specify the charges against him.&rsquo;"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>'I appeal to Caesar'</strong> (v.&nbsp;11) &mdash; the Roman citizen&rsquo;s right of <em>provocatio ad Caesarem</em>. From this point Paul&rsquo;s journey to Rome is procedurally certain: a Roman citizen who has appealed must be sent to the imperial tribunal, regardless of the local governor&rsquo;s opinion. The chapter&rsquo;s map remains tight on Caesarea, but the appeal sets up the geography of chapters 27-28."}
+  ]
+}

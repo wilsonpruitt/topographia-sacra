@@ -1,0 +1,40 @@
+{
+  "title": "Paul before Felix",
+  "places": ["caesarea", "jerusalem"],
+  "view": {
+    "center": [32.0, 34.95],
+    "zoom": 11
+  },
+  "verses": [
+    {"n": 1, "html": "After five days, the high priest, Ananias, came down with certain elders and an orator, one Tertullus. They informed the governor against Paul."},
+    {"n": 2, "html": "When he was called, Tertullus began to accuse him, saying, &lsquo;Seeing that by you we enjoy much peace, and that excellent measures are coming to this nation through your foresight,"},
+    {"n": 3, "html": "we accept it in all ways and in all places, most excellent Felix, with all thankfulness."},
+    {"n": 4, "html": "But that I don&rsquo;t delay you, I entreat you to bear with us and hear a few words."},
+    {"n": 5, "html": "For we have found this man to be a plague, an instigator of insurrections among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes."},
+    {"n": 6, "html": "He even tried to profane the temple, and we arrested him."},
+    {"n": 7, "html": "<em>(Some manuscripts add: 'But Lysias, the commanding officer, came up and with great violence took him out of our hands,'</em>"},
+    {"n": 8, "html": "<em>'commanding his accusers to come to you.')</em> By examining him yourself you may ascertain all these things of which we accuse him.&rsquo;"},
+    {"n": 9, "html": "The Jews also joined in the attack, affirming that these things were so."},
+    {"n": 10, "html": "When the governor had beckoned to him to speak, Paul answered, &lsquo;Because I know that you have been a judge of this nation for many years, I cheerfully make my defense,"},
+    {"n": 11, "html": "seeing that you can verify that it is not more than twelve days since I went up to worship at <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>."},
+    {"n": 12, "html": "In the temple they didn&rsquo;t find me disputing with anyone or stirring up a crowd, either in the synagogues or in the city."},
+    {"n": 13, "html": "Nor can they prove to you the things of which they now accuse me."},
+    {"n": 14, "html": "But this I confess to you, that according to the Way, which they call a sect, so I serve the God of our fathers, believing all things which are according to the law, and which are written in the prophets;"},
+    {"n": 15, "html": "having hope toward God, which these also themselves look for, that there will be a resurrection of the dead, both of the just and unjust."},
+    {"n": 16, "html": "In this I also practice always having a conscience void of offense toward God and men."},
+    {"n": 17, "html": "Now after some years, I came to bring gifts for the needy to my nation, and offerings;"},
+    {"n": 18, "html": "amid which certain Jews from Asia found me purified in the temple, not with a mob, nor with turmoil."},
+    {"n": 19, "html": "They ought to have been here before you and to make accusation if they had anything against me."},
+    {"n": 20, "html": "Or else let these men themselves say what injustice they found in me when I stood before the council,"},
+    {"n": 21, "html": "unless it is for this one thing that I cried standing among them, &ldquo;Concerning the resurrection of the dead I am being judged before you today!&rdquo;&rsquo;"},
+    {"n": 22, "html": "But Felix, having more exact knowledge concerning the Way, deferred them, saying, &lsquo;When Lysias, the commanding officer, comes down, I will decide your case.&rsquo;"},
+    {"n": 23, "html": "He ordered the centurion that Paul should be kept in custody, and should have some privileges, and not to forbid any of his friends to serve him or to visit him."},
+    {"n": 24, "html": "After some days, Felix came with Drusilla his wife, who was a Jewess, and sent for Paul, and heard him concerning the faith in Christ Jesus."},
+    {"n": 25, "html": "As he reasoned about righteousness, self-control, and the judgment to come, Felix was terrified, and answered, &lsquo;Go your way for this time, and when it is convenient for me, I will summon you.&rsquo;"},
+    {"n": 26, "html": "Meanwhile, he also hoped that money would be given to him by Paul, that he might release him. Therefore also he sent for him more often, and talked with him."},
+    {"n": 27, "html": "But when two years were fulfilled, Felix was succeeded by Porcius Festus, and desiring to gain favor with the Jews, Felix left Paul in bonds.<sup class=\"footnote-marker\">1</sup>"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>The two-year hold at Caesarea</strong> (v.&nbsp;27) &mdash; Felix is recalled c. A.D. 59 (Tacitus, <em>Ann.</em> 13.14) and replaced by Porcius Festus. Paul has been held without verdict for the whole period; the Caesarea tenure is roughly A.D. 57-59. The chapter&rsquo;s map view zooms close on Caesarea Maritima, where the trial scenes of chs.&nbsp;24-26 all play out."}
+  ]
+}

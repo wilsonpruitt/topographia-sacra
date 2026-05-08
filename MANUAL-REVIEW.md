@@ -185,6 +185,25 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 - [ ] **Dan** — coastal plain; Leshem/Tel Dan northern enclave deliberately excluded (named only after the conquest in v. 47).
 All six marked `approximate: true`.
 
+## Acts 22-28 — gazetteer entries (18 added)
+
+- [ ] **Antipatris** at Tel Afek (= the older Aphek of Joshua 12:18 / 13:4 / 19:30) — pin reuses Aphek's coordinates. Confirm convention.
+- [ ] **Adramyttium** at modern Edremit — secure.
+- [ ] **Myra** at Demre — secure.
+- [ ] **Lycia** as a region pin — confirm centroid.
+- [ ] **Cnidus** at Tekir Burnu — secure.
+- [ ] **Salmone** at Cape Sidero — secure.
+- [ ] **Fair Havens** at Kaloi Limenes — name preserved continuously.
+- [ ] **Lasea** at Khirbet Lasaia — probable.
+- [ ] **Phoenix** at Loutro — probable; the twin-bay description fits.
+- [ ] **Cauda** at Gavdos — secure.
+- [ ] **Adria** as a region pin in the central Mediterranean — confirm; the apostolic 'Adria' is wider than the modern Adriatic.
+- [ ] **Syrtis** as a region pin in the Gulf of Sidra — confirm.
+- [ ] **Malta** — pin at the island center; the traditional shipwreck site is St Paul's Bay on the northeast coast (vs the minority Mljet view).
+- [ ] **Syracuse, Rhegium, Puteoli** — all secure.
+- [ ] **Forum of Appius, Three Taverns** — Via Appia staging posts; coordinates at the Foro Appio and Tres Tabernae sites respectively. Confirm.
+- [ ] **Routes** added to chs.23, 27, 28 — Jerusalem→Antipatris→Caesarea forced march, the Rome voyage from Caesarea via Sidon-Myra-Cnidus-Salmone-Fair Havens-Cauda-Malta, and the final Malta-Syracuse-Rhegium-Puteoli-Forum-of-Appius-Three Taverns-Rome leg. The two Rome-voyage polylines are the most detailed in the series so far.
+
 ## Acts 19-21 — gazetteer entries (10 added)
 
 - [ ] **Assos** (Behramkale), **Mitylene** (Lesbos), **Chios**, **Samos**, **Miletus**, **Cos**, **Rhodes**, **Patara**, **Ptolemais** — all secure identifications.
@@ -399,6 +418,13 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Acts 19
 - [ ] Acts 20
 - [ ] Acts 21
+- [ ] Acts 22
+- [ ] Acts 23
+- [ ] Acts 24
+- [ ] Acts 25
+- [ ] Acts 26
+- [ ] Acts 27
+- [ ] Acts 28
 
 ## Site-level
 

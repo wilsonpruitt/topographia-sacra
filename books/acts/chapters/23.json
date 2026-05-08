@@ -1,0 +1,50 @@
+{
+  "title": "Paul before the Sanhedrin; the Plot; Caesarea",
+  "places": ["jerusalem", "antipatris", "caesarea", "rome", "cilicia"],
+  "route": ["jerusalem", "antipatris", "caesarea"],
+  "view": {
+    "center": [32.0, 35.0],
+    "zoom": 9
+  },
+  "verses": [
+    {"n": 1, "html": "Paul, looking steadfastly at the council, said, &lsquo;Brothers, I have lived before God in all good conscience until today.&rsquo;"},
+    {"n": 2, "html": "The high priest, Ananias, commanded those who stood by him to strike him on the mouth."},
+    {"n": 3, "html": "Then Paul said to him, &lsquo;God will strike you, you whitewashed wall! Do you sit to judge me according to the law, and command me to be struck contrary to the law?&rsquo;"},
+    {"n": 4, "html": "Those who stood by said, &lsquo;Do you malign God&rsquo;s high priest?&rsquo;"},
+    {"n": 5, "html": "Paul said, &lsquo;I didn&rsquo;t know, brothers, that he was high priest. For it is written, &ldquo;You shall not speak evil of a ruler of your people.&rdquo;&rsquo;"},
+    {"n": 6, "html": "But when Paul perceived that the one part were Sadducees and the other Pharisees, he cried out in the council, &lsquo;Men and brothers, I am a Pharisee, a son of Pharisees. Concerning the hope and resurrection of the dead I am being judged!&rsquo;"},
+    {"n": 7, "html": "When he had said this, an argument arose between the Pharisees and Sadducees, and the crowd was divided."},
+    {"n": 8, "html": "For the Sadducees say that there is no resurrection, nor angel, nor spirit; but the Pharisees confess all of these."},
+    {"n": 9, "html": "A great clamor arose, and some of the scribes of the Pharisees&rsquo; part stood up, and contended, saying, &lsquo;We find no evil in this man. But if a spirit or angel has spoken to him, let&rsquo;s not fight against God!&rsquo;"},
+    {"n": 10, "html": "When a great argument arose, the commanding officer, fearing that Paul would be torn in pieces by them, commanded the soldiers to go down and take him by force from among them and bring him into the barracks."},
+    {"n": 11, "html": "The following night, the Lord stood by him and said, &lsquo;Cheer up, Paul, for as you have testified about me at <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, so you must testify also at <span class=\"place\" data-key=\"rome\">Rome</span>.&rsquo;<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 12, "html": "When it was day, some of the Jews banded together and bound themselves under a curse, saying that they would neither eat nor drink until they had killed Paul."},
+    {"n": 13, "html": "There were more than forty people who had made this conspiracy."},
+    {"n": 14, "html": "They came to the chief priests and the elders, and said, &lsquo;We have bound ourselves under a great curse to taste nothing until we have killed Paul."},
+    {"n": 15, "html": "Now therefore, you with the council inform the commanding officer that he should bring him down to you tomorrow, as though you were going to judge his case more exactly. We are ready to kill him before he comes near.&rsquo;"},
+    {"n": 16, "html": "But Paul&rsquo;s sister&rsquo;s son heard they were lying in wait, and he came and entered into the barracks and told Paul."},
+    {"n": 17, "html": "Paul summoned one of the centurions and said, &lsquo;Bring this young man to the commanding officer, for he has something to tell him.&rsquo;"},
+    {"n": 18, "html": "So he took him and brought him to the commanding officer and said, &lsquo;Paul, the prisoner, summoned me and asked me to bring this young man to you. He has something to tell you.&rsquo;"},
+    {"n": 19, "html": "The commanding officer took him by the hand, and going aside, asked him privately, &lsquo;What is it that you have to tell me?&rsquo;"},
+    {"n": 20, "html": "He said, &lsquo;The Jews have agreed to ask you to bring Paul down to the council tomorrow, as though intending to inquire somewhat more accurately concerning him."},
+    {"n": 21, "html": "Therefore don&rsquo;t yield to them, for more than forty men lie in wait for him, who have bound themselves under a curse to neither eat nor drink until they have killed him. Now they are ready, looking for the promise from you.&rsquo;"},
+    {"n": 22, "html": "So the commanding officer let the young man go, charging him, &lsquo;Tell no one that you have revealed these things to me.&rsquo;"},
+    {"n": 23, "html": "He called to himself two of the centurions, and said, &lsquo;Prepare two hundred soldiers to go as far as <span class=\"place\" data-key=\"caesarea\">Caesarea</span>, with seventy horsemen and two hundred men armed with spears, at the third hour of the night.&rsquo;"},
+    {"n": 24, "html": "He asked them to provide mounts, that they might set Paul on one, and bring him safely to Felix the governor."},
+    {"n": 25, "html": "He wrote a letter like this:"},
+    {"n": 26, "html": "&lsquo;Claudius Lysias to the most excellent governor Felix: Greetings."},
+    {"n": 27, "html": "This man was seized by the Jews, and was about to be killed by them when I came with the soldiers and rescued him, having learned that he was a Roman."},
+    {"n": 28, "html": "Desiring to know the cause why they accused him, I brought him down to their council."},
+    {"n": 29, "html": "I found him to be accused about questions of their law, but not to be charged with anything worthy of death or of imprisonment."},
+    {"n": 30, "html": "When I was told that the Jews lay in wait for the man, I sent him to you immediately, charging his accusers also to bring their accusations against him before you. Farewell.&rsquo;"},
+    {"n": 31, "html": "So the soldiers, carrying out their orders, took Paul and brought him by night to <span class=\"place\" data-key=\"antipatris\">Antipatris</span>.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 32, "html": "But on the next day they left the horsemen to go with him, and returned to the barracks."},
+    {"n": 33, "html": "When they came to <span class=\"place\" data-key=\"caesarea\">Caesarea</span> and delivered the letter to the governor, they also presented Paul to him."},
+    {"n": 34, "html": "When the governor had read it, he asked what province he was from. When he understood that he was from <span class=\"place\" data-key=\"cilicia\">Cilicia</span>, he said, &lsquo;I will hear you fully when your accusers also arrive.&rsquo;"},
+    {"n": 35, "html": "He commanded that he be kept in Herod&rsquo;s palace."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>'You must testify also at Rome'</strong> (v.&nbsp;11) &mdash; the chapter&rsquo;s pivot. Paul&rsquo;s Roman destination, prefigured at 19:21 and 23:11, becomes from this point the explicit motor of the narrative; the trial sequence in Caesarea (chs.&nbsp;24-26) and the voyage that follows (chs.&nbsp;27-28) all serve to deliver him there."},
+    {"n": 2, "html": "<strong>The night march to Antipatris</strong> (vv.&nbsp;23-31) &mdash; the escort of 470 troops covers the c. 60 km from Jerusalem to Antipatris in a single night, an aggressive forced march. From Antipatris (Tel Afek, the older Aphek of Joshua 12:18 refounded by Herod) the cavalry continues alone with the prisoner the c. 40 km north along the coast to Caesarea, since the danger of ambush is past on the open coastal road."}
+  ]
+}

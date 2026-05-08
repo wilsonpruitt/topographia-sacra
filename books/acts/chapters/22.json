@@ -1,0 +1,43 @@
+{
+  "title": "Arrest in Jerusalem",
+  "places": ["jerusalem", "tarsus", "cilicia", "damascus", "nazareth"],
+  "view": {
+    "center": [33.0, 35.5],
+    "zoom": 6
+  },
+  "verses": [
+    {"n": 1, "html": "&lsquo;Brothers and fathers, listen to the defense which I now make to you.&rsquo;"},
+    {"n": 2, "html": "When they heard that he spoke to them in the Hebrew language, they were even more quiet. He said,"},
+    {"n": 3, "html": "&lsquo;I am indeed a Jew, born in <span class=\"place\" data-key=\"tarsus\">Tarsus</span> of <span class=\"place\" data-key=\"cilicia\">Cilicia</span>, but brought up in this city at the feet of Gamaliel, instructed according to the strict tradition of the law of our fathers, being zealous for God, even as you all are today."},
+    {"n": 4, "html": "I persecuted this Way to the death, binding and delivering into prisons both men and women,"},
+    {"n": 5, "html": "as also the high priest and all the council of the elders testify, from whom also I received letters to the brothers, and traveled to <span class=\"place\" data-key=\"damascus\">Damascus</span> to bring them also who were there to <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> in bonds to be punished."},
+    {"n": 6, "html": "As I made my journey and came close to <span class=\"place\" data-key=\"damascus\">Damascus</span>, about noon suddenly a great light shone around me from the sky."},
+    {"n": 7, "html": "I fell to the ground and heard a voice saying to me, &lsquo;Saul, Saul, why are you persecuting me?&rsquo;"},
+    {"n": 8, "html": "I answered, &lsquo;Who are you, Lord?&rsquo; He said to me, &lsquo;I am Jesus of <span class=\"place\" data-key=\"nazareth\">Nazareth</span>, whom you persecute.&rsquo;"},
+    {"n": 9, "html": "Those who were with me indeed saw the light and were afraid, but they didn&rsquo;t understand the voice of him who spoke to me."},
+    {"n": 10, "html": "I said, &lsquo;What shall I do, Lord?&rsquo; The Lord said to me, &lsquo;Arise, and go into <span class=\"place\" data-key=\"damascus\">Damascus</span>. There you will be told about all things which are appointed for you to do.&rsquo;"},
+    {"n": 11, "html": "When I couldn&rsquo;t see for the glory of that light, being led by the hand of those who were with me, I came into <span class=\"place\" data-key=\"damascus\">Damascus</span>."},
+    {"n": 12, "html": "One Ananias, a devout man according to the law, well reported of by all the Jews who lived in <span class=\"place\" data-key=\"damascus\">Damascus</span>,"},
+    {"n": 13, "html": "came to me, and standing by me said to me, &lsquo;Brother Saul, receive your sight!&rsquo; In that very hour I looked up at him."},
+    {"n": 14, "html": "He said, &lsquo;The God of our fathers has appointed you to know his will, and to see the Righteous One, and to hear a voice from his mouth."},
+    {"n": 15, "html": "For you will be a witness for him to all men of what you have seen and heard."},
+    {"n": 16, "html": "Now why do you wait? Arise, be baptized, and wash away your sins, calling on the name of the Lord.&rsquo;"},
+    {"n": 17, "html": "When I had returned to <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> and while I prayed in the temple, I fell into a trance"},
+    {"n": 18, "html": "and saw him saying to me, &lsquo;Hurry and get out of <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> quickly, because they will not receive testimony concerning me from you.&rsquo;"},
+    {"n": 19, "html": "I said, &lsquo;Lord, they themselves know that I imprisoned and beat in every synagogue those who believed in you."},
+    {"n": 20, "html": "When the blood of Stephen, your witness, was shed, I also was standing by, consenting to his death, and guarding the cloaks of those who killed him.&rsquo;"},
+    {"n": 21, "html": "He said to me, &lsquo;Depart, for I will send you out far from here to the Gentiles.&rsquo;&rsquo;"},
+    {"n": 22, "html": "They listened to him until he said that; then they lifted up their voice and said, &lsquo;Rid the earth of this fellow, for he isn&rsquo;t fit to live!&rsquo;"},
+    {"n": 23, "html": "As they cried out, threw off their cloaks, and threw dust into the air,"},
+    {"n": 24, "html": "the commanding officer commanded him to be brought into the barracks, ordering him to be examined by scourging, that he might know for what crime they shouted against him like that."},
+    {"n": 25, "html": "When they had tied him up with straps, Paul asked the centurion who stood by, &lsquo;Is it lawful for you to scourge a man who is a Roman, and not found guilty?&rsquo;"},
+    {"n": 26, "html": "When the centurion heard it, he went to the commanding officer and told him, &lsquo;Watch what you are about to do, for this man is a Roman!&rsquo;"},
+    {"n": 27, "html": "The commanding officer came and asked him, &lsquo;Tell me, are you a Roman?&rsquo; He said, &lsquo;Yes.&rsquo;"},
+    {"n": 28, "html": "The commanding officer answered, &lsquo;I bought my citizenship for a great price.&rsquo; Paul said, &lsquo;But I was born a Roman.&rsquo;"},
+    {"n": 29, "html": "Immediately those who were about to examine him departed from him, and the commanding officer also was afraid when he realized that he was a Roman, because he had bound him."},
+    {"n": 30, "html": "But on the next day, desiring to know the truth about why he was accused by the Jews, he freed him from the bonds and commanded the chief priests and all the council to come together, and brought Paul down and set him before them."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Tarsus of Cilicia</strong> (v.&nbsp;3) &mdash; Paul opens his defense by establishing his geography: born in Tarsus (the Cilician metropolis, a renowned Hellenistic university town), raised in Jerusalem (the Hebrew religious centre), studying under Gamaliel (the leading Pharisaic teacher of the day). The triangulation lays out his credentials before the speech proper begins."}
+  ]
+}
