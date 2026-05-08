@@ -721,11 +721,14 @@ sup.footnote-marker {
   .map-col {
     position: relative;
     top: auto;
-    height: 60vh;
-    min-height: 360px;
+    height: 45vh;
+    min-height: 280px;
+    max-height: 420px;
     order: -1;
     border-bottom: 1px solid var(--sepia-faint);
   }
+  .map-col #map, .map-col .map-canvas { min-height: 0; }
+  .map-caption { padding: 10px 20px; font-size: 12.5px; }
   .chapter-header { padding: 40px 20px 24px; }
   .chapter-title  { font-size: 22px; }
   .book-intro { padding: 40px 24px 16px; }
