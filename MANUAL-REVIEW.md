@@ -147,6 +147,22 @@ Pin choices made on best understanding of current scholarship; flag if a differe
 - [ ] **Tribal polygons (Reuben, Gad, half-Manasseh-east)** — added 13 ch.13 as honest convex approximations anchored on already-gazetted boundary cities, NOT traced from the boundary text. Replace with sourced or text-traced polygons before treating as final.
 - [ ] **Joshua 13 WEB text** — keyed from ebible.org; spot-check.
 
+## Joshua 15 — gazetteer entries (132 added)
+
+The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) entries have full id text and ABD guesses. The four districts (Negev vv.&nbsp;21-32, Shephelah vv.&nbsp;33-44, hill country vv.&nbsp;48-60, wilderness vv.&nbsp;61-62) contain ~95 town entries, most marked `tier: unknown` with skeleton id text. Verification work needed:
+
+- [ ] **All ABD references for ch.&nbsp;15 entries** — especially the boundary cities (Akrabbim, Beth Hoglah, Adummim, En Shemesh, En Rogel, Hinnom, Rephaim, Nephtoah, Chesalon, Beth Shemesh, Timnah, Jabneel) and identified district sites (Beersheba, Ziklag, Eshtaol, Zorah, Socoh-Shephelah, Keilah, Mareshah, Jattir, Maon, Carmel, Ziph-hill, Halhul, Beth Zur, Gedor, En Gedi). Page numbers are best-guess.
+- [ ] **Multiple-instance disambiguation slugs**: `kedesh-judah`, `hazor-judah-1`, `hazor-hadattah`, `kerioth-hezron`, `ziph-negev`, `ziph-hill`, `socoh-shephelah`, `socoh-hill`, `tappuah-shephelah` (vs already-gazetted `tappuah`), `aphekah` (vs `aphek` and `aphek-of-amorites`), `timnah-judah`, `timnah-hill`, `zanoah-shephelah`, `zanoah-hill`, `baalah-negev`, `rabbah-judah` (vs `rabbah-ammon`), `gibeah-judah`, `jezreel-judah`, `carmel-judah`, `mizpah-shephelah`, `gederah-judah`, `mount-seir-judah`, `beth-shemesh-judah`, `jabneel-judah`, `beth-dagon-judah`, `achzib-judah`, `goshen-hill`, `rimmon-negev`, `ashnah-1`, `ashnah-2`, `en-gannim-shephelah`. Confirm naming convention is sustainable as more chapters add to the gazetteer.
+- [ ] **Skeleton entries** (~80 of them, marked `tier: unknown`) — verify whether any have been securely identified since the standard reference works and need upgrading. Especially: Kabzeel, Moladah, Hazar Shual, Shaaraim, Adithaim, Mizpah-Shephelah, Joktheel, Naamah, Iphtah, Nezib, Achzib-Judah, Shamir, Holon, Giloh, Beth Tappuah, Aphekah, Halhul (already promoted), Rabbah-Judah, Middin, Secacah, Nibshan, City of Salt.
+- [ ] **Ziklag pin** at Khirbet a-Raʿi (recent claim) vs Tel Sera (older default) — confirm which to use as primary.
+- [ ] **Kiriath Sannah** (v.&nbsp;49) — given as a third name for Debir alongside Kiriath Sepher; not separately tagged. Confirm this gloss is correct, and decide whether to add it as `name_alt` on the existing Debir entry.
+- [ ] **Wilderness district / Qumran-area** (vv.&nbsp;61-62) — Cross de Vaux's identifications (Khirbet Mird, Khirbet Qumran, Ain Feshkha, Khirbet es-Samra) against the four unidentified names. Footnote currently records the proposal as speculative; if scholarship has solidified, upgrade tiers.
+- [ ] **Joshua 15 WEB text** — keyed from ebible.org; spot-check.
+
+## Judah polygon (text-traced)
+
+- [ ] **Judah polygon** (`tribal-territories.geojson`) — replaced placeholder rectangle with text-traced version (24 vertices) following the Joshua 15:1-12 boundary description. Still `approximate: true` because the unidentified waypoints (Stone of Bohan, Mount Ephron, Mount Seir-Judah, Shikkeron, Mount Baalah) are interpolated rather than placed. Refine when those are securely located.
+
 ## Footnote coverage decisions
 
 - [ ] **Joshua 3 v.16 — the crossing point.** The chapter's Adam footnote covers the geographic mechanism, but the *crossing point itself* (opposite Jericho, traditional el-Maghtas) is unfootnoted. Decide whether a separate Jordan footnote belongs on v.16 or v.17 explaining where the crossing happened.
@@ -170,6 +186,7 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Joshua 12
 - [ ] Joshua 13
 - [ ] Joshua 14
+- [ ] Joshua 15
 
 ## Site-level
 
