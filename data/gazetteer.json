@@ -1131,6 +1131,15 @@
         "verses": [
           25
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          13,
+          27,
+          31
+        ]
       }
     ]
   },
@@ -9815,6 +9824,13 @@
           39,
           40
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          17
+        ]
       }
     ]
   },
@@ -10178,6 +10194,13 @@
         "verses": [
           37
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          31
+        ]
       }
     ]
   },
@@ -10492,6 +10515,20 @@
         "verses": [
           10
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          13
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 14,
+        "verses": [
+          24
+        ]
       }
     ]
   },
@@ -10528,6 +10565,13 @@
         "chapter": 11,
         "verses": [
           20
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          1
         ]
       }
     ]
@@ -10648,6 +10692,13 @@
           19,
           20
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          4
+        ]
       }
     ]
   },
@@ -10683,6 +10734,20 @@
           25,
           26,
           27
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          1
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 14,
+        "verses": [
+          26
         ]
       }
     ]
@@ -10772,6 +10837,13 @@
         "chapter": 7,
         "verses": [
           11
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          19
         ]
       }
     ]
@@ -11074,6 +11146,280 @@
         "chapter": 11,
         "verses": [
           19
+        ]
+      }
+    ]
+  },
+  "seleucia": {
+    "name": "Seleucia",
+    "name_alt": [
+      "Seleucia Pieria",
+      "Çevlik"
+    ],
+    "coords": [
+      36.119,
+      35.927
+    ],
+    "tier": "identified",
+    "id": "Antioch's Mediterranean port at the mouth of the Orontes, founded by Seleucus I in 300 B.C. Ruins at modern Çevlik near Samandağ in Hatay province preserve the harbor walls and the Tunnel of Vespasian.",
+    "abd": "5:1076",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          4
+        ]
+      }
+    ]
+  },
+  "salamis": {
+    "name": "Salamis",
+    "name_alt": [
+      "Constantia"
+    ],
+    "coords": [
+      35.181,
+      33.901
+    ],
+    "tier": "identified",
+    "id": "On the eastern coast of Cyprus near modern Famagusta. The principal Greek city of the island in the Hellenistic and early Roman periods; renamed Constantia in late antiquity. Excavated remains include theatre, gymnasium, and basilicas.",
+    "abd": "5:904",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          5
+        ]
+      }
+    ]
+  },
+  "paphos": {
+    "name": "Paphos",
+    "name_alt": [
+      "Nea Paphos",
+      "Kato Paphos"
+    ],
+    "coords": [
+      34.7768,
+      32.4244
+    ],
+    "tier": "identified",
+    "id": "On the southwestern coast of Cyprus, the seat of the Roman proconsul of the island. The 'New Paphos' of the apostolic period (modern Kato Paphos) is distinct from Old Paphos at Kouklia, the older sanctuary of Aphrodite.",
+    "abd": "5:139",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          6,
+          13
+        ]
+      }
+    ]
+  },
+  "perga": {
+    "name": "Perga",
+    "name_alt": [
+      "Perge",
+      "Aksu"
+    ],
+    "coords": [
+      36.961,
+      30.853
+    ],
+    "tier": "identified",
+    "id": "Inland from the Pamphylian coast, c. 16 km from modern Antalya. A major Hellenistic and Roman city; ruins at modern Aksu preserve the city gate, theatre, stadium, and colonnaded street.",
+    "abd": "5:228",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          13,
+          14
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 14,
+        "verses": [
+          25
+        ]
+      }
+    ]
+  },
+  "pisidian-antioch": {
+    "name": "Antioch (Pisidian)",
+    "name_alt": [
+      "Antioch of Pisidia",
+      "Antiocheia Pisidias",
+      "Yalvaç"
+    ],
+    "coords": [
+      38.305,
+      31.19
+    ],
+    "tier": "identified",
+    "id": "On a high plateau in southern Phrygia near the border of Pisidia (modern Yalvaç, Turkey), founded by Seleucus I and refounded as a Roman colony by Augustus c. 25 B.C. Distinct from Syrian Antioch on the Orontes (Acts 11:19 etc.).",
+    "abd": "1:268",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          14
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 14,
+        "verses": [
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  "pisidia": {
+    "name": "Pisidia",
+    "name_alt": [],
+    "coords": [
+      38.0,
+      30.5
+    ],
+    "tier": "region",
+    "id": "The mountainous interior region of southern Anatolia between Phrygia (north), Lycia/Pamphylia (south), and Lycaonia (east). A Roman frontier district policed by colonial veteran settlements.",
+    "abd": "5:374",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 14,
+        "verses": [
+          24
+        ]
+      }
+    ]
+  },
+  "iconium": {
+    "name": "Iconium",
+    "name_alt": [
+      "Ikonion",
+      "Konya"
+    ],
+    "coords": [
+      37.871,
+      32.485
+    ],
+    "tier": "identified",
+    "id": "Modern Konya in central Anatolia, on the Anatolian plateau at the western edge of Lycaonia. Continuously inhabited from the Bronze Age; later the Seljuk capital. Acts assigns it variously to Phrygia (cf. v.&nbsp;14:6) and Lycaonia, reflecting its position on the linguistic-administrative border.",
+    "abd": "3:357",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 13,
+        "verses": [
+          51
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 14,
+        "verses": [
+          1,
+          19,
+          21
+        ]
+      }
+    ]
+  },
+  "lystra": {
+    "name": "Lystra",
+    "name_alt": [
+      "Hatunsaray"
+    ],
+    "coords": [
+      37.582,
+      32.448
+    ],
+    "tier": "probable",
+    "id": "Generally located at Hatunsaray c. 30 km southwest of Konya, where a third-century inscription naming Lystra was found. A Roman colony refounded by Augustus c. 6 B.C. as part of the Pisidian-Galatian frontier defense.",
+    "abd": "4:426",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 14,
+        "verses": [
+          6,
+          8,
+          21
+        ]
+      }
+    ]
+  },
+  "derbe": {
+    "name": "Derbe",
+    "name_alt": [
+      "Kerti Hüyük",
+      "Devri Şehri"
+    ],
+    "coords": [
+      37.354,
+      33.367
+    ],
+    "tier": "probable",
+    "id": "Located at Kerti Hüyük north of Karaman, where a fourth-century inscription naming the bishop of Derbe was found in 1956. The southeastern terminus of the first missionary journey, on the Lycaonian / Cappadocian border.",
+    "abd": "2:144",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 14,
+        "verses": [
+          6,
+          20
+        ]
+      }
+    ]
+  },
+  "attalia": {
+    "name": "Attalia",
+    "name_alt": [
+      "Antalya"
+    ],
+    "coords": [
+      36.886,
+      30.708
+    ],
+    "tier": "identified",
+    "id": "On the central Pamphylian coast, founded by Attalus II of Pergamum c. 150 B.C. Modern Antalya. The harbor served as the embarkation point for the journey home (v.&nbsp;14:25).",
+    "abd": "1:524",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 14,
+        "verses": [
+          25
+        ]
+      }
+    ]
+  },
+  "lycaonia": {
+    "name": "Lycaonia",
+    "name_alt": [],
+    "coords": [
+      37.5,
+      33.0
+    ],
+    "tier": "region",
+    "id": "The plateau region of south-central Anatolia between Phrygia (west), Cappadocia (east), Pisidia (south), and the Galatian highlands (north). Iconium, Lystra, and Derbe lie within it. The 'language of Lycaonia' (v.&nbsp;14:11) is a non-Greek vernacular still spoken in the apostolic period.",
+    "abd": "4:240",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 14,
+        "verses": [
+          6
         ]
       }
     ]

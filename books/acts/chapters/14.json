@@ -1,0 +1,44 @@
+{
+  "title": "First Journey: Iconium, Lystra, Derbe, Return",
+  "places": ["iconium", "lycaonia", "lystra", "derbe", "pisidian-antioch", "pisidia", "pamphylia", "perga", "attalia", "antioch-syrian"],
+  "route": ["iconium", "lystra", "derbe", "lystra", "iconium", "pisidian-antioch", "perga", "attalia", "antioch-syrian"],
+  "view": {
+    "center": [37.0, 32.0],
+    "zoom": 7
+  },
+  "verses": [
+    {"n": 1, "html": "In <span class=\"place\" data-key=\"iconium\">Iconium</span>, they entered together into the synagogue of the Jews, and so spoke that a great multitude both of Jews and of Greeks believed."},
+    {"n": 2, "html": "But the disbelieving Jews stirred up and embittered the souls of the Gentiles against the brothers."},
+    {"n": 3, "html": "Therefore they stayed there a long time, speaking boldly in the Lord, who testified to the word of his grace, granting signs and wonders to be done by their hands."},
+    {"n": 4, "html": "But the multitude of the city was divided. Part sided with the Jews and part with the apostles."},
+    {"n": 5, "html": "When some of both the Gentiles and the Jews, with their rulers, made a violent attempt to mistreat and stone them,"},
+    {"n": 6, "html": "they became aware of it and fled to the cities of <span class=\"place\" data-key=\"lycaonia\">Lycaonia</span>, <span class=\"place\" data-key=\"lystra\">Lystra</span>, <span class=\"place\" data-key=\"derbe\">Derbe</span>, and the surrounding region."},
+    {"n": 7, "html": "There they preached the Good News."},
+    {"n": 8, "html": "At <span class=\"place\" data-key=\"lystra\">Lystra</span> a certain man sat, impotent in his feet, a cripple from his mother&rsquo;s womb, who never had walked."},
+    {"n": 9, "html": "He was listening to Paul speaking, who, fastening eyes on him and seeing that he had faith to be made whole,"},
+    {"n": 10, "html": "said with a loud voice, &lsquo;Stand upright on your feet!&rsquo; He leaped up and walked."},
+    {"n": 11, "html": "When the multitude saw what Paul had done, they lifted up their voice, saying in the language of <span class=\"place\" data-key=\"lycaonia\">Lycaonia</span><sup class=\"footnote-marker\">1</sup>, &lsquo;The gods have come down to us in the likeness of men!&rsquo;"},
+    {"n": 12, "html": "They called Barnabas &lsquo;Jupiter&rsquo;, and Paul &lsquo;Mercury&rsquo;, because he was the chief speaker.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 13, "html": "The priest of Jupiter, whose temple was in front of their city, brought oxen and garlands to the gates, and would have made a sacrifice along with the multitudes."},
+    {"n": 14, "html": "But when the apostles, Barnabas and Paul, heard of it, they tore their clothes and sprang into the multitude, crying out,"},
+    {"n": 15, "html": "&lsquo;Men, why are you doing these things? We also are men of the same nature as you, and bring you good news, that you should turn from these vain things to the living God, who made the sky, the earth, the sea, and all that is in them,"},
+    {"n": 16, "html": "who in the generations gone by allowed all the nations to walk in their own ways."},
+    {"n": 17, "html": "Yet he didn&rsquo;t leave himself without witness, in that he did good and gave you rains from the sky and fruitful seasons, filling our hearts with food and gladness.&rsquo;"},
+    {"n": 18, "html": "Even saying these things, they hardly stopped the multitudes from making a sacrifice to them."},
+    {"n": 19, "html": "But some Jews from <span class=\"place\" data-key=\"pisidian-antioch\">Antioch</span> and <span class=\"place\" data-key=\"iconium\">Iconium</span> came there, and having persuaded the multitudes, they stoned Paul and dragged him out of the city, supposing that he was dead."},
+    {"n": 20, "html": "But as the disciples stood around him, he rose up, and entered into the city. On the next day he went out with Barnabas to <span class=\"place\" data-key=\"derbe\">Derbe</span>."},
+    {"n": 21, "html": "When they had preached the Good News to that city and had made many disciples, they returned to <span class=\"place\" data-key=\"lystra\">Lystra</span>, <span class=\"place\" data-key=\"iconium\">Iconium</span>, and <span class=\"place\" data-key=\"pisidian-antioch\">Antioch</span>,<sup class=\"footnote-marker\">3</sup>"},
+    {"n": 22, "html": "strengthening the souls of the disciples, exhorting them to continue in the faith, and that through many afflictions we must enter into God&rsquo;s Kingdom."},
+    {"n": 23, "html": "When they had appointed elders for them in every assembly, and had prayed with fasting, they commended them to the Lord on whom they had believed."},
+    {"n": 24, "html": "They passed through <span class=\"place\" data-key=\"pisidia\">Pisidia</span> and came to <span class=\"place\" data-key=\"pamphylia\">Pamphylia</span>."},
+    {"n": 25, "html": "When they had spoken the word in <span class=\"place\" data-key=\"perga\">Perga</span>, they went down to <span class=\"place\" data-key=\"attalia\">Attalia</span>."},
+    {"n": 26, "html": "From there they sailed to <span class=\"place\" data-key=\"antioch-syrian\">Antioch</span>, from where they had been committed to the grace of God for the work which they had fulfilled."},
+    {"n": 27, "html": "When they had arrived and had gathered the assembly together, they reported all the things that God had done with them, and that he had opened a door of faith to the nations."},
+    {"n": 28, "html": "They stayed there with the disciples for a long time."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>The language of Lycaonia</strong> (v.&nbsp;11) &mdash; a non-Greek vernacular still spoken in the apostolic period, attested by both Acts and a passing remark in Strabo (12.6.1). The detail explains why Paul and Barnabas miss the cue at first: the crowd is acclaiming them in a language they don&rsquo;t understand."},
+    {"n": 2, "html": "<strong>Jupiter and Mercury</strong> (v.&nbsp;12) &mdash; Latin names for the Greek Zeus and Hermes, paired here in their familiar mythic role: Hermes the divine messenger of Zeus. The local Lycaonian myth of Baucis and Philemon (preserved in Ovid&rsquo;s <em>Metamorphoses</em> 8.626-724) sets exactly this divine pair wandering disguised through a Phrygian-Lycaonian village; the chapter&rsquo;s incident reads as a direct echo."},
+    {"n": 3, "html": "<strong>The return route</strong> (v.&nbsp;21) &mdash; Paul and Barnabas retrace their steps through Lystra, Iconium, and Pisidian Antioch, despite the persecution at each, rather than taking the shorter route southeast through the Cilician Gates back to Tarsus and Antioch. The map traces the loop accordingly: out via Pisidian Antioch and Iconium, southeast to Derbe, then back along the same line to Antioch in Pisidia, south through Pamphylia to Attalia, and home by sea to Syrian Antioch."}
+  ]
+}

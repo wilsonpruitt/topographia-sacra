@@ -185,6 +185,20 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 - [ ] **Dan** — coastal plain; Leshem/Tel Dan northern enclave deliberately excluded (named only after the conquest in v. 47).
 All six marked `approximate: true`.
 
+## Acts 13-14 — gazetteer entries (11 added)
+
+- [ ] **Seleucia** at Çevlik / Samandağ — secure.
+- [ ] **Salamis** on the eastern Cyprus coast — secure.
+- [ ] **Paphos** — Nea Paphos at modern Kato Paphos. Confirm vs Old Paphos (Kouklia).
+- [ ] **Perga** at Aksu — secure.
+- [ ] **Pisidian Antioch** at Yalvaç — secure. Distinct slug from `antioch-syrian`; convention should be sustainable for the eventual third Antioch (Antioch on the Maeander, etc.) if needed.
+- [ ] **Iconium** at modern Konya — secure. Acts assigns Iconium variously to Phrygia and Lycaonia; the gazetteer prose notes the border ambiguity.
+- [ ] **Lystra** at Hatunsaray — confirmed by 1885 inscription discovery. Probable.
+- [ ] **Derbe** at Kerti Hüyük — confirmed by 1956 inscription. Probable.
+- [ ] **Attalia** at modern Antalya — secure.
+- [ ] **Pisidia / Lycaonia** as region pins — confirm centroids.
+- [ ] **Routes** added to chs.13 and 14 (the first missionary journey traced as a polyline). Verify route renderer shows them correctly at the wide zoom.
+
 ## Acts 8-12 — gazetteer entries (8 added)
 
 - [ ] **Caesarea** = Caesarea Maritima (Tel Caesarea) — secure.
@@ -358,6 +372,8 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Acts 10
 - [ ] Acts 11
 - [ ] Acts 12
+- [ ] Acts 13
+- [ ] Acts 14
 
 ## Site-level
 
