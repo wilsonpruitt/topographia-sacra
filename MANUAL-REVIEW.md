@@ -185,6 +185,18 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 - [ ] **Dan** — coastal plain; Leshem/Tel Dan northern enclave deliberately excluded (named only after the conquest in v. 47).
 All six marked `approximate: true`.
 
+## Acts 1-2 — gazetteer entries (20 added)
+
+- [ ] **Mount of Olives** at Jebel et-Tur — secure.
+- [ ] **Akeldama** on the southern slope of the Hinnom valley — confirm primary location vs other Crusader-era proposals.
+- [ ] **Nazareth** — secure.
+- [ ] **Judea / Samaria-region / Galilee-region** — three Roman provincial / regional tags. Pin placement notional; verify centroids.
+- [ ] **Pentecost roll-call regions** (Parthia, Media, Elam, Mesopotamia, Cappadocia, Pontus, Asia-province, Phrygia, Pamphylia, Libya, Crete, Arabia) — all `tier: region` with notional centroid pins. None of these is wrong, but all the centroids are best-guess; a more careful editorial pass might pick more specific 'capital' pins (Hecatompylos for Parthia, Ecbatana for Media, Susa for Elam, etc.).
+- [ ] **Cyrene** at Shahhat — secure.
+- [ ] **Rome** — secure.
+- [ ] **Asia-province slug** disambiguates from a future generic "Asia" if that ever appears. Confirm naming convention.
+- [ ] **Acts is the first edition where most pins are *outside* the Levant.** The 17th-c. Topographia Sacra visual register stays consistent; verify it still reads well at the very wide zoom of ch. 2.
+
 ## Ruth — gazetteer entries (2 added)
 
 - [ ] **Bethlehem-Judah** at modern Beit Lahm — secure identification.
@@ -307,6 +319,8 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Ruth 2
 - [ ] Ruth 3
 - [ ] Ruth 4
+- [ ] Acts 1
+- [ ] Acts 2
 
 ## Site-level
 

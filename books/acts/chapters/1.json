@@ -1,0 +1,41 @@
+{
+  "title": "Pentecost Approaches",
+  "places": ["jerusalem", "judea", "samaria-region", "galilee-region", "mount-of-olives", "akeldama"],
+  "view": {
+    "center": [31.78, 35.23],
+    "zoom": 11
+  },
+  "verses": [
+    {"n": 1, "html": "The first book I wrote, Theophilus, concerned all that Jesus began both to do and teach,"},
+    {"n": 2, "html": "until the day in which he was received up, after he had given commandment through the Holy Spirit to the apostles whom he had chosen."},
+    {"n": 3, "html": "To these he also showed himself alive after he suffered, by many proofs, appearing to them over a period of forty days and speaking about God&rsquo;s Kingdom."},
+    {"n": 4, "html": "Being assembled together with them, he commanded them, &lsquo;Don&rsquo;t depart from <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, but wait for the promise of the Father, which you heard from me."},
+    {"n": 5, "html": "For John indeed baptized in water, but you will be baptized in the Holy Spirit not many days from now.&rsquo;"},
+    {"n": 6, "html": "Therefore, when they had come together, they asked him, &lsquo;Lord, are you now restoring the kingdom to Israel?&rsquo;"},
+    {"n": 7, "html": "He said to them, &lsquo;It isn&rsquo;t for you to know times or seasons which the Father has set within his own authority."},
+    {"n": 8, "html": "But you will receive power when the Holy Spirit has come upon you. You will be witnesses to me in <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, in all <span class=\"place\" data-key=\"judea\">Judea</span> and <span class=\"place\" data-key=\"samaria-region\">Samaria</span>, and to the uttermost parts of the earth.&rsquo;<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 9, "html": "When he had said these things, as they were looking, he was taken up, and a cloud received him out of their sight."},
+    {"n": 10, "html": "While they were looking steadfastly into the sky as he went, behold, two men stood by them in white clothing,"},
+    {"n": 11, "html": "who also said, &lsquo;You men of <span class=\"place\" data-key=\"galilee-region\">Galilee</span>, why do you stand looking into the sky? This Jesus, who was received up from you into the sky, will come back in the same way as you saw him going into the sky.&rsquo;"},
+    {"n": 12, "html": "Then they returned to <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> from the mountain called <span class=\"place\" data-key=\"mount-of-olives\">Olivet</span><sup class=\"footnote-marker\">2</sup>, which is near <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, a Sabbath day&rsquo;s journey away."},
+    {"n": 13, "html": "When they had come in, they went up into the upper room where they were staying, that is Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew, James the son of Alphaeus, Simon the Zealot, and Judas the son of James."},
+    {"n": 14, "html": "All these with one accord continued steadfastly in prayer and supplication, along with the women and Mary the mother of Jesus, and with his brothers."},
+    {"n": 15, "html": "In these days, Peter stood up in the middle of the disciples (and the number of names was about one hundred twenty), and said,"},
+    {"n": 16, "html": "&lsquo;Brothers, it was necessary that this Scripture should be fulfilled, which the Holy Spirit spoke before by the mouth of David concerning Judas, who was guide to those who took Jesus."},
+    {"n": 17, "html": "For he was counted with us, and received his portion in this ministry."},
+    {"n": 18, "html": "Now this man obtained a field with the reward for his wickedness; and falling headlong, his body burst open and all his intestines gushed out."},
+    {"n": 19, "html": "It became known to everyone who lived in <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> that in their language that field was called <span class=\"place\" data-key=\"akeldama\">&lsquo;Akeldama&rsquo;</span><sup class=\"footnote-marker\">3</sup>, that is, &lsquo;The field of blood.&rsquo;"},
+    {"n": 20, "html": "For it is written in the book of Psalms, &lsquo;Let his habitation be made desolate. Let no one dwell in it;&rsquo; and, &lsquo;Let another take his office.&rsquo;"},
+    {"n": 21, "html": "Of the men therefore who have accompanied us all the time that the Lord Jesus went in and out among us,"},
+    {"n": 22, "html": "beginning from the baptism of John to the day that he was received up from us, of these one must become a witness with us of his resurrection.&rsquo;"},
+    {"n": 23, "html": "They put forward two: Joseph called Barsabbas, who was also called Justus, and Matthias."},
+    {"n": 24, "html": "They prayed and said, &lsquo;You, Lord, who know the hearts of all men, show which one of these two you have chosen"},
+    {"n": 25, "html": "to take part in this ministry and apostleship from which Judas fell away, that he might go to his own place.&rsquo;"},
+    {"n": 26, "html": "They drew lots for them, and the lot fell on Matthias; and he was counted with the eleven apostles."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>The programmatic geography of v.&nbsp;8</strong> — &lsquo;Jerusalem, all Judea and Samaria, and the uttermost parts of the earth&rsquo; is the structural map of the whole book: the narrative moves outward in concentric rings from the city, through the Roman provincial geography of the eastern Mediterranean, and ends with Paul preaching unhindered in Rome (28:30-31). The chapter map shows only the first ring; subsequent chapters extend outward."},
+    {"n": 2, "html": "<strong>The Mount of Olives</strong> (v.&nbsp;12) — the ridge directly east of Jerusalem, separated from the Temple Mount by the Kidron valley. A Sabbath day&rsquo;s journey is c. 1100 m, the rabbinic limit on travel within the holy day, fitting Olivet&rsquo;s distance from the Temple precinct."},
+    {"n": 3, "html": "<strong>Akeldama</strong> (v.&nbsp;19) — Aramaic <em>haqal dema</em>, &lsquo;field of blood&rsquo;. The traditional location on the southern slope of the Hinnom valley below modern Mount Zion has been identified continuously since at least the Crusader period; a small ravine joining the Hinnom and Kidron there has yielded ossuary tombs from the first century."}
+  ]
+}

@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>The Acts of the Apostles &mdash; Topographia Sacra</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="/assets/edition.css" />
+</head>
+<body>
+
+<header class="masthead">
+  <a href="/" class="wordmark">Topographia <span class="amp">&middot;</span> Sacra</a>
+  <nav class="masthead-nav">
+    <a href="/books/acts/">Acts</a>
+    <a href="/gazetteer.html">Gazetteer</a>
+  </nav>
+</header>
+
+<section class="book-intro">
+  <div class="imprint-block">
+    <div class="imprint-line">A Geographical Edition</div>
+    <hr class="rule" style="max-width:300px; margin: 6px auto 14px;" />
+    <h1>The Acts of the Apostles</h1>
+    <div class="fleuron fleuron-sm">&#10086;</div>
+  </div>
+
+  <p class="subtitle">World English Bible &middot; with a gazetteer of place names</p>
+
+  <p>The Acts of the Apostles is the most geographically expansive book in the Christian Bible. Its programmatic verse 1:8 &mdash; &lsquo;in Jerusalem, in all Judea and Samaria, and to the uttermost parts of the earth&rsquo; &mdash; is itself a map. The narrative moves outward from a Jerusalem upper room through the Levant, across Asia Minor, into Macedonia and Achaia, and finally to Rome. The Pentecost roll-call of chapter 2 names regions reaching from Parthia (modern Iran) to Libya, foreshadowing the journeys to come.</p>
+
+  <p>This edition is being built one chapter at a time. Each chapter pairs the text of the World English Bible (public domain) with a map of the places named in that chapter. Maritime and overland journeys are traced as routes. Identifications follow the <em>Anchor Bible Dictionary</em>.</p>
+
+  <p class="note">Solid pins denote identified sites; lighter pins denote probable identifications; outlined pins denote conjectural ones.</p>
+</section>
+
+<ul class="chapter-list" id="chapter-list">
+  <!-- populated by JS from /books/acts/meta.json -->
+</ul>
+
+<script>
+(async function () {
+  const meta = await fetch("/books/acts/meta.json").then(r => r.json());
+  const built = new Set(meta.built);
+  const list = document.getElementById("chapter-list");
+  const toRoman = (num) => {
+    const map = [[10,"X"],[9,"IX"],[5,"V"],[4,"IV"],[1,"I"]];
+    let r = ""; for (const [v,s] of map) while (num >= v) { r += s; num -= v; }
+    return r;
+  };
+  meta.chapter_titles.forEach((title, i) => {
+    const n = i + 1;
+    const li = document.createElement("li");
+    const wrap = document.createElement("a");
+    const num = document.createElement("span");
+    num.className = "num";
+    num.textContent = `Ch. ${toRoman(n)}`;
+    const tt = document.createElement("span");
+    tt.className = "title";
+    tt.textContent = title;
+    const places = document.createElement("span");
+    places.className = "places";
+    if (built.has(n)) {
+      wrap.href = `${n}/`;
+      places.textContent = "View →";
+    } else {
+      wrap.style.cursor = "default";
+      wrap.style.color = "var(--sepia-soft)";
+      tt.style.color = "var(--sepia-soft)";
+      places.textContent = "— forthcoming —";
+    }
+    wrap.appendChild(num);
+    wrap.appendChild(tt);
+    wrap.appendChild(places);
+    li.appendChild(wrap);
+    list.appendChild(li);
+  });
+})();
+</script>
+
+</body>
+</html>

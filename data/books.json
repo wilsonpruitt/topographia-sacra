@@ -21,7 +21,14 @@
       "chapters": 4,
       "status": "complete",
       "first_built": 2026
+    },
+    "acts": {
+      "title": "The Acts of the Apostles",
+      "subtitle": "A geographical edition",
+      "chapters": 28,
+      "status": "in-progress",
+      "first_built": 2026
     }
   },
-  "order": ["joshua", "jonah", "ruth"]
+  "order": ["joshua", "jonah", "ruth", "acts"]
 }

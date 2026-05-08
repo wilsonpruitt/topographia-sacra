@@ -1038,6 +1038,24 @@
           16,
           28
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 1,
+        "verses": [
+          4,
+          8,
+          12,
+          19
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          5,
+          14
+        ]
       }
     ]
   },
@@ -9636,6 +9654,13 @@
           17,
           32
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          10
+        ]
       }
     ]
   },
@@ -9847,6 +9872,467 @@
         "chapter": 4,
         "verses": [
           3
+        ]
+      }
+    ]
+  },
+  "judea": {
+    "name": "Judea",
+    "name_alt": [
+      "Judaea",
+      "Iudaea"
+    ],
+    "coords": [
+      31.5,
+      35.1
+    ],
+    "tier": "region",
+    "id": "The Roman administrative province (later procuratorial province) covering the southern hill country of Israel — Jerusalem, the Judean wilderness, and territory south to the Negev. The Greco-Roman successor to the Hasmonean and Herodian Iudaea. Pin sits in the central hill country.",
+    "abd": "3:1019",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 1,
+        "verses": [
+          8
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          9,
+          14
+        ]
+      }
+    ]
+  },
+  "samaria-region": {
+    "name": "Samaria",
+    "name_alt": [
+      "Samareia",
+      "Sebaste"
+    ],
+    "coords": [
+      32.3,
+      35.2
+    ],
+    "tier": "region",
+    "id": "The central hill-country region between Galilee (north) and Judea (south), centered on the city of Sebaste / Samaria (Sebastiya) — the old capital of Omri (1 Kgs 16:24) refounded by Herod. Distinct from the city: pin sits in the regional centre.",
+    "abd": "5:914",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 1,
+        "verses": [
+          8
+        ]
+      }
+    ]
+  },
+  "galilee-region": {
+    "name": "Galilee",
+    "name_alt": [
+      "Galilaia",
+      "Galil"
+    ],
+    "coords": [
+      32.85,
+      35.4
+    ],
+    "tier": "region",
+    "id": "The northern region of Roman-period Palestine, bounded by the Jezreel valley (south), the Lebanese mountains (north), the Mediterranean (west), and the Jordan / Sea of Galilee (east). Subdivided into Lower Galilee (the Jesus traditions are mostly here) and Upper Galilee.",
+    "abd": "2:895",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 1,
+        "verses": [
+          11
+        ]
+      }
+    ]
+  },
+  "mount-of-olives": {
+    "name": "Mount of Olives",
+    "name_alt": [
+      "Olivet",
+      "Jebel et-Tur",
+      "Har ha-Zeitim"
+    ],
+    "coords": [
+      31.7782,
+      35.2434
+    ],
+    "tier": "identified",
+    "id": "The ridge east of Jerusalem rising c. 100 m above the city across the Kidron valley. Site of the Bethphage and Bethany approach (Mk 11), the Ascension tradition, and (2 Sam 15:30, Zech 14:4) earlier covenantal geography. Modern Jebel et-Tur preserves the name.",
+    "abd": "5:13",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 1,
+        "verses": [
+          12
+        ]
+      }
+    ]
+  },
+  "akeldama": {
+    "name": "Akeldama",
+    "name_alt": [
+      "Field of Blood",
+      "Hakeldama",
+      "Hagg el-Damm"
+    ],
+    "coords": [
+      31.7705,
+      35.2308
+    ],
+    "tier": "probable",
+    "id": "Generally located on the southern slope of the Hinnom valley below modern Mount Zion, where a small ravine joins the Kidron. The traditional site preserved in Greek (Hakeldama) and Aramaic (haqal dema) names is marked by a Crusader-era charnel-house chapel.",
+    "abd": "1:135",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 1,
+        "verses": [
+          19
+        ]
+      }
+    ]
+  },
+  "nazareth": {
+    "name": "Nazareth",
+    "name_alt": [
+      "en-Nasira",
+      "Nasrath"
+    ],
+    "coords": [
+      32.7022,
+      35.2978
+    ],
+    "tier": "identified",
+    "id": "Modern en-Nasira / Nazareth in Lower Galilee, c. 30 km west of the Sea of Galilee. A village of perhaps 200-400 in the early first century, identified through continuous habitation, tomb evidence, and the third-century Caesarea inscription naming it as a priestly course settlement.",
+    "abd": "4:1050",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          22
+        ]
+      }
+    ]
+  },
+  "parthia": {
+    "name": "Parthia",
+    "name_alt": [
+      "Parthians",
+      "the Arsacid empire"
+    ],
+    "coords": [
+      36.5,
+      57.0
+    ],
+    "tier": "region",
+    "id": "The empire stretching from the Euphrates eastward across the Iranian plateau under the Arsacid dynasty (247 B.C. – A.D. 224). Rome's principal eastern rival in the apostolic period. Pin sits in the Parthian heartland near Hecatompylos / Damghan.",
+    "abd": "5:175",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          9
+        ]
+      }
+    ]
+  },
+  "media": {
+    "name": "Media",
+    "name_alt": [
+      "Medes",
+      "Madai"
+    ],
+    "coords": [
+      35.7,
+      49.4
+    ],
+    "tier": "region",
+    "id": "The northwestern Iranian plateau, capital at Ecbatana (modern Hamadan). By the apostolic period a satrapy of the Parthian empire. The Medes appear as a distinct people in Acts 2 even though their kingdom had been absorbed centuries earlier.",
+    "abd": "4:658",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          9
+        ]
+      }
+    ]
+  },
+  "elam": {
+    "name": "Elam",
+    "name_alt": [
+      "Elamites",
+      "Susiana"
+    ],
+    "coords": [
+      32.2,
+      48.3
+    ],
+    "tier": "region",
+    "id": "The lowland region of southwestern Iran (Khuzestan), traditionally centered on Susa. By the first century the Hellenistic Susiana, governed under Parthian overlordship.",
+    "abd": "2:424",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          9
+        ]
+      }
+    ]
+  },
+  "mesopotamia": {
+    "name": "Mesopotamia",
+    "name_alt": [
+      "between the rivers"
+    ],
+    "coords": [
+      34.0,
+      42.0
+    ],
+    "tier": "region",
+    "id": "The land between the Tigris and Euphrates. In the apostolic period split between Roman client kingdoms in the upper basin (Edessa) and Parthian control of Babylonia. Pin sits in the middle Euphrates region.",
+    "abd": "4:714",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          9
+        ]
+      }
+    ]
+  },
+  "cappadocia": {
+    "name": "Cappadocia",
+    "name_alt": [
+      "Kappadokia"
+    ],
+    "coords": [
+      38.65,
+      34.85
+    ],
+    "tier": "region",
+    "id": "The interior Anatolian plateau, made a Roman province under Tiberius in A.D. 17. Famous in late antiquity for its volcanic-tuff landscape and rock-hewn churches; in the first century a primarily rural province with a mixed Hellenistic and Iranian-influenced elite.",
+    "abd": "1:870",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          9
+        ]
+      }
+    ]
+  },
+  "pontus": {
+    "name": "Pontus",
+    "name_alt": [
+      "Pontos"
+    ],
+    "coords": [
+      40.9,
+      36.0
+    ],
+    "tier": "region",
+    "id": "The Black Sea coast of northern Anatolia, the kingdom of Mithridates VI in the late Hellenistic period, partitioned into a Roman province and client states after 63 B.C. The home region of Aquila (Acts 18:2).",
+    "abd": "5:401",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          9
+        ]
+      }
+    ]
+  },
+  "asia-province": {
+    "name": "Asia",
+    "name_alt": [
+      "Roman Asia",
+      "Asia Proconsularis",
+      "Asia Minor (western)"
+    ],
+    "coords": [
+      38.5,
+      28.0
+    ],
+    "tier": "region",
+    "id": "The Roman province (formed 129 B.C.) covering the western third of Anatolia, with Ephesus as its capital and the seven cities of Revelation 1-3 within its bounds. Distinct from 'Asia' as a continent and from the Seleucid use of the term for the wider Anatolian-Syrian sphere.",
+    "abd": "1:499",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          9
+        ]
+      }
+    ]
+  },
+  "phrygia": {
+    "name": "Phrygia",
+    "name_alt": [
+      "Phrygians"
+    ],
+    "coords": [
+      39.1,
+      30.5
+    ],
+    "tier": "region",
+    "id": "The west-central Anatolian plateau, a cultural region split administratively between Roman Asia (west) and Galatia (east) in the apostolic period. Pisidian Antioch and Iconium lay within the wider Phrygian zone.",
+    "abd": "5:365",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          10
+        ]
+      }
+    ]
+  },
+  "pamphylia": {
+    "name": "Pamphylia",
+    "name_alt": [],
+    "coords": [
+      36.95,
+      30.85
+    ],
+    "tier": "region",
+    "id": "The narrow coastal plain of southern Anatolia between Lycia (west) and Cilicia (east), with Perga and Attalia as its principal cities. A Roman province (combined with Lycia under Vespasian).",
+    "abd": "5:139",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          10
+        ]
+      }
+    ]
+  },
+  "cyrene": {
+    "name": "Cyrene",
+    "name_alt": [
+      "Kyrene",
+      "Shahhat"
+    ],
+    "coords": [
+      32.823,
+      21.858
+    ],
+    "tier": "identified",
+    "id": "The chief Greek city of the Cyrenaican coast (modern Shahhat, Libya). A major Jewish community is attested in the apostolic period; Simon of Cyrene was conscripted to bear Jesus' cross (Mk 15:21).",
+    "abd": "1:1230",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          10
+        ]
+      }
+    ]
+  },
+  "libya": {
+    "name": "Libya",
+    "name_alt": [
+      "the parts of Libya around Cyrene",
+      "Libua"
+    ],
+    "coords": [
+      31.5,
+      21.0
+    ],
+    "tier": "region",
+    "id": "The Roman province of Cyrenaica (later Libya superior), the coastal strip of north Africa west of Egypt. The phrase 'parts of Libya around Cyrene' in Acts 2:10 picks out the Pentapolis region around the city.",
+    "abd": "4:298",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          10
+        ]
+      }
+    ]
+  },
+  "rome": {
+    "name": "Rome",
+    "name_alt": [
+      "Roma"
+    ],
+    "coords": [
+      41.9028,
+      12.4964
+    ],
+    "tier": "identified",
+    "id": "The imperial capital. In Acts the city is the goal of Paul's career (1:8 'to the uttermost parts of the earth'; 19:21; 28:14-16) and the destination of his appeal to Caesar.",
+    "abd": "5:830",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          10
+        ]
+      }
+    ]
+  },
+  "crete": {
+    "name": "Crete",
+    "name_alt": [
+      "Kreta"
+    ],
+    "coords": [
+      35.25,
+      24.8
+    ],
+    "tier": "region",
+    "id": "The largest of the Greek islands, a Roman province (combined with Cyrene) since 67 B.C. Paul's voyage to Rome touches the south coast at Fair Havens and Phoenix (Acts 27).",
+    "abd": "1:1206",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          11
+        ]
+      }
+    ]
+  },
+  "arabia": {
+    "name": "Arabia",
+    "name_alt": [
+      "Nabataea"
+    ],
+    "coords": [
+      30.3,
+      35.45
+    ],
+    "tier": "region",
+    "id": "In the New Testament principally the Nabataean kingdom east of the Jordan and the Dead Sea, with Petra as its capital — annexed as Roman Arabia in A.D. 106. Pin sits at Petra. Paul's 'three years in Arabia' of Gal 1:17 places him in this kingdom rather than the wider peninsula.",
+    "abd": "1:324",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 2,
+        "verses": [
+          11
         ]
       }
     ]
