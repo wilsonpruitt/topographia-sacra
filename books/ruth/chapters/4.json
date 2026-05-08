@@ -1,0 +1,37 @@
+{
+  "title": "At the Gate",
+  "places": ["bethlehem-judah", "moab"],
+  "view": {
+    "center": [31.705, 35.203],
+    "zoom": 14
+  },
+  "verses": [
+    {"n": 1, "html": "Now Boaz went up to the gate<sup class=\"footnote-marker\">1</sup> and sat down there. Behold, the near kinsman of whom Boaz spoke came by. Boaz said to him, &lsquo;Come over here, friend, and sit down!&rsquo; He came over, and sat down."},
+    {"n": 2, "html": "Boaz took ten men of the elders of the city, and said, &lsquo;Sit down here,&rsquo; and they sat down."},
+    {"n": 3, "html": "He said to the near kinsman, &lsquo;Naomi, who has come back out of the country of <span class=\"place\" data-key=\"moab\">Moab</span>, is selling the parcel of land, which was our brother Elimelech&rsquo;s."},
+    {"n": 4, "html": "I thought I should tell you, saying, &ldquo;Buy it before those who sit here, and before the elders of my people.&rdquo; If you will redeem it, redeem it; but if you will not redeem it, then tell me, that I may know. For there is no one to redeem it besides you; and I am after you.&rsquo; He said, &lsquo;I will redeem it.&rsquo;"},
+    {"n": 5, "html": "Then Boaz said, &lsquo;On the day you buy the field from the hand of Naomi, you must buy it also from Ruth the Moabitess, the wife of the dead, to raise up the name of the dead on his inheritance.&rsquo;"},
+    {"n": 6, "html": "The near kinsman said, &lsquo;I can&rsquo;t redeem it for myself, lest I endanger my own inheritance. Take my right of redemption for yourself; for I can&rsquo;t redeem it.&rsquo;"},
+    {"n": 7, "html": "Now this was the custom in former time in Israel concerning redeeming and concerning exchanging, to confirm all things: a man took off his sandal, and gave it to his neighbor; and this was the way of formalizing transactions in Israel."},
+    {"n": 8, "html": "So the near kinsman said to Boaz, &lsquo;Buy it for yourself,&rsquo; then he took off his sandal."},
+    {"n": 9, "html": "Boaz said to the elders and to all the people, &lsquo;You are witnesses today, that I have bought all that was Elimelech&rsquo;s, and all that was Chilion&rsquo;s and Mahlon&rsquo;s, from the hand of Naomi."},
+    {"n": 10, "html": "Moreover, Ruth the Moabitess, the wife of Mahlon, I have purchased to be my wife, to raise up the name of the dead on his inheritance, that the name of the dead may not be cut off from among his brothers and from the gate of his place. You are witnesses today.&rsquo;"},
+    {"n": 11, "html": "All the people who were in the gate, and the elders, said, &lsquo;We are witnesses. May Yahweh make the woman who has come into your house like Rachel and like Leah, which both built the house of Israel; and treat you worthily in <span class=\"place\" data-key=\"bethlehem-judah\">Ephrathah</span>, and be famous in <span class=\"place\" data-key=\"bethlehem-judah\">Bethlehem</span>.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 12, "html": "Let your house be like the house of Perez, whom Tamar bore to Judah, of the offspring which Yahweh will give you by this young woman.&rsquo;"},
+    {"n": 13, "html": "So Boaz took Ruth and she became his wife; and he went in to her, and Yahweh enabled her to conceive, and she bore a son."},
+    {"n": 14, "html": "The women said to Naomi, &lsquo;Blessed be Yahweh, who has not left you today without a near kinsman. Let his name be famous in Israel."},
+    {"n": 15, "html": "He shall be to you a restorer of life and sustain you in your old age; for your daughter-in-law, who loves you, who is better to you than seven sons, has given birth to him.&rsquo;"},
+    {"n": 16, "html": "Naomi took the child, laid him in her bosom, and became nurse to him."},
+    {"n": 17, "html": "The women, her neighbors, gave him a name, saying, &lsquo;A son is born to Naomi&rsquo;. They named him Obed. He is the father of Jesse, the father of David."},
+    {"n": 18, "html": "Now this is the history of the generations of Perez: Perez became the father of Hezron"},
+    {"n": 19, "html": "and Hezron became the father of Ram, and Ram became the father of Amminadab"},
+    {"n": 20, "html": "and Amminadab became the father of Nahshon, and Nahshon became the father of Salmon"},
+    {"n": 21, "html": "and Salmon became the father of Boaz, and Boaz became the father of Obed"},
+    {"n": 22, "html": "and Obed became the father of Jesse, and Jesse became the father of David.<sup class=\"footnote-marker\">3</sup>"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>The gate</strong> (v.&nbsp;1) — the city gate complex was the standard public forum of Iron Age Levantine towns: the place where elders sat in judgment, transactions were witnessed, and news was exchanged. Excavated examples (at Tel Dan, Tel Beersheba, Lachish) typically include benches built into the chambers flanking the passage. The map for this chapter zooms tight on Bethlehem; the gate itself would have stood somewhere on the eastern slope of the ridge where the modern Old City lies."},
+    {"n": 2, "html": "<strong>Ephrathah and Bethlehem</strong> (v.&nbsp;11) — the doubled name reaches back to the older clan-territory designation (Ephrathah) and the town name proper (Bethlehem); Mic 5:2 preserves the same pairing in the messianic prophecy. The wedding blessing here links Ruth&rsquo;s household to the great matriarchs (Rachel and Leah) and to Tamar of Gen 38, whose levirate-line union with Judah produced Perez &mdash; the line that closes the chapter at v.&nbsp;22."},
+    {"n": 3, "html": "<strong>The closing genealogy</strong> (vv.&nbsp;18-22) — the only explicitly genealogical pericope in the book. The ten-name line from Perez (Tamar&rsquo;s son by Judah) to David spans the entire patriarchal-monarchic interval in a single verse-list; Boaz sits at the eighth position, Ruth&rsquo;s great-grandson is David. The geography of the book is therefore not just the Bethlehem-Moab-Bethlehem return; it is also the linking of an outsider&rsquo;s migration to the central genealogy of Israel&rsquo;s royal line."}
+  ]
+}

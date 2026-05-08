@@ -9767,5 +9767,88 @@
         ]
       }
     ]
+  },
+  "bethlehem-judah": {
+    "name": "Bethlehem",
+    "name_alt": [
+      "Bethlehem Judah",
+      "Beit Lahm",
+      "Ephrathah",
+      "Ephrath"
+    ],
+    "coords": [
+      31.705,
+      35.203
+    ],
+    "tier": "identified",
+    "id": "Modern Beit Lahm c. 8 km south of Jerusalem in the central hill country. Distinct from the Galilean Bethlehem of Joshua 19:15 (Beit Lahm of Zebulun). Burial place of Rachel (Gen 35:19, given as Ephrath); home of the Boaz-Obed-Jesse-David line; in later tradition the birthplace of Jesus.",
+    "abd": "1:712",
+    "appearances": [
+      {
+        "book": "ruth",
+        "chapter": 1,
+        "verses": [
+          1,
+          2,
+          19,
+          22
+        ]
+      },
+      {
+        "book": "ruth",
+        "chapter": 2,
+        "verses": [
+          4
+        ]
+      },
+      {
+        "book": "ruth",
+        "chapter": 4,
+        "verses": [
+          11
+        ]
+      }
+    ]
+  },
+  "moab": {
+    "name": "Moab",
+    "name_alt": [
+      "country of Moab",
+      "fields of Moab"
+    ],
+    "coords": [
+      31.5,
+      35.75
+    ],
+    "tier": "region",
+    "id": "The plateau east of the Dead Sea, traditionally bounded by the Arnon canyon (south, against Edom) and the Heshbon plateau (north, against the trans-Jordan tribes). Ancestrally descended from Lot (Gen 19:37). Home of the Moabite Stone (Mesha Stele) found at Dhiban in 1868. Pin sits in the central plateau.",
+    "abd": "4:882",
+    "appearances": [
+      {
+        "book": "ruth",
+        "chapter": 1,
+        "verses": [
+          1,
+          2,
+          4,
+          6,
+          22
+        ]
+      },
+      {
+        "book": "ruth",
+        "chapter": 2,
+        "verses": [
+          6
+        ]
+      },
+      {
+        "book": "ruth",
+        "chapter": 4,
+        "verses": [
+          3
+        ]
+      }
+    ]
   }
 }

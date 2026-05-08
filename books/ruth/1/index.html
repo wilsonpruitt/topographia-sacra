@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Jonah Joshua &mdash; Topographia Sacramdash; Topographia Sacra</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=IM+Fell+English:ital@0;1&family=IM+Fell+English+SC&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+<link rel="stylesheet" href="/assets/edition.css" />
+</head>
+<body data-book="ruth" data-chapter="1">
+
+<header class="masthead">
+  <a href="/" class="wordmark">Topographia <span class="amp">&middot;</span> Sacra</a>
+  <nav class="masthead-nav">
+    <a href="/books/ruth/">Ruth</a>
+    <a href="/gazetteer.html">Gazetteer</a>
+  </nav>
+</header>
+
+<section class="chapter-header">
+  <div id="chapter-eyebrow" class="chapter-eyebrow"></div>
+  <hr class="rule" />
+  <div class="fleuron fleuron-sm">&#10086;</div>
+  <hr class="rule-thin" />
+  <h1 id="chapter-title" class="chapter-title"></h1>
+  <p id="chapter-subtitle" class="chapter-subtitle"></p>
+</section>
+
+<main class="reader">
+  <article class="text-col" id="text-col">
+    <section class="footnotes" id="footnotes">
+      <h3>Notes on the Geography</h3>
+      <div id="footnotes-list"></div>
+    </section>
+  </article>
+
+  <aside class="map-col">
+    <div id="map" class="map-canvas" aria-label="Map of places mentioned in this chapter"></div>
+    <div class="map-caption">
+      <strong>Solid pins</strong> denote identified sites; <strong>outlined pins</strong> denote conjectural identifications. See notes.
+    </div>
+  </aside>
+</main>
+
+<nav class="pager">
+  <span id="pager-prev"></span>
+  <span class="pager-spacer">&middot;</span>
+  <span id="pager-next"></span>
+</nav>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script src="/assets/chapter.js"></script>
+</body>
+</html>

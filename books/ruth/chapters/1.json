@@ -1,0 +1,37 @@
+{
+  "title": "Famine and Return",
+  "places": ["bethlehem-judah", "moab"],
+  "view": {
+    "center": [31.62, 35.50],
+    "zoom": 9
+  },
+  "verses": [
+    {"n": 1, "html": "In the days when the judges judged<sup class=\"footnote-marker\">1</sup>, there was a famine in the land. A certain man of <span class=\"place\" data-key=\"bethlehem-judah\">Bethlehem Judah</span> went to live in the country of <span class=\"place\" data-key=\"moab\">Moab</span> with his wife and his two sons."},
+    {"n": 2, "html": "The name of the man was Elimelech, and the name of his wife Naomi. The names of his two sons were Mahlon and Chilion, Ephrathites<sup class=\"footnote-marker\">2</sup> of <span class=\"place\" data-key=\"bethlehem-judah\">Bethlehem Judah</span>. They came into the country of <span class=\"place\" data-key=\"moab\">Moab</span> and lived there."},
+    {"n": 3, "html": "Elimelech, Naomi&rsquo;s husband, died; and she was left with her two sons."},
+    {"n": 4, "html": "They took for themselves wives of the women of <span class=\"place\" data-key=\"moab\">Moab</span>. The name of the one was Orpah, and the name of the other was Ruth. They lived there about ten years."},
+    {"n": 5, "html": "Mahlon and Chilion both died, and the woman was bereaved of her two children and of her husband."},
+    {"n": 6, "html": "Then she arose with her daughters-in-law, that she might return from the country of <span class=\"place\" data-key=\"moab\">Moab</span>; for she had heard in the country of <span class=\"place\" data-key=\"moab\">Moab</span> how Yahweh had visited his people in giving them bread."},
+    {"n": 7, "html": "She went out of the place where she was, and her two daughters-in-law with her. They went on the way to return to the land of Judah."},
+    {"n": 8, "html": "Naomi said to her two daughters-in-law, &lsquo;Go, return each of you to her mother&rsquo;s house. May Yahweh deal kindly with you, as you have dealt with the dead and with me."},
+    {"n": 9, "html": "May Yahweh grant you that you may find rest, each of you in the house of her husband.&rsquo; Then she kissed them, and they lifted up their voices, and wept."},
+    {"n": 10, "html": "They said to her, &lsquo;No, but we will return with you to your people.&rsquo;"},
+    {"n": 11, "html": "Naomi said, &lsquo;Go back, my daughters. Why do you want to go with me? Do I still have sons in my womb, that they may be your husbands?"},
+    {"n": 12, "html": "Go back, my daughters, go your way; for I am too old to have a husband. If I should say, &lsquo;I have hope,&rsquo; if I should even have a husband tonight, and should also bear sons,"},
+    {"n": 13, "html": "would you then wait until they were grown? Would you then refrain from having husbands? No, my daughters, for it grieves me seriously for your sakes, for Yahweh&rsquo;s hand has gone out against me.&rsquo;"},
+    {"n": 14, "html": "They lifted up their voices and wept again; then Orpah kissed her mother-in-law, but Ruth stayed with her."},
+    {"n": 15, "html": "She said, &lsquo;Behold, your sister-in-law has gone back to her people and to her god. Follow your sister-in-law.&rsquo;"},
+    {"n": 16, "html": "Ruth said, &lsquo;Don&rsquo;t urge me to leave you, and to return from following you, for where you go, I will go; and where you stay, I will stay. Your people will be my people, and your God my God."},
+    {"n": 17, "html": "Where you die, I will die, and there I will be buried. May Yahweh do so to me, and more also, if anything but death parts you and me.&rsquo;"},
+    {"n": 18, "html": "When Naomi saw that she was determined to go with her, she stopped urging her."},
+    {"n": 19, "html": "So they both went until they came to <span class=\"place\" data-key=\"bethlehem-judah\">Bethlehem</span>. When they had come to <span class=\"place\" data-key=\"bethlehem-judah\">Bethlehem</span>, all the city was excited about them, and they asked, &lsquo;Is this Naomi?&rsquo;"},
+    {"n": 20, "html": "She said to them, &lsquo;Don&rsquo;t call me Naomi. Call me Mara; for the Almighty has dealt very bitterly with me."},
+    {"n": 21, "html": "I went out full, and Yahweh has brought me home again empty. Why do you call me Naomi, since Yahweh has testified against me, and the Almighty has afflicted me?&rsquo;"},
+    {"n": 22, "html": "So Naomi returned, and Ruth the Moabitess, her daughter-in-law, with her, who returned out of the country of <span class=\"place\" data-key=\"moab\">Moab</span>. They came to <span class=\"place\" data-key=\"bethlehem-judah\">Bethlehem</span> in the beginning of barley harvest.<sup class=\"footnote-marker\">3</sup>"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>The days when the judges judged</strong> (v.&nbsp;1) — the book sets itself in the period of the Judges (roughly the twelfth and eleventh centuries B.C.), but its closing genealogy locates Boaz as David&rsquo;s great-grandfather. The chronology is loose: the named characters span perhaps three generations rather than the two centuries of Judges. The phrase situates the story in the era of Israel&rsquo;s tribal life before the monarchy."},
+    {"n": 2, "html": "<strong>Ephrathites of Bethlehem Judah</strong> (v.&nbsp;2) — Ephrathah is the older clan-name of the Bethlehem region (Gen 35:19, 1 Sam 17:12), preserved alongside Bethlehem in Mic 5:2 and Ruth 4:11. The double naming distinguishes the Judahite Bethlehem (Beit Lahm south of Jerusalem) from the lesser-known Galilean Bethlehem of Zebulun (Josh 19:15)."},
+    {"n": 3, "html": "<strong>The beginning of barley harvest</strong> (v.&nbsp;22) — late April to early May in the Judean hill country, immediately after Passover. The setting fixes the chronology of chapters 2 and 3: harvest-and-threshing-floor scenes occupy the seven weeks between barley harvest and the wheat harvest at Pentecost (2:23)."}
+  ]
+}

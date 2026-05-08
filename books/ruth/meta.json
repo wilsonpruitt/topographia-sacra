@@ -1,0 +1,13 @@
+{
+  "slug": "ruth",
+  "title": "The Book of Ruth",
+  "subtitle": "A geographical edition",
+  "chapters": 4,
+  "chapter_titles": [
+    "Famine and Return",
+    "Gleaning in the Field of Boaz",
+    "The Threshing Floor",
+    "At the Gate"
+  ],
+  "built": [1, 2, 3, 4]
+}

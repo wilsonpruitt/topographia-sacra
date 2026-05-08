@@ -185,6 +185,11 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 - [ ] **Dan** — coastal plain; Leshem/Tel Dan northern enclave deliberately excluded (named only after the conquest in v. 47).
 All six marked `approximate: true`.
 
+## Ruth — gazetteer entries (2 added)
+
+- [ ] **Bethlehem-Judah** at modern Beit Lahm — secure identification.
+- [ ] **Moab** as a region pin in the central plateau — confirm placement; the book uses the term loosely for the kingdom east of the Dead Sea between Arnon and Heshbon.
+
 ## Jonah — gazetteer entries (2 added)
 
 - [ ] **Nineveh** at Tell Kuyunjik / Tell Nebi Yunus opposite Mosul — secure identification.
@@ -298,6 +303,10 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Jonah 2
 - [ ] Jonah 3 (especially the WebFetch-truncated v.2 — verify full WEB text manually)
 - [ ] Jonah 4 (v.2 was extended from canonical WEB; verify)
+- [ ] Ruth 1
+- [ ] Ruth 2
+- [ ] Ruth 3
+- [ ] Ruth 4
 
 ## Site-level
 

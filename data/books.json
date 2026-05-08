@@ -14,7 +14,14 @@
       "chapters": 4,
       "status": "complete",
       "first_built": 2026
+    },
+    "ruth": {
+      "title": "The Book of Ruth",
+      "subtitle": "A geographical edition",
+      "chapters": 4,
+      "status": "complete",
+      "first_built": 2026
     }
   },
-  "order": ["joshua", "jonah"]
+  "order": ["joshua", "jonah", "ruth"]
 }

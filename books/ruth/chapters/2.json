@@ -1,0 +1,36 @@
+{
+  "title": "Gleaning in the Field of Boaz",
+  "places": ["bethlehem-judah", "moab"],
+  "view": {
+    "center": [31.705, 35.203],
+    "zoom": 13
+  },
+  "verses": [
+    {"n": 1, "html": "Naomi had a relative of her husband&rsquo;s, a mighty man of wealth, of the family of Elimelech, and his name was Boaz."},
+    {"n": 2, "html": "Ruth the Moabitess said to Naomi, &lsquo;Let me now go to the field, and glean among the ears of grain after him in whose sight I find favor.&rsquo;"},
+    {"n": 3, "html": "She went, and came and gleaned in the field after the reapers; and she happened to come to the portion of the field belonging to Boaz, who was of the family of Elimelech."},
+    {"n": 4, "html": "Behold, Boaz came from <span class=\"place\" data-key=\"bethlehem-judah\">Bethlehem</span>, and said to the reapers, &lsquo;May Yahweh be with you.&rsquo; They answered him, &lsquo;May Yahweh bless you.&rsquo;"},
+    {"n": 5, "html": "Then Boaz said to his servant who was set over the reapers, &lsquo;Whose young lady is this?&rsquo;"},
+    {"n": 6, "html": "The servant who was set over the reapers answered, &lsquo;It is the Moabite lady who came back with Naomi out of the country of <span class=\"place\" data-key=\"moab\">Moab</span>."},
+    {"n": 7, "html": "She said, \"Please let me glean and gather after the reapers among the sheaves.\" So she came, and has continued even from the morning until now, except that she rested a little in the house.&rsquo;"},
+    {"n": 8, "html": "Then Boaz said to Ruth, &lsquo;Listen, my daughter. Don&rsquo;t go to glean in another field, and don&rsquo;t go from here, but stay here close to my maidens."},
+    {"n": 9, "html": "Let your eyes be on the field that they reap, and go after them. Haven&rsquo;t I commanded the young men not to touch you? When you are thirsty, go to the vessels, and drink from that which the young men have drawn.&rsquo;"},
+    {"n": 10, "html": "Then she fell on her face and bowed herself to the ground, and said to him, &lsquo;Why have I found favor in your sight, that you should take knowledge of me, since I am a foreigner?&rsquo;"},
+    {"n": 11, "html": "Boaz answered her, &lsquo;I have been told all about what you have done for your mother-in-law since the death of your husband, and how you have left your father, your mother, and the land of your birth, and have come to a people that you didn&rsquo;t know before."},
+    {"n": 12, "html": "May Yahweh repay your work, and a full reward be given to you from Yahweh, the God of Israel, under whose wings you have come to take refuge.&rsquo;"},
+    {"n": 13, "html": "Then she said, &lsquo;Let me find favor in your sight, my lord, because you have comforted me, and because you have spoken kindly to your servant, though I am not as one of your servants.&rsquo;"},
+    {"n": 14, "html": "At meal time Boaz said to her, &lsquo;Come here, and eat some bread, and dip your morsel in the vinegar.&rsquo; She sat beside the reapers, and they passed her parched grain. She ate, was satisfied, and left some of it."},
+    {"n": 15, "html": "When she had risen up to glean, Boaz commanded his young men, saying, &lsquo;Let her glean even among the sheaves, and don&rsquo;t reproach her."},
+    {"n": 16, "html": "Also pull out some for her from the bundles, and leave it. Let her glean, and don&rsquo;t rebuke her.&rsquo;"},
+    {"n": 17, "html": "So she gleaned in the field until evening; and she beat out that which she had gleaned, and it was about an ephah of barley.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 18, "html": "She took it up, and went into the city. Then her mother-in-law saw what she had gleaned; and she brought out and gave to her that which she had left after she had enough."},
+    {"n": 19, "html": "Her mother-in-law said to her, &lsquo;Where have you gleaned today? Where have you worked? Blessed be he who noticed you.&rsquo; She told her mother-in-law with whom she had worked, &lsquo;The man&rsquo;s name with whom I worked today is Boaz.&rsquo;"},
+    {"n": 20, "html": "Naomi said to her daughter-in-law, &lsquo;May he be blessed by Yahweh, who has not abandoned his kindness to the living and to the dead.&rsquo; Naomi said to her, &lsquo;The man is a close relative to us, one of our near kinsmen.&rsquo;"},
+    {"n": 21, "html": "Ruth the Moabitess said, &lsquo;Yes, he said to me, &ldquo;You shall stay close to my young men until they have finished all my harvest.&rdquo;&rsquo;"},
+    {"n": 22, "html": "Naomi said to Ruth her daughter-in-law, &lsquo;It is good, my daughter, that you go out with his maidens, and that they not harm you in any other field.&rsquo;"},
+    {"n": 23, "html": "So she stayed close to the maidens of Boaz, to glean to the end of barley harvest and of wheat harvest; and she lived with her mother-in-law."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>An ephah of barley</strong> (v.&nbsp;17) — about 22 litres or roughly 14 kg of grain, more than a single day&rsquo;s ration; an unusually generous yield for a gleaner. The detail registers Boaz&rsquo;s instructions in vv.&nbsp;15-16 to leave Ruth extra. The map for this chapter zooms close on Bethlehem; the &lsquo;portion of the field belonging to Boaz&rsquo; would have lain on the slopes immediately around the town."}
+  ]
+}
