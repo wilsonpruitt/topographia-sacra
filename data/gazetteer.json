@@ -135,6 +135,20 @@
           12,
           21
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 20,
+        "verses": [
+          8
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 24,
+        "verses": [
+          11
+        ]
       }
     ]
   },
@@ -368,6 +382,40 @@
           12,
           19,
           20
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 20,
+        "verses": [
+          8
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 22,
+        "verses": [
+          4,
+          7,
+          9,
+          10,
+          11,
+          25
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 23,
+        "verses": [
+          4
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 24,
+        "verses": [
+          8,
+          11
         ]
       }
     ]
@@ -820,6 +868,13 @@
         "verses": [
           25
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          17
+        ]
       }
     ]
   },
@@ -1042,6 +1097,21 @@
           13,
           54
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 20,
+        "verses": [
+          7
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          11,
+          13
+        ]
       }
     ]
   },
@@ -1216,6 +1286,13 @@
           13,
           14
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          22
+        ]
       }
     ]
   },
@@ -1373,6 +1450,13 @@
         "verses": [
           42
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          13
+        ]
       }
     ]
   },
@@ -1410,6 +1494,13 @@
         "verses": [
           3,
           10
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          21
         ]
       }
     ]
@@ -1467,6 +1558,13 @@
         "verses": [
           15,
           49
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          15
         ]
       }
     ]
@@ -2132,6 +2230,13 @@
           26,
           27
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          39
+        ]
       }
     ]
   },
@@ -2617,6 +2722,13 @@
         "verses": [
           11
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          25
+        ]
       }
     ]
   },
@@ -2678,6 +2790,20 @@
         "verses": [
           37
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 20,
+        "verses": [
+          7
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          32
+        ]
       }
     ]
   },
@@ -2700,6 +2826,13 @@
         "chapter": 12,
         "verses": [
           22
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          34
         ]
       }
     ]
@@ -3060,6 +3193,30 @@
           5,
           6
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 20,
+        "verses": [
+          8
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          38
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 22,
+        "verses": [
+          9,
+          13,
+          15,
+          32
+        ]
       }
     ]
   },
@@ -3092,6 +3249,27 @@
         "verses": [
           1,
           5
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 20,
+        "verses": [
+          8
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          27
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 22,
+        "verses": [
+          7
         ]
       }
     ]
@@ -3157,6 +3335,13 @@
         "verses": [
           18
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          36
+        ]
       }
     ]
   },
@@ -3177,6 +3362,13 @@
         "verses": [
           18
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          37
+        ]
       }
     ]
   },
@@ -3196,6 +3388,13 @@
         "chapter": 13,
         "verses": [
           18
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          37
         ]
       }
     ]
@@ -3300,6 +3499,13 @@
         "verses": [
           25
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          39
+        ]
       }
     ]
   },
@@ -3391,6 +3597,13 @@
         "verses": [
           26,
           30
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          38
         ]
       }
     ]
@@ -3981,6 +4194,13 @@
         "verses": [
           10
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          16
+        ]
       }
     ]
   },
@@ -4110,6 +4330,13 @@
         "verses": [
           9,
           10
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 23,
+        "verses": [
+          4
         ]
       }
     ]
@@ -4742,6 +4969,13 @@
         "chapter": 19,
         "verses": [
           7
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          16
         ]
       }
     ]
@@ -5499,6 +5733,13 @@
         "verses": [
           50
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          14
+        ]
       }
     ]
   },
@@ -5551,6 +5792,13 @@
         "chapter": 15,
         "verses": [
           51
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          15
         ]
       }
     ]
@@ -5727,6 +5975,13 @@
         "chapter": 15,
         "verses": [
           55
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          16
         ]
       }
     ]
@@ -5929,6 +6184,13 @@
         "chapter": 15,
         "verses": [
           48
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          14
         ]
       }
     ]
@@ -6426,6 +6688,29 @@
         "verses": [
           7
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 20,
+        "verses": [
+          7
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          21
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 24,
+        "verses": [
+          1,
+          25,
+          32
+        ]
       }
     ]
   },
@@ -6777,6 +7062,13 @@
         "verses": [
           24
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          17
+        ]
       }
     ]
   },
@@ -7006,6 +7298,21 @@
         "chapter": 19,
         "verses": [
           51
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          2
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 22,
+        "verses": [
+          9,
+          12
         ]
       }
     ]
@@ -7359,6 +7666,13 @@
         "verses": [
           15
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          35
+        ]
       }
     ]
   },
@@ -7563,6 +7877,13 @@
         "verses": [
           20
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          28
+        ]
       }
     ]
   },
@@ -7621,6 +7942,13 @@
         "chapter": 19,
         "verses": [
           21
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          29
         ]
       }
     ]
@@ -7739,6 +8067,13 @@
         "verses": [
           25
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          31
+        ]
       }
     ]
   },
@@ -7828,6 +8163,13 @@
         "chapter": 19,
         "verses": [
           26
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          30
         ]
       }
     ]
@@ -7948,6 +8290,13 @@
         "verses": [
           28,
           30
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          31
         ]
       }
     ]
@@ -8562,6 +8911,13 @@
         "verses": [
           42
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          24
+        ]
       }
     ]
   },
@@ -8619,6 +8975,13 @@
         "verses": [
           44
         ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          23
+        ]
       }
     ]
   },
@@ -8641,6 +9004,13 @@
         "chapter": 19,
         "verses": [
           44
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          23
         ]
       }
     ]
@@ -8730,6 +9100,14 @@
         "chapter": 19,
         "verses": [
           45
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          24,
+          25
         ]
       }
     ]
@@ -8867,6 +9245,452 @@
         "chapter": 19,
         "verses": [
           50
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 24,
+        "verses": [
+          30
+        ]
+      }
+    ]
+  },
+  "bezer": {
+    "name": "Bezer",
+    "name_alt": [
+      "Umm el-ʿAmad?",
+      "Bezer in the wilderness"
+    ],
+    "coords": [
+      31.77,
+      35.892
+    ],
+    "tier": "conjectural",
+    "id": "A Reubenite city of refuge 'in the wilderness in the plain' (the Mishor). Often located at Umm el-ʿAmad northwest of Madaba; some have proposed Tell Jalul. Identification not secure.",
+    "abd": "1:725",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 20,
+        "verses": [
+          8
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          36
+        ]
+      }
+    ]
+  },
+  "ramoth-gilead": {
+    "name": "Ramoth in Gilead",
+    "name_alt": [
+      "Ramoth-gilead",
+      "Tell er-Rumeith"
+    ],
+    "coords": [
+      32.555,
+      35.887
+    ],
+    "tier": "probable",
+    "id": "Generally identified with Tell er-Rumeith in northern Gilead, though Tell el-Husn near Irbid has also been proposed. Possibly the same as the Ramath-Mizpeh of Josh 13:26, though that equation is disputed. The site of Ahab's death (1 Kgs 22) and Jehu's anointing (2 Kgs 9). A Levitical city of refuge.",
+    "abd": "5:620",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 20,
+        "verses": [
+          8
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          38
+        ]
+      }
+    ]
+  },
+  "golan": {
+    "name": "Golan",
+    "name_alt": [
+      "Sahem el-Jolan",
+      "Gaulanitis"
+    ],
+    "coords": [
+      32.797,
+      35.82
+    ],
+    "tier": "conjectural",
+    "id": "A Levitical city of refuge in Bashan; often located at Sahem el-Jolan east of the Sea of Galilee, though the site has not been securely identified. The toponym survives in the name of the Golan Heights and in the Hellenistic-Roman Gaulanitis.",
+    "abd": "2:1057",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 20,
+        "verses": [
+          8
+        ]
+      },
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          27
+        ]
+      }
+    ]
+  },
+  "kibzaim": {
+    "name": "Kibzaim",
+    "name_alt": [
+      "= Jokmeam (1 Chr 6:68)?"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "A Levitical city in Ephraim. The 1 Chr 6:68 parallel reads 'Jokmeam' instead — possibly the same place under variant names; otherwise unidentified.",
+    "abd": "4:35",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          22
+        ]
+      }
+    ]
+  },
+  "be-eshterah": {
+    "name": "Be Eshterah",
+    "name_alt": [
+      "likely = Ashtaroth (12:4)"
+    ],
+    "coords": [
+      32.797,
+      36.02
+    ],
+    "tier": "probable",
+    "id": "Generally taken as a variant of Ashtaroth (Beth-Ashtaroth → Be-Eshterah by elision), the same place named in 12:4 as the royal city of Og of Bashan. Pin reuses Ashtaroth.",
+    "abd": "1:625",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          27
+        ]
+      }
+    ]
+  },
+  "daberath": {
+    "name": "Daberath",
+    "name_alt": [
+      "Daburiyeh",
+      "Khirbet Dabbura"
+    ],
+    "coords": [
+      32.7,
+      35.387
+    ],
+    "tier": "probable",
+    "id": "Modern Daburiyeh on the western slope of Mount Tabor. A Levitical city in Issachar's portion.",
+    "abd": "2:2",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          28
+        ]
+      }
+    ]
+  },
+  "jarmuth-issachar": {
+    "name": "Jarmuth",
+    "name_alt": [
+      "Issacharite Jarmuth",
+      "= Remeth (19:21)?"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "An Issacharite Levitical city, distinct from the Judahite Jarmuth of 10:3 etc. (Khirbet Yarmuk). Commonly equated with Remeth (19:21); 1 Chr 6:73 reads 'Ramoth' instead.",
+    "abd": "3:646",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          29
+        ]
+      }
+    ]
+  },
+  "abdon": {
+    "name": "Abdon",
+    "name_alt": [
+      "Khirbet ʿAbda",
+      "Khirbet ʿAbdeh"
+    ],
+    "coords": [
+      33.069,
+      35.155
+    ],
+    "tier": "probable",
+    "id": "Khirbet ʿAbda in the western Galilee. A Levitical city in Asher's portion. The 1 Chr 6:74 parallel preserves the name as 'Abdon' alongside the variant Hebron — generally treated as a scribal slip.",
+    "abd": "1:6",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          30
+        ]
+      }
+    ]
+  },
+  "hammoth-dor": {
+    "name": "Hammoth Dor",
+    "name_alt": [
+      "likely = Hammath (19:35)",
+      "Hammath Tiberias"
+    ],
+    "coords": [
+      32.768,
+      35.553
+    ],
+    "tier": "probable",
+    "id": "Generally taken as the same place as Hammath in 19:35 (Hammat Tiberias on the western shore of the Sea of Galilee), with 'Dor' here either a different qualifier or a corruption. Pin reuses Hammath.",
+    "abd": "3:35",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          32
+        ]
+      }
+    ]
+  },
+  "kartan": {
+    "name": "Kartan",
+    "name_alt": [
+      "= Kiriathaim (1 Chr 6:76)?"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "A Naphtalite Levitical city. The 1 Chr 6:76 parallel reads 'Kiriathaim' instead — possibly the same place under a contracted form.",
+    "abd": "4:8",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          32
+        ]
+      }
+    ]
+  },
+  "kartah": {
+    "name": "Kartah",
+    "name_alt": [],
+    "coords": null,
+    "tier": "unknown",
+    "id": "A Zebulunite Levitical city. Not named in the 1 Chr 6 parallel; possibly a doublet of Kartan or a separate site. Otherwise unidentified.",
+    "abd": "4:8",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          34
+        ]
+      }
+    ]
+  },
+  "dimnah": {
+    "name": "Dimnah",
+    "name_alt": [
+      "= Rimmon-Zebulun (19:13)?"
+    ],
+    "coords": null,
+    "tier": "unknown",
+    "id": "A Zebulunite Levitical city. The 1 Chr 6:77 parallel has 'Rimmono' (= Rimmon-Zebulun, 19:13); Dimnah is generally taken as a textual variant of the same name.",
+    "abd": "2:198",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          35
+        ]
+      }
+    ]
+  },
+  "anathoth": {
+    "name": "Anathoth",
+    "name_alt": [
+      "Ras el-Kharrubeh",
+      "Anata"
+    ],
+    "coords": [
+      31.819,
+      35.273
+    ],
+    "tier": "identified",
+    "id": "Ras el-Kharrubeh near the Arab village of Anata, c. 5 km northeast of Jerusalem. A Benjaminite Levitical city. Hometown of the prophet Jeremiah (Jer 1:1) and of Abiathar the priest (1 Kgs 2:26).",
+    "abd": "1:227",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          18
+        ]
+      }
+    ]
+  },
+  "almon": {
+    "name": "Almon",
+    "name_alt": [
+      "Khirbet ʿAlmit",
+      "= Allemeth (1 Chr 6:60)"
+    ],
+    "coords": [
+      31.825,
+      35.29
+    ],
+    "tier": "probable",
+    "id": "Khirbet ʿAlmit east of Anathoth. A Benjaminite Levitical city. The 1 Chr 6:60 parallel reads 'Allemeth' for the same place.",
+    "abd": "1:160",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 21,
+        "verses": [
+          18
+        ]
+      }
+    ]
+  },
+  "euphrates": {
+    "name": "The River",
+    "name_alt": [
+      "Euphrates",
+      "Perath",
+      "Ufratu"
+    ],
+    "coords": [
+      34.42,
+      40.95
+    ],
+    "tier": "region",
+    "id": "The Euphrates, called simply 'the River' in Hebrew. The eastern frontier of the patriarchal homeland (Ur of the Chaldees and Haran lay beyond it) and the ideal northeastern boundary of the promised land (Gen 15:18, Josh 1:4). Pin sits on the middle Euphrates near ancient Mari.",
+    "abd": "2:572",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 24,
+        "verses": [
+          2,
+          3,
+          14,
+          15
+        ]
+      }
+    ]
+  },
+  "egypt": {
+    "name": "Egypt",
+    "name_alt": [
+      "Mizraim"
+    ],
+    "coords": [
+      26.0,
+      31.0
+    ],
+    "tier": "region",
+    "id": "The Nile valley civilization, the land of Israel's bondage. Pin sits on the Nile near ancient Memphis.",
+    "abd": "2:319",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 24,
+        "verses": [
+          4,
+          5,
+          6,
+          7,
+          14,
+          17,
+          32
+        ]
+      }
+    ]
+  },
+  "red-sea": {
+    "name": "Red Sea",
+    "name_alt": [
+      "Yam Suph",
+      "Sea of Reeds"
+    ],
+    "coords": [
+      29.5,
+      32.7
+    ],
+    "tier": "region",
+    "id": "The Hebrew Yam Suph ('Sea of Reeds') traditionally rendered Red Sea. The crossing-point of the exodus is variously located in the marshes north of the Gulf of Suez, in one of the Bitter Lakes, or in the Gulf of Aqaba; the chapter does not specify.",
+    "abd": "5:633",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 24,
+        "verses": [
+          6
+        ]
+      }
+    ]
+  },
+  "mount-seir-edom": {
+    "name": "Mount Seir",
+    "name_alt": [
+      "Edomite Seir",
+      "Esau's hill country"
+    ],
+    "coords": [
+      30.45,
+      35.5
+    ],
+    "tier": "region",
+    "id": "The hill country south and southeast of the Dead Sea, given to Esau (Gen 36:8); the heartland of Edom. Distinct from the northern Mount Seir of Josh 15:10 (a hill west of Kiriath-Jearim).",
+    "abd": "5:1075",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 24,
+        "verses": [
+          4
+        ]
+      }
+    ]
+  },
+  "mount-gaash": {
+    "name": "Mount Gaash",
+    "name_alt": [],
+    "coords": null,
+    "tier": "unknown",
+    "id": "Named only as the landmark just south of Timnath-Serah, where Joshua was buried (v. 30; also Judg 2:9). Otherwise unidentified.",
+    "abd": "2:868",
+    "appearances": [
+      {
+        "book": "joshua",
+        "chapter": 24,
+        "verses": [
+          30
         ]
       }
     ]

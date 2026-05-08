@@ -1,0 +1,27 @@
+{
+  "title": "Cities of Refuge",
+  "places": [
+    "kedesh", "shechem", "hebron", "jordan", "jericho",
+    "bezer", "ramoth-gilead", "golan",
+    "gilead", "bashan"
+  ],
+  "view": {
+    "center": [32.0, 35.5],
+    "zoom": 7
+  },
+  "verses": [
+    {"n": 1, "html": "Yahweh spoke to Joshua, saying,"},
+    {"n": 2, "html": "&lsquo;Speak to the children of Israel, saying, &lsquo;Assign the cities of refuge<sup class=\"footnote-marker\">1</sup>, of which I spoke to you by Moses,"},
+    {"n": 3, "html": "that the man slayer who kills any person accidentally or unintentionally may flee there. They shall be to you for a refuge from the avenger of blood."},
+    {"n": 4, "html": "He shall flee to one of those cities, and shall stand at the entrance of the gate of the city, and declare his case in the ears of the elders of that city. They shall take him into the city with them, and give him a place, that he may live among them."},
+    {"n": 5, "html": "If the avenger of blood pursues him, then they shall not deliver up the man slayer into his hand; because he struck his neighbor unintentionally, and didn&rsquo;t hate him before."},
+    {"n": 6, "html": "He shall dwell in that city until he stands before the congregation for judgment, until the death of the high priest that shall be in those days. Then the man slayer shall return, and come to his own city, and to his own house, to the city he fled from.&rsquo;&rsquo;"},
+    {"n": 7, "html": "They set apart <span class=\"place\" data-key=\"kedesh\">Kedesh</span> in Galilee in the hill country of Naphtali, <span class=\"place\" data-key=\"shechem\">Shechem</span> in the hill country of Ephraim, and Kiriath Arba (also called <span class=\"place\" data-key=\"hebron\">Hebron</span>) in the hill country of Judah."},
+    {"n": 8, "html": "Beyond the <span class=\"place\" data-key=\"jordan\">Jordan</span> at <span class=\"place\" data-key=\"jericho\">Jericho</span> eastward, they assigned <span class=\"place\" data-key=\"bezer\">Bezer</span> in the wilderness in the plain out of the tribe of Reuben, <span class=\"place\" data-key=\"ramoth-gilead\">Ramoth</span><sup class=\"footnote-marker\">2</sup> in <span class=\"place\" data-key=\"gilead\">Gilead</span> out of the tribe of Gad, and <span class=\"place\" data-key=\"golan\">Golan</span> in <span class=\"place\" data-key=\"bashan\">Bashan</span> out of the tribe of Manasseh."},
+    {"n": 9, "html": "These were the appointed cities for all the children of Israel, and for the alien who lives among them, that whoever kills any person unintentionally might flee there, and not die by the hand of the avenger of blood, until he stands trial before the congregation.&rsquo;"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Cities of refuge</strong> — the institution is laid out in Numbers 35:9-34 and Deuteronomy 19:1-13: six cities, three on each side of the Jordan, where a person who killed unintentionally could find sanctuary from the goʾel haddam (the next-of-kin avenger) until standing trial before the assembly. The chapter names them in pairs by region: Kedesh-Shechem-Hebron west of the Jordan from north to south, Bezer-Ramoth-Golan east of the Jordan from south to north — a deliberate symmetry of three cities at roughly equal latitudes."},
+    {"n": 2, "html": "<strong>Ramoth in Gilead</strong> — generally identified with Tell er-Rumeith in northern Gilead. Some scholars treat this as the same place as Ramath-Mizpeh (Josh 13:26); others distinguish them. The pin marks Tell er-Rumeith. Site of Ahab&rsquo;s death (1 Kgs 22) and Jehu&rsquo;s anointing (2 Kgs 9)."}
+  ]
+}

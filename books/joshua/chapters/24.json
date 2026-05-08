@@ -1,0 +1,52 @@
+{
+  "title": "Covenant at Shechem",
+  "places": [
+    "shechem", "euphrates", "egypt", "mount-seir-edom",
+    "red-sea", "jordan", "jericho", "timnath-serah", "mount-gaash"
+  ],
+  "view": {
+    "center": [32.0, 35.3],
+    "zoom": 7
+  },
+  "verses": [
+    {"n": 1, "html": "Joshua gathered all the tribes of Israel to <span class=\"place\" data-key=\"shechem\">Shechem</span>, and called for the elders of Israel, for their heads, for their judges, and for their officers; and they presented themselves before God."},
+    {"n": 2, "html": "Joshua said to all the people, &lsquo;Yahweh, the God of Israel, says, &ldquo;Your fathers lived of old time beyond the <span class=\"place\" data-key=\"euphrates\">River</span><sup class=\"footnote-marker\">1</sup>, even Terah, the father of Abraham, and the father of Nahor. They served other gods."},
+    {"n": 3, "html": "I took your father Abraham from beyond the <span class=\"place\" data-key=\"euphrates\">River</span>, and led him throughout all the land of Canaan, and multiplied his offspring, and gave him Isaac."},
+    {"n": 4, "html": "I gave to Isaac Jacob and Esau: and I gave to Esau <span class=\"place\" data-key=\"mount-seir-edom\">Mount Seir</span><sup class=\"footnote-marker\">2</sup>, to possess it. Jacob and his children went down into <span class=\"place\" data-key=\"egypt\">Egypt</span>."},
+    {"n": 5, "html": "I sent Moses and Aaron, and I plagued <span class=\"place\" data-key=\"egypt\">Egypt</span>, according to that which I did among them: and afterward I brought you out."},
+    {"n": 6, "html": "I brought your fathers out of <span class=\"place\" data-key=\"egypt\">Egypt</span>: and you came to the sea. The Egyptians pursued your fathers with chariots and with horsemen to the <span class=\"place\" data-key=\"red-sea\">Red Sea</span>."},
+    {"n": 7, "html": "When they cried out to Yahweh, he put darkness between you and the Egyptians, and brought the sea on them, and covered them; and your eyes saw what I did in <span class=\"place\" data-key=\"egypt\">Egypt</span>. You lived in the wilderness many days."},
+    {"n": 8, "html": "I brought you into the land of the Amorites, that lived beyond the <span class=\"place\" data-key=\"jordan\">Jordan</span>. They fought with you, and I gave them into your hand. You possessed their land, and I destroyed them from before you."},
+    {"n": 9, "html": "Then Balak the son of Zippor, king of Moab, arose and fought against Israel. He sent and called Balaam the son of Beor to curse you,"},
+    {"n": 10, "html": "but I would not listen to Balaam; therefore he blessed you still. So I delivered you out of his hand."},
+    {"n": 11, "html": "You went over the <span class=\"place\" data-key=\"jordan\">Jordan</span>, and came to <span class=\"place\" data-key=\"jericho\">Jericho</span>. The men of Jericho fought against you, the Amorite, the Perizzite, the Canaanite, the Hittite, the Girgashite, the Hivite, and the Jebusite; and I delivered them into your hand."},
+    {"n": 12, "html": "I sent the hornet before you, which drove them out from before you, even the two kings of the Amorites; not with your sword, nor with your bow."},
+    {"n": 13, "html": "I gave you a land on which you had not labored, and cities which you didn&rsquo;t build, and you live in them. You eat of vineyards and olive groves which you didn&rsquo;t plant.&rdquo;"},
+    {"n": 14, "html": "Now therefore fear Yahweh, and serve him in sincerity and in truth. Put away the gods which your fathers served beyond the <span class=\"place\" data-key=\"euphrates\">River</span>, in <span class=\"place\" data-key=\"egypt\">Egypt</span>; and serve Yahweh."},
+    {"n": 15, "html": "If it seems evil to you to serve Yahweh, choose today whom you will serve; whether the gods which your fathers served that were beyond the <span class=\"place\" data-key=\"euphrates\">River</span>, or the gods of the Amorites, in whose land you dwell; but as for me and my house, we will serve Yahweh.&rsquo;"},
+    {"n": 16, "html": "The people answered, &lsquo;Far be it from us that we should forsake Yahweh, to serve other gods;"},
+    {"n": 17, "html": "for it is Yahweh our God who brought us and our fathers up out of the land of <span class=\"place\" data-key=\"egypt\">Egypt</span>, from the house of bondage, and who did those great signs in our sight, and preserved us in all the way in which we went, and among all the peoples through the middle of whom we passed."},
+    {"n": 18, "html": "Yahweh drove out from before us all the peoples, even the Amorites who lived in the land. Therefore we also will serve Yahweh; for he is our God.&rsquo;"},
+    {"n": 19, "html": "Joshua said to the people, &lsquo;You can&rsquo;t serve Yahweh, for he is a holy God. He is a jealous God. He will not forgive your disobedience nor your sins."},
+    {"n": 20, "html": "If you forsake Yahweh, and serve foreign gods, then he will turn and do you evil, and consume you, after he has done you good.&rsquo;"},
+    {"n": 21, "html": "The people said to Joshua, &lsquo;No, but we will serve Yahweh.&rsquo;"},
+    {"n": 22, "html": "Joshua said to the people, &lsquo;You are witnesses against yourselves that you have chosen Yahweh yourselves, to serve him.&rsquo; They said, &lsquo;We are witnesses.&rsquo;"},
+    {"n": 23, "html": "&lsquo;Now therefore put away the foreign gods which are among you, and incline your heart to Yahweh, the God of Israel.&rsquo;"},
+    {"n": 24, "html": "The people said to Joshua, &lsquo;We will serve Yahweh our God, and we will listen to his voice.&rsquo;"},
+    {"n": 25, "html": "So Joshua made a covenant with the people that day, and made for them a statute and an ordinance in <span class=\"place\" data-key=\"shechem\">Shechem</span>."},
+    {"n": 26, "html": "Joshua wrote these words in the book of the law of God; and he took a great stone, and set it up there under the oak<sup class=\"footnote-marker\">3</sup> that was by the sanctuary of Yahweh."},
+    {"n": 27, "html": "Joshua said to all the people, &lsquo;Behold, this stone shall be a witness against us, for it has heard all Yahweh&rsquo;s words which he spoke to us. It shall be therefore a witness against you, lest you deny your God.&rsquo;"},
+    {"n": 28, "html": "So Joshua sent the people away, each to his own inheritance."},
+    {"n": 29, "html": "After these things, Joshua the son of Nun, the servant of Yahweh, died, being one hundred ten years old."},
+    {"n": 30, "html": "They buried him in the border of his inheritance in <span class=\"place\" data-key=\"timnath-serah\">Timnathserah</span>, which is in the hill country of Ephraim, on the north of the <span class=\"place\" data-key=\"mount-gaash\">mountain of Gaash</span>."},
+    {"n": 31, "html": "Israel served Yahweh all the days of Joshua, and all the days of the elders who outlived Joshua, and had known all the work of Yahweh, that he had worked for Israel."},
+    {"n": 32, "html": "They buried the bones of Joseph<sup class=\"footnote-marker\">4</sup>, which the children of Israel brought up out of <span class=\"place\" data-key=\"egypt\">Egypt</span>, in <span class=\"place\" data-key=\"shechem\">Shechem</span>, in the parcel of ground which Jacob bought from the sons of Hamor the father of Shechem for a hundred pieces of silver."},
+    {"n": 33, "html": "Eleazar the son of Aaron died. They buried him in the hill of Phinehas his son, which was given him in the hill country of Ephraim."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>Beyond the River</strong> (vv.&nbsp;2, 3, 14, 15) — Hebrew <em>ʿeber han-nāhār</em>, the standard biblical idiom for &lsquo;the trans-Euphrates region&rsquo;. The patriarchal homeland of Haran (where Terah settled) and Ur (where the family originated) lay beyond it. The phrase reappears as the Persian satrapy &lsquo;Beyond-the-River&rsquo; (Eber Nari) in the post-exilic books."},
+    {"n": 2, "html": "<strong>Mount Seir</strong> (v.&nbsp;4) — the hill country of Edom south of the Dead Sea, distinct from the northern Mount Seir of 15:10 (a hill west of Kiriath-Jearim that served as a Judahite boundary marker)."},
+    {"n": 3, "html": "<strong>The oak by the sanctuary</strong> (v.&nbsp;26) — the same oak under which Jacob buried his household&rsquo;s foreign gods (Gen 35:4), and very likely the same as the oak of Moreh where Abraham first built an altar in Canaan (Gen 12:6). The Shechem covenant therefore takes place at a site already consecrated by patriarchal memory; the great stone Joshua sets up adds another layer to the same sacred geography."},
+    {"n": 4, "html": "<strong>Joseph&rsquo;s bones</strong> (v.&nbsp;32) — the deposition fulfills the oath at Gen 50:25 and Ex 13:19. The parcel at Shechem is the field bought by Jacob from the sons of Hamor (Gen 33:19) — the only piece of Canaan that the patriarchs are said to have purchased outright. The traditional site of the tomb is in modern Nablus, just east of Jacob&rsquo;s Well."}
+  ]
+}

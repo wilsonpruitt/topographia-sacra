@@ -1,0 +1,29 @@
+{
+  "title": "Joshua's Charge to the Leaders",
+  "places": ["jordan", "great-sea"],
+  "view": {
+    "center": [31.9, 35.2],
+    "zoom": 8
+  },
+  "verses": [
+    {"n": 1, "html": "After many days, when Yahweh had given rest to Israel from their enemies all around, and Joshua was old and well advanced in years,"},
+    {"n": 2, "html": "Joshua called for all Israel, for their elders and for their heads, and for their judges and for their officers, and said to them, &lsquo;I am old and well advanced in years."},
+    {"n": 3, "html": "You have seen all that Yahweh your God has done to all these nations because of you; for it is Yahweh your God who has fought for you."},
+    {"n": 4, "html": "Behold, I have allotted to you these nations that remain, to be an inheritance for your tribes, from the <span class=\"place\" data-key=\"jordan\">Jordan</span>, with all the nations that I have cut off, even to the <span class=\"place\" data-key=\"great-sea\">great sea</span> toward the going down of the sun."},
+    {"n": 5, "html": "Yahweh your God will thrust them out from before you, and drive them from out of your sight. You shall possess their land, as Yahweh your God spoke to you."},
+    {"n": 6, "html": "Therefore be very courageous to keep and to do all that is written in the book of the law of Moses, that you not turn away from it to the right hand or to the left;"},
+    {"n": 7, "html": "that you not come among these nations, these that remain among you; neither make mention of the name of their gods, nor cause to swear by them, neither serve them, nor bow down yourselves to them;"},
+    {"n": 8, "html": "but hold fast to Yahweh your God, as you have done to this day."},
+    {"n": 9, "html": "For Yahweh has driven great and strong nations out from before you. But as for you, no man has stood before you to this day."},
+    {"n": 10, "html": "One man of you shall chase a thousand; for it is Yahweh your God who fights for you, as he spoke to you."},
+    {"n": 11, "html": "Take good heed therefore to yourselves, that you love Yahweh your God."},
+    {"n": 12, "html": "But if you do at all go back, and hold fast to the remnant of these nations, even these who remain among you, and make marriages with them, and go in to them, and they to you;"},
+    {"n": 13, "html": "know for a certainty that Yahweh your God will no longer drive these nations from out of your sight; but they shall be a snare and a trap to you, a scourge in your sides, and thorns in your eyes, until you perish from off this good land which Yahweh your God has given you."},
+    {"n": 14, "html": "Behold, today I am going the way of all the earth. You know in all your hearts and in all your souls that not one thing has failed of all the good things which Yahweh your God spoke concerning you. All have happened to you. Not one thing has failed of it.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 15, "html": "It shall happen that as all the good things have come on you of which Yahweh your God spoke to you, so Yahweh will bring on you all the evil things, until he has destroyed you from off this good land which Yahweh your God has given you,"},
+    {"n": 16, "html": "when you disobey the covenant of Yahweh your God, which he commanded you, and go and serve other gods, and bow down yourselves to them. Then Yahweh&rsquo;s anger will be kindled against you, and you will perish quickly from off the good land which he has given you.&rsquo;"}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>&lsquo;Not one thing has failed&rsquo;</strong> (v.&nbsp;14) — the same affirmation that closed the allotment narrative at 21:45. The chapter as a whole is Joshua&rsquo;s farewell speech, conditioning the rest of v.&nbsp;14&rsquo;s confidence on the &lsquo;but if you do go back&rsquo; of v.&nbsp;12. The geography of the chapter is no longer where things are but who lives in them: the &lsquo;remnant nations&rsquo; among Israel make this less a triumphal coda than an anxious one."}
+  ]
+}

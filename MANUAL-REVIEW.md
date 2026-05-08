@@ -185,6 +185,23 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 - [ ] **Dan** — coastal plain; Leshem/Tel Dan northern enclave deliberately excluded (named only after the conquest in v. 47).
 All six marked `approximate: true`.
 
+## Joshua 20-24 — gazetteer entries (19 added)
+
+- [ ] **Bezer** (Reuben city of refuge) at Umm el-ʿAmad — confirm primary; Tell Jalul is alternative.
+- [ ] **Ramoth-Gilead** at Tell er-Rumeith — confirm; the equation with Ramath-Mizpeh (13:26) is contested.
+- [ ] **Golan** at Sahem el-Jolan — confirm.
+- [ ] **Anathoth** at Ras el-Kharrubeh near Anata — secure.
+- [ ] **Almon** at Khirbet ʿAlmit — confirm.
+- [ ] **Daberath** at Daburiyeh — confirm.
+- [ ] **Abdon** at Khirbet ʿAbda — confirm; the 1 Chr 6:74 'Hebron' variant is a known scribal slip.
+- [ ] **Be-Eshterah / Ashtaroth** equation — confirmed by 1 Chr 6:71 parallel; flag if convention should fold the slug.
+- [ ] **Hammoth-Dor / Hammath** equation — flag if slug should fold.
+- [ ] **Jarmuth-Issachar / Remeth** equation — confirm whether to fold.
+- [ ] **Two Gath-Rimmons in 21:24-25** — second one is most likely a scribal slip for Bileam (Ibleam); the pin currently re-uses the Dan Gath-Rimmon. Decide whether to fix or footnote.
+- [ ] **Mount-Seir-Edom** vs Mount-Seir-Judah — separate slugs in place; confirm convention.
+- [ ] **Mount Gaash** — unidentified; flag if any candidate has been proposed in recent literature.
+- [ ] **Joseph's tomb at Shechem** (24:32) — pin re-uses Shechem's coords; the traditional tomb is just east of Jacob's Well in modern Nablus. Consider a separate landmark pin.
+
 ## Joshua 19 — gazetteer entries (91 added)
 
 The chapter introduces ~90 new toponyms, of which:
@@ -266,6 +283,11 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Joshua 17
 - [ ] Joshua 18
 - [ ] Joshua 19
+- [ ] Joshua 20
+- [ ] Joshua 21
+- [ ] Joshua 22
+- [ ] Joshua 23
+- [ ] Joshua 24
 
 ## Site-level
 
