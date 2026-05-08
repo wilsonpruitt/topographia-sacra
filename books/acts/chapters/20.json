@@ -1,0 +1,53 @@
+{
+  "title": "Macedonia, Greece, Troas; Eutychus",
+  "places": ["macedonia", "achaia", "syria", "asia-province", "troas", "philippi", "assos", "mitylene", "chios", "samos", "trogyllium", "miletus", "ephesus", "jerusalem"],
+  "route": ["ephesus", "macedonia", "achaia", "macedonia", "philippi", "troas", "assos", "mitylene", "chios", "samos", "trogyllium", "miletus"],
+  "view": {
+    "center": [39.0, 27.0],
+    "zoom": 6
+  },
+  "verses": [
+    {"n": 1, "html": "After the uproar had ceased, Paul sent for the disciples, took leave of them, and departed to go into <span class=\"place\" data-key=\"macedonia\">Macedonia</span>."},
+    {"n": 2, "html": "When he had gone through those parts and had encouraged them with many words, he came into <span class=\"place\" data-key=\"achaia\">Greece</span>."},
+    {"n": 3, "html": "When he had spent three months there, and a plot was made against him by Jews as he was about to set sail for <span class=\"place\" data-key=\"syria\">Syria</span>, he determined to return through <span class=\"place\" data-key=\"macedonia\">Macedonia</span>."},
+    {"n": 4, "html": "These accompanied him as far as <span class=\"place\" data-key=\"asia-province\">Asia</span>: Sopater of Beroea, Aristarchus and Secundus of the Thessalonians, Gaius of Derbe, Timothy, and Tychicus and Trophimus of <span class=\"place\" data-key=\"asia-province\">Asia</span>.<sup class=\"footnote-marker\">1</sup>"},
+    {"n": 5, "html": "But these had gone ahead, and were waiting for us at <span class=\"place\" data-key=\"troas\">Troas</span>."},
+    {"n": 6, "html": "We sailed away from <span class=\"place\" data-key=\"philippi\">Philippi</span> after the days of Unleavened Bread, and came to them at <span class=\"place\" data-key=\"troas\">Troas</span> in five days, where we stayed seven days."},
+    {"n": 7, "html": "On the first day of the week, when the disciples were gathered together to break bread, Paul talked with them, intending to depart on the next day; and continued his speech until midnight."},
+    {"n": 8, "html": "There were many lights in the upper room where we were gathered together."},
+    {"n": 9, "html": "A certain young man named Eutychus sat in the window, weighed down with deep sleep. As Paul spoke still longer, being weighed down by his sleep, he fell down from the third floor and was taken up dead."},
+    {"n": 10, "html": "Paul went down and fell upon him, and embracing him said, &lsquo;Don&rsquo;t be troubled, for his life is in him.&rsquo;"},
+    {"n": 11, "html": "When he had gone up, had broken bread and eaten, and had talked with them a long while, even until break of day, he departed."},
+    {"n": 12, "html": "They brought the boy in alive, and were greatly comforted."},
+    {"n": 13, "html": "But we, going ahead to the ship, set sail for <span class=\"place\" data-key=\"assos\">Assos</span>, intending to take Paul aboard there; for he had so arranged, intending himself to go by land.<sup class=\"footnote-marker\">2</sup>"},
+    {"n": 14, "html": "When he met us at <span class=\"place\" data-key=\"assos\">Assos</span>, we took him aboard and came to <span class=\"place\" data-key=\"mitylene\">Mitylene</span>."},
+    {"n": 15, "html": "Sailing from there, we came the following day opposite <span class=\"place\" data-key=\"chios\">Chios</span>. The next day we touched at <span class=\"place\" data-key=\"samos\">Samos</span> and stayed at <span class=\"place\" data-key=\"trogyllium\">Trogyllium</span>, and the day after we came to <span class=\"place\" data-key=\"miletus\">Miletus</span>."},
+    {"n": 16, "html": "For Paul had determined to sail past <span class=\"place\" data-key=\"ephesus\">Ephesus</span>, that he might not have to spend time in <span class=\"place\" data-key=\"asia-province\">Asia</span>; for he was hastening, if it were possible for him, to be in <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span> on the day of Pentecost."},
+    {"n": 17, "html": "From <span class=\"place\" data-key=\"miletus\">Miletus</span> he sent to <span class=\"place\" data-key=\"ephesus\">Ephesus</span> and called to himself the elders of the assembly."},
+    {"n": 18, "html": "When they had come to him, he said to them, &lsquo;You yourselves know, from the first day that I set foot in <span class=\"place\" data-key=\"asia-province\">Asia</span>, how I was with you all the time,"},
+    {"n": 19, "html": "serving the Lord with all humility, with many tears, and with trials which happened to me by the plots of the Jews;"},
+    {"n": 20, "html": "how I didn&rsquo;t shrink from declaring to you anything that was profitable, teaching you publicly and from house to house,"},
+    {"n": 21, "html": "testifying both to Jews and to Greeks repentance toward God and faith toward our Lord Jesus."},
+    {"n": 22, "html": "Now, behold, I go bound by the Spirit to <span class=\"place\" data-key=\"jerusalem\">Jerusalem</span>, not knowing what will happen to me there;"},
+    {"n": 23, "html": "except that the Holy Spirit testifies in every city, saying that bonds and afflictions wait for me."},
+    {"n": 24, "html": "But these things don&rsquo;t count; nor do I hold my life dear to myself, so that I may finish my race with joy, and the ministry which I received from the Lord Jesus, to fully testify to the Good News of the grace of God."},
+    {"n": 25, "html": "Now, behold, I know that you all, among whom I went about preaching God&rsquo;s Kingdom, will see my face no more."},
+    {"n": 26, "html": "Therefore I testify to you today that I am clean from the blood of all men,"},
+    {"n": 27, "html": "for I didn&rsquo;t shrink from declaring to you the whole counsel of God."},
+    {"n": 28, "html": "Take heed, therefore, to yourselves and to all the flock, in which the Holy Spirit has made you overseers, to shepherd the assembly of the Lord and God which he purchased with his own blood."},
+    {"n": 29, "html": "For I know that after my departure, vicious wolves will enter in among you, not sparing the flock."},
+    {"n": 30, "html": "Men will arise from among your own selves, speaking perverse things, to draw away the disciples after them."},
+    {"n": 31, "html": "Therefore watch, remembering that for a period of three years I didn&rsquo;t cease to admonish everyone night and day with tears."},
+    {"n": 32, "html": "Now, brothers, I entrust you to God and to the word of his grace, which is able to build you up and give you the inheritance among all those who are sanctified."},
+    {"n": 33, "html": "I coveted no one&rsquo;s silver, gold, or clothing."},
+    {"n": 34, "html": "You yourselves know that these hands served my necessities, and those who were with me."},
+    {"n": 35, "html": "In all things I gave you an example, that so laboring you ought to help the weak, and to remember the words of the Lord Jesus, that he himself said, &lsquo;It is more blessed to give than to receive.&rsquo;&rsquo;"},
+    {"n": 36, "html": "When he had spoken these things, he knelt down and prayed with them all."},
+    {"n": 37, "html": "They all wept freely, and fell on Paul&rsquo;s neck and kissed him,"},
+    {"n": 38, "html": "sorrowing most of all because of the word which he had spoken, that they should see his face no more. Then they accompanied him to the ship."}
+  ],
+  "footnotes": [
+    {"n": 1, "html": "<strong>The companions list</strong> (v.&nbsp;4) &mdash; Sopater of Beroea, Aristarchus and Secundus of Thessalonica, Gaius of Derbe, Timothy (of Lystra, by ch.&nbsp;16), and Tychicus and Trophimus of Asia. The list maps the breadth of Paul&rsquo;s gathered delegation: Macedonia, Galatia/Lycaonia, and Asia. They are likely escorting the collection for the Jerusalem assembly that he mentions in 1 Cor 16, 2 Cor 8-9, and Rom 15."},
+    {"n": 2, "html": "<strong>The Assos overland leg</strong> (v.&nbsp;13) &mdash; Paul walks the c. 32 km from Troas to Assos by the Roman road across the cape, while the ship sails around it (a longer voyage given the winds). The detail is the kind of small geographic precision that the &lsquo;we&rsquo; passages of Acts often preserve. The chapter map traces the polyline as a single route through both segments."}
+  ]
+}

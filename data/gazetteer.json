@@ -1156,6 +1156,34 @@
           21,
           22
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 19,
+        "verses": [
+          21
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 20,
+        "verses": [
+          16,
+          22
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          4,
+          11,
+          12,
+          13,
+          15,
+          17,
+          31
+        ]
       }
     ]
   },
@@ -8536,6 +8564,14 @@
         "verses": [
           20
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          3,
+          7
+        ]
       }
     ]
   },
@@ -9847,6 +9883,13 @@
         "verses": [
           17
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          38
+        ]
       }
     ]
   },
@@ -10133,6 +10176,13 @@
         "chapter": 15,
         "verses": [
           1
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          10
         ]
       }
     ]
@@ -10517,6 +10567,33 @@
         "verses": [
           6
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 19,
+        "verses": [
+          10,
+          22,
+          26,
+          27,
+          31
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 20,
+        "verses": [
+          4,
+          16,
+          18
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          27
+        ]
       }
     ]
   },
@@ -10690,6 +10767,13 @@
         "verses": [
           2
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 19,
+        "verses": [
+          21
+        ]
       }
     ]
   },
@@ -10777,6 +10861,13 @@
         "chapter": 15,
         "verses": [
           39
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          3
         ]
       }
     ]
@@ -10901,6 +10992,13 @@
         "verses": [
           23,
           41
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          39
         ]
       }
     ]
@@ -11110,6 +11208,14 @@
         "verses": [
           22
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          8,
+          16
+        ]
       }
     ]
   },
@@ -11194,6 +11300,13 @@
         "verses": [
           25
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          39
+        ]
       }
     ]
   },
@@ -11271,6 +11384,13 @@
         "chapter": 15,
         "verses": [
           3
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          2
         ]
       }
     ]
@@ -11599,6 +11719,20 @@
         "verses": [
           18
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 20,
+        "verses": [
+          3
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          3
+        ]
       }
     ]
   },
@@ -11695,6 +11829,14 @@
           8,
           11
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 20,
+        "verses": [
+          5,
+          6
+        ]
       }
     ]
   },
@@ -11726,6 +11868,22 @@
         "chapter": 18,
         "verses": [
           5
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 19,
+        "verses": [
+          21,
+          22
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 20,
+        "verses": [
+          1,
+          3
         ]
       }
     ]
@@ -11794,6 +11952,13 @@
         "chapter": 16,
         "verses": [
           12
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 20,
+        "verses": [
+          6
         ]
       }
     ]
@@ -12054,6 +12219,30 @@
           21,
           24
         ]
+      },
+      {
+        "book": "acts",
+        "chapter": 19,
+        "verses": [
+          1,
+          17,
+          26
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 20,
+        "verses": [
+          16,
+          17
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          29
+        ]
       }
     ]
   },
@@ -12076,6 +12265,239 @@
         "verses": [
           12,
           27
+        ]
+      },
+      {
+        "book": "acts",
+        "chapter": 19,
+        "verses": [
+          21
+        ]
+      }
+    ]
+  },
+  "assos": {
+    "name": "Assos",
+    "name_alt": [
+      "Behramkale"
+    ],
+    "coords": [
+      39.49,
+      26.337
+    ],
+    "tier": "identified",
+    "id": "On the southern coast of the Troad opposite Lesbos, modern Behramkale. Built on a steep volcanic cone above a small harbor; the road from Troas crosses overland in a single day, while the sea route around the cape takes longer (the verse 20:13 detail is precise to the geography). Aristotle taught here briefly in the fourth century B.C.",
+    "abd": "1:500",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 20,
+        "verses": [
+          13,
+          14
+        ]
+      }
+    ]
+  },
+  "mitylene": {
+    "name": "Mitylene",
+    "name_alt": [
+      "Mytilene",
+      "Lesbos"
+    ],
+    "coords": [
+      39.106,
+      26.555
+    ],
+    "tier": "identified",
+    "id": "The principal city on the eastern coast of the island of Lesbos. A natural overnight stop for coastal shipping between Assos and the Aegean island chain south.",
+    "abd": "4:881",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 20,
+        "verses": [
+          14
+        ]
+      }
+    ]
+  },
+  "chios": {
+    "name": "Chios",
+    "name_alt": [
+      "Khios"
+    ],
+    "coords": [
+      38.366,
+      26.135
+    ],
+    "tier": "identified",
+    "id": "A long island off the western Anatolian coast opposite Smyrna. The verse 20:15 wording 'we came opposite Chios' implies Paul&rsquo;s ship sailed past it without putting in.",
+    "abd": "1:910",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 20,
+        "verses": [
+          15
+        ]
+      }
+    ]
+  },
+  "samos": {
+    "name": "Samos",
+    "name_alt": [],
+    "coords": [
+      37.755,
+      26.703
+    ],
+    "tier": "identified",
+    "id": "The mountainous island off the western Anatolian coast opposite the Mycale peninsula, separated from the mainland by a narrow strait. The Heraion of Samos was one of the great Ionian sanctuaries; Pythagoras, Aristarchus, and Epicurus were all Samian.",
+    "abd": "5:949",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 20,
+        "verses": [
+          15
+        ]
+      }
+    ]
+  },
+  "trogyllium": {
+    "name": "Trogyllium",
+    "name_alt": [
+      "Cape Trogyllium",
+      "Dilek Peninsula"
+    ],
+    "coords": [
+      37.665,
+      27.03
+    ],
+    "tier": "probable",
+    "id": "A promontory on the Anatolian mainland just east of Samos, the modern Dilek peninsula. The verse 20:15 detail is preserved in some early manuscripts (Western text) and absent from others; the Trogyllium stop sits naturally between Samos and Miletus on the standard coastal sailing line.",
+    "abd": "6:666",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 20,
+        "verses": [
+          15
+        ]
+      }
+    ]
+  },
+  "miletus": {
+    "name": "Miletus",
+    "name_alt": [
+      "Balat"
+    ],
+    "coords": [
+      37.53,
+      27.278
+    ],
+    "tier": "identified",
+    "id": "At the mouth of the Maeander river on the western Anatolian coast (now silted up well inland; the ruins lie at modern Balat). One of the great Ionian cities of the archaic period; in the apostolic era a quieter port, large enough to host the elders of Ephesus c. 50 km north for the farewell speech of vv.&nbsp;20:17-38.",
+    "abd": "4:825",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 20,
+        "verses": [
+          15,
+          17
+        ]
+      }
+    ]
+  },
+  "cos": {
+    "name": "Cos",
+    "name_alt": [
+      "Kos",
+      "Kō"
+    ],
+    "coords": [
+      36.893,
+      27.288
+    ],
+    "tier": "identified",
+    "id": "A long island off the southwestern Anatolian coast, in the Dodecanese. The home of Hippocrates; the Asklepieion (medical sanctuary) was a major Hellenistic-Roman healing centre.",
+    "abd": "1:1206",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          1
+        ]
+      }
+    ]
+  },
+  "rhodes": {
+    "name": "Rhodes",
+    "name_alt": [
+      "Rodos"
+    ],
+    "coords": [
+      36.434,
+      28.224
+    ],
+    "tier": "identified",
+    "id": "The largest of the Dodecanese, off the southwestern Anatolian coast. The site of the Colossus, one of the seven wonders of the ancient world (toppled by an earthquake in 226 B.C.). A Roman free city in the apostolic period.",
+    "abd": "5:721",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          1
+        ]
+      }
+    ]
+  },
+  "patara": {
+    "name": "Patara",
+    "name_alt": [
+      "Gelemiş"
+    ],
+    "coords": [
+      36.265,
+      29.314
+    ],
+    "tier": "identified",
+    "id": "On the Lycian coast at the mouth of the Xanthos river. A major harbor and commercial port, well placed for trans-Mediterranean shipping bound for Phoenicia. Ruins at modern Gelemiş include theatre, lighthouse, and the bouleuterion of the Lycian League.",
+    "abd": "5:178",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          1
+        ]
+      }
+    ]
+  },
+  "ptolemais": {
+    "name": "Ptolemais",
+    "name_alt": [
+      "Acco",
+      "Akko",
+      "Acre",
+      "Saint-Jean-d'Acre"
+    ],
+    "coords": [
+      32.918,
+      35.083
+    ],
+    "tier": "identified",
+    "id": "On the northern Israeli coast at the southern end of the Bay of Haifa. The Iron Age Acco; renamed Ptolemais by Ptolemy II in the third century B.C.; later the Crusader-era Saint-Jean-d&rsquo;Acre. A natural port-of-call between Tyre and Caesarea.",
+    "abd": "5:472",
+    "appearances": [
+      {
+        "book": "acts",
+        "chapter": 21,
+        "verses": [
+          7
         ]
       }
     ]

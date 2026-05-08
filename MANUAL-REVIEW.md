@@ -185,6 +185,13 @@ The boundary description (vv.&nbsp;1-12) and Caleb appendix (vv.&nbsp;13-19) ent
 - [ ] **Dan** — coastal plain; Leshem/Tel Dan northern enclave deliberately excluded (named only after the conquest in v. 47).
 All six marked `approximate: true`.
 
+## Acts 19-21 — gazetteer entries (10 added)
+
+- [ ] **Assos** (Behramkale), **Mitylene** (Lesbos), **Chios**, **Samos**, **Miletus**, **Cos**, **Rhodes**, **Patara**, **Ptolemais** — all secure identifications.
+- [ ] **Trogyllium** at the Dilek peninsula east of Samos — textual variant; the Western text preserves the stop, others omit it. Confirm the editorial choice.
+- [ ] **Acts 21:38 Egyptian-and-four-thousand-Assassins** Josephus parallel — confirm dating reference.
+- [ ] **Routes** added to chs.20 and 21 (the third-journey return through the Aegean island chain to Miletus, then the open-sea crossing southeast to Tyre/Ptolemais/Caesarea). Verify polyline rendering on ch.20's wide view.
+
 ## Acts 15-18 — gazetteer entries (21 added incl. Areopagus)
 
 - [ ] **Syria, Galatia, Mysia, Bithynia, Macedonia, Achaia, Italy** as region pins — confirm centroids.
@@ -389,6 +396,9 @@ I (Claude) keyed verses from memory, with smart quotes manually inserted. The WE
 - [ ] Acts 16
 - [ ] Acts 17
 - [ ] Acts 18
+- [ ] Acts 19
+- [ ] Acts 20
+- [ ] Acts 21
 
 ## Site-level
 
